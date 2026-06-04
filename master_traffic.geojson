@@ -1,0 +1,315 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4694853375,
+                    39.7913351701
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-04T23:31:51.020791"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4860895524,
+                    39.8010890505
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-04T23:31:51.020831"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4865321169,
+                    39.8015678313
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-04T23:31:51.020841"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5238577375,
+                    39.7747658533
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-04T23:31:51.020848"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5320813904,
+                    39.7805272443
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-04T23:31:51.020853"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5514844904,
+                    39.7779321722
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-04T23:31:51.020858"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6129486511,
+                    39.7680616818
+                ]
+            },
+            "properties": {
+                "category_code": 9,
+                "updated_at": "2026-06-04T23:31:51.020863"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6173421095,
+                    39.7689226746
+                ]
+            },
+            "properties": {
+                "category_code": 9,
+                "updated_at": "2026-06-04T23:31:51.020868"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6442808757,
+                    39.7528146445
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-04T23:31:51.020873"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6447945187,
+                    39.7541544231
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-04T23:31:51.020879"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.1635646,
+                    37.0398926
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çeşmeli-Mersin-Tarsus Otoyolunun 0-3.km.leri arasında 04.06.2026 tarihinden itibaren  Tarsus Batı Kavşağı-D400 Kavşağı arasında yapılacak yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Tarsus Otoyolu",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:39.899815"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6355183,
+                    41.0867773
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "O-3 TEM Otoyolunun Hadımköy  Kavşağı-Çatalca Kavşağı 3-4.km.leri arasında bulunan  Karasu Viyadüğünde yaklaşım betonu ve derz onarım çalışmaları nedeniyle 03.06.2026 tarihinden itibaren Edirne istikametinde şerit daraltması yapılarak trafik akışı kontrollü şekilde sağlanmaktadır. (Çalışmalar 24 saat esasına göre yapılacaktır.)",
+                "extracted_keyword": "TEM Otoyolunun Hadımköy  Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:40.403797"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8213542,
+                    39.6283001
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ankara Çevre Otoyolunun Eskişehir Kavşağı-Dodurga Kavşağı 2-3.km.leri arasında 02.06.2026-03.07.2026 tarihlerinde  Eskişehir istikameti (İç Çember) altgeçit yenileme çalışması nedeniyle trafiğe kapatılacak olup, ulaşım  diğer istikametten çift yönlü ve kontrollü olarak sağlanacaktır. (2 şerit Eskişehir, 2 Şerit Dodurga istikameti)",
+                "extracted_keyword": "Ankara Çevre Otoyolunun Eskişehir Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:40.728065"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1562225,
+                    39.6833047
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ankara-Bala-Karakeçili yolunun 30-35.km.leri arasında 04.06.2026-07.07.2026 tarihlerinde üstyapı (BSK) yenileme çalışmaları nedeniyle, Karakeçili-Bala-Ankara istikameti trafiğe kapatılarak, ulaşım Ankara-Bala-Karakeçili istikametinden iki yönlü (gidiş-geliş) olarak sağlanacaktır.",
+                "extracted_keyword": "Ankara Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:41.242230"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8146952,
+                    39.717624
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Konya-Ankara yolunun 32-34.km.leri arasında 02.06.2026 tarihinden itibaren kavşak çalışması nedeniyle trafik üç şeritten iki şeride düşürülmüştür. Bu yolu kullanacak sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Konya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:41.627910"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6069285,
+                    41.0250615
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Büyükçekmece-Çatalca yolunun 18-20.km.leri arasında 01.06.2026 tarihinden itibaren  yol çalışmaları nedeniyle trafiğe kapatılacak olup, ulaşım tek yönden gidiş-geliş olarak sağlanmaktadır.",
+                "extracted_keyword": "Büyükçekmece Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:42.139421"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.2232354,
+                    37.0631966
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Toprakkale-İskenderun yolunun 34-38.km.leri arasında 21.05.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle ulaşım  kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Toprakkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:42.654448"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5063735,
+                    40.7237707
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Düzce-Zonguldak İl Sn.-Alaplı-Ereğli-Zonguldak yolunun 13-14.km.leri arasında 15.05.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle bölünmüş yolun bir tarafı trafiğe kapatılmıştır. Ulaşım diğer tarafından iki yönlü olarak sağlanmaktadır. Sürücülerin dikkatli seyretmeleri, trafik işaretlerine ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Düzce Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:43.269886"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0297039,
+                    41.1632721
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Suşehri-Geminbeli-Zara yolunun 29-31.km.leri arasında 18.05.2026 tarihinden itibaren Geminbeli Tüneli bağlantı yolları, sanat yapıları ve üst yapı çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
+                "extracted_keyword": "Geminbeli Tüneli",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:43.678081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.842893,
+                    38.943389
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Giresun-Gümüşhane İl Sınırı-Kürtün-Torul yolunun 45.km.sinde bulunan Budak Tünelinde yapılacak olan drenaj sistemleri bakım, onarım ve temizlik çalışması nedeniyle 03.06.2026 günü saat 08:00’ den itibaren çalışmanın devamı müddetince tünelin bölünmüş yolun Torul-Kürtün yönündeki tüpünde ulaşım tek şeritten kontrollü olarak,   diğer yöndeki tüp ise ulaşıma kapatılacak olup ulaşım servis yolundan kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Budak Tüneli",
+                "category": "road_work",
+                "updated_at": "2026-06-04T23:37:44.004835"
+            }
+        }
+    ]
+}
