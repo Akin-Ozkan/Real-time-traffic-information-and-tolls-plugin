@@ -1,0 +1,39 @@
+name: Live Map Data Automation
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.13'
+
+    - name: Install Dependencies
+      run: pip install requests beautifulsoup4
+
+    - name: Run Scrapers and Merge
+      env:
+        TOMTOM_API_KEY: ${{ secrets.TOMTOM_API_KEY }}
+      run: |
+        python traffic_scraper.py
+        python kgm_scraper.py
+        python kgm_geocoder.py
+        python merge_geojson.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action Bot"
+        git add *.geojson *.json
+        git diff-index --quiet HEAD || git commit -m "Auto-update: Canlı harita verisi eklendi"
+        git push
