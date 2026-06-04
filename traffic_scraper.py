@@ -1,6 +1,7 @@
 import requests
 import json
 from datetime import datetime
+import os
 
 def fetch_tomtom_traffic(api_key):
     # Bounding box for Eskisehir (minLon, minLat, maxLon, maxLat)
