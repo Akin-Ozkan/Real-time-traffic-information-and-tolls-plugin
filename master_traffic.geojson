@@ -6,41 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4445528636,
-                    39.8171165751
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-06-07T06:38:57.510843"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     30.4694853375,
                     39.7913351701
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-07T06:38:57.510860"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.4865321169,
-                    39.8015678313
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-06-07T06:38:57.510864"
+                "updated_at": "2026-06-07T09:51:28.970488"
             }
         },
         {
@@ -54,7 +26,35 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-07T06:38:57.510866"
+                "updated_at": "2026-06-07T09:51:28.970503"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4865321169,
+                    39.8015678313
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-07T09:51:28.970506"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5114793429,
+                    39.7969315989
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-07T09:51:28.970508"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-07T06:38:57.510869"
+                "updated_at": "2026-06-07T09:51:28.970510"
             }
         },
         {
@@ -82,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-07T06:38:57.510872"
+                "updated_at": "2026-06-07T09:51:28.970512"
             }
         },
         {
@@ -90,13 +90,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5472291658,
-                    39.7410076006
+                    30.5535350392,
+                    39.7391836496
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-06-07T06:38:57.510874"
+                "updated_at": "2026-06-07T09:51:28.970518"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5521389494,
+                    39.7744533492
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-07T09:51:28.970519"
             }
         },
         {
@@ -110,7 +124,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-07T06:38:57.510876"
+                "updated_at": "2026-06-07T09:51:28.970521"
             }
         },
         {
@@ -124,7 +138,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-07T06:38:57.510883"
+                "updated_at": "2026-06-07T09:51:28.970523"
             }
         },
         {
@@ -138,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-07T06:38:57.510885"
+                "updated_at": "2026-06-07T09:51:28.970525"
             }
         },
         {
@@ -152,7 +166,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-07T06:38:57.510887"
+                "updated_at": "2026-06-07T09:51:28.970526"
             }
         },
         {
@@ -169,7 +183,7 @@
                 "description": "Anadolu Otoyolu Kurtköy Kavşağı ile D-100 Pendik Bağlantı Yolu Üzerinde Bulunan Sabiha Gökçen Tünellerinde izolasyon çalışması yapılacaktır. Yapılacak çalışmalar süresince Doğu ve Batı yol platformlarında her iki tüpte de sağ şerit kapatılarak trafik akışı kontrollü şekilde sağlanacaktır. Çalışmalar 03.06.2026-13.06.2026 tarihleri arasında yapılacak olup, 24 saat esasına göre çalışılacaktır.",
                 "extracted_keyword": "Anadolu Otoyolu Kurtköy Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-07T06:39:13.368702"
+                "updated_at": "2026-06-07T09:51:30.891225"
             }
         },
         {
@@ -186,7 +200,7 @@
                 "description": "Polatlı-Ankara yolunun 44-46.km.leri arasında 30.04.2026 tarihinden itibaren  Turkuaz köprülü kavşak yapım çalışmaları nedeniyle, çalışma süresince Turkuaz Mahallesi, Yapracık Mahallesi ve Atayurt Mahallesinin Ankara istikametine katılımını sağlayan bağlantı kolu trafiğe kapatılarak ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-07T06:39:13.573270"
+                "updated_at": "2026-06-07T09:51:31.043372"
             }
         },
         {
@@ -203,7 +217,7 @@
                 "description": "Antalya-Isparta yolunun 0-3.km.leri arasında 24.04.2026 tarihinden itibaren  yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-07T06:39:13.744345"
+                "updated_at": "2026-06-07T09:51:31.205475"
             }
         },
         {
@@ -220,7 +234,7 @@
                 "description": "Afyonkarahisar-Uşak yolunun  44.45.km.leri arasında Afyonkarahisar Otogar Kavşağında devam eden yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Afyonkarahisar Otogar Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-07T06:39:13.955534"
+                "updated_at": "2026-06-07T09:51:31.370686"
             }
         },
         {
@@ -237,7 +251,7 @@
                 "description": "Darende - Malatya yolunun 5-28.km.leri arasında yolda meydana gelen çatlaklardan dolayı, çatlak onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Darende Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-07T06:39:14.150846"
+                "updated_at": "2026-06-07T09:51:31.519391"
             }
         },
         {
@@ -254,7 +268,7 @@
                 "description": "Çanakkale-Çan  yolunun 25-29.km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çanakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-07T06:39:14.358778"
+                "updated_at": "2026-06-07T09:51:31.649092"
             }
         },
         {
@@ -271,58 +285,7 @@
                 "description": "Aydın-Milas yolunun 19-20.km.leri arasında (Novada kavşağı) ,OSB kavşağı ,otogar kavşağı farklı seviyeli kavşak yapımı nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aydın Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-07T06:39:14.569354"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.4746217,
-                    40.6989226
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Trabzon-Maçka-Gümüşhane yolunun 43.km.sinde bulunan Yeni Zigana Tünelinin Trabzon-Gümüşhane yönündeki tüpünde drenaj sistemleri bakım çalışması nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Yeni Zigana Tüneli",
-                "category": "road_work",
-                "updated_at": "2026-06-07T06:39:14.734515"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.7856634,
-                    41.3810566
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Tosya-Osmancık yolunun 41-46.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Tosya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-06-07T06:39:14.922264"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.7331122,
-                    37.6402039
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Göksun-Elbistan yolunun 22-48.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Göksun Yolu",
-                "category": "road_work",
-                "updated_at": "2026-06-07T06:39:15.131865"
+                "updated_at": "2026-06-07T09:51:31.771547"
             }
         }
     ]
