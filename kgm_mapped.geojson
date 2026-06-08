@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolu İzmit Doğu Kavşağı-Sapanca Kavşağı 0-3.km.leri arasındaki  kesiminde 09.06.2026-10.06.2026 tarihlerinde üstyapı onarım çalışmaları Kocaeli Büyükşehir Belediyesi tarafından yapılacaktır. Çalışmalar süresince İstanbul istikameti şerit daraltması yapılarak trafik akışı kontrollü şekilde sağlanacaktır.",
                 "extracted_keyword": "TEM Otoyolu İzmit Doğu Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-08T21:40:16.224612"
+                "updated_at": "2026-06-08T23:04:06.519252"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TEM Otoyolunun 0-11.km.leri arasında  Hendek Kavşağı-Gümüşova kesiminde 08.06.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak gidiş geliş şeklinde sağlanacaktır.  (Çalışmalar 24 saat esasına göre yürütülecektir.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-08T21:40:16.325512"
+                "updated_at": "2026-06-08T23:04:06.608825"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "İzmir-Aydın Otoyolunun 1-5.km.leri arasında Hastane Köprüsü üstyapı derz bakım onarım yenileme çalışması nedeniyle İzmir istikameti 08-06-2026-07-07-2026 tarihleri arasında trafiğe  kapatılmış olup ulaşım Aydın istikametine bant aktarımı yapılarak geliş gidiş şeklinde sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-08T21:40:16.470986"
+                "updated_at": "2026-06-08T23:04:06.721194"
             }
         },
         {
@@ -66,7 +66,58 @@
                 "description": "Ankara-Konya yolunun  28-31.km.leri  (Çimşit Kavşağı) arasında 05.06.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle çalışma yapılan bu kesimde Konya-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-Konya istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Çimşit Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-08T21:40:16.720463"
+                "updated_at": "2026-06-08T23:04:06.939875"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.101272,
+                    39.8202717
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Balıkesir-Dursunbey yolunun  49-51.km.leri arasında 09.06.2026 tarihinde 09:00-16:00 saatlerinde patlatmalı yol çalışması nedeniyle trafik kısa süreli kapatılacaktır.",
+                "extracted_keyword": "Balıkesir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-08T23:04:07.193245"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8868234,
+                    40.1471858
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çorum-Mecitözü yolunun 8-10 km.leri arasında 22.05.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çorum Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-08T23:04:07.308592"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.390837,
+                    40.889118
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bulancak-Giresun-Tirebolu yolunun 32-72.km.leri bulunan Keşap, Geçilmez, Uluburun, Arıdurak, Kiliseburnu, Tirebolu 42. Gönüllü Alayı 1 ve Tirebolu 42. Gönüllü Alayı 2 Tünellerinde yapılacak olan elektrik, elektronik sistemleri bakım, onarım çalışması nedeniyle 09.06.2026-19.06.2026 tarihleri arası, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Bulancak Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-08T23:04:07.407360"
             }
         }
     ]
