@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolu Hendek Kavşağı-Gümüşova arasında arasında üstyapı yenileme çalışmaları yapılacaktır. Çalışmalar esnasında, TEM Otoyolu kesimler halinde trafiğe kapatılarak, diğer platformdan iki yönlü olarak gidiş geliş şeklinde verilecektir. Çalışmalar 08.06.2026 Pazartesi günü saat 07:00’de başlayacak olup, 24 saat esasına göre yürütülecektir.",
                 "extracted_keyword": "TEM Otoyolu Hendek Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-08T09:57:31.041483"
+                "updated_at": "2026-06-08T14:18:09.139857"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın-Denizli Otoyolu Denizli istikameti 11-16 km.leri arasında üstyapı yenileme çalışması yapılacaktır. 05.06.2026-14.06.2026 tarihleri arasında saat 20.05 ten itibaren , trafik akışı Aydın tarafından sağlanmakta olup, Denizli yönü iki gidiş Aydın yönünde bir geliş olacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-08T09:57:31.134943"
+                "updated_at": "2026-06-08T14:18:09.275661"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Konya-Afyonkarahisar yolunun 50.-54. km.leri arasında yol üstyapı çalışmaları nedeniyle bölünmüş yolun Afyonkarahisar yönü trafiğe kapatılmıştır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Konya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-08T09:57:31.249012"
+                "updated_at": "2026-06-08T14:18:09.412202"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Ankara-Kırıkkale yolunun Kırıkkale-Ankara istikametinde 4 -5. km.ler arası trafiğe kapatılarak ulaşım Ankara-Kırıkkale istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-08T09:57:31.357266"
+                "updated_at": "2026-06-08T14:18:09.557397"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Nurdağı-Gaziantep yolunun 33-37.km.leri arasında 21.05.2026 tarihinden itibaren üstyapı çalışmaları nedeniyle trafik diğer şeritten kontrollü olarak verilmektedir.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-08T09:57:31.455676"
+                "updated_at": "2026-06-08T14:18:09.688358"
             }
         },
         {
@@ -91,16 +91,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.7530219,
-                    38.4779171
+                    40.0146531,
+                    40.9568609
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Nevşehir-Kayseri yolunun 57-58.km.leri arasında 09.04.2026 tarihinden itibaren yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Nevşehir Yolu",
+                "description": "Trabzon Rize yolunun 1. km. sinde yapılmakta olan yaya üst geçidi montaj çalışması nedeniyle bölünmüş yolun her iki yönünde ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Trabzon Rize yolunun",
                 "category": "road_work",
-                "updated_at": "2026-06-08T09:57:31.581944"
+                "updated_at": "2026-06-08T14:18:10.192996"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.5962972,
+                    39.5941733
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ağrı-Taşlıçay yolunun 42-48.km.leri arasında 27.04.2026-30.06.2026 tarihlerinde yol çalışması nedeniyle Ağrı-Doğubayazıt istikametinde sol platformdan trafik gidiş dönüş şeklinde devam etmektedir.",
+                "extracted_keyword": "Ağrı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-08T14:18:10.343616"
             }
         }
     ]
