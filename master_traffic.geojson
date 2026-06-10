@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-10T21:15:42.118793"
+                "updated_at": "2026-06-10T23:00:16.945529"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-10T21:15:42.118808"
+                "updated_at": "2026-06-10T23:00:16.945546"
             }
         },
         {
@@ -40,7 +40,35 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-10T21:15:42.118812"
+                "updated_at": "2026-06-10T23:00:16.945550"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4882889638,
+                    39.7816939835
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-10T23:00:16.945552"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.516626502,
+                    39.7794261897
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-10T23:00:16.945554"
             }
         },
         {
@@ -54,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-10T21:15:42.118814"
+                "updated_at": "2026-06-10T23:00:16.945556"
             }
         },
         {
@@ -68,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-10T21:15:42.118817"
+                "updated_at": "2026-06-10T23:00:16.945558"
             }
         },
         {
@@ -82,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-10T21:15:42.118819"
+                "updated_at": "2026-06-10T23:00:16.945564"
             }
         },
         {
@@ -96,7 +124,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-10T21:15:42.118821"
+                "updated_at": "2026-06-10T23:00:16.945566"
             }
         },
         {
@@ -110,7 +138,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-10T21:15:42.118823"
+                "updated_at": "2026-06-10T23:00:16.945568"
             }
         },
         {
@@ -124,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-10T21:15:42.118825"
+                "updated_at": "2026-06-10T23:00:16.945569"
             }
         },
         {
@@ -138,7 +166,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-10T21:15:42.118832"
+                "updated_at": "2026-06-10T23:00:16.945571"
             }
         },
         {
@@ -146,16 +174,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.8146952,
-                    39.717624
+                    28.7087851,
+                    41.058756
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Konya-Afyonkarahisar yolunun 50-54.km.leri arasında üstyapı yenileme çalışmaları nedeniyle Afyonkarahisar istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Konya Yolu",
+                "description": "TEM Otoyolunun 0-11.km.leri arasında  Hendek Kavşağı-Gümüşova kesiminde 08.06.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak gidiş geliş şeklinde sağlanmaktadır.  (Çalışmalar 24 saat esasına göre yürütülecektir.)",
+                "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-10T21:15:57.859601"
+                "updated_at": "2026-06-10T23:00:18.930060"
             }
         },
         {
@@ -163,16 +191,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.3196065,
-                    40.6920191
+                    27.3067706,
+                    38.1922612
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 21-24.km.leri arasında yol yapım çalışmaları nedeniyle Kızılcahamam-Kahramankazan-Ankara istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kızılcahamam Yolu",
+                "description": "İzmir-Aydın Otoyolunun 1-5.km.leri arasında Hastane Köprüsü üstyapı derz bakım onarım yenileme çalışması nedeniyle İzmir istikameti 08-06-2026-07-07-2026 tarihleri arasında trafiğe  kapatılmış olup, ulaşım Aydın istikametine bant aktarımı yapılarak geliş gidiş şeklinde sağlanmaktadır.",
+                "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-10T21:15:58.009684"
+                "updated_at": "2026-06-10T23:00:19.116465"
             }
         },
         {
@@ -180,16 +208,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.8395476,
-                    37.8192365
+                    30.8213542,
+                    39.6283001
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Muğla-Denizli yolunun 22-27.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Muğla Yolu",
+                "description": "Ankara Çevre Otoyolunun Eskişehir Kavşağı-Dodurga Kavşağı 2-3.km.leri arasında 02.06.2026-03.07.2026 tarihlerinde  Eskişehir istikameti (İç Çember) altgeçit yenileme çalışması nedeniyle trafiğe kapatılacak olup, ulaşım  diğer istikametten çift yönlü ve kontrollü olarak sağlanmaktadır. (2 şerit Eskişehir, 2 Şerit Dodurga istikameti)",
+                "extracted_keyword": "Ankara Çevre Otoyolunun Eskişehir Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-10T21:15:58.188136"
+                "updated_at": "2026-06-10T23:00:19.328345"
             }
         },
         {
@@ -197,16 +225,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.7680422,
-                    37.1998598
+                    37.1056835,
+                    41.0865727
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Nurdağı-Gaziantep yolunun 33-37.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Nurdağı Yolu",
+                "description": "Ünye-Fatsa yolunun 29-31 km.leri arasında devam eden kavşak düzenleme çalışmaları nedeniyle Fatsa istikametinde sol şerit trafiğe kapatılmış olup, ulaşım sağ şeritten sağlanmaktadır.",
+                "extracted_keyword": "Ünye Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-10T21:15:58.321804"
+                "updated_at": "2026-06-10T23:00:19.722006"
             }
         },
         {
@@ -214,16 +242,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.684895,
-                    41.244401
+                    38.390837,
+                    40.889118
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Keşan-Gelibolu yolunun 70-71.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Keşan Yolu",
+                "description": "Bulancak-Giresun-Tirebolu yolunun 32-72.km.leri bulunan Keşap, Geçilmez, Uluburun, Arıdurak, Kiliseburnu, Tirebolu 42. Gönüllü Alayı 1 ve Tirebolu 42. Gönüllü Alayı 2 Tünellerinde yapılacak olan elektrik, elektronik sistemleri bakım, onarım çalışması nedeniyle 09.06.2026-19.06.2026 tarihleri arası, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Bulancak Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-10T21:15:58.467275"
+                "updated_at": "2026-06-10T23:00:19.885002"
             }
         },
         {
@@ -231,16 +259,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.7065814,
-                    37.9795618
+                    26.6442108,
+                    39.5556753
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kayseri-Niğde yolunun 5-10.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kayseri Yolu",
+                "description": "Çanakkale - Çan yolunun  25-29.km.leri arasında 11.06.2026 tarihinde 11:00-16:00 saatlerinde patlatmalı yol çalışması nedeniyle trafik kısa süreli kapatılacaktır.",
+                "extracted_keyword": "Çanakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-10T21:15:58.625840"
+                "updated_at": "2026-06-10T23:00:20.059187"
             }
         },
         {
@@ -248,16 +276,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.21476,
-                    40.00173
+                    31.5167049,
+                    41.2907465
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Taşköprü-Hanönü-Boyabat yolunun 0-2.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Taşköprü Yolu",
+                "description": "Zonguldak - Bartın İl Sn.-Bartın-Kurucaşile yolunun 27-29.km.leri arasındaki Bartın-3 Köprüsü yapım çalışmaları nedeniyle bölünmüş yolun bir tarafı trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Zonguldak Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-10T21:15:58.767205"
+                "updated_at": "2026-06-10T23:00:20.240373"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.026492,
+                    39.604134
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Dereli -Şebinkarahisar-Sivas İl.Sn. devlet yolu 70-13.km.leri arasında toprak işleri , sanat yapıları ve üst yapı çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Dereli Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-10T23:00:20.431844"
             }
         },
         {
@@ -271,27 +316,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Bingöl-Karlıova yolunun 1-3.km.leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "description": "Bingöl-Karlıova yolunun 1-3.km.leri arasında yol yapım çalışması nedeniyle ulaşım  kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bingöl Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-10T21:15:59.068194"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.1188578,
-                    41.0517607
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Tirebolu-Eynesil yolunun 29.km.sinde bulunan Eynesil Tünelinde elektrik, elektronik sistemleri bakım, onarım çalışması nedeniyle 09.06.2026-19.06.2026 tarihleri arası, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Eynesil Tüneli",
-                "category": "road_work",
-                "updated_at": "2026-06-10T21:15:59.204379"
+                "updated_at": "2026-06-10T23:00:20.630397"
             }
         }
     ]
