@@ -15,7 +15,7 @@
                 "description": "İzmir- Menemen Çevre Otoyolunda genleşme Derz ve Onarım çalışması nedeniyle Aydın  istikameti Kanal1 Köprüsü 0-1 km.leri arasında  11.06.2026-12.06.2026 tarihleri arasında  sağ ve emniyet şeridi trafiğe kapatılacak olup, trafik akışı sol ve orta şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Menemen Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-11T14:56:09.909671"
+                "updated_at": "2026-06-11T18:24:33.423121"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Eskişehir - Kütahya Devlet yolunun 37. km.sindeki Sporkent kavşağında iyileştirme çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Eskişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-11T14:56:10.054715"
+                "updated_at": "2026-06-11T18:24:33.580175"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ankara-Bala-Karakeçili yolunun 30-35.km.leri arasında 04.06.2026-07.07.2026 tarihlerinde üstyapı (BSK) yenileme çalışmaları nedeniyle, Karakeçili-Bala-Ankara istikameti trafiğe kapatılarak, ulaşım Ankara-Bala-Karakeçili istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-11T14:56:10.164606"
+                "updated_at": "2026-06-11T18:24:33.737080"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Antalya-Alanya Yolunun 19 ile 25 km'leri arasında bölünmüş yolun her iki tarafında birer şeridinde her gün saat 22.00 -06.00 arasında üstyapı onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-11T14:56:10.267366"
+                "updated_at": "2026-06-11T18:24:33.887126"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Kastamonu-Tosya yolunun 0-5.km.leri arasında 08.06.2026 tarihinden itibaren  BSK serim çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kastamonu Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-11T14:56:10.397583"
+                "updated_at": "2026-06-11T18:24:34.072550"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Elazığ-Diyarbakır yolunun 46-48.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Elazığ Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-11T14:56:10.502368"
+                "updated_at": "2026-06-11T18:24:34.247070"
             }
         },
         {
@@ -117,7 +117,58 @@
                 "description": "Selçuk -Ortaklar -Aydın yolunun 0-1 km.leri arasında 12.06.2026 tarihinde saat 12:00-17:30 arasında patlatmalı  çalışma yapılacağından dolayı araç trafiğe kapatılacaktır. sürücüler alternatif güzergâh olarak Selçuk -Kuşadası -Söke -Ortaklar güzergâhını kullanabileceklerdir.",
                 "extracted_keyword": "Selçuk Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-11T14:56:10.611100"
+                "updated_at": "2026-06-11T18:24:34.416767"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.152056,
+                    38.056371
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Afyonkarahisar-Uşak yolunun  44.45.km.leri arasında Afyonkarahisar Otogar Kavşağında devam eden yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Afyonkarahisar Otogar Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-06-11T18:24:34.581574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.3452414,
+                    40.5399997
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Amasya-Turhal yolunun 63-65 km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolun Turhal istikameti trafiğe kapalı olup, ulaşım diğer taraftan iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Amasya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-11T18:24:34.801643"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.484591,
+                    39.574494
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "İliç-Kemaliye-Arapgir yolunun  45-47.km.leri arasında  05.05.2026 tarihinden itibaren tünel bağlantı yolları ve Kemaliye-Kozlupınar Viyadüğü arası tünel ikincil işler yapılması  çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "İliç Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-11T18:24:34.986430"
             }
         }
     ]
