@@ -6,13 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4694853375,
-                    39.7913351701
+                    30.4442055175,
+                    39.8061329211
                 ]
             },
             "properties": {
-                "category_code": 8,
-                "updated_at": "2026-06-12T00:20:26.554437"
+                "category_code": 6,
+                "updated_at": "2026-06-12T05:12:22.220038"
             }
         },
         {
@@ -20,13 +20,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4860895524,
-                    39.8010890505
+                    30.4694853375,
+                    39.7913351701
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-12T00:20:26.554455"
+                "updated_at": "2026-06-12T05:12:22.220049"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4835521827,
+                    39.7946892952
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-12T05:12:22.220052"
             }
         },
         {
@@ -40,7 +54,35 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-12T00:20:26.554459"
+                "updated_at": "2026-06-12T05:12:22.220055"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4860895524,
+                    39.8010890505
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-12T05:12:22.220057"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4889930437,
+                    39.7702543445
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-06-12T05:12:22.220058"
             }
         },
         {
@@ -54,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-12T00:20:26.554461"
+                "updated_at": "2026-06-12T05:12:22.220060"
             }
         },
         {
@@ -62,13 +104,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5260544667,
-                    39.7717000824
+                    30.4954115698,
+                    39.7539948058
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-06-12T00:20:26.554463"
+                "updated_at": "2026-06-12T05:12:22.220062"
             }
         },
         {
@@ -82,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-12T00:20:26.554465"
+                "updated_at": "2026-06-12T05:12:22.220064"
             }
         },
         {
@@ -96,7 +138,77 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-12T00:20:26.554467"
+                "updated_at": "2026-06-12T05:12:22.220069"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5331582973,
+                    39.7362560362
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-12T05:12:22.220071"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5541278074,
+                    39.7767158313
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-12T05:12:22.220073"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5716399501,
+                    39.7589985066
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-12T05:12:22.220075"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5854667375,
+                    39.7544199786
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-12T05:12:22.220076"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5876755367,
+                    39.7528790209
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-12T05:12:22.220078"
             }
         },
         {
@@ -110,7 +222,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-12T00:20:26.554469"
+                "updated_at": "2026-06-12T05:12:22.220080"
             }
         },
         {
@@ -124,7 +236,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-12T00:20:26.554471"
+                "updated_at": "2026-06-12T05:12:22.220081"
             }
         },
         {
@@ -138,7 +250,35 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-12T00:20:26.554477"
+                "updated_at": "2026-06-12T05:12:22.220083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6132879505,
+                    39.7451609549
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-12T05:12:22.220085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6424958656,
+                    39.7350932968
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-12T05:12:22.220087"
             }
         },
         {
@@ -155,7 +295,7 @@
                 "description": "İzmir- Menemen Çevre Otoyolunda genleşme Derz ve Onarım çalışması nedeniyle Aydın  istikameti Kanal1 Köprüsü 0-1 km.leri arasında  11.06.2026-12.06.2026 tarihleri arasında  sağ ve emniyet şeridi trafiğe kapatılacak olup, trafik akışı sol ve orta şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Menemen Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-12T00:20:42.491989"
+                "updated_at": "2026-06-12T05:12:23.593583"
             }
         },
         {
@@ -172,7 +312,7 @@
                 "description": "Eskişehir - Kütahya Devlet yolunun 37. km.sindeki Sporkent kavşağında iyileştirme çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Eskişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-12T00:20:42.663673"
+                "updated_at": "2026-06-12T05:12:23.742461"
             }
         },
         {
@@ -189,7 +329,7 @@
                 "description": "Ankara-Bala-Karakeçili yolunun 30-35.km.leri arasında 04.06.2026-07.07.2026 tarihlerinde üstyapı (BSK) yenileme çalışmaları nedeniyle, Karakeçili-Bala-Ankara istikameti trafiğe kapatılarak, ulaşım Ankara-Bala-Karakeçili istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-12T00:20:42.850341"
+                "updated_at": "2026-06-12T05:12:23.897463"
             }
         },
         {
@@ -206,7 +346,7 @@
                 "description": "Antalya-Alanya Yolunun 19 ile 25 km'leri arasında bölünmüş yolun her iki tarafında birer şeridinde her gün saat 22.00 -06.00 arasında üstyapı onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-12T00:20:43.026711"
+                "updated_at": "2026-06-12T05:12:24.037431"
             }
         },
         {
@@ -223,7 +363,7 @@
                 "description": "Kastamonu-Tosya yolunun 0-5.km.leri arasında 08.06.2026 tarihinden itibaren  BSK serim çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kastamonu Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-12T00:20:43.180670"
+                "updated_at": "2026-06-12T05:12:24.200534"
             }
         },
         {
@@ -240,7 +380,7 @@
                 "description": "Elazığ-Diyarbakır yolunun 46-48.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Elazığ Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-12T00:20:43.331169"
+                "updated_at": "2026-06-12T05:12:24.355874"
             }
         },
         {
@@ -257,7 +397,7 @@
                 "description": "Selçuk -Ortaklar -Aydın yolunun 0-1 km.leri arasında 12.06.2026 tarihinde saat 12:00-17:30 arasında patlatmalı  çalışma yapılacağından dolayı araç trafiğe kapatılacaktır. sürücüler alternatif güzergâh olarak Selçuk -Kuşadası -Söke -Ortaklar güzergâhını kullanabileceklerdir.",
                 "extracted_keyword": "Selçuk Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-12T00:20:43.488306"
+                "updated_at": "2026-06-12T05:12:24.565041"
             }
         },
         {
@@ -274,7 +414,7 @@
                 "description": "Afyonkarahisar-Uşak yolunun  44.45.km.leri arasında Afyonkarahisar Otogar Kavşağında devam eden yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Afyonkarahisar Otogar Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-12T00:20:43.651712"
+                "updated_at": "2026-06-12T05:12:24.716292"
             }
         },
         {
@@ -291,7 +431,7 @@
                 "description": "Amasya-Turhal yolunun 63-65 km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolun Turhal istikameti trafiğe kapalı olup, ulaşım diğer taraftan iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Amasya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-12T00:20:43.808871"
+                "updated_at": "2026-06-12T05:12:24.893686"
             }
         }
     ]
