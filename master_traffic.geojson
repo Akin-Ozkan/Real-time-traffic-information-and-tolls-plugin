@@ -6,13 +6,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    30.4443624267,
+                    39.7959271502
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-14T10:25:40.904002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4638044188,
+                    39.7813050512
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-14T10:25:40.904036"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4667910585,
+                    39.7416794448
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-06-14T10:25:40.904039"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     30.4694853375,
                     39.7913351701
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-14T06:54:09.242405"
+                "updated_at": "2026-06-14T10:25:40.904041"
             }
         },
         {
@@ -26,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-14T06:54:09.242423"
+                "updated_at": "2026-06-14T10:25:40.904043"
             }
         },
         {
@@ -40,21 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-14T06:54:09.242427"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5144217262,
-                    39.7943111271
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-06-14T06:54:09.242429"
+                "updated_at": "2026-06-14T10:25:40.904045"
             }
         },
         {
@@ -68,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-14T06:54:09.242431"
+                "updated_at": "2026-06-14T10:25:40.904047"
             }
         },
         {
@@ -82,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-14T06:54:09.242433"
+                "updated_at": "2026-06-14T10:25:40.904052"
             }
         },
         {
@@ -90,27 +118,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5584582338,
-                    39.7343181263
+                    30.58293205,
+                    39.713205141
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-06-14T06:54:09.242435"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5854667375,
-                    39.7544199786
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-06-14T06:54:09.242437"
+                "updated_at": "2026-06-14T10:25:40.904054"
             }
         },
         {
@@ -124,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-14T06:54:09.242443"
+                "updated_at": "2026-06-14T10:25:40.904056"
             }
         },
         {
@@ -138,7 +152,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-14T06:54:09.242445"
+                "updated_at": "2026-06-14T10:25:40.904058"
             }
         },
         {
@@ -146,13 +160,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.6113755355,
-                    39.7677169983
+                    30.6129486511,
+                    39.7680616818
                 ]
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-14T06:54:09.242447"
+                "updated_at": "2026-06-14T10:25:40.904060"
             }
         },
         {
@@ -160,16 +174,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.8476549,
-                    40.8625848
+                    29.0935396,
+                    41.0904832
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kuzey Marmara Otoyolunun 8-11.km.leri arasında Çatalca T1-T2 Tünelleri Edirne-İstanbul (Güney) istikametinde 13.06.2026 01:00-14.06.2026 06:00 zaman diliminde  bakım onarım çalışması yapılması nedeniyle Güney taşıma yolu (Edirne-İstanbul istikameti), Kuzey taşıma yoluna (İstanbul-Edirne istikameti) aktarılarak trafik akışı Kuzey taşıma yolundan iki yönlü olarak sağlanacaktır.\n.",
-                "extracted_keyword": "Kuzey Marmara Otoyolu",
+                "description": "TEM Otoyolunun Hendek Kavşağı-Gümüşova Kavşağı Kesimi 0-11.km.leri arasında üstyapı yenileme çalışmaları nedeniyle otoyol kesimler halinde trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır. (Çalışmalar 24 saat esasına göre yapılmaktadır.)",
+                "extracted_keyword": "TEM Otoyolunun Hendek Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-14T06:54:25.503671"
+                "updated_at": "2026-06-14T10:25:42.380927"
             }
         },
         {
@@ -177,16 +191,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.196808,
-                    40.80223
+                    32.891361,
+                    39.430328
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Mengen-Yeniçağa yolunun 26-28.km.leri arasında 11.06.2026-11.07.2026 tarihlerinde  şev düzenleme ve taş duvar yapım çalışmaları nedeniyle Mengen-Yeniçağa istikameti trafiğe kapatılarak, ulaşım Yeniçağa-Mengen istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanacaktır.",
-                "extracted_keyword": "Mengen Yolu",
+                "description": "Ankara-Konya yolunun 28-31.km.leri (Çimşit Kavşağı) arasında yol yapım çalışmaları nedeniyle Konya-Ankara istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çimşit Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-14T06:54:25.698891"
+                "updated_at": "2026-06-14T10:25:42.728308"
             }
         },
         {
@@ -194,16 +208,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.686168,
-                    40.86929
+                    34.7530219,
+                    38.4779171
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İstanbul-Çorlu yolunun 32-33.km.leri arasında 10.06.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım tek yönden gidiş-geliş olarak sağlanmaktadır. Çalışma süresince Trafik güvenliğinin sağlanabilmesi için Şahbaz Köy yoluna giriş-çıkışlar kapatılacak olup, ulaşım alternatif devlet ve imar yollarından sağlanacaktır.",
-                "extracted_keyword": "İstanbul Yolu",
+                "description": "Nevşehir-Kayseri yolunun 57-58.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Nevşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-14T06:54:25.797833"
+                "updated_at": "2026-06-14T10:25:42.867935"
             }
         },
         {
@@ -211,16 +225,101 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.101272,
-                    39.8202717
+                    36.2232354,
+                    37.0631966
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Balıkesir-Dursunbey yolunun 15-18.km.leri arasında 11.06.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle trafik akışı kontrollü şekilde sağlanmaktadır.",
-                "extracted_keyword": "Balıkesir Yolu",
+                "description": "Toprakkale-İskenderun yolunun 34-38.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Toprakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-14T06:54:25.905743"
+                "updated_at": "2026-06-14T10:25:42.995220"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.2179055,
+                    38.2474225
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Afyonkarahisar-Konya yolunun 92-95.km.leri arasında yol yapım çalışmaları nedeniyle Afyonkarahisar-Konya istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Afyonkarahisar Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-14T10:25:43.167574"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8395476,
+                    37.8192365
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Muğla-Denizli yolunun 19-23.km.leri arasında yol çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Muğla Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-14T10:25:43.306304"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5167049,
+                    41.2907465
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Zonguldak-Bartın İl Sn.-Bartın-Kurucaşile yolunun 27-29.km.leri arasında Bartın-3 Köprüsü yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Zonguldak Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-14T10:25:43.469730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.026492,
+                    39.604134
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Dereli-Şebinkarahisar yolunun 69-73.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Dereli Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-14T10:25:43.584467"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7946996,
+                    37.1969584
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Diyarbakır-Siverek yolunun 17-21.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Diyarbakır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-14T10:25:43.741310"
             }
         }
     ]
