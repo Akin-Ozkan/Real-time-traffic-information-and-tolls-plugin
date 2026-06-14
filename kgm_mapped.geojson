@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun Hendek Kavşağı-Gümüşova Kavşağı Kesimi 0-11.km.leri arasında üstyapı yenileme çalışmaları nedeniyle otoyol kesimler halinde trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır. (Çalışmalar 24 saat esasına göre yapılmaktadır.)",
                 "extracted_keyword": "TEM Otoyolunun Hendek Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-14T12:24:08.057246"
+                "updated_at": "2026-06-14T14:41:54.586661"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Konya yolunun 28-31.km.leri (Çimşit Kavşağı) arasında yol yapım çalışmaları nedeniyle Konya-Ankara istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çimşit Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-14T12:24:08.185880"
+                "updated_at": "2026-06-14T14:41:54.738517"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Nevşehir-Kayseri yolunun 57-58.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nevşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-14T12:24:08.405535"
+                "updated_at": "2026-06-14T14:41:54.890768"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Toprakkale-İskenderun yolunun 34-38.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Toprakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-14T12:24:08.509412"
+                "updated_at": "2026-06-14T14:41:55.019752"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Afyonkarahisar-Konya yolunun 92-95.km.leri arasında yol yapım çalışmaları nedeniyle Afyonkarahisar-Konya istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Afyonkarahisar Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-14T12:24:08.612290"
+                "updated_at": "2026-06-14T14:41:55.126820"
             }
         },
         {
@@ -100,7 +100,58 @@
                 "description": "Muğla-Denizli yolunun 19-23.km.leri arasında yol çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Muğla Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-14T12:24:08.717656"
+                "updated_at": "2026-06-14T14:41:55.292567"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5167049,
+                    41.2907465
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Zonguldak-Bartın İl Sn.-Bartın-Kurucaşile yolunun 27-29.km.leri arasında Bartın-3 Köprüsü yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Zonguldak Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-14T14:41:55.460405"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.026492,
+                    39.604134
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Dereli-Şebinkarahisar yolunun 69-73.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Dereli Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-14T14:41:55.584274"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7946996,
+                    37.1969584
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Diyarbakır-Siverek yolunun 17-21.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Diyarbakır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-14T14:41:55.726713"
             }
         }
     ]
