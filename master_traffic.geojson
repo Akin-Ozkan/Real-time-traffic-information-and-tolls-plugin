@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-15T21:27:53.960114"
+                "updated_at": "2026-06-15T23:20:36.316669"
             }
         },
         {
@@ -20,13 +20,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4883291969,
-                    39.7805567464
+                    30.5102455268,
+                    39.78370296
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-06-15T21:27:53.960128"
+                "updated_at": "2026-06-15T23:20:36.316684"
             }
         },
         {
@@ -34,13 +34,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5263387809,
-                    39.7668332474
+                    30.516626502,
+                    39.7794261897
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-06-15T21:27:53.960131"
+                "updated_at": "2026-06-15T23:20:36.316688"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-15T21:27:53.960133"
+                "updated_at": "2026-06-15T23:20:36.316691"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-15T21:27:53.960135"
+                "updated_at": "2026-06-15T23:20:36.316693"
             }
         },
         {
@@ -82,7 +82,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-15T21:27:53.960137"
+                "updated_at": "2026-06-15T23:20:36.316695"
             }
         },
         {
@@ -96,7 +96,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-06-15T21:27:53.960139"
+                "updated_at": "2026-06-15T23:20:36.316698"
             }
         },
         {
@@ -110,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-15T21:27:53.960141"
+                "updated_at": "2026-06-15T23:20:36.316700"
             }
         },
         {
@@ -124,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-06-15T21:27:53.960143"
+                "updated_at": "2026-06-15T23:20:36.316702"
             }
         },
         {
@@ -141,7 +141,7 @@
                 "description": "TEM Otoyolu Gebze kavşak kollarında üst yapı yenileme ve onarım çalışmaları yapılacaktır. Çalışmalar nedeni ile; TEM Otoyolu, Ankara - İstanbul yönünde Gebze Kavşağı Çıkış Kolu kapatılacaktır.\nÇalışmalar 16.06.2026 Salı günü saat 12:00’den itibaren başlayacak olup, 24 saat esasına göre yürütülecektir.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-15T21:28:10.137151"
+                "updated_at": "2026-06-15T23:20:38.414950"
             }
         },
         {
@@ -158,7 +158,7 @@
                 "description": "Ankara Çevre Otoyolunun Eskişehir Kavşağı-Dodurga Kavşağı 2-3.km.leri arasında 02.06.2026-03.07.2026 tarihlerinde  Eskişehir istikameti (İç Çember) altgeçit yenileme çalışması nedeniyle trafiğe kapatılacak olup, ulaşım  diğer istikametten çift yönlü ve kontrollü olarak sağlanmaktadır. (2 şerit Eskişehir, 2 Şerit Dodurga istikameti)",
                 "extracted_keyword": "Ankara Çevre Otoyolunun Eskişehir Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-15T21:28:10.471200"
+                "updated_at": "2026-06-15T23:20:38.906574"
             }
         },
         {
@@ -175,7 +175,24 @@
                 "description": "Ünye-Fatsa yolunun 29-31 km.leri arasında devam eden kavşak düzenleme çalışmaları nedeniyle Fatsa istikametinde sol şerit trafiğe kapatılmış olup, ulaşım sağ şeritten sağlanmaktadır.",
                 "extracted_keyword": "Ünye Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-15T21:28:10.787036"
+                "updated_at": "2026-06-15T23:20:39.359052"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.2056653,
+                    37.7299639
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Gölbaşı - Kahramanmaraş il snr. yolunun 20-25.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Gölbaşı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-15T23:20:39.614047"
             }
         },
         {
@@ -192,7 +209,7 @@
                 "description": "Bulancak-Giresun-Tirebolu yolunun 32-72.km.leri bulunan Keşap, Geçilmez, Uluburun, Arıdurak, Kiliseburnu, Tirebolu 42. Gönüllü Alayı 1 ve Tirebolu 42. Gönüllü Alayı 2 Tünellerinde yapılacak olan elektrik, elektronik sistemleri bakım, onarım çalışması nedeniyle 09.06.2026-19.06.2026 tarihleri arası, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bulancak Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-15T21:28:11.056669"
+                "updated_at": "2026-06-15T23:20:39.791944"
             }
         },
         {
@@ -200,8 +217,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.461342,
-                    37.8869863
+                    31.908498,
+                    36.571266
                 ]
             },
             "properties": {
@@ -209,7 +226,41 @@
                 "description": "Antalya-Alanya yolunun 19-25.km.leri arasında 10.06.2026 tarihinden itibaren bölünmüş yolun her iki tarafında birer şeridinde her gün  22:00-06:00 saatleri arasında üstyapı onarım çalışmaları yapılacağından dolayı ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-15T21:28:11.240311"
+                "updated_at": "2026-06-15T23:20:40.012599"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3189615,
+                    40.7367379
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Sakarya- Bilecik İl Sınırı- Bozüyük Devlet Yolunun 36-37.km.leri arasında Sakarya istikametinde bulunan Ertuğrul Gazi tüneli, bakım onarım işleri nedeniyle tünel trafiği tek yönlü olarak sol şeritten sağlanmaktadır.",
+                "extracted_keyword": "Sakarya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-15T23:20:40.254314"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5167049,
+                    41.2907465
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Zonguldak-Devrek-Mengen yolunun 35-39.km.leri arasında (Bakacakkadı mevki) üstyapı çalışmalarına başlandığından bölünmüş yolun Ankara istikameti trafiğe kapatılmıştır.",
+                "extracted_keyword": "Zonguldak Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-15T23:20:40.458919"
             }
         }
     ]
