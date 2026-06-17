@@ -15,7 +15,7 @@
                 "description": "O-4 Otoyolu Sapanca Kavşağı Ayrım ve Katılım Kolları - Gişe Sahası platformunda Üstyapı Yenileme çalışmaları yapılacaktır. Yapılacak çalışmalar esnasında, 54-52 İl Yolundan Otoyola girişler ve Otoyoldan çıkışlar trafiğe kapatılarak ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Otoyolu Sapanca Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-17T10:04:11.180582"
+                "updated_at": "2026-06-17T13:57:58.837337"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Balıkesir-İzmir Devlet yolunun 18-19 km.leri arasında köprü genleşme derz  bakım, onarım çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-17T10:04:11.299226"
+                "updated_at": "2026-06-17T13:57:58.999855"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Çeşmeli-Mersin-Tarsus Otoyolunda Tarsus Batı Kavşağı-D-400 Kavşağı arasında yapılacak yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Tarsus Otoyolunda Tarsus Batı Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-17T10:04:11.397831"
+                "updated_at": "2026-06-17T13:57:59.182949"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Aydın-Denizli Otoyolu Denizli istikameti 11-16 km'leri arasında üstyapı yenileme çalışması yapılacaktır.  05.06.2026-30.06.2026 tarihleri arasında saat 20.05 ten itibaren , trafik akışı Aydın tarafından sağlanmakta olup, Denizli yönü iki gidiş Aydın yönünde bir geliş olacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-17T10:04:11.482467"
+                "updated_at": "2026-06-17T13:57:59.320204"
             }
         },
         {
@@ -83,7 +83,41 @@
                 "description": "Trabzon-Rize yolunun 0-11. km. leri arasında yapılmakta olan yol çizgi boyası ile yatay işaretleme ve bordür boyama çalışması nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Trabzon Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-17T10:04:11.587529"
+                "updated_at": "2026-06-17T13:57:59.505892"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8146952,
+                    39.717624
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Konya-Afyonkarahisar yolunun 50.-54. km.leri arasında yol üstyapı çalışmaları nedeniyle bölünmüş yolun Afyonkarahisar yönü trafiğe kapatılmıştır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Konya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-17T13:57:59.668149"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.908498,
+                    36.571266
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Antalya-Isparta yolunun 34-36.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Antalya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-17T13:57:59.866622"
             }
         }
     ]
