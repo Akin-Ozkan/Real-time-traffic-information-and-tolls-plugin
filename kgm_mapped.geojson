@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-11.km.leri arasında  Hendek Kavşağı-Gümüşova kesiminde üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak gidiş geliş şeklinde sağlanmaktadır.  (Çalışmalar 24 saat esasına göre yürütülecektir.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-20T20:08:22.870464"
+                "updated_at": "2026-06-20T21:39:40.324959"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın-Denizli Otoyolunun 1-3.km.leri arasında Yenipazar çıkış kolunda yapılacak üstyapı çalışması nedeniyle araç trafiğine kapatılmış olup, trafik akışı Yenipazar kavşağı giriş kolundan kontrollü olarak iki yönlü sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-20T20:08:23.032277"
+                "updated_at": "2026-06-20T21:39:40.473548"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında 16.06.2026 tarihinden itibaren  yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-20T20:08:23.315256"
+                "updated_at": "2026-06-20T21:39:40.785952"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara - Kırıkkale yolunun Kırıkkale - Ankara istikameti 6 -9.km.leri arası üstyapı onarım (BSK) çalışmaları nedeniyle trafiğe kapatılmış olup,  ulaşım Ankara - Kırıkkale istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-20T20:08:23.442814"
+                "updated_at": "2026-06-20T21:39:40.947506"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Nevşehir-Kayseri yolunun 64-67.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nevşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-20T20:08:23.615795"
+                "updated_at": "2026-06-20T21:39:41.115273"
             }
         },
         {
@@ -100,7 +100,41 @@
                 "description": "Trabzon-Rize yolunun 0-1.km.sinde 15.06.2026-30.06.2026 tarihleri arasında  yaya üst geçidi montaj çalışması nedeniyle bölünmüş yolun her iki yönünde ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Trabzon Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-20T20:08:23.767332"
+                "updated_at": "2026-06-20T21:39:41.297795"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.908498,
+                    36.571266
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Antalya-Alanya yolunun 19-25.km.leri arasında 10.06.2026 tarihinden itibaren bölünmüş yolun her iki tarafında birer şeridinde her gün  22:00-06:00 saatleri arasında üstyapı onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Antalya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-20T21:39:41.465069"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2742258,
+                    40.612268
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bursa - Yalova yolunun 39-42.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Bursa Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-20T21:39:41.619994"
             }
         },
         {
@@ -117,7 +151,7 @@
                 "description": "Bartın-Kurucaşile yolunun 51.km.sinde sanat yapısı imalatı çalışmaları sebebiyle bölünmüş yolun bir tarafı trafiğe kapatılmıştır. Trafik akışı yolun diğer tarafından iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bartın Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-20T20:08:24.148899"
+                "updated_at": "2026-06-20T21:39:41.778833"
             }
         }
     ]
