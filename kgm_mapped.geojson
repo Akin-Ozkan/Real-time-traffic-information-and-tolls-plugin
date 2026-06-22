@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolu Muallimköy Kavşağı–Doğu Hereke Kavşağı arasındaki bölümde Güney yolda üstyapı onarım ve yenileme çalışmaları yapılacaktır. Çalışmalar esnasında TEM Otoyolu, İstanbul-Ankara yönünde trafiğe tamamen kapatılarak, trafik akışı Muallimköy Kavşağından D-100 Devlet Yoluna ve Kuzey Marmara Otoyolu’na yönlendirilecektir. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir. (Çalışmalar 24 saat esasına göre yürütülecektir. )",
                 "extracted_keyword": "TEM Otoyolu Muallimköy Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-22T13:20:12.932462"
+                "updated_at": "2026-06-22T17:59:42.866004"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir Çevre yolu Seyrek Köprüsü Aydın istikameti 0-1.km.leri arasında 22.06.2026-25.06.2026 tarihlerinde  köprü derzlerinin yenilenmesi çalışmaları nedeniyle Seyrek Köprüsü Aydın istikameti sağ ve emniyet şeridi trafiğe kapatılacak olup,  ulaşım sol ve orta şeritten sağlanacaktır. Sağ ve emniyet şeridi onarımları tamamlandıktan sonra sol ve orta şerit trafiğe kapatılacak ulaşım sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre yolu Seyrek Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-06-22T13:20:13.092315"
+                "updated_at": "2026-06-22T17:59:43.060245"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Antalya-Alanya yolunun 19-25.km.leri arasında 10.06.2026 tarihinden itibaren bölünmüş yolun her iki tarafında birer şeridinde her gün  22:00-06:00 saatleri arasında üstyapı onarım çalışmaları yapılacağından dolayı sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-22T13:20:13.174153"
+                "updated_at": "2026-06-22T17:59:43.244275"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Kayseri-Pınarbaşı yolunun 24-29.km.leri arasında yol yapım çalışması olduğundan dolayı  ulaşım bölünmüş yolun bir bölümünden iki yönlü sağlanmaktadır. (Sürücülerin Tomarza İlçesine ulaşabilmesi için  Akmescit yolunu kullanmaları gerekmektedir.)",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-22T13:20:13.306526"
+                "updated_at": "2026-06-22T17:59:43.403715"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Kahramanmaraş-Narlı-Gaziantep yolunun  3-4. km.arası Sanayi Farklı Seviyeli Kavşak çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Kahramanmaraş Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-22T13:20:13.472917"
+                "updated_at": "2026-06-22T17:59:43.567729"
             }
         },
         {
@@ -100,7 +100,58 @@
                 "description": "Beyşehir-Seydişehir-Antalya yolunun 60-62.km.leri arasında devam eden yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Beyşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-22T13:20:13.614064"
+                "updated_at": "2026-06-22T17:59:43.724091"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.904066,
+                    40.491984
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ankara - Kırıkkale yolunun Kırıkkale - Ankara istikameti 6 -9. km. arası üstyapı onarım (BSK) çalışmaları nedeniyle trafiğe kapatılmış olup,  ulaşım Ankara - Kırıkkale istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
+                "extracted_keyword": "Ankara Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-22T17:59:43.855890"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2742258,
+                    40.612268
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bursa - Yalova yolunun 39-42 km'leri arasında yol yapım çalışmaları nedeniyle trafik kontrollü oralar sağlanmaktadır.",
+                "extracted_keyword": "Bursa Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-22T17:59:44.173565"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.595154,
+                    40.671524
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tokat-Niksar yolunun 41-47.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Tokat Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-22T17:59:44.348257"
             }
         }
     ]
