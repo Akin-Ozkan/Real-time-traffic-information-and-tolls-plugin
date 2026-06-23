@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-11.km.leri arasında Hendek Kavşağı-Gümüşova kesiminde yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak gidiş geliş şeklinde sağlanmaktadır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-23T11:34:53.963994"
+                "updated_at": "2026-06-23T14:03:32.422356"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir Çevre Yolu Seyrek Köprüsü Aydın istikameti 22-06-2026-25-06-2026 tarihleri arasında yol çalışması yapılacağından dolayı sağ ve emniyet şeridi trafiğe kapatılacak olup trafik akışı sol ve orta şeritten sağlanmaktadır.",
                 "extracted_keyword": "İzmir Çevre Yolu Seyrek Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-06-23T11:34:54.086699"
+                "updated_at": "2026-06-23T14:03:32.574186"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Çeşmeli-Mersin-Tarsus Otoyolunda Tarsus Batı Kavşağı-D400 Kavşağı arasında yapılacak yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Tarsus Otoyolunda Tarsus Batı Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-23T11:34:54.238519"
+                "updated_at": "2026-06-23T14:03:32.687816"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-23T11:34:54.406107"
+                "updated_at": "2026-06-23T14:03:32.812388"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Ankara-Konya yolunun 56-59.km.leri arasında (Karahamzalı mevkii) yol yapım çalışmaları nedeniyle Ankara-Konya istikameti trafiğe kapatılarak ulaşım Konya-Ankara istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-23T11:34:54.573392"
+                "updated_at": "2026-06-23T14:03:32.917233"
             }
         },
         {
@@ -91,16 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.7065814,
-                    37.9795618
+                    37.04186,
+                    40.875439
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kayseri-Niğde yolunun 14-19.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kayseri Yolu",
+                "description": "Ünye-Fatsa yolunun 29-34 km.leri arasında devam eden kavşak düzenleme çalışmaları nedeniyle Fatsa istikametinde sol şerit trafiğe kapatılmış olup, ulaşım sağ şeritten sağlanmaktadır.",
+                "extracted_keyword": "Ünye Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-23T11:34:54.698838"
+                "updated_at": "2026-06-23T14:03:33.077748"
             }
         },
         {
@@ -108,16 +108,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43.5962972,
-                    39.5941733
+                    35.5516071,
+                    38.7481263
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ağrı-Taşlıçay yolunun 42-48.km.leri arasında 27.04.2026-30.06.2026 tarihlerinde yol çalışması nedeniyle Ağrı-Doğubayazıt istikametinde sol platformdan ulaşım gidiş dönüş şeklinde sağlanmaktadır.",
-                "extracted_keyword": "Ağrı Yolu",
+                "description": "Malatya-Darende yolunun 26-31.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Malatya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-23T11:34:55.253849"
+                "updated_at": "2026-06-23T14:03:33.175317"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.390837,
+                    40.889118
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bulancak-Giresun-Espiye yolunun 49.km.sinde bulunan Uluburun tünelinin, bölünmüş yolun Espiye-Giresun yönündeki tüpünde yapılacak olan elektrik, elektronik sistemleri bakım, onarım çalışması nedeniyle 23.06.2026 günü tünel trafiğe kapatılacak olup ulaşım servis yolundan kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Bulancak Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-23T14:03:33.250448"
             }
         }
     ]
