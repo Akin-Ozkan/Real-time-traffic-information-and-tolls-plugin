@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.2934335,
-                    37.8311225
+                    27.1403047,
+                    41.4568612
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aydın-Denizli Otoyolu Projesi Yap-İşlet-Devret Modeli ile yapılması işletilmesi ve Devri işi kapsamında Aydın-Denizli  Otoyolu 7-11.km.leri arasında yapılacak üstyapı çalışması nedeniyle 20.06.2026-03.07.2026 tarihlerinde Denizli istikameti araç trafiğine kapatılacak olup, ulaşım Aydın istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Denizli Otoyolu",
+                "description": "Osmaniye-Nurdağı yolunun Burgaçlı Köyü-Kalecik Köyü arasındaki Kızıldere Mevkiinde  patlatmalı üstyapı çalışmaları nedeniyle 24.06.2026 tarihinde 10:00-17:00 saatleri arasında ulaşım kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Osmaniye Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T05:33:15.218841"
+                "updated_at": "2026-06-24T08:41:20.937149"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.1689832,
-                    41.0525177
+                    28.2210286,
+                    37.8304742
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara Çevre Otoyolunun 0-4.km.leri arasında 22.06.2026-28.06.2026 tarihlerinde  Altınköy Kavşağı-Karapürçek Kavşağında Samsun Kavşağı İstikameti üstyapı onarım çalışması nedeniyle trafiğe kapatılacak olup, ulaşım diğer istikametten çift yönlü ve kontrollü olarak sağlanacaktır. (2 gidiş, 2 geliş) Bu kesimde ayrıca Altınköy Kavşağının Samsun istikameti katılım kolu ve Karapürçek Kavşağının ayrım koluda trafiğe kapatılacaktır. Karapürçeğe gidecek sürücüler Altınköy Kavşağına yönlendirilecektir.",
-                "extracted_keyword": "Ankara Çevre Otoyolu",
+                "description": "Aydın Denizli Otoyolunun Yenipazar Kavşağı 1-3.km.leri arasında üstyapı yenileme çalışması nedeniyle 16-06-2026-30-06-2026 tarihleri arasında söz konusu kesim trafiğe kapatılacak olup, ulaşım Yenipazar çıkış istikametinden iki yönlü olarak sağlanacaktır.",
+                "extracted_keyword": "Aydın Denizli Otoyolunun Yenipazar Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-24T05:33:15.338618"
+                "updated_at": "2026-06-24T08:41:21.061549"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.0818999,
-                    39.8833016
+                    34.7065814,
+                    37.9795618
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Polatlı-Yunak yolunun 10-20  ve  36-44.km.leri arasında 22.06.2026 tarihinden itibaren çalışan trafik altında asfalt sathi kaplama yenileme çalışması nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Polatlı Yolu",
+                "description": "Kayseri-Kırşehir yolunun 6-11.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T05:33:15.440764"
+                "updated_at": "2026-06-24T08:41:21.169897"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.3189615,
-                    40.7367379
+                    29.2742258,
+                    40.612268
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Sakarya-Bilecik İl Sınırı-Bozüyük yolunun 38-41.km.leri arasında 22.06.2026 tarihinden itibaren Sakarya-Bilecik istikametinde bulunan Osmangazi tünelinin sağ şeriti bakım-onarım çalışmaları nedeniyle tünel trafiği tek yönlü olarak sol şeritten sağlanacaktır.",
-                "extracted_keyword": "Sakarya Yolu",
+                "description": "Bursa-Yalova yolunun 39-42.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T05:33:15.541511"
+                "updated_at": "2026-06-24T08:41:21.277312"
             }
         },
         {
@@ -74,16 +74,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.8015397,
-                    40.3799322
+                    30.496592,
+                    40.397845
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Alaca-Zile yolunun 19-23.km.leri arasında 22.06.2026 tarihinden itibaren yol yapım çalışması  olduğundan ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Alaca Yolu",
+                "description": "Ankara-Kırıkkale yolunun 6-9.km.leri arasında üstyapı onarım çalışmaları nedeniyle Kırıkkale-Ankara istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T05:33:15.644598"
+                "updated_at": "2026-06-24T08:41:21.379256"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5763816,
+                    37.5112767
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Beyşehir-Seydişehir-Antalya yolunun 60-62.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Beyşehir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-24T08:41:21.467990"
             }
         }
     ]
