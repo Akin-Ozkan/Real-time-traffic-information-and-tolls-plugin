@@ -15,7 +15,7 @@
                 "description": "Aydın Denizli Otoyolunun Yenipazar Kavşağı 1-3.km.leri arasında üstyapı yenileme çalışması nedeniyle 16.06.2026-30.06.2026 tarihleri arasında söz konusu kesim trafiğe kapatılacak olup, ulaşım Yenipazar çıkış istikametinden iki yönlü olarak sağlanacaktır.",
                 "extracted_keyword": "Aydın Denizli Otoyolunun Yenipazar Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-24T16:08:01.515700"
+                "updated_at": "2026-06-24T18:07:11.277737"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Kayseri-Kırşehir yolunun 6-11.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T16:08:01.696697"
+                "updated_at": "2026-06-24T18:07:11.433955"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Bursa-Yalova yolunun 39-42.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T16:08:01.910571"
+                "updated_at": "2026-06-24T18:07:11.656098"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale yolunun 6-9.km.leri arasında üstyapı onarım çalışmaları nedeniyle Kırıkkale-Ankara istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T16:08:02.087106"
+                "updated_at": "2026-06-24T18:07:11.845810"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Beyşehir-Seydişehir-Antalya yolunun 60-62.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Beyşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T16:08:02.291652"
+                "updated_at": "2026-06-24T18:07:12.060811"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Antalya-Alanya yolunun 19-25.km.leri arasında üstyapı onarım çalışmaları nedeniyle her gün 22:00-06:00 saatleri arasında her iki yönde birer şerit trafiğe kapatılacak olup, ulaşım diğer şeritlerden sağlanacaktır.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T16:08:02.515697"
+                "updated_at": "2026-06-24T18:07:12.307378"
             }
         },
         {
@@ -117,7 +117,7 @@
                 "description": "Malatya-Darende yolunun 26-31.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Malatya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T16:08:02.685820"
+                "updated_at": "2026-06-24T18:07:12.456579"
             }
         },
         {
@@ -134,7 +134,24 @@
                 "description": "Tokat-Sivas yolunun 19-22.km.leri arasında meydana gelen heyelan nedeniyle Sivas İstikameti trafiğe kapanmış olup, ulaşım Tokat istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Tokat Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-24T16:08:02.844548"
+                "updated_at": "2026-06-24T18:07:12.612086"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7946996,
+                    37.1969584
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Diyarbakır-Siverek yolunun 17-21.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Diyarbakır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-24T18:07:12.792998"
             }
         }
     ]
