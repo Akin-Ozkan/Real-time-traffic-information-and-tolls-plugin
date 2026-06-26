@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.0910921,
-                    38.4898759
+                    30.5461452,
+                    40.7653702
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir Çevre Otoyolunun 0-1.km.leri arasında 26.06.2026-27.06.2026 tarihlerinde köprü derzlerinin yenilenmesi çalışmaları nedeniyle Bostanlı Deresi Köprüsü Menemen istikameti sol ve orta şeridi trafiğe kapatılacak olup,  ulaşım sağ ve emniyet şeritten sağlanacaktır.",
-                "extracted_keyword": "İzmir Çevre Otoyolu",
+                "description": "Kuzey Marmara Otoyolu Cebeci Kavşağı - Hasdal Kavşağı arasında Ankara (Güney) istikametinde 27.06.2026 tarihinde 00:15 - 04:00 saatleri arasında Cebeci Tüneli Güney tüpünde bakım onarım çalışması yapılacaktır. Çalışmalar süresince bant aktarımı yapılacak olup trafik akışı tek platformdan iki yönlü olarak sağlanacaktır.",
+                "extracted_keyword": "Kuzey Marmara Otoyolu Cebeci Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-26T16:52:39.740905"
+                "updated_at": "2026-06-26T18:49:53.603764"
             }
         },
         {
@@ -23,16 +23,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.1528893,
-                    41.1000016
+                    27.0910921,
+                    38.4898759
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kınalı ayrm.-Büyükçekmece yolunun 27-28.km.leri arasında 24.06.2026-15.08.2026 tarihlerinde üstyapı yenileme çalışması nedeniyle Silivri istikameti trafiğe kapatılacak olup, ulaşım Selimpaşa istikametinden iki yönlü geliş-gidiş olarak sağlanacaktır. Bu kesimde çalışmalar tamamlandıktan sonra Selimpaşa istikameti trafiğe kapatılacak ulaşım Silivri istikametinden iki yönlü geliş-gidiş olarak sağlanacaktır.",
-                "extracted_keyword": "Kınalı ayrm. Yolu",
+                "description": "İzmir Çevre Otoyolunun 0-1.km.leri arasında 28.06.2026-01.07.2026 tarihlerinde köprü derzlerinin yenilenmesi çalışmaları nedeniyle Kemalpaşa Köprüsü Aydın istikameti sağ ve emniyet şeridi trafiğe kapatılacak olup, ulaşım sol ve orta şeritten sağlanacaktır.",
+                "extracted_keyword": "İzmir Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-26T16:52:40.071822"
+                "updated_at": "2026-06-26T18:49:53.757789"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8469174,
+                    36.921575
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çeşmeli-Mersin-Tarsus Otoyolunda Tarsus Batı Kavşağı-D400 Kavşağı arasında yapılacak yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Tarsus Otoyolunda Tarsus Batı Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-06-26T18:49:53.911296"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.915208,
+                    38.0396315
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-26T18:49:54.052245"
             }
         },
         {
@@ -49,7 +83,7 @@
                 "description": "Ankara-Kırıkkale yolunun Kırıkkale-Ankara istikameti 6-9.km.leri arasında 16.06.2026-30.06.2026  tarihlerinde üstyapı onarım (BSK) çalışmaları nedeniyle trafiğe kapatılmış olup,  ulaşım Ankara-Kırıkkale istikametinden iki yönlü (gidiş-geliş) olarak sağlanacaktır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-26T16:52:40.219394"
+                "updated_at": "2026-06-26T18:49:54.229464"
             }
         },
         {
@@ -66,7 +100,7 @@
                 "description": "Kırıkkale-Kırşehir yolunun 5-9.km.leri arasında 22.06.2026 tarihinden itibaren yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kırıkkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-26T16:52:40.373091"
+                "updated_at": "2026-06-26T18:49:54.404382"
             }
         },
         {
@@ -83,7 +117,7 @@
                 "description": "Bozkır-Ortaköy-Aksaray yolunun 25-42.km.leri arasında 16.06.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Bozkır Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-26T16:52:40.506355"
+                "updated_at": "2026-06-26T18:49:54.567496"
             }
         },
         {
@@ -100,7 +134,41 @@
                 "description": "Kütahya Eskişehir  yolunun  17-18.km.leri arasında 23.06.2026 tarihinden itibaren  sanat yapıları çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.\n.",
                 "extracted_keyword": "Kütahya Eskişehir  yolunun  17 Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-26T16:52:40.707123"
+                "updated_at": "2026-06-26T18:49:54.743074"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7544856,
+                    39.7070208
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Zara-İmranlı-Kızıldağ yolunun 8-9.km.leri arasında 13.06.2026 tarihinden itibaren Toprak İşleri, sanat Yapıları, Üst Yapı Çalışmaları yapılması nedeniyle  Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Zara Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-26T18:49:54.912676"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.7081739,
+                    40.97055
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Trabzon-Gümüşhane İl Sınırı-Gümüşhane yolunun 41-44.km.lerinde bulunan T 1 ve T 2 Tünellerinin, bölünmüş yolun Gümüşhane yönündeki tüplerinde yapılacak olan elektrik, elektronik sistemleri bakım onarım çalışması nedeniyle 26.06.2026 günü, 08:00-17:00 saatleri arasında ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Trabzon Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-26T18:49:55.090633"
             }
         }
     ]
