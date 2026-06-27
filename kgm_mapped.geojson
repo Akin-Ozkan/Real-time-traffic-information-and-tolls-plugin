@@ -6,23 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.0910921,
-                    38.4898759
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "İzmir Çevre Otoyolunun1+150.km.leri arasında 28.06.2026-01.07.2026 tarihlerinde köprü derzlerinin yenilenmesi çalışmaları nedeniyle Kemalpaşa Köprüsü Menemen istikameti sağ ve emniyet şeridi trafiğe kapatılacak olup,  ulaşım sağ ve emniyet şeritten sağlanacaktır.",
-                "extracted_keyword": "İzmir Çevre Otoyolu",
-                "category": "road_work",
-                "updated_at": "2026-06-27T14:23:21.342289"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     30.5461452,
                     40.7653702
                 ]
@@ -32,7 +15,7 @@
                 "description": "Kuzey Marmara Otoyolu Riva Kavşağı - Hüseyinli Kavşağı arasında  Ankara (Güney) istikametinde 26.06.2026 22:00 – 29.06.2026 06:00 zaman aralığında Prof.Dr.Mahir VARDAR Tüneli Güney tüpünde bakım onarım çalışması yapılacaktır. Çalışmalar süresince bant aktarımı yapılacak olup trafik akışı tek platformdan iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kuzey Marmara Otoyolu Riva Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-27T14:23:21.539127"
+                "updated_at": "2026-06-27T15:48:24.591148"
             }
         },
         {
@@ -40,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.0910921,
-                    38.4898759
+                    29.8081102,
+                    38.770367
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir Çevre Otoyolunun 0-1.km.leri arasında 28.06.2026-01.07.2026 tarihlerinde köprü derzlerinin yenilenmesi çalışmaları nedeniyle Kemalpaşa Köprüsü Aydın istikameti sağ ve emniyet şeridi trafiğe kapatılacak olup, ulaşım sol ve orta şeritten sağlanacaktır.",
-                "extracted_keyword": "İzmir Çevre Otoyolu",
+                "description": "Afyonkarahisar İl Sn. - Konya Devlet yolunun 12-15.km.leri arasındaki yol yapım çalışmaları nedeniyle bu kesimde Afyonkarahisar - Konya istikameti trafiğe kapatılarak ulaşım Konya -Afyonkarahisar istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
+                "extracted_keyword": "Afyonkarahisar İl Sn. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-27T14:23:21.685192"
+                "updated_at": "2026-06-27T15:48:25.067774"
             }
         },
         {
@@ -57,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.8469174,
-                    36.921575
+                    36.7680422,
+                    37.1998598
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Çeşmeli-Mersin-Tarsus Otoyolunda Tarsus Batı Kavşağı-D400 Kavşağı arasında yapılacak yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Tarsus Otoyolunda Tarsus Batı Kavşağı",
+                "description": "Nurdağı-Gaziantep yolunun 33-37.km.leri arasında üstyapı çalışmaları nedeniyle trafik diğer şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-27T14:23:21.857374"
+                "updated_at": "2026-06-27T15:48:25.208032"
             }
         },
         {
@@ -74,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.915208,
-                    38.0396315
+                    34.9126589,
+                    40.511067
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Aksaray Yolu",
+                "description": "Kırıkkale-Kırşehir yolunun 5-9.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kırıkkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-27T14:23:22.028309"
+                "updated_at": "2026-06-27T15:48:25.368784"
             }
         },
         {
@@ -91,16 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.094498,
-                    39.895394
+                    38.2056653,
+                    37.7299639
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Kırıkkale-Kırşehir Devlet Yolunun 10-11.km. arasında trafik Kırıkkale ve Kırşehir istikametlerinde servis yollarından kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Delice Otoyolu",
+                "description": "Gölbaşı - Kahramanmaraş il snr. yolunun 20-25.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Gölbaşı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-27T14:23:22.177966"
+                "updated_at": "2026-06-27T15:48:25.537825"
             }
         },
         {
@@ -108,16 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.7530219,
-                    38.4779171
+                    39.22031,
+                    41.047783
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Nevşehir-Kayseri yolun 64-67.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Nevşehir Yolu",
+                "description": "Beşikdüzü-Trabzon yolunun 57. km. sinde (Trabzon Şehirgeçişi, Sahil Geçişi, Değirmendere mevki) yapılmakta olan yol yapım çalışması nedeniyle bölünmüş yolun Yomra yönünde ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Beşikdüzü Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-27T14:23:22.333125"
+                "updated_at": "2026-06-27T15:48:25.667745"
             }
         },
         {
@@ -125,50 +108,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.04186,
-                    40.875439
+                    30.4517396,
+                    39.7460973
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ünye-Fatsa yolunun 29-34.km.leri arasında devam eden kavşak düzenleme çalışmaları nedeniyle Fatsa istikametinde sol şerit trafiğe kapatılmış olup, ulaşım sağ şeritten sağlanmaktadır.",
-                "extracted_keyword": "Ünye Yolu",
+                "description": "Kütahya-Eskişehir  yolunun  17-18.km.leri arasında sanat yapıları çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kütahya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-27T14:23:22.516921"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.5516071,
-                    38.7481263
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Malatya-Darende yolunun 26-31.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Malatya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-06-27T14:23:22.664894"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    40.2238659,
-                    40.5944365
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Of-Çaykara yolunun 19.km.sinde bulunan T4 tünelinin, bölünmüş yolun her iki yönündeki tüplerinde yapılmakta olan aydınlatma sistemi montaj çalışması nedeniyle çalışmanın devamı müddetince ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Of-Çaykara yolunun 19.km.sinde",
-                "category": "road_work",
-                "updated_at": "2026-06-27T14:23:22.818911"
+                "updated_at": "2026-06-27T15:48:25.816455"
             }
         }
     ]
