@@ -15,7 +15,7 @@
                 "description": "İzmir Çevre Otoyolunun 1-2.km.leri arasında köprü derzlerinin yenilenmesi çalışmaları nedeniyle  28.06.2026-01.07.2026 tarihleri arasında Kemalpaşa Köprüsü Menemen istikameti sağ ve emniyet şeridi trafiğe kapatılacak olup, ulaşım diğer şeritlerden sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-28T22:31:49.211698"
+                "updated_at": "2026-06-28T23:42:53.574404"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Kırıkkale-Kırşehir yolunun 10-11.km.leri arasında her iki yönde ulaşım servis yollarından kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-28T22:31:49.362932"
+                "updated_at": "2026-06-28T23:42:53.727340"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Sakarya-Düzce yolunun 34-35.km.leri arasında (Hendek doğu çıkışı) menfez yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-28T22:31:49.496144"
+                "updated_at": "2026-06-28T23:42:53.889254"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Bozüyük-Bilecik-Mekece yolunun 50-52.km.leri arasında yol yapım çalışmaları nedeniyle Bozüyük-Mekece istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bozüyük Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-28T22:31:49.616644"
+                "updated_at": "2026-06-28T23:42:54.025319"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Kayseri-Kırşehir yolunun 6-11.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-28T22:31:49.773208"
+                "updated_at": "2026-06-28T23:42:54.174980"
             }
         },
         {
@@ -91,16 +91,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    39.085336,
-                    40.7020109
+                    30.1955388,
+                    37.0628734
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Trabzon-Gümüşhane İl Sınırı-Torul-Gümüşhane yolunun 15-48.km.leri arasında bulunan Kürtün (Uluköy), Budak, Kürtün Kavşağı, Torul, T 1, T 2, T 3, T 4 ve T 5 Tünellerinin her iki yönündeki tüplerinde yangın söndürme sistemi bakım, onarım çalışması nedeniyle 29.06.2026-07.07.2026 tarihleri arasında, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Kürtün Kavşağı",
+                "description": "Antalya-Isparta yolunun 34-36.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-28T22:31:50.417619"
+                "updated_at": "2026-06-28T23:42:54.319668"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.2232354,
+                    37.0631966
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Toprakkale-İskenderun yolunun 34-38.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Toprakkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-28T23:42:54.449173"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7238906,
+                    39.4491249
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kangal-Alacahan-Hekimhan yolunun 0-7.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kangal Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-28T23:42:54.575674"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.421013,
+                    38.722091
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Yeniköprü-Yüksekova yolunun 51-55.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Yeniköprü Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-28T23:42:54.705051"
             }
         }
     ]
