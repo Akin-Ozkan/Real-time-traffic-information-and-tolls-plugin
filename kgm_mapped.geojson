@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolu Muallimköy Kavşağı–Doğu Hereke Kavşağı arasındaki bölümde güney yolda üstyapı onarım ve yenileme çalışmaları yapılacaktır. Çalışmalar esnasında TEM Otoyolu, İstanbul-Ankara yönünde trafiğe tamamen kapatılarak, trafik akışı Muallimköy Kavşağından D-100 Devlet Yoluna ve Kuzey Marmara Otoyolu’na yönlendirilecektir. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir. (Çalışmalar 24 saat esasına göre yürütülecektir. )",
                 "extracted_keyword": "TEM Otoyolu Muallimköy Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-06-30T21:51:36.079525"
+                "updated_at": "2026-06-30T23:05:42.519588"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir Çevre Otoyolunun 0-1.km.leri arasında 28.06.2026-01.07.2026 tarihlerinde köprü derzlerinin yenilenmesi çalışmaları nedeniyle Kemalpaşa Köprüsü Aydın istikameti sağ ve emniyet şeridi trafiğe kapatılacak olup, ulaşım sol ve orta şeritten sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-06-30T21:51:36.168538"
+                "updated_at": "2026-06-30T23:05:42.690490"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında 16.06.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-30T21:51:36.274006"
+                "updated_at": "2026-06-30T23:05:42.863611"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara - Kırıkkale yolunun Ankara - Kırıkkale istikameti 6 -9. km. arası üstyapı onarım (BSK) çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Kırıkkale - Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-30T21:51:36.374405"
+                "updated_at": "2026-06-30T23:05:43.067606"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Nurdağı-Islahiye-Hassa yolunda üstyapı çalışmaları nedeniyle trafik servis yolundan kontrollü olarak verilmektedir.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-30T21:51:36.459213"
+                "updated_at": "2026-06-30T23:05:43.228903"
             }
         },
         {
@@ -100,7 +100,75 @@
                 "description": "Alaca-Zile yolunun 19-23.km.leri arasında 22.06.2026 tarihinden itibaren yol yapım çalışması olduğundan ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Alaca Yolu",
                 "category": "road_work",
-                "updated_at": "2026-06-30T21:51:36.547728"
+                "updated_at": "2026-06-30T23:05:43.430348"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5599202,
+                    40.0689652
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Turhal-Zile yolunun 41-47 km.leri arasında bölünmüş yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Turhal Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-30T23:05:43.612306"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5975925,
+                    38.5312708
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bingöl-Solhan yolunun 8-12.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Bingöl Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-30T23:05:43.778417"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2451926,
+                    41.0160955
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Of-Çaykara yolunun 19. km. sinde bulunan T4 tünelinin, bölünmüş yolun her iki yönündeki tüplerinde yapılmakta olan aydınlatma sistemi montaj çalışması nedeniyle çalışmanın devamı müddetince ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Of-Çaykara yolunun 19.",
+                "category": "road_work",
+                "updated_at": "2026-06-30T23:05:43.991288"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.030583,
+                    41.727395
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Karamanlı-Yeşilova yolunun 41-44 km.leri arasında 29.04.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Karamanlı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-06-30T23:05:44.145514"
             }
         }
     ]
