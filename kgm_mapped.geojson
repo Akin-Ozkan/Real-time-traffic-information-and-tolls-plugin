@@ -15,7 +15,7 @@
                 "description": "Aydın-Denizli Otoyolunun 3-8.km.leri arasında üstyapı yenileme çalışması nedeniyle Denizli istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır. (29.06.2026-13.07.2026)",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-03T08:22:15.861158"
+                "updated_at": "2026-07-03T11:07:31.132293"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Seydişehir-Akseki-Manavgat yolunun 25-36.km.leri arasında patlatmalı kazı çalışmaları nedeniyle 03.07.2026 tarihinde 10:00-17:00 saatleri arasında aralıklarla yol trafiğe kapatılacaktır. Cevizli-Derebucak-İbradı güzergahı alternatif hat olarak belirlenmiştir.",
                 "extracted_keyword": "Seydişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-03T08:22:16.046391"
+                "updated_at": "2026-07-03T11:07:31.238868"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Gerede-Kızılcahamam-Ankara yolunun 21-22.km.leri arasında yol yapım çalışmaları nedeniyle Kızılcahamam-Gerede istikameti  trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gerede Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-03T08:22:16.180714"
+                "updated_at": "2026-07-03T11:07:31.362071"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Bozüyük-Bilecik-Mekece yolunun 50-52.km.leri arasında yol yapım çalışmaları nedeniyle Bozüyük-Mekece istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bozüyük Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-03T08:22:16.341442"
+                "updated_at": "2026-07-03T11:07:31.456132"
             }
         },
         {
@@ -83,75 +83,7 @@
                 "description": "Sinop-Samsun yolunun 72-77.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Sinop Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-03T08:22:16.511472"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.7680422,
-                    37.1998598
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Nurdağı-İslahiye-Hassa yolunun 7-10.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Nurdağı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-03T08:22:16.675044"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.7999719,
-                    41.6391817
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kırklareli-Saray yolunun 35-39.km.leri arasında üstyapı yenileme çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kırklareli Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-03T08:22:16.881972"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.8939718,
-                    38.7311981
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Bingöl-Solhan yolunun 8-12.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Bingöl Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-03T08:22:17.190603"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.085336,
-                    40.7020109
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Trabzon-Gümüşhane İl Sınırı-Torul-Gümüşhane yolunun 15-48.km.leri arasında bulunan Kürtün (Uluköy), Budak, Kürtün Kavşağı, Torul, T 1, T 2, T 3, T 4 ve T 5 Tünellerinin her iki yönündeki tüplerinde yangın söndürme sistemi bakım, onarım çalışması nedeniyle 29.06.2026-07.07.2026 tarihleri arasında, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Kürtün Kavşağı",
-                "category": "road_work",
-                "updated_at": "2026-07-03T08:22:17.363589"
+                "updated_at": "2026-07-03T11:07:31.551022"
             }
         }
     ]
