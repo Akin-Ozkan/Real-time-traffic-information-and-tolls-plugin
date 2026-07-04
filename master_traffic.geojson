@@ -12,7 +12,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635051"
+                "updated_at": "2026-07-04T20:00:32.921907"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4846652994,
+                    39.7828191567
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-04T20:00:32.921923"
             }
         },
         {
@@ -26,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635072"
+                "updated_at": "2026-07-04T20:00:32.921926"
             }
         },
         {
@@ -40,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635077"
+                "updated_at": "2026-07-04T20:00:32.921928"
             }
         },
         {
@@ -54,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635081"
+                "updated_at": "2026-07-04T20:00:32.921930"
             }
         },
         {
@@ -68,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635085"
+                "updated_at": "2026-07-04T20:00:32.921932"
             }
         },
         {
@@ -76,27 +90,41 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5069034944,
-                    39.7938404104
-                ]
-            },
-            "properties": {
-                "category_code": 9,
-                "updated_at": "2026-07-04T18:45:57.635088"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5111869822,
-                    39.7804628937
+                    30.5091002235,
+                    39.764505044
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-07-04T18:45:57.635091"
+                "updated_at": "2026-07-04T20:00:32.921934"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5109683821,
+                    39.7837767117
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-04T20:00:32.921936"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.513815547,
+                    39.7954577326
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-04T20:00:32.921938"
             }
         },
         {
@@ -110,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635094"
+                "updated_at": "2026-07-04T20:00:32.921939"
             }
         },
         {
@@ -124,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635097"
+                "updated_at": "2026-07-04T20:00:32.921941"
             }
         },
         {
@@ -138,7 +166,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635100"
+                "updated_at": "2026-07-04T20:00:32.921943"
             }
         },
         {
@@ -152,7 +180,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635103"
+                "updated_at": "2026-07-04T20:00:32.921948"
             }
         },
         {
@@ -166,21 +194,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635106"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6442808757,
-                    39.7528146445
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635109"
+                "updated_at": "2026-07-04T20:00:32.921950"
             }
         },
         {
@@ -194,7 +208,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-04T18:45:57.635112"
+                "updated_at": "2026-07-04T20:00:32.921952"
             }
         },
         {
@@ -202,16 +216,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.5974097,
-                    41.2166017
+                    30.6442808757,
+                    39.7528146445
                 ]
             },
             "properties": {
-                "source": "KGM",
-                "description": "Kuzey Marmara Otoyolunun 6-10.km.leri arasında 03.07.2026-06.07.2026 tarihlerinde Riva Kavşağı-Hüseyinli Kavşağı mevkii  Ankara (Güney) istikametinde  Prof.Dr.Mahir VARDAR Tüneli Güney tüpünde bakım onarım çalışması yapılacaktır. Çalışmalar süresince bant aktarımı yapılacak olup ulaşım tek platformdan iki yönlü olarak sağlanacaktır.",
-                "extracted_keyword": "Kuzey Marmara Otoyolu",
-                "category": "road_work",
-                "updated_at": "2026-07-04T18:46:13.741234"
+                "category_code": 8,
+                "updated_at": "2026-07-04T20:00:32.921953"
             }
         },
         {
@@ -219,33 +230,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.001225,
-                    38.5832233
+                    28.7087851,
+                    41.058756
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Menemen-Aliağa-Çandarlı otoyolunun 0-1.km.leri arasında 04.07.2027-06.07.2027 tarihlerinde  Güzelhisar viyadüğü İzmir istikameti köprü genleşme derzi onarım çalışmaları nedeniyle  emniyet şeridi ile sağ şerit trafiğe kapatılacak olup ulaşım Orta ve Sol şeritten sağlanacaktır.",
-                "extracted_keyword": "Menemen Yolu",
+                "description": "TEM Otoyolunun 0-13.km.leri arasında Hendek Kavşağı-Akyazı Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak verilecektir. Ayrıca çalışmanın ilk etabında Kuzey Marmara Otoyolu Akyazı Kavşağından İstanbul istikametine giriş kapatılacaktır.",
+                "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-04T18:46:13.880569"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.1635646,
-                    37.0398926
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Pozantı-Tarsus Otoyolunun 6-8.km.leri  arasında 01.07.2026 tarihinden itibaren üstyapı bakım onarım ve asfalt çalışmaları sebebiyle sol şerit ve orta şerit taşıt trafiğine geçici olarak kapatılmış olup, ulaşım sağ şeritten kontrollü olarak sağlanmaktadır",
-                "extracted_keyword": "Tarsus Otoyolu",
-                "category": "road_work",
-                "updated_at": "2026-07-04T18:46:13.987102"
+                "updated_at": "2026-07-04T20:00:35.525272"
             }
         },
         {
@@ -259,10 +253,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir-Aydın Otoyolunun 19-20.km.leri arasında Kızılçay Köprüsünün İzmir istikameti  köprü derz onarım ve yenileme çalışmaları nedeniyle 04-07-2026-07-07-2026 tarihlerinde sağ ve emniyet şeridi trafiğe kapatılacak olup, ulaşım sol ve orta şeritten sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "description": "Aydın Otoyolunun 9-10.km.leri arasında Yalki Deresi Köprüsünün İzmir istikameti köprü derz onarım ve yenileme çalışmaları nedeniyle 05.07.2026-08.07.2026 tarihlerinde sol ve orta şerit trafiğe kapatılacak olup, ulaşım sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-04T18:46:14.106057"
+                "updated_at": "2026-07-04T20:00:35.695409"
             }
         },
         {
@@ -270,16 +264,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.904066,
-                    40.491984
+                    32.915208,
+                    38.0396315
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Kırıkkale yolunun Ankara-Kırıkkale istikameti 6-9.km.leri arasında   29.06.2026 tarihinden itibaren üstyapı onarım (BSK) çalışmaları nedeniyle yol trafiğe kapatılmış olup,  ulaşım Kırıkkale-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Yolu",
+                "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-04T18:46:14.243153"
+                "updated_at": "2026-07-04T20:00:35.872434"
             }
         },
         {
@@ -287,16 +281,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.3452414,
-                    40.5399997
+                    32.891361,
+                    39.430328
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Amasya-Turhal yolunun 61-62 km.leri arasında bölünmüş yol yapım çalışmaları nedeniyle bölünmüş yolun Amasya yönü trafiği kapatılmış olup, ulaşım diğer taraftan iki yönlü sağlanmaktadır.",
-                "extracted_keyword": "Amasya Yolu",
+                "description": "Ankara-Konya yolunun 28-31.km.leri (Çimşit Kavşağı) arasında yol yapım çalışmaları nedeniyle çalışma yapılan bu kesimde Konya-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-Konya istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
+                "extracted_keyword": "Çimşit Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-07-04T18:46:14.330156"
+                "updated_at": "2026-07-04T20:00:36.036447"
             }
         },
         {
@@ -304,16 +298,84 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    41.9882902,
-                    41.1850505
+                    36.7680422,
+                    37.1998598
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ardahan-Şavşat  yolunun 6-1.km.leri arasında  02.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir",
-                "extracted_keyword": "Ardahan Yolu",
+                "description": "Nurdağı-Gaziantep yolunun 33-37.km.leri arasında üstyapı çalışmaları nedeniyle trafik diğer şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-04T18:46:14.548784"
+                "updated_at": "2026-07-04T20:00:36.183406"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9481733,
+                    39.9297819
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Alaca-Zile yolunun 19-23.km.leri arasında yol yapım çalışması nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Alaca Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-04T20:00:36.368775"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.595154,
+                    40.671524
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tokat-Almus yolunun 9-13.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Tokat Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-04T20:00:36.538083"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.2056653,
+                    37.7299639
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Gölbaşı-Kahramanmaraş yolunun 20-25.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Gölbaşı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-04T20:00:36.712586"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8618362,
+                    39.986766
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Of-Çaykara yolunun 19. km. sinde bulunan T4 tünelinin, bölünmüş yolun her iki yönündeki tüplerinde yapılmakta olan aydınlatma sistemi montaj çalışması nedeniyle çalışmanın devamı müddetince ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Of-Çaykara yolunun 19.",
+                "category": "road_work",
+                "updated_at": "2026-07-04T20:00:36.890781"
             }
         }
     ]
