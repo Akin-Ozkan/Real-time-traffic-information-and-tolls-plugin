@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-13.km.leri arasında Hendek Kavşağı-Akyazı Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak verilecektir. Ayrıca çalışmanın ilk etabında Kuzey Marmara Otoyolu Akyazı Kavşağından İstanbul istikametine giriş kapatılacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T08:17:49.472131"
+                "updated_at": "2026-07-05T10:31:37.337616"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın Otoyolunun 9-10.km.leri arasında Yalki Deresi Köprüsünün İzmir istikameti köprü derz onarım ve yenileme çalışmaları nedeniyle 05.07.2026-08.07.2026 tarihlerinde sol ve orta şerit trafiğe kapatılacak olup, ulaşım sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T08:17:49.627877"
+                "updated_at": "2026-07-05T10:31:37.464711"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T08:17:49.784434"
+                "updated_at": "2026-07-05T10:31:37.639251"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Konya yolunun 28-31.km.leri (Çimşit Kavşağı) arasında yol yapım çalışmaları nedeniyle çalışma yapılan bu kesimde Konya-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-Konya istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Çimşit Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-07-05T08:17:49.949271"
+                "updated_at": "2026-07-05T10:31:37.813283"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Nurdağı-Gaziantep yolunun 33-37.km.leri arasında üstyapı çalışmaları nedeniyle trafik diğer şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T08:17:50.086089"
+                "updated_at": "2026-07-05T10:31:37.953222"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Alaca-Zile yolunun 19-23.km.leri arasında yol yapım çalışması nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Alaca Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T08:17:50.237588"
+                "updated_at": "2026-07-05T10:31:38.107928"
             }
         },
         {
@@ -117,7 +117,7 @@
                 "description": "Tokat-Almus yolunun 9-13.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Tokat Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T08:17:50.399444"
+                "updated_at": "2026-07-05T10:31:38.266847"
             }
         },
         {
@@ -134,7 +134,7 @@
                 "description": "Gölbaşı-Kahramanmaraş yolunun 20-25.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gölbaşı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T08:17:50.556069"
+                "updated_at": "2026-07-05T10:31:38.420208"
             }
         },
         {
@@ -151,7 +151,24 @@
                 "description": "Of-Çaykara yolunun 19. km. sinde bulunan T4 tünelinin, bölünmüş yolun her iki yönündeki tüplerinde yapılmakta olan aydınlatma sistemi montaj çalışması nedeniyle çalışmanın devamı müddetince ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Of-Çaykara yolunun 19.",
                 "category": "road_work",
-                "updated_at": "2026-07-05T08:17:50.674498"
+                "updated_at": "2026-07-05T10:31:38.556823"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.101272,
+                    39.8202717
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Balıkesir-Kepsut yolunun 9-13.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü sağlanmaktadır.",
+                "extracted_keyword": "Balıkesir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-05T10:31:38.724284"
             }
         }
     ]
