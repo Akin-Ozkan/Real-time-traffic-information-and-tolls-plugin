@@ -15,7 +15,7 @@
                 "description": "Pozantı-Tarsus Otoyolunun 6-8.km.leri arasında üstyapı bakım onarım ve asfalt çalışmaları nedeniyle sol ve orta şerit trafiğe kapatılarak ulaşım sağ şeritten sağlanmaktadır.",
                 "extracted_keyword": "Tarsus Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T18:51:08.039159"
+                "updated_at": "2026-07-05T20:08:04.002760"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Konya yolunun 56-59.km.leri arasında (Karahamzalı Mevkii) yol yapım çalışmaları nedeniyle Ankara-Konya istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T18:51:08.202420"
+                "updated_at": "2026-07-05T20:08:04.116057"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Bursa-Yalova yolunun 39-42.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T18:51:08.372339"
+                "updated_at": "2026-07-05T20:08:04.212485"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Muğla-Denizli yolunun 22-27.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Muğla Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T18:51:08.518457"
+                "updated_at": "2026-07-05T20:08:04.316281"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Kırıkkale-Kırşehir yolunun 5-9.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kırıkkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T18:51:08.668310"
+                "updated_at": "2026-07-05T20:08:04.403261"
             }
         },
         {
@@ -91,33 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43.285805,
-                    40.8638379
+                    29.5924608,
+                    36.8433068
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Muş-Bulanık yolunun 57-67.km.leri (Kümbet Kavşağı-Üçyol Kavşağı) arasında yol yapım çalışmaları nedeniyle yol trafiğe kapatılmış olup, ulaşım Hasköy-Korkut il yolundan sağlanmaktadır.",
-                "extracted_keyword": "Kümbet Kavşağı",
+                "description": "Antalya-Manavgat-Alanya yolunun 0-28.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T18:51:09.062008"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.941476,
-                    37.779022
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Iğdır-Karakoyunlu yolunun 2-6.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Iğdır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-05T18:51:09.209840"
+                "updated_at": "2026-07-05T20:08:04.518131"
             }
         }
     ]
