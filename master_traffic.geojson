@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555600"
+                "updated_at": "2026-07-05T05:09:17.467775"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555612"
+                "updated_at": "2026-07-05T05:09:17.467795"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555615"
+                "updated_at": "2026-07-05T05:09:17.467798"
             }
         },
         {
@@ -54,7 +54,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555618"
+                "updated_at": "2026-07-05T05:09:17.467801"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4877002189,
+                    39.7849233641
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-05T05:09:17.467803"
             }
         },
         {
@@ -68,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555620"
+                "updated_at": "2026-07-05T05:09:17.467805"
             }
         },
         {
@@ -82,7 +96,21 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-07-05T01:11:07.555622"
+                "updated_at": "2026-07-05T05:09:17.467806"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5239127228,
+                    39.7650776955
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-05T05:09:17.467808"
             }
         },
         {
@@ -96,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555623"
+                "updated_at": "2026-07-05T05:09:17.467810"
             }
         },
         {
@@ -110,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555625"
+                "updated_at": "2026-07-05T05:09:17.467812"
             }
         },
         {
@@ -124,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555627"
+                "updated_at": "2026-07-05T05:09:17.467814"
             }
         },
         {
@@ -138,7 +166,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555629"
+                "updated_at": "2026-07-05T05:09:17.467815"
             }
         },
         {
@@ -152,21 +180,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555631"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6442808757,
-                    39.7528146445
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555632"
+                "updated_at": "2026-07-05T05:09:17.467822"
             }
         },
         {
@@ -180,7 +194,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-05T01:11:07.555634"
+                "updated_at": "2026-07-05T05:09:17.467824"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6442808757,
+                    39.7528146445
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-07-05T05:09:17.467825"
             }
         },
         {
@@ -197,7 +225,7 @@
                 "description": "TEM Otoyolunun 0-13.km.leri arasında Hendek Kavşağı-Akyazı Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak verilecektir. Ayrıca çalışmanın ilk etabında Kuzey Marmara Otoyolu Akyazı Kavşağından İstanbul istikametine giriş kapatılacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T01:11:09.146557"
+                "updated_at": "2026-07-05T05:09:19.356209"
             }
         },
         {
@@ -214,7 +242,7 @@
                 "description": "Aydın Otoyolunun 9-10.km.leri arasında Yalki Deresi Köprüsünün İzmir istikameti köprü derz onarım ve yenileme çalışmaları nedeniyle 05.07.2026-08.07.2026 tarihlerinde sol ve orta şerit trafiğe kapatılacak olup, ulaşım sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T01:11:09.259765"
+                "updated_at": "2026-07-05T05:09:19.537025"
             }
         },
         {
@@ -231,7 +259,7 @@
                 "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T01:11:09.365316"
+                "updated_at": "2026-07-05T05:09:19.704240"
             }
         },
         {
@@ -248,7 +276,7 @@
                 "description": "Ankara-Konya yolunun 28-31.km.leri (Çimşit Kavşağı) arasında yol yapım çalışmaları nedeniyle çalışma yapılan bu kesimde Konya-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-Konya istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Çimşit Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-07-05T01:11:09.495682"
+                "updated_at": "2026-07-05T05:09:19.881154"
             }
         },
         {
@@ -265,7 +293,92 @@
                 "description": "Nurdağı-Gaziantep yolunun 33-37.km.leri arasında üstyapı çalışmaları nedeniyle trafik diğer şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-05T01:11:09.593215"
+                "updated_at": "2026-07-05T05:09:20.029708"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9481733,
+                    39.9297819
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Alaca-Zile yolunun 19-23.km.leri arasında yol yapım çalışması nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Alaca Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-05T05:09:20.214556"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.595154,
+                    40.671524
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tokat-Almus yolunun 9-13.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Tokat Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-05T05:09:20.373554"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.2056653,
+                    37.7299639
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Gölbaşı-Kahramanmaraş yolunun 20-25.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Gölbaşı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-05T05:09:20.536533"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8618362,
+                    39.986766
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Of-Çaykara yolunun 19. km. sinde bulunan T4 tünelinin, bölünmüş yolun her iki yönündeki tüplerinde yapılmakta olan aydınlatma sistemi montaj çalışması nedeniyle çalışmanın devamı müddetince ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Of-Çaykara yolunun 19.",
+                "category": "road_work",
+                "updated_at": "2026-07-05T05:09:20.729742"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.101272,
+                    39.8202717
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Balıkesir-Kepsut yolunun 9-13.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü sağlanmaktadır.",
+                "extracted_keyword": "Balıkesir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-05T05:09:20.885170"
             }
         }
     ]
