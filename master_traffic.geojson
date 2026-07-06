@@ -6,13 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4694853375,
-                    39.7913351701
+                    30.464295263,
+                    39.7996969933
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968813"
+                "updated_at": "2026-07-06T14:17:12.279915"
             }
         },
         {
@@ -20,13 +20,69 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4865321169,
-                    39.8015678313
+                    30.4638044188,
+                    39.7813050512
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279931"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4664168904,
+                    39.7739759258
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279935"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4665121088,
+                    39.7994448783
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968828"
+                "updated_at": "2026-07-06T14:17:12.279937"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4694853375,
+                    39.7913351701
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-07-06T14:17:12.279939"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4708841095,
+                    39.7760720935
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279941"
             }
         },
         {
@@ -40,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968831"
+                "updated_at": "2026-07-06T14:17:12.279942"
             }
         },
         {
@@ -48,13 +104,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4831726501,
-                    39.7901711062
+                    30.4865321169,
+                    39.8015678313
                 ]
             },
             "properties": {
-                "category_code": 6,
-                "updated_at": "2026-07-06T10:47:39.968834"
+                "category_code": 8,
+                "updated_at": "2026-07-06T14:17:12.279944"
             }
         },
         {
@@ -68,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968836"
+                "updated_at": "2026-07-06T14:17:12.279946"
             }
         },
         {
@@ -76,13 +132,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5185214827,
-                    39.781498165
+                    30.5084310124,
+                    39.7868559215
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-07-06T10:47:39.968842"
+                "updated_at": "2026-07-06T14:17:12.279952"
             }
         },
         {
@@ -90,13 +146,125 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5257124851,
-                    39.7676713839
+                    30.5115477393,
+                    39.7707492527
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-07-06T10:47:39.968844"
+                "updated_at": "2026-07-06T14:17:12.279953"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5128419051,
+                    39.7736607768
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279955"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5084591756,
+                    39.7781722556
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279957"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5139764795,
+                    39.7810261368
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279958"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5182264397,
+                    39.7682172077
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279960"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5198639283,
+                    39.7698493701
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279961"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5234218786,
+                    39.781892507
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279963"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5257178495,
+                    39.7678497822
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279964"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5237584958,
+                    39.7750971022
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279966"
             }
         },
         {
@@ -110,7 +278,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968846"
+                "updated_at": "2026-07-06T14:17:12.279970"
             }
         },
         {
@@ -124,7 +292,7 @@
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-07-06T10:47:39.968848"
+                "updated_at": "2026-07-06T14:17:12.279972"
             }
         },
         {
@@ -138,7 +306,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968850"
+                "updated_at": "2026-07-06T14:17:12.279973"
             }
         },
         {
@@ -146,13 +314,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5307456503,
-                    39.7671483632
+                    30.5306611607,
+                    39.7681514926
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-07-06T10:47:39.968852"
+                "updated_at": "2026-07-06T14:17:12.279975"
             }
         },
         {
@@ -166,21 +334,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968854"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5335217366,
-                    39.797170328
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-07-06T10:47:39.968856"
+                "updated_at": "2026-07-06T14:17:12.279976"
             }
         },
         {
@@ -194,7 +348,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968858"
+                "updated_at": "2026-07-06T14:17:12.279978"
             }
         },
         {
@@ -202,13 +356,111 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5563218544,
-                    39.762045449
+                    30.5539118896,
+                    39.745276317
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-07-06T10:47:39.968860"
+                "updated_at": "2026-07-06T14:17:12.279979"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5561367819,
+                    39.7664040923
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279981"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5590845297,
+                    39.7626637387
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279982"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5598811457,
+                    39.7656195453
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279984"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5663345406,
+                    39.7638774285
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279985"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.564581717,
+                    39.7534570533
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279991"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5691253791,
+                    39.7513783053
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279995"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5698790798,
+                    39.761781276
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-06T14:17:12.279997"
             }
         },
         {
@@ -222,7 +474,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968863"
+                "updated_at": "2026-07-06T14:17:12.279998"
             }
         },
         {
@@ -236,7 +488,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-07-06T10:47:39.968865"
+                "updated_at": "2026-07-06T14:17:12.280000"
             }
         },
         {
@@ -250,7 +502,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-07-06T10:47:39.968867"
+                "updated_at": "2026-07-06T14:17:12.280001"
             }
         },
         {
@@ -258,41 +510,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.6403568039,
-                    39.7524324442
+                    30.6261437784,
+                    39.7448511522
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-07-06T10:47:39.968869"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6403568039,
-                    39.7524324442
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-07-06T10:47:39.968871"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6442808757,
-                    39.7528146445
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968873"
+                "updated_at": "2026-07-06T14:17:12.280003"
             }
         },
         {
@@ -306,7 +530,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-06T10:47:39.968875"
+                "updated_at": "2026-07-06T14:17:12.280004"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6442808757,
+                    39.7528146445
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-07-06T14:17:12.280006"
             }
         },
         {
@@ -323,7 +561,7 @@
                 "description": "Pozantı-Tarsus Otoyolunun 6-8.km.leri arasında üstyapı bakım onarım ve asfalt çalışmaları nedeniyle sol ve orta şerit trafiğe kapatılarak ulaşım sağ şeritten sağlanmaktadır.",
                 "extracted_keyword": "Tarsus Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T10:47:42.194008"
+                "updated_at": "2026-07-06T14:17:14.181160"
             }
         },
         {
@@ -340,7 +578,7 @@
                 "description": "Ankara-Konya yolunun 56-59.km.leri arasında (Karahamzalı Mevkii) yol yapım çalışmaları nedeniyle Ankara-Konya istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T10:47:42.356511"
+                "updated_at": "2026-07-06T14:17:14.369654"
             }
         },
         {
@@ -357,7 +595,7 @@
                 "description": "Muğla-Denizli yolunun 22-27.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Muğla Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T10:47:42.514822"
+                "updated_at": "2026-07-06T14:17:14.546992"
             }
         },
         {
@@ -374,7 +612,7 @@
                 "description": "Kırıkkale-Kırşehir yolunun 5-9.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kırıkkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T10:47:42.670111"
+                "updated_at": "2026-07-06T14:17:14.757049"
             }
         },
         {
@@ -391,7 +629,75 @@
                 "description": "Antalya-Manavgat-Alanya yolunun 0-28.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T10:47:42.832634"
+                "updated_at": "2026-07-06T14:17:14.946306"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5167049,
+                    41.2907465
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Zonguldak-Karabük İl Sınırı-Yenice-Karabük yolunun 48-51.km.leri (Soğuksu Mahallesi ile Fatih Mahallesi) arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Zonguldak Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-06T14:17:15.090704"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.285805,
+                    40.8638379
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Muş-Bulanık yolunun 57-67.km.leri (Kümbet Kavşağı-Üçyol Kavşağı) arasında yol yapım çalışmaları nedeniyle yol trafiğe kapatılmış olup, ulaşım Hasköy-Korkut il yolundan sağlanmaktadır.",
+                "extracted_keyword": "Kümbet Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-07-06T14:17:15.289548"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.941476,
+                    37.779022
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Iğdır-Karakoyunlu yolunun 2-6.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Iğdır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-06T14:17:15.430586"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.9882902,
+                    41.1850505
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ardahan-Şavşat yolunun 6-11.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Ardahan Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-06T14:17:15.585450"
             }
         }
     ]
