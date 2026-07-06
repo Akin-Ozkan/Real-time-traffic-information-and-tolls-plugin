@@ -15,7 +15,7 @@
                 "description": "Pozantı-Tarsus Otoyolunun 6-8.km.leri arasında üstyapı bakım onarım ve asfalt çalışmaları nedeniyle sol ve orta şerit trafiğe kapatılarak ulaşım sağ şeritten sağlanmaktadır.",
                 "extracted_keyword": "Tarsus Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T14:17:14.181160"
+                "updated_at": "2026-07-06T17:17:48.813335"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Konya yolunun 56-59.km.leri arasında (Karahamzalı Mevkii) yol yapım çalışmaları nedeniyle Ankara-Konya istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T14:17:14.369654"
+                "updated_at": "2026-07-06T17:17:48.952748"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Muğla-Denizli yolunun 22-27.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Muğla Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T14:17:14.546992"
+                "updated_at": "2026-07-06T17:17:49.072705"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Kırıkkale-Kırşehir yolunun 5-9.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kırıkkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T14:17:14.757049"
+                "updated_at": "2026-07-06T17:17:49.184832"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Antalya-Manavgat-Alanya yolunun 0-28.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T14:17:14.946306"
+                "updated_at": "2026-07-06T17:17:49.293215"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Zonguldak-Karabük İl Sınırı-Yenice-Karabük yolunun 48-51.km.leri (Soğuksu Mahallesi ile Fatih Mahallesi) arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Zonguldak Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T14:17:15.090704"
+                "updated_at": "2026-07-06T17:17:49.401037"
             }
         },
         {
@@ -117,41 +117,7 @@
                 "description": "Muş-Bulanık yolunun 57-67.km.leri (Kümbet Kavşağı-Üçyol Kavşağı) arasında yol yapım çalışmaları nedeniyle yol trafiğe kapatılmış olup, ulaşım Hasköy-Korkut il yolundan sağlanmaktadır.",
                 "extracted_keyword": "Kümbet Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-07-06T14:17:15.289548"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.941476,
-                    37.779022
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Iğdır-Karakoyunlu yolunun 2-6.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Iğdır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-06T14:17:15.430586"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    41.9882902,
-                    41.1850505
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ardahan-Şavşat yolunun 6-11.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Ardahan Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-06T14:17:15.585450"
+                "updated_at": "2026-07-06T17:17:49.498446"
             }
         }
     ]
