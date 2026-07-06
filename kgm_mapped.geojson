@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolu Muallimköy Kavşağı – Körfez Kavşağı arasındaki bölümde güney yolda üstyapı onarım ve yenileme çalışmaları yapılacaktır. Çalışmalar esnasında, TEM Otoyolu, İstanbul - Ankara yönünde trafiğe tamamen kapatılarak, trafik akışı Muallimköy Kavşağından D-100 Devlet Yoluna ve Kuzey Marmara Otoyolu’na yönlendirilecektir. D-100 Devlet Yolundan TEM Otoyolu Dilovası ve Doğu Hereke Gişeleri Ankara yönüne girişler de kapalı olacaktır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir. Çalışmalar 06.07.2026 Pazartesi günü saat 12:00’den itibaren başlayacak olup 24 saat esasına göre yürütülecektir.",
                 "extracted_keyword": "TEM Otoyolu Muallimköy Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-07-06T21:02:03.434696"
+                "updated_at": "2026-07-06T22:22:48.172281"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın Otoyolunun 9-10.km.leri arasında Yalki Deresi Köprüsünün İzmir istikameti köprü derz onarım ve yenileme çalışmaları nedeniyle 05.07.2026-08.07.2026 tarihlerinde sol ve orta şerit trafiğe kapatılacak olup, ulaşım sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T21:02:03.561029"
+                "updated_at": "2026-07-06T22:22:48.340522"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Beyşehir-Seydişehir-Antalya yolunun 60-62.km.leri arasında devam eden yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Beyşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T21:02:03.656108"
+                "updated_at": "2026-07-06T22:22:48.489519"
             }
         },
         {
@@ -57,8 +57,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.904066,
-                    40.491984
+                    30.496592,
+                    40.397845
                 ]
             },
             "properties": {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Konya yolunun 49-51.km.leri (Kömüşini) arası yol yapım çalışmaları nedeniyle Ankara - Konya istikameti trafiğe kapatılarak ulaşım yan bağlantı yolu üzerinden gidiş olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T21:02:03.764764"
+                "updated_at": "2026-07-06T22:22:48.666815"
             }
         },
         {
@@ -83,7 +83,58 @@
                 "description": "Nurdağı-Islahiye-Hassa yolunun 19-20.km.leri arasında üstyapı çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-06T21:02:03.869305"
+                "updated_at": "2026-07-06T22:22:48.821409"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4864332,
+                    41.6430747
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Sinop-Samsun yolunun 72-77 km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım bölünmüş yolun bir bandından iyi yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Sinop Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-06T22:22:49.107893"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5975925,
+                    38.5312708
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bingöl-Solhan yolunun 8-12.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Bingöl Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-06T22:22:49.268009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.421013,
+                    38.722091
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Yeniköprü-Hakkari yolunun 0-1. km.leri arasındaki yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Yeniköprü Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-06T22:22:49.410440"
             }
         }
     ]
