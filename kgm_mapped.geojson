@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-13.km.leri arasında Hendek Kavşağı-Akyazı Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak verilecektir. Ayrıca çalışmanın ilk etabında Kuzey Marmara Otoyolu Akyazı Kavşağından İstanbul istikametine giriş kapatılacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-10T08:43:33.092991"
+                "updated_at": "2026-07-10T11:36:06.500202"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Aydın Otoyolunun 3-4. km.leri arasında Alangüllü-1 Köprüsünün İzmir istikameti köprü derz onarım ve yenileme çalışmaları nedeniyle 07-07-2026 / 13-07-2026 tarihlerinde sağ ve emniyet şeridi trafiğe kapatılacak olup, ulaşım sol ve orta şeritten sağlanacaktır. sağ ve emniyet şeridi onarımı tamamlandıktan sonra sol ve orta şerit trafiğe kapatılacak olup ulaşım sağ ve emniyet şeridinden sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-10T08:43:33.246123"
+                "updated_at": "2026-07-10T11:36:06.697108"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Bozkır-Ortaköy-Aksaray yolunun 25-42.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Bozkır Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-10T08:43:33.390224"
+                "updated_at": "2026-07-10T11:36:06.879634"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Polatlı-Yunak yolunun 10-20 ve 36-44.km.leri arasında çalışan trafik altında asfalt sathi kaplama yenileme çalışması nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-10T08:43:33.550004"
+                "updated_at": "2026-07-10T11:36:07.064178"
             }
         },
         {
@@ -83,7 +83,58 @@
                 "description": "Nurdağı-Gaziantep yolunun 33-37.km.leri arasında üstyapı çalışmaları nedeniyle ulaşım diğer şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-10T08:43:33.690648"
+                "updated_at": "2026-07-10T11:36:07.268629"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7065814,
+                    37.9795618
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kayseri-Kırşehir yolunun 6-11.km.leri arasında yol yapım çalışması olduğun ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kayseri Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-10T11:36:07.476037"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.6640114,
+                    40.0184203
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tokat-Sivas yolunun 29-31.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü sağlanmaktadır.",
+                "extracted_keyword": "Tokat Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-10T11:36:07.669885"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.2056653,
+                    37.7299639
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Gölbaşı-Kahramanmaraş yolunun 20-25.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Gölbaşı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-10T11:36:07.873723"
             }
         },
         {
@@ -100,7 +151,7 @@
                 "description": "Burdur-Çeltikçi yolunun 43-46.km.leri arasında menfez yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Burdur Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-10T08:43:34.219224"
+                "updated_at": "2026-07-10T11:36:08.074840"
             }
         }
     ]
