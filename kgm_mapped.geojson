@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-3.km.leri arasında Anadolu Otoyolu Kavşağı- İzmit Doğu Kavşağı mevkii kesimde 10.07.2026-31.12.2026 tarihlerinde  eski beton direklerin yenilenmesi çalışmaları yapılacaktır.  Bu çalışmalar İş programı doğrultusunda, Otoyoldaki trafik yoğunluğunun en az olduğu zamanlarda yapılacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-11T21:30:37.975770"
+                "updated_at": "2026-07-11T22:27:47.692532"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir Çevre Otoyolunun 1-4.km.leri arasında 09.07.2026-12.07.2026 tarihlerinde  Bayraklı Tünelleri Karşıyaka-Bornova Yönü Büyük Tünel içerisinde gece 00:00-07:00  saatleri arası 3 (üç) gün sürecek üstyapı bakım ve onarım çalışması nedeniyle sağ ve orta şerit trafiğe kapatılacak ulaşım  sol şeritten sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-11T21:30:38.084326"
+                "updated_at": "2026-07-11T22:27:47.837144"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "TEM Otoyolunun 0-7.km.leri arasında 08.07.2026 tarihinden itibaren Silivri Kavşağı-Kınalı Kavşağı kesimde Güney taşıma yolunda (İstanbul İstikameti) üstyapı yenileme çalışmaları nedeniyle Otoyolunun  İstanbul İstikameti kesimler halinde trafiğe kapatılarak,ulaşım diğer platformdan gidiş-geliş olarak sağlanacaktır. Bu çalışmanın ilk etabında Kuzey Marmara Otoyolundan TEM Otoyolu İstanbul istikametine katılım kolu trafiğe kapatılacaktır. (Çalışmalar her gün 20:00-07:00 saatleri arasında yürütülecektir.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-11T21:30:38.176662"
+                "updated_at": "2026-07-11T22:27:48.007726"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Kandıra-Kaynarca yolunun 0-3.km.leri arasında  08.07.2026 tarihinden itibaren  üst yapı yenileme çalışmaları nedeniyle ulaşım tek şeritten gidiş geliş olarak sağlanmaktadır.",
                 "extracted_keyword": "Kandıra Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-11T21:30:38.285782"
+                "updated_at": "2026-07-11T22:27:48.147807"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Kemer Ayr.-Burdur il yolunun 5-7.km.leri arasında 08.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Kemer Ayr. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-11T21:30:38.441996"
+                "updated_at": "2026-07-11T22:27:48.314625"
             }
         },
         {
@@ -100,7 +100,41 @@
                 "description": "Tokat-Sivas yolunun 29-31.km.leri arasında 08.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Tokat Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-11T21:30:38.542311"
+                "updated_at": "2026-07-11T22:27:48.462002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9126589,
+                    40.511067
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kırıkkale-Delice-Samsun yolunun 5-7.km.leri arasında 06.07.2026 tarihinden itibaren Yüksek Standartlı Demiryolu Yapım İşi kapsamında gerçekleştirilecek çalışmalar nedeniyle yol iki yönlü olarak trafiğe kapatılmış olup, ulaşım servis yolundan iki yönlü (gidiş-geliş) kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kırıkkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-11T22:27:48.617799"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.976942,
+                    41.78594
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Altköy-Refahiye-Erzincan yolunun 25-32.km.leri arasında 10.07.2026 tarihinden itibaren  toprak işleri, sanat yapıları ve üst yapı yenileme çalışmaları nedeniyle  sürücülerin trafik işaret ve işaretçilerinedikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Altköy Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-11T22:27:48.792744"
             }
         }
     ]
