@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5461452,
-                    40.7653702
+                    28.7087851,
+                    41.058756
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "TEM Otoyolu Akyazı Kavşağı-Erenler Kavşağı arasında üstyapı yenileme çalışmaları yapılacaktır. Çalışmalar esnasında, TEM Otoyolu kesimler halinde trafiğe kapatılarak, diğer platformdan iki yönlü olarak gidiş-geliş şeklinde verilecektir. D-100 Devlet Yolundan Otoyol Akyazı Kavşağına girişler ve Otoyoldan çıkışlar trafiğe kapatılacaktır. Sürücülerin yol üzerindeki trafik işaret ve işaretçilerine uymaları gerekmektedir. (Çalışmalar 24 saat esasına göre yürütülecektir.)",
-                "extracted_keyword": "TEM Otoyolu Akyazı Kavşağı",
+                "description": "TEM Otoyolunun 0-7.km.leri arasında 08.07.2026 tarihinden itibaren Silivri Kavşağı-Kınalı Kavşağı kesimde Güney taşıma yolunda (İstanbul İstikameti) üstyapı yenileme çalışmaları nedeniyle Otoyolunun İstanbul İstikameti kesimler halinde trafiğe kapatılarak,ulaşım diğer platformdan gidiş-geliş olarak sağlanacaktır. Bu çalışmanın ilk etabında Kuzey Marmara Otoyolundan TEM Otoyolu İstanbul istikametine katılım kolu trafiğe kapatılacaktır. (Çalışmalar her gün 20:00-07:00 saatleri arasında yürütülecektir.)",
+                "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-13T18:09:44.161240"
+                "updated_at": "2026-07-13T19:49:43.069032"
             }
         },
         {
@@ -29,10 +29,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aydın Denizli Otoyolu O-31/12km:60 ile O-31/13 km:64  arasında Denizli istikametinde yapılacak olan yol çalışması nedeniyle 07-07-2026-22-07-2026 tarihleri arasında söz konusu olan kesim güvenlik tedbirleri kapsamında tamamen araç trafiğine kapatılacaktır. Trafik akışı Denizli istikametinde iki şerit, Aydın istikameti  tek şerit gidiş olacak şekilde sağlanmaktadır.",
-                "extracted_keyword": "Aydın Denizli Otoyolu",
+                "description": "Aydın-Denizli Otoyolu 1-3 km.leri arasında Yenipazar çıkış kolunda yapılacak üstyapı çalışması nedeniyle araç trafiğine kapatılmış olup, trafik akışı Yenipazar kavşağı giriş kolundan kontrollü olarak iki yönlü sağlanacaktır.",
+                "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-13T18:09:44.245968"
+                "updated_at": "2026-07-13T19:49:43.290757"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.879616,
-                    37.411435
+                    31.5763816,
+                    37.5112767
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Niğde-Pozantı Otoyolunun (Ereğli Kavşağı) 1-2.km.leri arasında Eminlik gişelerinde serbest akış sisteminde çalışma yapılacağından dolayı ulaşım Konya-Ereğli yönüne servis yolundan Niğde-Pozantı istikameti 1 nolu şeritten sağlanmaktadır.",
-                "extracted_keyword": "Pozantı Otoyolu",
+                "description": "Beyşehir-Seydişehir-Antalya yolunun 60-62.km.leri arasında devam eden yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Beyşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-13T18:09:44.351489"
+                "updated_at": "2026-07-13T19:49:43.496411"
             }
         },
         {
@@ -57,16 +57,118 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.9126589,
-                    40.511067
+                    32.2958524,
+                    40.0116668
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kırıkkale-Delice-Samsun yolunun 5-7.km.leri arasında 06.07.2026 tarihinden itibaren Yüksek Standartlı Demiryolu Yapım İşi kapsamında gerçekleştirilecek çalışmalar nedeniyle yol iki yönlü olarak trafiğe kapatılmış olup, ulaşım servis yolundan iki yönlü (gidiş-geliş) kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kırıkkale Yolu",
+                "description": "Polatlı-Yunak yolunun 60-68. km. arasında çalışan trafik altında asfalt sathi kaplama yenileme çalışması nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-13T18:09:44.461260"
+                "updated_at": "2026-07-13T19:49:43.714680"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.7331122,
+                    37.6402039
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Göksun-Kahramanmaraş yolunun Kahramanmaraş Kuzey Çevre Yolunun 12-13.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım diğer şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Göksun Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-13T19:49:43.905561"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9481733,
+                    39.9297819
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Alaca-Zile yolunun 19-29.km.leri arasında yol yapım çalışması olduğundan ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Alaca Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-13T19:49:44.115192"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5599202,
+                    40.0689652
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Turhal-Zile yolunun 41-47 km.leri arasında bölünmüş yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Turhal Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-13T19:49:44.314922"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5975925,
+                    38.5312708
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bingöl-Solhan yolunun 5-6.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Bingöl Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-13T19:49:44.515729"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1955388,
+                    37.0628734
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Antalya-Manavgat-Alanya yolunun 0-28.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Antalya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-13T19:49:44.716036"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6442108,
+                    39.5556753
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çanakkale-Çan yolunun 39-40 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çanakkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-13T19:49:44.929133"
             }
         }
     ]
