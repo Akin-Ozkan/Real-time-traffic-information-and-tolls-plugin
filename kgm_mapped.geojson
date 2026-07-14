@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-3.km.leri arasında 13.07.2026  tarihinden itibaren Gaziosmanpaşa Kavşağı-Kemerburgaz Kavşağı mevkiinde bulunan Akşemsettin Viyadüğünde derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Ankara istikameti gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır. (Çalışma 22:00-06:00 saatleri arasında  yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-14T21:34:17.347184"
+                "updated_at": "2026-07-14T22:36:46.687680"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Aydın Otoyolu O-31/01 ile O31/02 arası 13.07.2026 -20.07.2026 tarihleri arasında (Gece saat 22:00 ile sabah saat 05:00 arasında ) aydınlatma ve elektrik sistemleri bakım ve onarım çalışmaları yapılacak olup çalışma esnasında , Otoyol kavşak kolları ve bağlantı yollarının sol şeridi trafiğe kapatılacaktır. Trafik akışı diğer şeritten sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-14T21:34:17.454454"
+                "updated_at": "2026-07-14T22:36:46.939069"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "TAG Otoyolunun 0-2.km.leri arası Nurdağı Kavşağı-Narlı Kavşağı mevkii Gaziantep-Adana istikametindeki Aslanlı Tüneli otoyol ayrım kolunda deprem hasarlarının üstyapı onarım çalışmaları nedeniyle 16.07.2026-15.11.2026 tarihlerinde Adana istikameti trafiğe kapatılarak ulaşım Gaziantep istikametinden iki yönlü ve kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-14T21:34:17.557025"
+                "updated_at": "2026-07-14T22:36:47.146164"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Polatlı-Yunak yolunun 60-68.km.leri arasında 13.07.2026  tarihinden  itibaren  çalışan trafik altında asfalt sathi kaplama yenileme çalışması nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-14T21:34:17.666066"
+                "updated_at": "2026-07-14T22:36:47.357343"
             }
         },
         {
@@ -83,7 +83,92 @@
                 "description": "Balıkesir-İzmir İl yolunun 55-56.km.leri arasında 13.07.2026  tarihinden itibaren köprü genleşme derzi bakım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-14T21:34:17.770727"
+                "updated_at": "2026-07-14T22:36:47.547337"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3761041,
+                    37.7823299
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Burdur-Çeltikçi yolunun 43-46.km.leri arasında 08.07.2026 tarihinden itibaren menfez yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Burdur Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-14T22:36:47.745584"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8146952,
+                    39.717624
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Konya-Afyonkarahisar yolunun 54-58.km.leri arasında 06.07.2026 tarihinden itibaren üstyapı onarım çalışmalarından dolayı Konya-Afyonkarahisar yönü kapalı olup trafik bölünmüş yolun diğer tarafından çift yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Konya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-14T22:36:47.945935"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0087044,
+                    40.574918
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Samsun-Çarşamba-Terme yolunun 5-6.km.leri arasında 06.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Samsun Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-14T22:36:48.135409"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.4793263,
+                    40.1383278
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tokat İl Snr.-Yıldızeli yolunun 5-12.km.leri arasında 14.07.2026 tarihinden itibaren asfalt sathi kaplama  çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri  gerekmektedir.",
+                "extracted_keyword": "Tokat İl Snr. Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-14T22:36:48.348617"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.2137882,
+                    40.2592724
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Of-Çaykara-Bayburt yolunun 33-47.km.leri arasında üst yapı onarım ve sathi kaplama yapım çalışması nedeniyle 08.07.2026 günü, saat 07:00’ den itibaren çalışmanın devamı müddetince trafik kısa sürelerle ulaşıma kapatılmak suretiyle, tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Of-Çaykara-Bayburt yolunun 33-47.km.leri",
+                "category": "road_work",
+                "updated_at": "2026-07-14T22:36:48.555657"
             }
         }
     ]
