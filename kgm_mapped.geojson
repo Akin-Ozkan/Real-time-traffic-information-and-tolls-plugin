@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-7.km.leri arasında Silivri Kavşağı-Kınalı Kavşağı kesimde Güney taşıma yolunda (İstanbul İstikameti) üstyapı yenileme çalışmaları nedeniyle Otoyolunun İstanbul İstikameti kesimler halinde trafiğe kapatılarak,ulaşım diğer platformdan gidiş-geliş olarak sağlanacaktır. Bu çalışmanın ilk etabında Kuzey Marmara Otoyolundan TEM Otoyolu İstanbul istikametine katılım kolu trafiğe kapatılacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-16T11:17:21.490588"
+                "updated_at": "2026-07-16T12:55:45.993708"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Aydın Otoyolunun 0-1.km.leri arasında Tabakhane Köprüsünün İzmir istikameti köprü derz onarım ve yenileme çalışmaları nedeniyle 16.07.2026-17.07.2026 tarihlerinde sağ ve emniyet şeridi trafiğe kapatılacak olup, ulaşım sol ve orta şeridinden sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-16T11:17:21.601340"
+                "updated_at": "2026-07-16T12:55:46.154365"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Afyonkarahisar-Uşak yolunun 44.45.km.leri arasında Afyonkarahisar Otogar Kavşağında devam eden yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Afyonkarahisar Otogar Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-07-16T11:17:21.721062"
+                "updated_at": "2026-07-16T12:55:46.321188"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Konya yolunun 49-51.km.leri(Kömüşini) arası yol yapım çalışmaları nedeniyle Ankara - Konya istikameti trafiğe kapatılarak ulaşım yan bağlantı yolu üzerinden gidiş olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-16T11:17:21.829004"
+                "updated_at": "2026-07-16T12:55:46.490741"
             }
         },
         {
@@ -83,7 +83,24 @@
                 "description": "Nurdağı-Islahiye-Hassa yolunun 19-20.km.leri arasında üstyapı çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-16T11:17:21.899674"
+                "updated_at": "2026-07-16T12:55:46.629019"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9126589,
+                    40.511067
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kırıkkale-Kırşehir yolunun 5-9.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kırıkkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-16T12:55:46.772726"
             }
         },
         {
@@ -100,7 +117,7 @@
                 "description": "Seydikemer-Söğüt yolunun 56-57.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Seydikemer Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-16T11:17:22.164071"
+                "updated_at": "2026-07-16T12:55:47.122618"
             }
         },
         {
@@ -117,7 +134,7 @@
                 "description": "Balıkesir Güneybatı Çevreyolunun 32-35.km.leri arasında İzmir-Edremit istikametinde yol yapım çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Balıkesir Güneybatı Çevreyolunun 32 Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-16T11:17:22.290647"
+                "updated_at": "2026-07-16T12:55:47.233458"
             }
         }
     ]
