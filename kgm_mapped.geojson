@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-3.km.leri arasında 13.07.2026  tarihinden itibaren Gaziosmanpaşa Kavşağı-Kemerburgaz Kavşağı mevkiinde bulunan Akşemsettin Viyadüğünde derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Ankara istikameti gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanmaktadır.. (Çalışma 22:00-06:00 saatleri arasında  yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-17T12:03:19.993908"
+                "updated_at": "2026-07-17T13:59:06.583460"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir -Aydın Otoyolu O-31/01 ile O31/02 arası 13.07.2026 -20.07.2026 tarihleri arasında (Gece saat 22:00 ile sabah saat 05:00 arasında ) aydınlatma ve elektrik sistemleri bakım ve onarım çalışmaları yapılacak olup çalışma esnasında , Otoyol kavşak kolları ve bağlantı yollarının sol şeridi trafiğe kapatılacaktır. Trafik akışı diğer şeritten sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-17T12:03:20.108086"
+                "updated_at": "2026-07-17T13:59:06.746257"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "TAG Otoyolunun 0-2.km.leri arası Nurdağı Kavşağı-Narlı Kavşağı mevkii Gaziantep-Adana istikametindeki Aslanlı Tüneli otoyol ayrım kolunda deprem hasarlarının üstyapı onarım çalışmaları nedeniyle 16.07.2026-15.11.2026 tarihlerinde Adana istikameti trafiğe kapatılarak ulaşım Gaziantep istikametinden iki yönlü ve kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-17T12:03:20.230530"
+                "updated_at": "2026-07-17T13:59:06.870629"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Aksaray-Nevşehir Yolunun 29.-31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-17T12:03:20.366674"
+                "updated_at": "2026-07-17T13:59:07.028990"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Giresun-Gümüşhane İl Sınırı-Kürtün-Torul yolunun 10-44.km.leri arasındaki muhtelif kesimlerde yapılmakta olan yol şevi temizliği ve şev koruma için çelik ağ uygulama çalışması nedeniyle 08.07.2026 günü, saat 08:00’ den itibaren çalışmanın devamı müddetince trafik kısa sürelerle ulaşıma kapatılmak suretiyle, tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Giresun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-17T12:03:20.483690"
+                "updated_at": "2026-07-17T13:59:07.143786"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Ankara - Kırıkkale yolunda DDY Köprüsünün yaklaşım dolgularının iyileştirme çalışmalar nedeniyle 29 - 32. km. arası Kırıkkale - Ankara istikameti trafiğe kapatılarak, ulaşım Ankara - Kırıkkale istikametinden iki yönlü (gidiş-Geliş) olarak olarak sağlanmaktadır.",
                 "extracted_keyword": "Kırıkkale yolunda DDY Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-07-17T12:03:20.632947"
+                "updated_at": "2026-07-17T13:59:07.290881"
             }
         },
         {
@@ -108,16 +108,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.4793263,
-                    40.1383278
+                    34.9126589,
+                    40.511067
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Tokat İl Snr.-Yıldızeli yolunun 5-12.km.leri arasında asfalt sathi kaplama  çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Tokat İl Snr. Yolu",
+                "description": "Kırıkkale-Yozgat yolunun 68-71.km.leri arasında muhtelif yerlerde şerit daraltılarak bordür çalışması olduğundan ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kırıkkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-17T12:03:21.159368"
+                "updated_at": "2026-07-17T13:59:07.439630"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6442108,
+                    39.5556753
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çanakkale- Çan Devlet yolunun 25-29 ve 39-41.km.leri arasında 18/07/2026 tarih ve 10.00-16.00 saatleri arasında patlatmalı yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
+                "extracted_keyword": "Çanakkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-17T13:59:07.598603"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.7208371,
+                    41.8420747
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "İnebolu-Kastamonu yolunun 19-21.km.leri arasındaki yol yapım (heyelan ıslahı) çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "İnebolu Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-17T13:59:07.725268"
             }
         }
     ]
