@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-7.km.leri arasında Kınalı Kavşağı -Silivri Kavşağı kesimde Güney Taşıma yolunda (İstanbul İstikameti) üstyapı yenileme çalışmaları yapılacaktır. Çalışmalar esnasında, O-3 TEM Otoyolu; İstanbul İstikameti kesimler halinde trafiğe kapatılarak, trafik akışı diğer platformdan gidiş-geliş olarak sağlanacaktır. Bu çalışmanın ilk etabında, Kuzey Marmara Otoyolundan TEM  Otoyolu İstanbul istikametine katılım kolu ve ikinci etabında ise Kınalı Gişelerinden İstanbul istikametine katılım kolu trafiğe kapatılacaktır. (Çalışmalar her gün 20:00 ile 07:00 saatleri arasında yürütülecektir.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-18T08:14:29.360696"
+                "updated_at": "2026-07-18T09:49:21.600728"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Niğde Otoyolunun 3-5.km.leri arasında 16.07.2026-21.07.2026 tarihlerinden  üstyapı onarım ve yenileme çalışmaları nedeniyle Ankara İstikameti sağ şerit  trafiğe kapatılarak ulaşım kontrollü olarak diğer şeritten sağlanmaktadır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-18T08:14:29.447342"
+                "updated_at": "2026-07-18T09:49:21.736674"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "TEM Otoyolunun 0-15.km.leri arasında 13.07.2026 tarihinden itibaren  Akyazı Kavşağı-Erenler Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak gidiş-geliş şeklinde verilecektir. D-100 devlet yolundan otoyol Akyazı Kavşağına girişler ve otoyoldan çıkışlarda  trafiğe kapatılacaktır. Sürücülerin yol üzerindeki trafik işaret ve işaretçilerine uymaları gerekmektedir. (Çalışmalar 24 saat esasına göre yürütülecektir.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-18T08:14:29.549279"
+                "updated_at": "2026-07-18T09:49:21.881259"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "İzmir Çevre Otoyolu Bornova viyadüğü üzerinde Aydın istikameti 17-18.07.2026  tarihinde sağ ve emniyet şeridi ile 18-19.07.2026  tarihleri arasında sol ve orta şerit, 19-20.07.2026 tarihinde Çanakkale yönü sağ ve emniyet şeridinde, 20-21.07.2026 tarihinde sol ve orta şeritte köprü derzlerinin yenileme çalışmaları olacağından bu şeritler trafiğe kapatılacak olup trafik akışı diğer şeritlerden sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-18T08:14:29.640331"
+                "updated_at": "2026-07-18T09:49:22.049855"
             }
         },
         {
@@ -83,7 +83,75 @@
                 "description": "Çanakkale-Çan yolunun 25-29.km.leri arasında 18/07/2026 tarih ve 10.00-16.00 saatleri arasında patlatmalı yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
                 "extracted_keyword": "Çanakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-18T08:14:29.740695"
+                "updated_at": "2026-07-18T09:49:22.203636"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.461342,
+                    37.8869863
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Antalya-Dereboğazı-Isparta yolunun 3-5.km.leri arasında patlatmalı kazı çalışmaları nedeniyle 18.07.2026 Cumartesi günü 10:00-130.00 saatleri arasında aralıklarla yol trafiğe kapatılacaktır.",
+                "extracted_keyword": "Antalya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-18T09:49:22.386780"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8847586,
+                    41.1126547
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kandıra-Ağva yolunun 0-2.km.leri arasında 16.07.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle ulaşım tek yönden gidiş geliş olarak sağlanmaktadır.",
+                "extracted_keyword": "Kandıra Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-18T09:49:22.554292"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.915208,
+                    38.0396315
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Aksaray-Nevşehir yolunun 29.31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-18T09:49:22.720545"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7051591,
+                    39.2822138
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "İzmir-Manisa İl Snr.-Alaşehir  yol ayrımının Turgutlu-Salihli Bölünmüş  yolunun 7-8 km.leri arasında (Turgutlu geçişi Ergenekon kavşağı) Manisa Büyükşehir Belediyesi Başkanlığınca alt geçitli kavşak yapımı çalışmaları nedeni ile bölünmüş yolun Salihli istikameti 12.07.2026 günü saat 17:00 itibari ile trafik iki yönlü olarak servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "İzmir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-18T09:49:22.880505"
             }
         }
     ]
