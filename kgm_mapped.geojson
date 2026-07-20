@@ -15,7 +15,7 @@
                 "description": "Ankara-Niğde Otoyolunun 3-5.km.leri arasında 16.07.2026-21.07.2026 tarihlerinden üstyapı onarım ve yenileme çalışmaları nedeniyle Ankara İstikameti sağ şerit  trafiğe kapatılarak ulaşım kontrollü olarak diğer şeritten sağlanmaktadır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-20T11:09:31.806651"
+                "updated_at": "2026-07-20T13:17:19.294399"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TEM Otoyolunun 0-3.km.leri arasında  Gaziosmanpaşa Kavşağı-Kemerburgaz Kavşağı mevkiinde bulunan Akşemsettin Viyadüğünde derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Ankara istikameti gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır. (Çalışma 22:00-06:00 saatleri arasında  yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-20T11:09:31.972455"
+                "updated_at": "2026-07-20T13:17:19.352689"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Kumluca-Kemer-Antalya Yolunun 2 - 4 km'leri arasında; bölünmüş yol yapım çalışmalarının nedeniyle; sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
                 "extracted_keyword": "Kumluca Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-20T11:09:32.135728"
+                "updated_at": "2026-07-20T13:17:19.448555"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Muğla-Denizli yolunun 22-27 km. leri arasında üstyapı yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir tarafından iki yönlü olarak sağlanacaktır.",
                 "extracted_keyword": "Muğla Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-20T11:09:32.334147"
+                "updated_at": "2026-07-20T13:17:19.550849"
             }
         },
         {
@@ -83,75 +83,7 @@
                 "description": "Nurdağı-Gaziantep yolunun 33-37.km.leri arasında  üstyapı çalışmaları nedeniyle trafik diğer şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-20T11:09:32.512779"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.0087044,
-                    40.574918
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Samsun-Ankara yolunun 22-25 km'leri arasında (Havza tüneli) bakım çalışmaları nedeni ile ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Samsun Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-20T11:09:32.670716"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.2843037,
-                    41.1433887
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ordu-Gölköy Mesudiye yolunun 20-21 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Ordu Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-20T11:09:32.860420"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.8939718,
-                    38.7311981
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Bingöl yol ayr. - Göynük yolunun  9 - 12 km. arası , Yol üstyapı yenileme çalışmaları nedeni ile ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Bingöl yol ayr. Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-20T11:09:33.194909"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.2742258,
-                    40.612268
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Bursa-İnegöl-Bozüyük yolunun 13-15.km.leri arasında yol yapım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Bursa Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-20T11:09:33.387597"
+                "updated_at": "2026-07-20T13:17:19.634959"
             }
         }
     ]
