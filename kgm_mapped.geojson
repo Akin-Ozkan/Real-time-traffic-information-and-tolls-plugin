@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-15.km.leri arasında Akyazı Kavşağı-Erenler Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak gidiş-geliş şeklinde sağlanmaktadır. D-100 devlet yolundan otoyol Akyazı Kavşağına girişler ve otoyoldan çıkışlarda  trafiğe kapatılacaktır. Sürücülerin yol üzerindeki trafik işaret ve işaretçilerine uymaları gerekmektedir. (Çalışmalar 24 saat esasına göre yürütülecektir.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-20T15:23:42.564157"
+                "updated_at": "2026-07-20T16:55:04.357717"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın Otoyolun Hastane Köprüsü  üstyapı derz bakım onarım yenileme çalışmaları nedeniyle  Aydın güney istikameti 11-07-2026/10-08-2026 tarihleri arasında trafiğe kapatılacak olup Trafik akışı İzmir istikametine bant aktarımı yapılarak geliş-gidiş şeklinde sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolun Hastane Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-07-20T15:23:42.695090"
+                "updated_at": "2026-07-20T16:55:04.523572"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "TAG Otoyolunun 0-2.km.leri arası Nurdağı Kavşağı-Narlı Kavşağı mevkii Gaziantep-Adana istikametindeki Aslanlı Tüneli otoyol ayrım kolunda deprem hasarlarının üstyapı onarım çalışmaları nedeniyle 16.07.2026-15.11.2026 tarihlerinde Adana istikameti trafiğe kapatılarak ulaşım Gaziantep istikametinden iki yönlü ve kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-20T15:23:42.847669"
+                "updated_at": "2026-07-20T16:55:04.734015"
             }
         },
         {
@@ -66,58 +66,7 @@
                 "description": "Trabzon-Rize yolunun 26. km. sinde bulunan Araklı Tünelinin, bölünmüş yolun her iki yönündeki tüplerinde yapılacak olan elektrik, elektronik sistemleri bakım, onarım çalışması nedeniyle 21.07.2026-22.07.2026 tarihleri, 08:00-17:00 saatleri arasında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Araklı Tüneli",
                 "category": "road_work",
-                "updated_at": "2026-07-20T15:23:42.923764"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.2742258,
-                    40.612268
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Bursa-Yalova-1.Bölge Hududu Yolu Devlet yolunun Yalova-Bursa istikameti 29-31 arasında yol yapım çalışmaları nedeniyle yol trafiğe kapatılarak; trafik akışı Bursa- Yalova istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Bursa Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-20T15:23:43.079914"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.9126589,
-                    40.511067
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kırıkkale-Kırşehir yolunun 5-9.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kırıkkale Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-20T15:23:43.171679"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.9328885,
-                    38.5942778
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Afyonkarahisar İl Sn. - Konya Devlet yolunun 12-15 km. arasındaki yol yapım çalışmaları nedeniyle bu kesimde Konya-Afyonkarahisar istikameti trafiğe kapatılarak ulaşım Afyonkarahisar-Konya istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Afyonkarahisar İl Sn. Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-20T15:23:43.280286"
+                "updated_at": "2026-07-20T16:55:04.803513"
             }
         },
         {
@@ -134,7 +83,7 @@
                 "description": "Altköy-Refahiye-Erzincan yolunun 25-32.km.leri arasında toprak işleri, sanat yapıları ve üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Altköy Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-20T15:23:43.413645"
+                "updated_at": "2026-07-20T16:55:05.101373"
             }
         }
     ]
