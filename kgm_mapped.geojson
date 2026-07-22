@@ -15,7 +15,7 @@
                 "description": "TEM Anadolu Otoyolu Kavşağında viyadük ayak imalatları yapılacaktır. Çalışmalar esnasında, Kozyatağı-Ümraniye aksında sol şeritler trafiğe kapatılarak, trafik akışı diğer şeritlerinden sağlanacaktır. Çalışma alanında emniyet şeritleri trafiğe açık tutulacaktır.",
                 "extracted_keyword": "TEM Anadolu Otoyolu Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-07-22T00:07:04.115446"
+                "updated_at": "2026-07-22T03:43:52.119564"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın-Denizli Otoyolu 1-3 km.leri arasında Yenipazar çıkış kolunda yapılacak üstyapı çalışması nedeniyle araç trafiğine kapatılmış olup, trafik akışı Yenipazar kavşağı giriş kolundan kontrollü olarak iki yönlü sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-22T00:07:04.304337"
+                "updated_at": "2026-07-22T03:43:52.210010"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Aksaray-Nevşehir yolunun 29.31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak ve ayrıca servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-22T00:07:04.504143"
+                "updated_at": "2026-07-22T03:43:52.313156"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Konya yolunun 49-5.km.leri (Kömüşini) arası yol yapım çalışmaları nedeniyle Ankara - Konya istikameti trafiğe kapatılarak ulaşım yan bağlantı yolu üzerinden gidiş olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-22T00:07:04.705536"
+                "updated_at": "2026-07-22T03:43:52.419930"
             }
         },
         {
@@ -83,75 +83,7 @@
                 "description": "Göksun-Kahramanmaraş yolunun Kahramanmaraş Kuzey Çevre Yolunun 12-13.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım diğer şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Göksun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-22T00:07:04.948606"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.7530219,
-                    38.4779171
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Nevşehir-Kayseri yolun 64-67.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Nevşehir Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-22T00:07:05.134157"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.0087044,
-                    40.574918
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Samsun-Çarşamba-Terme yolunu 5-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Samsun Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-22T00:07:05.337252"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.2056653,
-                    37.7299639
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Gölbaşı-Kahramanmaraş yolunun 20-25.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Gölbaşı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-22T00:07:05.541410"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.3831778,
-                    36.6368002
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Seydikemer-Söğüt yolunun 4-49.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Seydikemer Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-22T00:07:05.778258"
+                "updated_at": "2026-07-22T03:43:52.525557"
             }
         }
     ]
