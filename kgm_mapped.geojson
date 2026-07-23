@@ -15,7 +15,7 @@
                 "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Ankara-Kırıkkale yolunun Kırıkkale-Ankara istikametinde 4 -5. km.ler arası trafiğe kapatılarak ulaşım Ankara-Kırıkkale istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-23T07:21:24.838943"
+                "updated_at": "2026-07-23T09:53:49.188534"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "O-3 TEM Otoyolu Kınalı Kavşağı -Silivri Kavşağı arasındaki kesimde Güney Taşıma Yolunda (İstanbul İstikameti) üstyapı yenileme çalışmaları yapılacaktır. Trafik akışı diğer platformdan gidiş-geliş olarak sağlanacaktır. (Çalışmalar her gün 20:00 ile 07:00 saatleri arasında yürütülecektir.)",
                 "extracted_keyword": "TEM Otoyolu Kınalı Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-07-23T07:21:24.954540"
+                "updated_at": "2026-07-23T09:53:49.309434"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Antalya-Manavgat-Alanya yolunun 0-28.km.leri arasında 01.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-23T07:21:25.127719"
+                "updated_at": "2026-07-23T09:53:49.490309"
             }
         },
         {
@@ -66,58 +66,7 @@
                 "description": "Kayseri-Kırşehir yolunun 6-11.km.leri arasında 22.06.2026 tarihinden itibaren yol yapım çalışması olduğun ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-23T07:21:25.221350"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.2843037,
-                    41.1433887
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ordu-Gölköy Mesudiye yolunun 20-21 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Ordu Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-23T07:21:25.329740"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.668783,
-                    37.8250339
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Afyonkarahisar İl Sn. - Konya Devlet yolunun 10-12 km. arasındaki yol yapım çalışmaları nedeniyle bölünmüş yolun  Afyonkarahisar-Konya istikameti trafiğe kapatılarak ulaşım diğer bölümde Konya-Afyonkarahisar istikametinden çift yönlü (gidiş-geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Afyonkarahisar İl Sn. Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-23T07:21:25.436268"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.5975925,
-                    38.5312708
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Bingöl-Solhan yolunun 5-6.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Bingöl Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-23T07:21:25.514365"
+                "updated_at": "2026-07-23T09:53:49.578933"
             }
         }
     ]
