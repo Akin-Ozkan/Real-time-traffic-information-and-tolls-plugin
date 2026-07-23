@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-15.km.leri arasında Akyazı Kavşağı-Erenler Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım diğer platformdan iki yönlü olarak gidiş-geliş şeklinde verilecektir. D-100 devlet yolundan otoyol Akyazı Kavşağına girişler ve otoyoldan çıkışlarda  trafiğe kapatılacaktır. Sürücülerin yol üzerindeki trafik işaret ve işaretçilerine uymaları gerekmektedir. (Çalışmalar 24 saat esasına göre yürütülecektir.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-23T17:02:39.608214"
+                "updated_at": "2026-07-23T18:21:05.729322"
             }
         },
         {
@@ -23,33 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.3067706,
-                    38.1922612
+                    27.8128336,
+                    37.8449928
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir-Aydın Otoyolu  31/03 KKN 16-20.km.leri arasında O31/04  KKN 2. km.leri arasında 20.07.2026 -27.07.2026 tarihleri arasında (gece saat 22:00  ile sabah saat 05:00 arasında ) aydınlatma ve elektrik sistemlerinin bakım ve onarım çalışmaları yapılacak olup çalışma esnasında yolun sol şeridi trafiğe kapatılacaktır. Trafik akışı diğer şeritten sağlanmaktadır.",
-                "extracted_keyword": "Aydın Otoyolu",
+                "description": "Aydın Otoyolun Hastane Köprüsü  üstyapı derz bakım onarım yenileme çalışmaları nedeniyle  Aydın güney istikameti 11-07-2026 / 10-08-2026 tarihleri arasında trafiğe kapatılacak olup Trafik akışı İzmir istikametine bant aktarımı yapılarak geliş-gidiş şeklinde sağlanmaktadır.",
+                "extracted_keyword": "Aydın Otoyolun Hastane Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-07-23T17:02:39.800223"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.91501,
-                    39.5197037
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ankara-Niğde Otoyolu üst yapı çalışması nedeniyle Niğde İstikameti Sağ Şerit Kapatılarak Trafik Kontrollü Olarak Diğer Şeritten sağlanmaktadır.",
-                "extracted_keyword": "Niğde Otoyolu",
-                "category": "road_work",
-                "updated_at": "2026-07-23T17:02:39.948894"
+                "updated_at": "2026-07-23T18:21:05.892266"
             }
         },
         {
@@ -66,7 +49,7 @@
                 "description": "TAG Otoyolunun 0-2.km.leri arası Nurdağı Kavşağı-Narlı Kavşağı mevkii Gaziantep-Adana istikametindeki Aslanlı Tüneli otoyol ayrım kolunda deprem hasarlarının üstyapı onarım çalışmaları nedeniyle 16.07.2026-15.11.2026 tarihlerinde Adana istikameti trafiğe kapatılarak ulaşım Gaziantep istikametinden iki yönlü ve kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-23T17:02:40.169743"
+                "updated_at": "2026-07-23T18:21:06.217918"
             }
         },
         {
@@ -83,7 +66,7 @@
                 "description": "Artvin-Şavşat yolunun 21-23. km. leri arasındaki muhtelif kesimlerde yapılacak olan yol şevi temizlik ve çelik ağ uygulama çalışması nedeniyle 24.07.2026 günü saat 07:00’ den itibaren çalışmanın devamı müddetince trafik kısa sürelerle ulaşıma kapatılmak suretiyle, tek şeritten kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Artvin Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-23T17:02:40.331020"
+                "updated_at": "2026-07-23T18:21:06.356217"
             }
         },
         {
@@ -100,7 +83,7 @@
                 "description": "Aksaray-Nevşehir yolunun 29.31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak ve ayrıca servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-23T17:02:40.515395"
+                "updated_at": "2026-07-23T18:21:06.537811"
             }
         },
         {
@@ -117,24 +100,7 @@
                 "description": "Kırıkkale-Yozgat yolunun 68-71.km.leri arasında muhtelif yerlerde şerit daraltılarak bordür çalışması olduğundan ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kırıkkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-23T17:02:40.701978"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.7544856,
-                    39.7070208
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Zara- İmranlı- Kızıldağ  yolunun  40-45.km.leri arasında sathi kaplama  çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Zara Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-23T17:02:41.050521"
+                "updated_at": "2026-07-23T18:21:06.678566"
             }
         }
     ]
