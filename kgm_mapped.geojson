@@ -6,135 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.7087851,
-                    41.058756
+                    33.4713437,
+                    38.9930549
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "TEM Otoyolunun 0-3.km.leri arasında Anadolu Otoyolu Kavşağı- İzmit Doğu Kavşağı mevkii kesimde 10.07.2026-31.12.2026 tarihlerinde eski beton direklerin yenilenmesi çalışmaları yapılacaktır. Bu çalışmalar İş programı doğrultusunda, Otoyoldaki trafik yoğunluğunun en az olduğu zamanlarda yapılacaktır.",
-                "extracted_keyword": "TEM Otoyolu",
+                "description": "Aksaray-Nevşehir yolunun 29.31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak ve ayrıca servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-25T14:42:06.584254"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.5746747,
-                    37.8854694
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "İzmir-Aydın Otoyolu Aydın Güney Kavşak Köprüsü Denizli istikameti trafiğe kapatılacak olup, 4-5 km.leri arasında sağ ve emniyet şeridi trafiğe kapatılacak olup, trafik akışı sol ve orta şeritten sağlanacaktır. sağ ve emniyet şeridin onarımları sağlandıktan sonra sol ve orta şerit trafiğe kapatılarak trafik akışı sağ ve emniyet şeridinden sağlanmaktadır.",
-                "extracted_keyword": "Aydın Otoyolu Aydın Güney Kavşak Köprüsü",
-                "category": "road_work",
-                "updated_at": "2026-07-25T14:42:06.757885"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.2218352,
-                    37.1780885
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Bozkır-Ortaköy-Aksaray yolunun 25-42.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Bozkır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-25T14:42:06.879935"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.1562225,
-                    39.6833047
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ankara-Konya yolunun 39-41.km.leri (Gölbek) arası yol yapım çalışmaları nedeniyle Ankara - Konya istikameti trafiğe kapatılarak ulaşım Konya - Ankara istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-25T14:42:06.990110"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.8269971,
-                    39.9496025
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Adana-Ceyhan yolunun 30-31.km.leri arasında (Suluca Mevkii) sol taşıma yol yapım çalışmaları nedeniyle trafiğe kapatılacak ulaşım sağ taşıma istikametinden iki yönlü ve kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Adana Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-25T14:42:07.145866"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.8015397,
-                    40.3799322
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Alaca-Zile yolunun 19-23.km.leri arasında yol yapım çalışması olduğundan ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Alaca Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-25T14:42:07.290415"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.7557914,
-                    40.9845561
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Samsun-Çarşamba-Terme yolunu 5-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Samsun Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-25T14:42:07.454898"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.5959432,
-                    38.369149
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Elazığ-Malatya yolunun 38-42.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Elazığ Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-25T14:42:07.603933"
+                "updated_at": "2026-07-25T15:48:34.368077"
             }
         },
         {
@@ -148,10 +29,44 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kemer-Burdur yolunun 5-7.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kemer Yolu",
+                "description": "Kemer Ayr.-Burdur il yolunun 5-7.km.leri arasında 08.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kemer Ayr. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-25T14:42:07.743797"
+                "updated_at": "2026-07-25T15:48:34.531507"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6442108,
+                    39.5556753
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çanakkale- Çan Devlet yolunun 4-10 km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü olarak verilmektedir.",
+                "extracted_keyword": "Çanakkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-25T15:48:34.673198"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8269971,
+                    39.9496025
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Adana-Ceyhan yolunun 30-31.km.leri arasında  (Suluca Mevkii) 09.07.2026 tarihinden itibaren sol taşıma yol yapım çalışmaları nedeniyle trafiğe kapatılacak ulaşım sağ taşıma istikametinden  iki yönlü ve kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Adana Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-25T15:48:35.147477"
             }
         }
     ]
