@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-3.km.leri arasında 28.07.2026 tarihinden itibaren Gaziosmanpaşa Kavşağı-Kemerburgaz Kavşağı mevkiinde bulunan Akşemsettin Viyadüğünde derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Kuzey yol platformunda (Edirne  istikameti) gece saatlerinde band değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde derz üstüne monte edilecek rampalar üzerinde sağlanacaktır.  (Her akşam 22:00-ile Sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-28T19:07:29.516699"
+                "updated_at": "2026-07-28T20:33:52.046085"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Aydın Otoyolu Tabakhane ve Tepecik Köprüsü İzmir  istikameti O-1.km.leri arasında sağ ve emniyet şeridi trafiğe kapatılacak olup, trafik akışı sol ve orta şeritten sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolu Tabakhane ve Tepecik Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-07-28T19:07:29.642114"
+                "updated_at": "2026-07-28T20:33:52.279544"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Artvin-Erzurum yolunun 0-37. km. leri arasında bulunan 20 adet tünel ve güzergahlarında yapılacak olan drenaj sistemleri ve bordür dipleri temizlik çalışması nedeniyle 22.07.2026-31.07.2026 tarihleri arası, 08:00-17:30 saatleri arasında ulaşım tek şeritten kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Artvin Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-28T19:07:29.739841"
+                "updated_at": "2026-07-28T20:33:52.461091"
             }
         },
         {
@@ -66,7 +66,75 @@
                 "description": "Aksaray-Nevşehir yolunun 29.31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak ve ayrıca servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-28T19:07:29.845272"
+                "updated_at": "2026-07-28T20:33:52.630443"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.941154,
+                    37.0609727
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Niğde-Pozantı Otoyolunun (Ereğli Kavşağı) 1-2.km.leri arasında Eminlik gişelerinde serbest akış sisteminde çalışma yapıldığından dolayı ulaşım Niğde-Pozantı istikameti 1 no'lu şeritten sağlanmaktadır.",
+                "extracted_keyword": "Pozantı Otoyolu",
+                "category": "road_work",
+                "updated_at": "2026-07-28T20:33:52.825273"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.941476,
+                    37.779022
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Iğdır - Tuzluca yolunun 22 - 25.km'leri arasında yolu yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Iğdır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-28T20:33:53.003271"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.260122,
+                    41.82607
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kemer Ayr.-Burdur il yolunun 5-7.km.leri arasında 08.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kemer Ayr. Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-28T20:33:53.198515"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4517396,
+                    39.7460973
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kütahya- Bozüyük yolunun 0-1 km.leri arasında Kümbet Yeniköy kavşağı yapım çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kütahya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-28T20:33:53.368423"
             }
         },
         {
@@ -83,7 +151,7 @@
                 "description": "Tokat-Sivas yolunun 29-31.km.leri arasında 08.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Tokat Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-28T19:07:30.128278"
+                "updated_at": "2026-07-28T20:33:53.574276"
             }
         }
     ]
