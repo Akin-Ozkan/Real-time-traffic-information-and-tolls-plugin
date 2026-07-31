@@ -15,7 +15,7 @@
                 "description": "Ankara-Niğde Otoyolunun 7-9.km.leri arasında 30.07.2026-04.08.2026 tarihlerinde  üst yapı çalışması yapılması nedeniyle Niğde istikameti sol şerit trafiğe kapatılarak ulaşım  kontrollü olarak diğer şeritten sağlanacaktır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T22:17:12.291165"
+                "updated_at": "2026-07-31T23:26:38.999877"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasında 30.07.2026 tarihinden itibaren Karaisalı Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T22:17:12.410471"
+                "updated_at": "2026-07-31T23:26:39.166563"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Aydın Otoyolunun 14-15.km.leri arasında 31.07.2026 tarihinden itibaren saat 08:15 itibariyle  üst bakım onarım çalışmaları nedeniyle emniyet sağ ve orta şeritler trafiğe kapatılmış olup ulaşım sol şeritten sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T22:17:12.515717"
+                "updated_at": "2026-07-31T23:26:39.319057"
             }
         },
         {
@@ -66,7 +66,58 @@
                 "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Ankara-Kırıkkale yolunun 28-29.km.leri arasında 29.07.2026 tarihinden itibaren kontrollü patlatma çalışmaları yapılacağından Ankara-Kırıkkale ve Kırıkkale-Ankara istikametleri saat \"12.00-13.00 arasında\" 15 dakika süre ile trafiğe kapatılacaktır.",
                 "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T22:17:12.599175"
+                "updated_at": "2026-07-31T23:26:39.452140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4392541,
+                    38.0447299
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Torbalı-Ödemiş yolunun 67-72.km.leri arasında 28.07.2026 tarihinden itibaren yol yapım çalışmaları  nedeniyle sağ şerit trafiğe kapatılmış olup ulaşım diğer yönden geliş gidiş olarak sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Torbalı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-31T23:26:39.592101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8499206,
+                    37.0549329
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çavdır-Söğüt-Korkuteli yolunun 5-12.km.leri arasında  29.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Çavdır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-31T23:26:39.754853"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.7331122,
+                    37.6402039
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kahramanmaraş İl Snr.-Malatya yolunun 31-36.km.leri arasında 29.07.2026 tarihinden itibaren üst yapı onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kahramanmaraş İl Snr. Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-31T23:26:40.096977"
             }
         }
     ]
