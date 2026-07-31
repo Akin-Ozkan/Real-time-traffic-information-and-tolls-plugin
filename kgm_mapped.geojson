@@ -15,7 +15,7 @@
                 "description": "Seydişehir-Akseki-Manavgat yolunun (Akseki-Yarpuz arası Alternatif Güzegah) 07-19 km.leri arasında patlatmalı kazı çalışması nedeniyle 31.07.2026 Cuma günü 10:00-17:00 saatleri arasında aralıklarla yol trafiğe kapatılacaktır.",
                 "extracted_keyword": "Seydişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T10:17:06.728371"
+                "updated_at": "2026-07-31T12:22:33.935417"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TEM Otoyolunun 0-3.km.leri arasında 28.07.2026 tarihinden itibaren Gaziosmanpaşa Kavşağı-Kemerburgaz Kavşağı mevkiinde bulunan Akşemsettin Viyadüğünde derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Kuzey yol platformunda (Edirne istikameti) gece saatlerinde band değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde derz üstüne monte edilecek rampalar üzerinde sağlanacaktır. (Her akşam 22:00-ile Sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T10:17:06.856558"
+                "updated_at": "2026-07-31T12:22:34.125867"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Konya-Afyonkarahisar yolunun 54-58.km.leri arasında üstyapı onarım çalışmalarından dolayı Konya-Afyonkarahisar yönü kapalı olup trafik bölünmüş yolun diğer tarafından çift yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Konya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T10:17:07.042537"
+                "updated_at": "2026-07-31T12:22:34.320768"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale yolunun 35-37 km.leri arasındaki yol yapım çalışmaları nedeniyle çalışma yapılan kesimde Ankara - Kırıkkale istikameti trafiğe kapatılmış olup, ulaşım Kırıkkale - Ankara istikametinden iki yönlü (gidiş-geliş) olarak olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T10:17:07.238299"
+                "updated_at": "2026-07-31T12:22:34.531550"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Göksun-Kahramanmaraş yolunun Kahramanmaraş Kuzey Çevre Yolunun 12-13.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım diğer şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Göksun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T10:17:07.360792"
+                "updated_at": "2026-07-31T12:22:34.732295"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Kırıkkale-Yozgat yolunun 68-71.km.leri arasında muhtelif yerlerde şerit daraltılarak bordür çalışması olduğundan sürücüleri dikkatli ve tedbirli olması gerekmektedir.",
                 "extracted_keyword": "Kırıkkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T10:17:07.508864"
+                "updated_at": "2026-07-31T12:22:34.921453"
             }
         },
         {
@@ -117,7 +117,7 @@
                 "description": "Samsun-Çarşamba-Terme yolunun 5-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Samsun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T10:17:07.660557"
+                "updated_at": "2026-07-31T12:22:35.141278"
             }
         },
         {
@@ -134,7 +134,41 @@
                 "description": "Bingöl-Solhan yolunun 5-6.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bingöl Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T10:17:07.801055"
+                "updated_at": "2026-07-31T12:22:35.344147"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8499206,
+                    37.0549329
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çavdır-Söğüt-Korkuteli yolunun 5-12 km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Çavdır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-31T12:22:35.553132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6442108,
+                    39.5556753
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çanakkale-Çan yolunun 39-40 km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çanakkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-31T12:22:35.753531"
             }
         }
     ]
