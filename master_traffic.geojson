@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991566"
+                "updated_at": "2026-07-31T22:17:10.441031"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991584"
+                "updated_at": "2026-07-31T22:17:10.441045"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991588"
+                "updated_at": "2026-07-31T22:17:10.441048"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991590"
+                "updated_at": "2026-07-31T22:17:10.441051"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991592"
+                "updated_at": "2026-07-31T22:17:10.441053"
             }
         },
         {
@@ -82,7 +82,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991594"
+                "updated_at": "2026-07-31T22:17:10.441055"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5091002235,
+                    39.764505044
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-31T22:17:10.441057"
             }
         },
         {
@@ -96,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991595"
+                "updated_at": "2026-07-31T22:17:10.441059"
             }
         },
         {
@@ -110,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991597"
+                "updated_at": "2026-07-31T22:17:10.441062"
             }
         },
         {
@@ -124,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991599"
+                "updated_at": "2026-07-31T22:17:10.441064"
             }
         },
         {
@@ -138,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991601"
+                "updated_at": "2026-07-31T22:17:10.441066"
             }
         },
         {
@@ -152,7 +166,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991602"
+                "updated_at": "2026-07-31T22:17:10.441068"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5969988952,
+                    39.7497234074
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-07-31T22:17:10.441074"
             }
         },
         {
@@ -166,7 +194,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991604"
+                "updated_at": "2026-07-31T22:17:10.441076"
             }
         },
         {
@@ -180,7 +208,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-07-31T21:14:41.991605"
+                "updated_at": "2026-07-31T22:17:10.441078"
             }
         },
         {
@@ -194,21 +222,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-07-31T21:14:41.991607"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6442808757,
-                    39.7528146445
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991612"
+                "updated_at": "2026-07-31T22:17:10.441080"
             }
         },
         {
@@ -222,7 +236,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-07-31T21:14:41.991614"
+                "updated_at": "2026-07-31T22:17:10.441082"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6442808757,
+                    39.7528146445
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-07-31T22:17:10.441084"
             }
         },
         {
@@ -239,7 +267,7 @@
                 "description": "Ankara-Niğde Otoyolunun 7-9.km.leri arasında 30.07.2026-04.08.2026 tarihlerinde  üst yapı çalışması yapılması nedeniyle Niğde istikameti sol şerit trafiğe kapatılarak ulaşım  kontrollü olarak diğer şeritten sağlanacaktır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T21:14:43.571129"
+                "updated_at": "2026-07-31T22:17:12.291165"
             }
         },
         {
@@ -256,7 +284,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasında 30.07.2026 tarihinden itibaren Karaisalı Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T21:14:43.714759"
+                "updated_at": "2026-07-31T22:17:12.410471"
             }
         },
         {
@@ -273,7 +301,7 @@
                 "description": "Aydın Otoyolunun 14-15.km.leri arasında 31.07.2026 tarihinden itibaren saat 08:15 itibariyle  üst bakım onarım çalışmaları nedeniyle emniyet sağ ve orta şeritler trafiğe kapatılmış olup ulaşım sol şeritten sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T21:14:43.868322"
+                "updated_at": "2026-07-31T22:17:12.515717"
             }
         },
         {
@@ -290,92 +318,7 @@
                 "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Ankara-Kırıkkale yolunun 28-29.km.leri arasında 29.07.2026 tarihinden itibaren kontrollü patlatma çalışmaları yapılacağından Ankara-Kırıkkale ve Kırıkkale-Ankara istikametleri saat \"12.00-13.00 arasında\" 15 dakika süre ile trafiğe kapatılacaktır.",
                 "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T21:14:44.015666"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.4392541,
-                    38.0447299
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Torbalı-Ödemiş yolunun 67-72.km.leri arasında 28.07.2026 tarihinden itibaren yol yapım çalışmaları  nedeniyle sağ şerit trafiğe kapatılmış olup ulaşım diğer yönden geliş gidiş olarak sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Torbalı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-31T21:14:44.178819"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.8499206,
-                    37.0549329
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Çavdır-Söğüt-Korkuteli yolunun 5-12.km.leri arasında  29.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Çavdır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-31T21:14:44.324109"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.61902,
-                    38.7846891
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Sivas-Kangal-Gürün Ayr. yolunun  1-2.km.leri arasında   25.07.2026 tarihinden itibaren bölünmüş yolun Sivas istikametindeki Kızılırmak köprüsünde, bakım ve onarım  çalışmaları yapılması nedeniyle ulaşım  Kangal istikametinden iki yönlü ve kontrollü  olarak sağlanmaktadır. Sürücülerin  trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Sivas Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-31T21:14:44.491193"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    40.3717592,
-                    40.9685814
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "İyidere-İkizdere yolunun 26.km.sinde (Güneyce mevkiinde) 29.07.2026 tarihinde saat 15:00 meydana gelen yol göçmesi nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "İyidere Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-31T21:14:44.628951"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.7331122,
-                    37.6402039
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kahramanmaraş İl Snr.-Malatya yolunun 31-36.km.leri arasında 29.07.2026 tarihinden itibaren üst yapı onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kahramanmaraş İl Snr. Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-31T21:14:44.798674"
+                "updated_at": "2026-07-31T22:17:12.599175"
             }
         }
     ]
