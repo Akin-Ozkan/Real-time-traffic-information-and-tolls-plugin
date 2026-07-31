@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.3707221,
-                    37.7977068
+                    32.91501,
+                    39.5197037
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Seydişehir-Akseki-Manavgat yolunun (Akseki-Yarpuz arası Alternatif Güzegah) 07-19 km.leri arasında patlatmalı kazı çalışması nedeniyle 31.07.2026 Cuma günü 10:00-17:00 saatleri arasında aralıklarla yol trafiğe kapatılacaktır.",
-                "extracted_keyword": "Seydişehir Yolu",
+                "description": "Ankara-Niğde Otoyolunun 7-9.km.leri arasında 30.07.2026-04.08.2026 tarihlerinde  üst yapı çalışması yapılması nedeniyle Niğde istikameti sol şerit trafiğe kapatılarak ulaşım  kontrollü olarak diğer şeritten sağlanacaktır.",
+                "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T14:57:03.361706"
+                "updated_at": "2026-07-31T16:49:44.906760"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.7087851,
-                    41.058756
+                    29.1650342,
+                    41.032379
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "TEM Otoyolunun 0-3.km.leri arasında 28.07.2026 tarihinden itibaren Gaziosmanpaşa Kavşağı-Kemerburgaz Kavşağı mevkiinde bulunan Akşemsettin Viyadüğünde derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Kuzey yol platformunda (Edirne istikameti) gece saatlerinde band değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde derz üstüne monte edilecek rampalar üzerinde sağlanacaktır. (Her akşam 22:00-ile Sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
-                "extracted_keyword": "TEM Otoyolu",
+                "description": "TAG Otoyolunun 6-7.km.leri arasında 30.07.2026 tarihinden itibaren Karaisalı Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T14:57:03.463715"
+                "updated_at": "2026-07-31T16:49:45.050326"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.8146952,
-                    39.717624
+                    27.3067706,
+                    38.1922612
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Konya-Afyonkarahisar yolunun 54-58.km.leri arasında üstyapı onarım çalışmalarından dolayı Konya-Afyonkarahisar yönü kapalı olup trafik bölünmüş yolun diğer tarafından çift yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Konya Yolu",
+                "description": "Aydın Otoyolunun 14-15.km.leri arasında 31.07.2026 tarihinden itibaren saat 08:15 itibariyle  üst bakım onarım çalışmaları nedeniyle emniyet sağ ve orta şeritler trafiğe kapatılmış olup ulaşım sol şeritten sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T14:57:03.577511"
+                "updated_at": "2026-07-31T16:49:45.207063"
             }
         },
         {
@@ -57,16 +57,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.5223954,
-                    37.9210181
+                    31.227336,
+                    40.554305
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Kırıkkale yolunun 35-37 km.leri arasındaki yol yapım çalışmaları nedeniyle çalışma yapılan kesimde Ankara - Kırıkkale istikameti trafiğe kapatılmış olup, ulaşım Kırıkkale - Ankara istikametinden iki yönlü (gidiş-geliş) olarak olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Yolu",
+                "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Ankara-Kırıkkale yolunun 28-29.km.leri arasında 29.07.2026 tarihinden itibaren kontrollü patlatma çalışmaları yapılacağından Ankara-Kırıkkale ve Kırıkkale-Ankara istikametleri saat \"12.00-13.00 arasında\" 15 dakika süre ile trafiğe kapatılacaktır.",
+                "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T14:57:03.681276"
+                "updated_at": "2026-07-31T16:49:45.388279"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4392541,
+                    38.0447299
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Torbalı-Ödemiş yolunun 67-72.km.leri arasında 28.07.2026 tarihinden itibaren yol yapım çalışmaları  nedeniyle sağ şerit trafiğe kapatılmış olup ulaşım diğer yönden geliş gidiş olarak sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Torbalı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-31T16:49:45.556541"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8499206,
+                    37.0549329
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çavdır-Söğüt-Korkuteli yolunun 5-12.km.leri arasında  29.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Çavdır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-07-31T16:49:45.692504"
             }
         },
         {
@@ -80,27 +114,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Göksun-Kahramanmaraş yolunun Kahramanmaraş Kuzey Çevre Yolunun 12-13.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım diğer şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Göksun Yolu",
+                "description": "Kahramanmaraş İl Snr.-Malatya yolunun 31-36.km.leri arasında 29.07.2026 tarihinden itibaren üst yapı onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kahramanmaraş İl Snr. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-07-31T14:57:03.789874"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.6442108,
-                    39.5556753
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Çanakkale-Çan yolunun 39-40 km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Çanakkale Yolu",
-                "category": "road_work",
-                "updated_at": "2026-07-31T14:57:04.061623"
+                "updated_at": "2026-07-31T16:49:46.091295"
             }
         }
     ]
