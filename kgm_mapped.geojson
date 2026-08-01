@@ -15,7 +15,7 @@
                 "description": "Ankara-Niğde Otoyolunun 7-9.km.leri arasında 30.07.2026-04.08.2026 tarihlerinde  üst yapı çalışması yapılması nedeniyle Niğde istikameti sol şerit trafiğe kapatılarak ulaşım  kontrollü olarak diğer şeritten sağlanacaktır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-01T15:56:27.900399"
+                "updated_at": "2026-08-01T17:07:17.851394"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasında 30.07.2026 tarihinden itibaren Karaisalı Kavşağı mevkiinde üstyapı yenileme çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-01T15:56:28.106833"
+                "updated_at": "2026-08-01T17:07:17.937949"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Aydın Otoyolunun 14-15.km.leri arasında 31.07.2026 tarihinden itibaren saat 08:15 itibariyle  üst bakım onarım çalışmaları nedeniyle emniyet sağ ve orta şeritler trafiğe kapatılmış olup ulaşım sol şeritten sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-01T15:56:28.307679"
+                "updated_at": "2026-08-01T17:07:18.032130"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Ankara-Kırıkkale yolunun 28-29.km.leri arasında 29.07.2026 tarihinden itibaren kontrollü patlatma çalışmaları yapılacağından Ankara-Kırıkkale ve Kırıkkale-Ankara istikametleri saat \"12.00-13.00 arasında\" 15 dakika süre ile trafiğe kapatılacaktır.",
                 "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-01T15:56:28.491357"
+                "updated_at": "2026-08-01T17:07:18.170667"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Torbalı-Ödemiş yolunun 67-72.km.leri arasında 28.07.2026 tarihinden itibaren yol yapım çalışmaları  nedeniyle sağ şerit trafiğe kapatılmış olup ulaşım diğer yönden geliş gidiş olarak sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Torbalı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-01T15:56:28.685622"
+                "updated_at": "2026-08-01T17:07:18.264955"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Çavdır-Söğüt-Korkuteli yolunun 5-12.km.leri arasında  29.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Çavdır Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-01T15:56:28.867429"
+                "updated_at": "2026-08-01T17:07:18.366585"
             }
         },
         {
@@ -108,16 +108,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.7331122,
-                    37.6402039
+                    35.61902,
+                    38.7846891
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kahramanmaraş İl Snr.-Malatya yolunun 31-36.km.leri arasında 29.07.2026 tarihinden itibaren üst yapı onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kahramanmaraş İl Snr. Yolu",
+                "description": "Sivas-Kangal-Gürün Ayr. yolunun  1-2.km.leri arasında   25.07.2026 tarihinden itibaren bölünmüş yolun Sivas istikametindeki Kızılırmak köprüsünde, bakım ve onarım  çalışmaları yapılması nedeniyle ulaşım  Kangal istikametinden iki yönlü ve kontrollü  olarak sağlanmaktadır. Sürücülerin  trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Sivas Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-01T15:56:29.327334"
+                "updated_at": "2026-08-01T17:07:18.422853"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.3717592,
+                    40.9685814
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "İyidere-İkizdere yolunun 26.km.sinde (Güneyce mevkiinde) 29.07.2026 tarihinde saat 15:00 meydana gelen yol göçmesi nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "İyidere Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-01T17:07:18.492788"
             }
         }
     ]
