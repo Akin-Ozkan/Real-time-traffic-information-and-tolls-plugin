@@ -6,6 +6,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    26.6442108,
+                    39.5556753
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çanakkale-Çan yolunun 25-29.km.leri arasında patlatmalı yol yapım çalışması nedeniyle 03.08.2026 tarihinde 10:00-16:00 saatleri arasında  sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Çanakkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-03T11:56:37.936933"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     27.703872,
                     38.084173
                 ]
@@ -15,7 +32,7 @@
                 "description": "Selçuk-Ortaklar-Aydın yolunun 0-2.km.leri arasında 03.08.2026 tarihinde saat 12:00-17:00 arasında patlatmalı yol çalışması yapılacağından yol trafiğe kapatılacaktır. Yolun trafiğe kapalı olduğu süreçte alternatif güzergah olarak Selçuk-Kuşadası -Söke -Ortaklar yolu kullanılabilecektir.",
                 "extracted_keyword": "Selçuk Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:14.778730"
+                "updated_at": "2026-08-03T11:56:38.119460"
             }
         },
         {
@@ -23,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.5091854,
-                    40.7964549
+                    30.3189615,
+                    40.7367379
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gebze-Orhangazi-İzmir (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) Otoyolu'nun, İstanbul istikameti Muallimköy Kavşağı Kol-4 (Dilovası-Ankara ayrım kolu) bağlantısının, Karayolları 1. Bölge Müdürlüğünün sorumluluğundaki “Gebze Kavşağı-İzmit Doğu Kavşağı Arası TEM Otoyolu ve Bağlantı Yollarında Üstyapı İyileştirmesi ve Büyük Onarım İnşaatı Yapım İşi\" kapsamında TEM Otoyolu Muallimköy Kavşağı–Doğu Hereke Kavşağı arasında yürütülecek üstyapı iyileştirme ve yenileme çalışmaları nedeniyle Osmangazi Köprüsü istikametinden gelerek TEM Otoyolu Ankara istikametine bağlanan Muallimköy Kavşağı Kol-4, 31.07.2026-08.08.2026 tarihleri arasında araç trafiğine kapatılmıştır.",
-                "extracted_keyword": "İstanbul istikameti Muallimköy Kavşağı",
+                "description": "Sakarya-Bilecik yolunun 21-23.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:14.995637"
+                "updated_at": "2026-08-03T11:56:38.312333"
             }
         },
         {
@@ -40,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.0910921,
-                    38.4898759
+                    32.5223954,
+                    37.9210181
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir Çevre Otoyolunun Uzundere Kavşak Kolları ile selvay giriş ve çıkış kollarında 03.08.2026 -31.08.2026 tarihleri arasında (gece saat 22:00 ile sabah saat 05:00 arasında) çalışma yapılacaktır. Çalışma esnasında kontrollü olarak emniyet şeridi trafiğe kapatılacaktır.Trafik akışı diğer şeritten sağlanacaktır.",
-                "extracted_keyword": "İzmir Çevre Otoyolu",
+                "description": "Ankara-Kırıkkale yolunun 35-37.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kırıkkale istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:15.172704"
+                "updated_at": "2026-08-03T11:56:38.542039"
             }
         },
         {
@@ -57,16 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.485672,
-                    40.716326
+                    28.6069285,
+                    41.0250615
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Anadolu Otoyolunun 7-12.km.leri arasında 03.08.2026-21.08.2026 tarihlerinde Kızılcahamam Kavşağı-Çamlıdere Kavşağı mevkiinde İstanbul istikametinde yapılacak olan üstyapı onarım çalışmaları nedeniyle İstanbul yönü trafiğe kapatılacak olup  ulaşım diğer istikametten (Ankara yönünden) iki yönlü ve kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Anadolu Otoyolu",
+                "description": "Büyükçekmece-Çatalca yolunun 21-22.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Büyükçekmece Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:15.359485"
+                "updated_at": "2026-08-03T11:56:38.746363"
             }
         },
         {
@@ -74,16 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.1321477,
-                    41.0292272
+                    34.7065814,
+                    37.9795618
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Mersin-Çeşmeli Otoyolu Kuyuluk Kavşağında yürütülen  yapım çalışmaları sebebiyle Çeşmeli-Mersin istikametinde ana gövdeden ayrılmayı sağlayan  Kuyuluk Mezitli çıkış kolu  29.07.2026 saat  10:00  itibari ile trafiğe kapatılmıştır.",
-                "extracted_keyword": "Çeşmeli Otoyolu Kuyuluk Kavşağı",
+                "description": "Kayseri-Kırşehir yolunun 16-20.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:15.567543"
+                "updated_at": "2026-08-03T11:56:38.923634"
             }
         },
         {
@@ -91,16 +108,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    40.3717592,
-                    40.9685814
+                    36.7680422,
+                    37.1998598
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İyidere-Rize-Pazar yolunun 0-56.km.leri arasında yapılmakta olan yatay işaretleme (çizgi) çalışması nedeniyle bölünmüş yolun her iki yönünde ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "İyidere Yolu",
+                "description": "Nurdağı-İslahiye-Hassa yolunun 2-4.km.leri arasındaki Gökçedere Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:15.736705"
+                "updated_at": "2026-08-03T11:56:39.088562"
             }
         },
         {
@@ -108,16 +125,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.5959432,
-                    38.369149
+                    27.4392541,
+                    38.0447299
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Elazığ - Malatya yolunun 38-42.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Elazığ Yolu",
+                "description": "Torbalı-Ödemiş yolunun 67-72.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Torbalı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:15.935190"
+                "updated_at": "2026-08-03T11:56:39.250614"
             }
         },
         {
@@ -125,16 +142,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.2179055,
-                    38.2474225
+                    30.3608149,
+                    38.045745
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Afyonkarahisar İl Sn. - Konya Devlet yolunun 10-12.km.leri arasındaki yol yapım çalışmaları nedeniyle bölünmüş yolun  Konya - Afyonkarahisar istikameti trafiğe kapatılarak ulaşım diğer bölümde Afyonkarahisar - Konya istikametinden çift yönlü (gidiş-geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Afyonkarahisar İl Sn. Yolu",
+                "description": "Uluborlu-Senirkent-Yalvaç yolunun 38-61.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Uluborlu Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:16.154315"
+                "updated_at": "2026-08-03T11:56:39.434445"
             }
         },
         {
@@ -142,16 +159,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    40.416094,
-                    39.7665563
+                    33.5959819,
+                    40.6697073
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Denizli İl Sınırı-Çavdır-Söğüt yolunun 18-24.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Denizli İl Sınırı Yolu",
+                "description": "Kastamonu-Araç yolunun 3-14.km.leri arasında sathi kaplama çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kastamonu Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:16.368735"
+                "updated_at": "2026-08-03T11:56:39.600911"
             }
         },
         {
@@ -159,33 +176,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.3577677,
-                    37.2221493
+                    38.7946996,
+                    37.1969584
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kızıldağ-Altköy yolunun  2-6.km.leri arasında sathi kaplama  çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kızıldağ Yolu",
+                "description": "Diyarbakır-Siverek yolunun 35-37.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Diyarbakır Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T08:24:16.536351"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    42.7162518,
-                    40.3866265
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kars - Digor merkez yolunun 37 - 39.km.leri arasında yolu yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kars Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-03T08:24:16.732505"
+                "updated_at": "2026-08-03T11:56:39.798200"
             }
         }
     ]
