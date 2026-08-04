@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolu Orhanlı Kavşağı bağlantı kollarında üstyapı onarım ve yenileme çalışmaları yapılacaktır.Yapılacak çalışmalar nedeniye TEM Otoyolu Orhanlı Kavşağında ;Ankara ve İstanbul yönünde çıkışlar trafiğe tamamen kapatılarak; trafik akışı alternatif güzergahlardan sağlanacaktır.Çalışmamalar kapsamında Ankara istikametine giden ve Orhanlı Gişeleri kullanmak isteyen sürücüler Orhanlı kavşağı öncesi Kurtköy gişelerinden çıkış yapabilecekleri gibi sonrasında Şekerpınar Gişelerinden D-100 D Yoluna bağlantı sağlayabilecekler.İstanbul istikametine giden Orhanlı gişeleri kullanmak isteyen sürücüler orhanlı kavşağı öncesi şekerpınar gişelerinden çıkış yaparak D-100 Devlet yoluna bağlantı sağlayabilecekleri gibi sonrasında Kurtköy kavşağından çıkış yapabilecektir.Çalışmalar 10.08.2026 Pazartesi günü saat 22:00'dan itibaren başlayacaktır.Hergün akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacakır.",
                 "extracted_keyword": "TEM Otoyolu Orhanlı Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-04T20:20:18.950814"
+                "updated_at": "2026-08-04T21:45:01.760862"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın Denizli Otoyolunun 0-4 km.leri arasında üstyapı çalışmaları nedeniyle 03-08-2026 tarihinden itibaren Aydın istikameti araç trafiğine kapatılacak olup trafik akışı Denizli istikametinde iki yönlü olarak sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aydın Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-04T20:20:19.036773"
+                "updated_at": "2026-08-04T21:45:01.850873"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Sarıkamış-Horasan yolunun 17-21.km.leri arasında viyadük Çalışmalarından Dolayı Trafik sağ istikametten Gidiş-Geliş Olarak Sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Sarıkamış Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-04T20:20:19.117025"
+                "updated_at": "2026-08-04T21:45:01.927473"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale yolunun 35-37.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kırıkkale istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-04T20:20:19.265989"
+                "updated_at": "2026-08-04T21:45:02.046086"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Aksaray-Nevşehir yolunun 29.31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak ve ayrıca servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-04T20:20:19.367519"
+                "updated_at": "2026-08-04T21:45:02.147398"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Kayseri-Kırşehir yolunun 16-20.km.leri arasında yol yapım çalışması olduğun ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-04T20:20:19.459291"
+                "updated_at": "2026-08-04T21:45:02.244181"
             }
         },
         {
@@ -117,7 +117,41 @@
                 "description": "Tokat-Sivas yolunun 29-31.km.leri arasında 08.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Tokat Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-04T20:20:19.559177"
+                "updated_at": "2026-08-04T21:45:02.362986"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.5959432,
+                    38.369149
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Elazığ-Malatya yolunun 38-42.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Elazığ Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-04T21:45:02.474725"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8499206,
+                    37.0549329
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çavdır-Söğüt-Korkuteli yolunun 5-12.km.leri arasında 29.07.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Çavdır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-04T21:45:02.563022"
             }
         }
     ]
