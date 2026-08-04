@@ -15,7 +15,7 @@
                 "description": "Anadolu Otoyolunun Kızılcahamam Kavşağı-Çamlıdere Kavşağı Kesimi 7-12.km.leri arasında  üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Anadolu Otoyolunun Kızılcahamam Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-03T23:52:57.057152"
+                "updated_at": "2026-08-04T02:20:21.973461"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T23:52:57.222668"
+                "updated_at": "2026-08-04T02:20:22.166029"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Büyükçekmece-Çatalca yolunun 21-22.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Büyükçekmece Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T23:52:57.438119"
+                "updated_at": "2026-08-04T02:20:22.295890"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Kayseri-Kırşehir yolunun 16-20.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T23:52:57.598865"
+                "updated_at": "2026-08-04T02:20:22.413589"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Sakarya-Bilecik yolunun 21-23.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T23:52:57.757856"
+                "updated_at": "2026-08-04T02:20:22.523652"
             }
         },
         {
@@ -100,75 +100,7 @@
                 "description": "Torbalı-Ödemiş yolunun 67-72.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Torbalı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-03T23:52:57.930783"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.3608149,
-                    38.045745
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Uluborlu-Senirkent-Yalvaç yolunun 38-61.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Uluborlu Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-03T23:52:58.063063"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.5959819,
-                    40.6697073
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kastamonu-Araç yolunun 3-14.km.leri arasında sathi kaplama çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kastamonu Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-03T23:52:58.233467"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.7946996,
-                    37.1969584
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Diyarbakır-Siverek yolunun 35-37.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Diyarbakır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-03T23:52:58.371568"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    41.6203048,
-                    37.7589109
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Trabzon-Rize yolunun 8.km.sinde bulunan Kaşüstü Tünelinin her iki yönündeki tüplerinde elektrik, elektronik sistemleri bakım, onarım çalışması nedeniyle 04.08.2026 tarihinde 00:00-06:00 saatleri arasında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Kaşüstü Tüneli",
-                "category": "road_work",
-                "updated_at": "2026-08-03T23:52:58.515990"
+                "updated_at": "2026-08-04T02:20:22.610226"
             }
         }
     ]
