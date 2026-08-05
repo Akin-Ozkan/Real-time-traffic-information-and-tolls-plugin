@@ -6,16 +6,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    29.1650342,
+                    41.032379
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "TAG Otoyolunun 0-2.km.leri arası Nurdağı Kavşağı-Narlı Kavşağı mevkii  ile Gaziantep-Adana istikametindeki Nurdağı Kavşağı otoyol ayrım kolunda deprem hasarlarının üstyapı onarım çalışmaları nedeniyle 16.07.2026-15.11.2026 tarihlerinde Adana istikameti trafiğe kapatılarak ulaşım Gaziantep istikametinden iki yönlü ve kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "TAG Otoyolu",
+                "category": "road_work",
+                "updated_at": "2026-08-05T16:18:57.276022"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.090283,
+                    41.176208
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Anadolu Otoyolunun Kızılcahamam Kavşağı-Çamlıdere Kavşağı Kesimi 7-12.km.leri arasında  üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Anadolu Otoyolunun Kızılcahamam Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-08-05T16:18:57.439715"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     28.9606737,
                     41.0557348
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "TEM Otoyolu Orhanlı Kavşağı bağlantı kollarında üstyapı onarım ve yenileme çalışmaları yapılacaktır.Yapılacak çalışmalar nedeniye TEM Otoyolu Orhanlı Kavşağında ;Ankara ve İstanbul yönünde çıkışlar trafiğe tamamen kapatılarak; trafik akışı alternatif güzergahlardan sağlanacaktır.Çalışmamalar kapsamında Ankara istikametine giden ve Orhanlı Gişeleri kullanmak isteyen sürücüler Orhanlı kavşağı öncesi Kurtköy gişelerinden çıkış yapabilecekleri gibi sonrasında Şekerpınar Gişelerinden D-100 D Yoluna bağlantı sağlayabilecekler.İstanbul istikametine giden Orhanlı gişeleri kullanmak isteyen sürücüler orhanlı kavşağı öncesi şekerpınar gişelerinden çıkış yaparak D-100 Devlet yoluna bağlantı sağlayabilecekleri gibi sonrasında Kurtköy kavşağından çıkış yapabilecektir.Çalışmalar 10.08.2026 Pazartesi günü saat 22:00'dan itibaren başlayacaktır.Hergün akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacakır.",
-                "extracted_keyword": "TEM Otoyolu Orhanlı Kavşağı",
+                "description": "TEM Otoyolu Sapanca Kavşağı – Adapazarı Kavşağı arasında bulunan köprülerin yaklaşım betonu ve derz onarım çalışmaları yapılacaktır. Yapılacak çalışmalar süresince İstanbul istikameti şerit daraltması yapılarak trafik akışı kontrollü şekilde sağlanacaktır. Çalışmalar 04.08.2026 Salı günü başlayacak olup, 24 saat esasına göre çalışılacaktır.",
+                "extracted_keyword": "TEM Otoyolu Sapanca Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-05T14:34:05.958562"
+                "updated_at": "2026-08-05T16:18:57.608968"
             }
         },
         {
@@ -29,10 +63,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aydın Denizli Otoyolunun 0-4 km.leri arasında üstyapı çalışmaları nedeniyle 03-08-2026 tarihinden itibaren Aydın istikameti araç trafiğine kapatılacak olup trafik akışı Denizli istikametinde iki yönlü olarak sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "description": "Aydın Denizli Otoyolunun 14.km\"inde Aydın İstikametinde yapılacak üstyapı çalışmaları nedeniyle sağ ve orta şerit araç trafiğine kapatılacak trafik akışı sol şeritten kontrollü olarak sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aydın Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-05T14:34:06.037966"
+                "updated_at": "2026-08-05T16:18:57.742810"
             }
         },
         {
@@ -40,16 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    42.4390302,
-                    40.1153227
+                    33.260122,
+                    41.82607
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Sarıkamış-Horasan yolunun 17-21.km.leri arasında viyadük Çalışmalarından Dolayı Trafik sağ istikametten Gidiş-Geliş Olarak Sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Sarıkamış Yolu",
+                "description": "Kemer Ayr.-Burdur yolunun 0-1 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bir şeritten iki yönlü ve kontrollü şekilde verilmektedir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kemer Ayr. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-05T14:34:06.111169"
+                "updated_at": "2026-08-05T16:18:57.906749"
             }
         },
         {
@@ -57,16 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.496592,
-                    40.397845
+                    43.103387,
+                    40.602207
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Kırıkkale yolunun 35-37.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kırıkkale istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Yolu",
+                "description": "Digor - Tuzluca yolunun 72-73 km'leri arasında yolun sağ şeridinde çalışma olmasından kaynaklı trafik servis yolundan karşılıklı olarak sağlanmaktadır.",
+                "extracted_keyword": "Digor Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-05T14:34:06.209752"
+                "updated_at": "2026-08-05T16:18:58.148553"
             }
         },
         {
@@ -74,16 +108,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.4713437,
-                    38.9930549
+                    33.7208371,
+                    41.8420747
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aksaray-Nevşehir yolunun 29.31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak ve ayrıca servis yolundan sağlanmaktadır.",
-                "extracted_keyword": "Aksaray Yolu",
+                "description": "İnebolu-Kastamonu yolunun 26-28.km.leri arasında 13.05.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "İnebolu Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-05T14:34:06.302671"
+                "updated_at": "2026-08-05T16:18:58.295429"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5354562,
+                    38.7880134
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kütahya- Bozüyük Devlet yolunun 0-1 km.leri arasında Kümbet Yeniköy kavşağı yapım çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kütahya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-05T16:18:58.454503"
             }
         },
         {
@@ -97,10 +148,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kayseri-Kırşehir yolunun 16-20.km.leri arasında yol yapım çalışması olduğun ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "description": "Kayseri-Nevşehir yolunun 59-62.km.leri arasında yol yapım çalışması olduğundan dolayı ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-05T14:34:06.415720"
+                "updated_at": "2026-08-05T16:18:58.598843"
             }
         }
     ]
