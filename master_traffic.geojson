@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.134980"
+                "updated_at": "2026-08-07T03:36:09.477177"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.134992"
+                "updated_at": "2026-08-07T03:36:09.477190"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.134995"
+                "updated_at": "2026-08-07T03:36:09.477193"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.134997"
+                "updated_at": "2026-08-07T03:36:09.477196"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.134999"
+                "updated_at": "2026-08-07T03:36:09.477198"
             }
         },
         {
@@ -82,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.135001"
+                "updated_at": "2026-08-07T03:36:09.477200"
             }
         },
         {
@@ -96,7 +96,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-08-07T00:33:57.135003"
+                "updated_at": "2026-08-07T03:36:09.477202"
             }
         },
         {
@@ -110,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.135005"
+                "updated_at": "2026-08-07T03:36:09.477204"
             }
         },
         {
@@ -124,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.135007"
+                "updated_at": "2026-08-07T03:36:09.477209"
             }
         },
         {
@@ -138,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.135008"
+                "updated_at": "2026-08-07T03:36:09.477211"
             }
         },
         {
@@ -152,7 +152,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.135010"
+                "updated_at": "2026-08-07T03:36:09.477213"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5531809876,
+                    39.7613937131
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-08-07T03:36:09.477215"
             }
         },
         {
@@ -166,7 +180,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.135012"
+                "updated_at": "2026-08-07T03:36:09.477221"
             }
         },
         {
@@ -180,21 +194,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.135014"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6170752297,
-                    39.7688663019
-                ]
-            },
-            "properties": {
-                "category_code": 9,
-                "updated_at": "2026-08-07T00:33:57.135019"
+                "updated_at": "2026-08-07T03:36:09.477223"
             }
         },
         {
@@ -208,7 +208,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-08-07T00:33:57.135021"
+                "updated_at": "2026-08-07T03:36:09.477225"
             }
         },
         {
@@ -216,13 +216,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.6442808757,
-                    39.7528146445
+                    30.6170752297,
+                    39.7688663019
                 ]
             },
             "properties": {
-                "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.135023"
+                "category_code": 9,
+                "updated_at": "2026-08-07T03:36:09.477226"
             }
         },
         {
@@ -236,7 +236,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-07T00:33:57.135024"
+                "updated_at": "2026-08-07T03:36:09.477228"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6442808757,
+                    39.7528146445
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-08-07T03:36:09.477230"
             }
         },
         {
@@ -253,7 +267,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T00:33:58.940769"
+                "updated_at": "2026-08-07T03:36:11.671849"
             }
         },
         {
@@ -270,7 +284,7 @@
                 "description": "Gebze-Orhangazi-İzmir (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) Otoyolu'nun O-5/08 Km:06 ile O-5/08 Km:08 kontrol kesim numaraları (Proje Km:72+750 – 73+773) arasında şev bakım ve onarım çalışması yapılması planlanmaktadır.\nSöz konusu çalışmalar kapsamında, İzmir istikametinde emniyet şeridi kapatılacak olup trafik akışı sağ-orta ve sol olmak üzere üç şeritten sağlanacaktır. Çalışmaların 06.08.2026 tarihinde başlanması ve 15.08.2026 tarihinde tamamlanması planlanmaktadır.",
                 "extracted_keyword": "Gebze Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T00:33:59.052091"
+                "updated_at": "2026-08-07T03:36:11.775535"
             }
         },
         {
@@ -287,7 +301,7 @@
                 "description": "Otoyol Ayrım.-Çerkezköy yolunun 1-6.km.leri arasında 03.08.2026-15.09.2026 tarihlerinde üstyapı yenileme çalışmaları nedeniyle yolun güney yönü (İstanbul istikameti) trafiğe kapatılacak olup ulaşım yolun kuzey yönünden (Çerkezköy istikameti) gidiş geliş olarak sağlanmaktadır.",
                 "extracted_keyword": "Otoyol Ayrım. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T00:33:59.153723"
+                "updated_at": "2026-08-07T03:36:11.881809"
             }
         },
         {
@@ -304,7 +318,7 @@
                 "description": "Artvin-Erzurum yolunun 41-55.km.leri arasında bulunan 12 adet tünel ve yaklaşımlarında yapılacak olan görüntü ile elektrik, elektronik sistemleri bakım onarım çalışması nedeniyle 06.08.2026-10.08.2026 tarihleri arası, 08:00-17:30 saatleri arasında ulaşım tek şeritten kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Artvin Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T00:33:59.250014"
+                "updated_at": "2026-08-07T03:36:11.967572"
             }
         },
         {
@@ -321,7 +335,7 @@
                 "description": "Kahramanmaraş İl Snr.-Malatya yolunun 31-36.km.leri arasında üst yapı onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kahramanmaraş İl Snr. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T00:33:59.362212"
+                "updated_at": "2026-08-07T03:36:12.047783"
             }
         },
         {
@@ -338,7 +352,7 @@
                 "description": "Uluborlu-Senirkent-Yalvaç Yolunun 38-61.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Uluborlu Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T00:33:59.430861"
+                "updated_at": "2026-08-07T03:36:12.128450"
             }
         },
         {
@@ -355,7 +369,41 @@
                 "description": "Kayseri-Kırşehir yolunun 16-20.km.leri arasında  yol yapım çalışması olduğun ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T00:33:59.584870"
+                "updated_at": "2026-08-07T03:36:12.242890"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0011109,
+                    41.2253863
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kastamonu-Araç yolunun 3-14.km.leri arasında sathi kaplama çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kastamonu Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-07T03:36:12.336839"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.4390302,
+                    40.1153227
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Sarıkamış - Horasan yolunun 17-21.km.leri arasında viyadük Çalışmalarından dolayı Trafik sağ istikametten Gidiş-Geliş Olarak Sağlanmaktadır.",
+                "extracted_keyword": "Sarıkamış Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-07T03:36:12.451915"
             }
         }
     ]
