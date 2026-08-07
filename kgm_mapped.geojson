@@ -15,7 +15,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T13:21:35.290529"
+                "updated_at": "2026-08-07T14:30:11.693151"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Gebze-Orhangazi-İzmir (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) Otoyolu'nun O-5/08 Km:06 ile O-5/08 Km:08 kontrol kesim numaraları (Proje Km:72+750 – 73+773) arasında şev bakım ve onarım çalışması yapılması planlanmaktadır.\nSöz konusu çalışmalar kapsamında, İzmir istikametinde emniyet şeridi kapatılacak olup trafik akışı sağ-orta ve sol olmak üzere üç şeritten sağlanacaktır. Çalışmaların 06.08.2026 tarihinde başlanması ve 15.08.2026 tarihinde tamamlanması planlanmaktadır.",
                 "extracted_keyword": "Gebze Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T13:21:35.412624"
+                "updated_at": "2026-08-07T14:30:11.878686"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Otoyol Ayrım.-Çerkezköy yolunun 1-6.km.leri arasında 03.08.2026-15.09.2026 tarihlerinde üstyapı yenileme çalışmaları nedeniyle yolun güney yönü (İstanbul istikameti) trafiğe kapatılacak olup ulaşım yolun kuzey yönünden (Çerkezköy istikameti) gidiş geliş olarak sağlanmaktadır.",
                 "extracted_keyword": "Otoyol Ayrım. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T13:21:35.536919"
+                "updated_at": "2026-08-07T14:30:12.069045"
             }
         },
         {
@@ -66,7 +66,75 @@
                 "description": "Artvin-Erzurum yolunun 41-55.km.leri arasında bulunan 12 adet tünel ve yaklaşımlarında yapılacak olan görüntü ile elektrik, elektronik sistemleri bakım onarım çalışması nedeniyle 06.08.2026-10.08.2026 tarihleri arası, 08:00-17:30 saatleri arasında ulaşım tek şeritten kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Artvin Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-07T13:21:35.626812"
+                "updated_at": "2026-08-07T14:30:12.208228"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.7331122,
+                    37.6402039
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kahramanmaraş İl Snr.-Malatya yolunun 31-36.km.leri arasında üst yapı onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kahramanmaraş İl Snr. Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-07T14:30:12.370466"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.365033,
+                    38.0486553
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Uluborlu-Senirkent-Yalvaç Yolunun 38-61.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Uluborlu Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-07T14:30:12.514972"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7065814,
+                    37.9795618
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kayseri-Kırşehir yolunun 16-20.km.leri arasında  yol yapım çalışması olduğun ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kayseri Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-07T14:30:12.672827"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0011109,
+                    41.2253863
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kastamonu-Araç yolunun 3-14.km.leri arasında sathi kaplama çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kastamonu Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-07T14:30:12.845102"
             }
         }
     ]
