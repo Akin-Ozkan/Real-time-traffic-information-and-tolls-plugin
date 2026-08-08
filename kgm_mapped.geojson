@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun Gaziosmanpaşa Kavşağı-Kemerburgaz Kavşağı arasında bulunan Hasdal Viyadüğünde derz onarım çalışmaları nedeniyle her gün 22:00-06:00 saatleri arasında Edirne istikameti trafiğe kapatılacak olup, ulaşım diğer istikametten iki yönlü olarak sağlanacaktır.",
                 "extracted_keyword": "TEM Otoyolunun Gaziosmanpaşa Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-08T13:56:35.512440"
+                "updated_at": "2026-08-08T14:38:34.377342"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Anadolu Otoyolunun Kızılcahamam Kavşağı-Çamlıdere Kavşağı Kesimi 7-12.km.leri arasında üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Anadolu Otoyolunun Kızılcahamam Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-08T13:56:35.634768"
+                "updated_at": "2026-08-08T14:38:34.550372"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-08T13:56:35.691824"
+                "updated_at": "2026-08-08T14:38:34.717478"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Kayseri-Nevşehir yolunun 59-62.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-08T13:56:35.754683"
+                "updated_at": "2026-08-08T14:38:34.860178"
             }
         },
         {
@@ -83,7 +83,41 @@
                 "description": "Turgutlu-Salihli yolunun 6-9.kmleri arasında (Ergenekon Kavşağı) farklı seviyeli kavşak yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Ergenekon Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-08T13:56:35.866212"
+                "updated_at": "2026-08-08T14:38:35.016611"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.595154,
+                    40.671524
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tokat-Sivas yolunun 29-31.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Tokat Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-08T14:38:35.163919"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3831778,
+                    36.6368002
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Seydikemer-Söğüt yolunun 4-49.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Seydikemer Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-08T14:38:35.310802"
             }
         },
         {
@@ -100,7 +134,7 @@
                 "description": "Elazığ-Malatya yolunun 8-11.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Elazığ Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-08T13:56:36.059181"
+                "updated_at": "2026-08-08T14:38:35.462449"
             }
         },
         {
@@ -117,7 +151,7 @@
                 "description": "Artvin-Şavşat yolunun 62.km.sinde sanayi kavşağı yapım çalışması nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Artvin Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-08T13:56:36.112762"
+                "updated_at": "2026-08-08T14:38:35.607930"
             }
         },
         {
@@ -134,7 +168,7 @@
                 "description": "Bursa-İnegöl-Bozüyük yolunun 54-58.km.leri arasında yol yapım çalışmaları nedeniyle İnegöl-Bozüyük istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-08T13:56:36.171399"
+                "updated_at": "2026-08-08T14:38:35.774168"
             }
         }
     ]
