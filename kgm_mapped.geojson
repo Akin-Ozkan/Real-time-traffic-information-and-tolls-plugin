@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.0935396,
-                    41.0904832
+                    28.9606737,
+                    41.0557348
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "TEM Otoyolunun Gaziosmanpaşa Kavşağı-Kemerburgaz Kavşağı arasında bulunan Hasdal Viyadüğünde derz onarım çalışmaları nedeniyle her gün 22:00-06:00 saatleri arasında Edirne istikameti trafiğe kapatılacak olup, ulaşım diğer istikametten iki yönlü olarak sağlanacaktır.",
-                "extracted_keyword": "TEM Otoyolunun Gaziosmanpaşa Kavşağı",
+                "description": "TEM Otoyolu Orhanlı Kavşağı bağlantı kollarında üstyapı onarım ve yenileme çalışmaları yapılacaktır.Yapılacak çalışmalar nedeniye TEM Otoyolu Orhanlı Kavşağında ;Ankara ve İstanbul yönünde çıkışlar trafiğe tamamen kapatılarak; trafik akışı alternatif güzergahlardan sağlanacaktır.Çalışmamalar kapsamında Ankara istikametine giden ve Orhanlı Gişeleri kullanmak isteyen sürücüler Orhanlı kavşağı öncesi Kurtköy gişelerinden çıkış yapabilecekleri gibi sonrasında Şekerpınar Gişelerinden D-100 D Yoluna bağlantı sağlayabilecekler.İstanbul istikametine giden Orhanlı gişeleri kullanmak isteyen sürücüler orhanlı kavşağı öncesi şekerpınar gişelerinden çıkış yaparak D-100 Devlet yoluna bağlantı sağlayabilecekleri gibi sonrasında Kurtköy kavşağından çıkış yapabilecektir.Çalışmalar 10.08.2026 Pazartesi günü saat 22:00'dan itibaren başlayacaktır.Hergün akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacakır.",
+                "extracted_keyword": "TEM Otoyolu Orhanlı Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-09T18:18:04.111713"
+                "updated_at": "2026-08-09T19:07:40.925863"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.090283,
-                    41.176208
+                    28.2934335,
+                    37.8311225
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Anadolu Otoyolunun Kızılcahamam Kavşağı-Çamlıdere Kavşağı Kesimi 7-12.km.leri arasında üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Anadolu Otoyolunun Kızılcahamam Kavşağı",
+                "description": "Aydın Denizli Otoyolunun 10-11.km.leri arasında Aydın İstikametinde yapılacak üstyapı çalışmaları nedeniyle sol ve orta şerit araç trafiğine kapatılacak trafik akışı sağ şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Aydın Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-09T18:18:04.228746"
+                "updated_at": "2026-08-09T19:07:41.020973"
             }
         },
         {
@@ -40,16 +40,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.1650342,
-                    41.032379
+                    33.4713437,
+                    38.9930549
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "TAG Otoyolu",
+                "description": "Aksaray-Nevşehir yolunun 29-31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak ve ayrıca servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-09T18:18:04.345059"
+                "updated_at": "2026-08-09T19:07:41.131941"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.496592,
+                    40.397845
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ankara-Kırıkkale yolunun 35-37.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kırıkkale istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Ankara Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-09T19:07:41.254768"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.7331122,
+                    37.6402039
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Göksun-Elbistan yolunun Elbistan şehir geçişinde yolun 31-26.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Göksun Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-09T19:07:41.378142"
             }
         },
         {
@@ -63,10 +97,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kayseri-Nevşehir yolunun 59-62.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "description": "Kayseri-Kırşehir yolunun 16-20.km.leri arasında yol yapım çalışması olduğun ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-09T18:18:04.484087"
+                "updated_at": "2026-08-09T19:07:41.486203"
             }
         },
         {
@@ -74,16 +108,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.985709,
-                    41.048467
+                    33.5911258,
+                    39.8584564
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Turgutlu-Salihli yolunun 6-9.kmleri arasında (Ergenekon Kavşağı) farklı seviyeli kavşak yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
-                "extracted_keyword": "Ergenekon Kavşağı",
+                "description": "Samsun-Çarşamba-Terme yolunu 5-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Samsun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-09T18:18:04.652886"
+                "updated_at": "2026-08-09T19:07:41.583256"
             }
         }
     ]
