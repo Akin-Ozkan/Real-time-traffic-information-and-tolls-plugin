@@ -15,7 +15,7 @@
                 "description": "İzmir Çevre otoyol ve bağlantı yollarında 1-2.km.leri arasında 11.08.2026-12.08.2026 tarihlerinde   hasarlı genleşme derzlerinin yenilenmesi ve genleşme derzi betonlarında onarım yapılması için, Bornova Viyadüğü Aydın istikameti  sol ve orta şerit trafiğe kapatılacak olup ulaşıım sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre otoyol ve bağlantı yollarında 1 Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-10T16:10:57.828897"
+                "updated_at": "2026-08-10T17:10:09.193005"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TAG otoyolunun 35-39.km.leri arası (Kuzey Taşıma Gaziantep Yönü) 08.08.2026-07.10.2026 tarihlerinde üst yapı onarım çalışmaları nedeniyle  trafiğe kapatılacaktır. Ulaşım Şanlıurfa istikametinden iki yönde kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "TAG otoyolunun 35 Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-10T16:10:58.082665"
+                "updated_at": "2026-08-10T17:10:09.418312"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "TEM Otoyolunun 0-10.km.leri arasında 07.08.2026 tarihinden itibaren  Edirne Batı Kavşağı-Gümüşova mevkiinde üstyapı onarım ve yenileme çalışmaları kesimler halinde yapılması  nedeniyle şerit daraltma yapılarak ulaşım diğer şeritlerden sağlanmaktadır. (Çalışmalar hergün  21:00-06:00 saatleri arasında yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-10T16:10:58.234932"
+                "updated_at": "2026-08-10T17:10:09.505755"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Aliağa- Ayvalık yolunun 0-6 km.leri arasında 07.08.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aliağa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-10T16:10:58.420744"
+                "updated_at": "2026-08-10T17:10:09.625405"
             }
         },
         {
@@ -83,92 +83,7 @@
                 "description": "Afyonkarahisar Çevre Yolu Otogar Kavşağında 44-45.km.leri arasında 10.08.2026-14.08.2026  tarihinde yeni nesil akıllı kavşak (CFI) üstyapı çalışmaları yapılacaktır. Bu yolu kullanacak sürücülerin Erkmen Kavşağı-Eskişehir Yolu Köprülü Kavşağı güzergahlarını kullanması gerekmektedir.",
                 "extracted_keyword": "Afyonkarahisar Çevre Yolu Otogar Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-10T16:10:58.623006"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.4654576,
-                    37.2755564
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kayseri Kuzey Çevre yolunun 26-48.km.leri arasında 06.08.2026-15.09.2026  tarihinde yol bakım ve onarım  çalışması yapılması nedeniyle  sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kayseri Kuzey Çevre yolunun 26 Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-10T16:10:58.838540"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.2323758,
-                    39.9379848
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Balıkesir-Kepsut yolunun 9-13.km.leri arasında 05.08.2026 tarihinden itibaren  yol yapım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Balıkesir Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-10T16:10:59.026170"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.3577677,
-                    37.2221493
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kızıldağ-Altköy yolunun  2-6.km.leri arasında  04.08.2026 tarihinden itibaren asfalt sathi kaplama  çalışmaları yapılmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir. dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kızıldağ Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-10T16:10:59.167188"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.496592,
-                    40.397845
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ankara-Kırıkkale yolunun 19-22.km.leri arası (Ankara-Kırıkkale istikameti) 03.08.2026  tarihinden itibaren üstyapı onarım çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Kırıkkale-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-10T16:10:59.295986"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    41.3289886,
-                    41.3639708
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Arhavi-Hopa-Kemalpaşa-Sarp yolunun 8-34.km.leri arasında bulunan 11 adet tünelde yapılacak olan elektrik, elektronik sistemleri bakım onarım çalışması nedeniyle 10.08.2026-14.08.2026 tarihlerinde 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Arhavi Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-10T16:10:59.445459"
+                "updated_at": "2026-08-10T17:10:09.768885"
             }
         }
     ]
