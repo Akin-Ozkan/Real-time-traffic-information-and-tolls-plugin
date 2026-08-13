@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.485672,
-                    40.716326
+                    32.3707221,
+                    37.7977068
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "O-4 Anadolu Otoyolunda, Kandıra Kavşağı ile Doğu İzmit Kavşağı arasında, Alikahya mevkiinde Altgeçit ve yağmursuyu menfezlerinin yapılması çalışmaları Kocaeli Büyükşehir Belediyesi tarafından yapılacaktır.\n12.08.2026 tarihinde çalışmalara başlanacak olup, bu çalışmalar esnasında TEM Otoyolu üzerindeki trafik Ankara ve İstanbul istikametinde çift yönde servis yollarından sağlanacaktır. Ayrıca aynı tarihte Ankara yönündeki trafiğin servis yoluna aktarılabilmesi için saat 22:00 ile 06:00 saatleri arasında şerit kapatma yapılarak çalışmalar yürütülecektir.",
-                "extracted_keyword": "Anadolu Otoyolu",
+                "description": "Seydişehir-Akseki-Manavgat yolunun 7-19 ve 28-31.km.leri arasında patlatmalı kazı çalışmaları nedeniyle 13.08.2026 tarihinde 10:00-17:00 saatleri arasında yol aralıklarla trafiğe kapatılacaktır.",
+                "extracted_keyword": "Seydişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T06:49:21.819479"
+                "updated_at": "2026-08-13T08:09:09.680808"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.845954,
-                    37.8233935
+                    29.090283,
+                    41.176208
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir Çevre Otoyolu Küçük Menderes  Köprüsü İzmir istikameti km:20-21 arası  12.08.2026-13.08.2026 tarihleri arasında sol orta şerit trafiğe kapatılacak olup trafik akışı sağ ve emniyet şeridinden sağlanacaktır.",
-                "extracted_keyword": "İzmir Çevre Otoyolu Küçük Menderes  Köprüsü",
+                "description": "Anadolu Otoyolunun Kızılcahamam Kavşağı-Çamlıdere Kavşağı Kesimi 7-12.km.leri arasında üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Anadolu Otoyolunun Kızılcahamam Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-13T06:49:21.942876"
+                "updated_at": "2026-08-13T08:09:09.776900"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    43.3940636,
-                    38.4730331
+                    29.2005796,
+                    40.4239301
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Van-Hakkari yolunun 71-79 .km.leri arasında tünel ve yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Van-Hakkari yolunun 71-79",
+                "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T06:49:22.030921"
+                "updated_at": "2026-08-13T08:09:09.875184"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    39.7081739,
-                    40.97055
+                    32.196808,
+                    40.80223
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Trabzon-Rize yolunun 34-37.km.leri arasında yapılmakta olan üst yapı yenileme çalışmaları nedeniyle bölünmüş yolun Rize-Trabzon yönü trafiğe kapatılmış olup ulaşım diğer istikametten iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Trabzon Yolu",
+                "description": "Mengen-Yeniçağa yolunun 27-29.km.leri arasında şev düzenleme ve taş duvar yapım çalışmaları nedeniyle Mengen-Yeniçağa istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Mengen Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T06:49:22.088379"
+                "updated_at": "2026-08-13T08:09:09.941595"
             }
         },
         {
@@ -74,16 +74,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.260122,
-                    41.82607
+                    29.729109,
+                    40.42845
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kemer Ayr.-Burdur yolunun 0-1 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bir şeritten iki yönlü ve kontrollü şekilde verilmektedir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kemer Ayr. Yolu",
+                "description": "Adapazarı-Mekece yolunun 21-23.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Adapazarı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T06:49:22.188164"
+                "updated_at": "2026-08-13T08:09:10.049382"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0457181,
+                    38.6450153
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Aliağa-Ayvalık yolunun 0-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Aliağa Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-13T08:09:10.140280"
             }
         },
         {
@@ -97,10 +114,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kayseri-Nevşehir yolunun 64-66.km.leri arasında yol yapım çalışması olduğundan dolayı ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "description": "Kayseri-Sivas yolunun 57-61.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T06:49:22.281547"
+                "updated_at": "2026-08-13T08:09:10.223576"
             }
         },
         {
@@ -108,16 +125,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.5763816,
-                    37.5112767
+                    29.5924608,
+                    36.8433068
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Beyşehir-Seydişehir-Antalya yolunun 60-62.km.leri arasında devam eden yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak servis yolundan sağlanmaktadır.",
-                "extracted_keyword": "Beyşehir Yolu",
+                "description": "Antalya-Manavgat-Alanya yolunun 0-28.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T06:49:22.359642"
+                "updated_at": "2026-08-13T08:09:10.326023"
             }
         },
         {
@@ -125,16 +142,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.288149,
-                    41.36864
+                    31.5167049,
+                    41.2907465
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Adana-Osmaniye yolunun 12-13.km.leri arasında 06.08.2026 tarihinden itibaren  Karaçay Köprüsü Yapım İşi kapsamında yapılacak çalışmalar nedeniyle trafik kontrollü olarak servis yolunda sağlanmaktadır..",
-                "extracted_keyword": "Karaçay Köprüsü",
+                "description": "Zonguldak-Devrek-Mengen yolunun 35-39.km.leri arasında (Bakacakkadı Mevkii) toprak işleri, sanat yapıları ve üstyapı yenileme çalışmaları nedeniyle Zonguldak istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Zonguldak Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T06:49:22.482078"
+                "updated_at": "2026-08-13T08:09:10.405866"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7946996,
+                    37.1969584
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Diyarbakır-Siverek yolunun 33-36.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Diyarbakır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-13T08:09:10.513397"
             }
         }
     ]
