@@ -15,7 +15,7 @@
                 "description": "Seydişehir-Akseki-Manavgat yolunun 7-19 ve 28-31.km.leri arasında patlatmalı kazı çalışmaları nedeniyle 13.08.2026 tarihinde 10:00-17:00 saatleri arasında yol aralıklarla trafiğe kapatılacaktır.",
                 "extracted_keyword": "Seydişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T08:09:09.680808"
+                "updated_at": "2026-08-13T09:33:12.252243"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Anadolu Otoyolunun Kızılcahamam Kavşağı-Çamlıdere Kavşağı Kesimi 7-12.km.leri arasında üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Anadolu Otoyolunun Kızılcahamam Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-13T08:09:09.776900"
+                "updated_at": "2026-08-13T09:33:12.360628"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T08:09:09.875184"
+                "updated_at": "2026-08-13T09:33:12.419638"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Mengen-Yeniçağa yolunun 27-29.km.leri arasında şev düzenleme ve taş duvar yapım çalışmaları nedeniyle Mengen-Yeniçağa istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Mengen Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T08:09:09.941595"
+                "updated_at": "2026-08-13T09:33:12.488416"
             }
         },
         {
@@ -83,92 +83,7 @@
                 "description": "Adapazarı-Mekece yolunun 21-23.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Adapazarı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T08:09:10.049382"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.0457181,
-                    38.6450153
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Aliağa-Ayvalık yolunun 0-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Aliağa Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-13T08:09:10.140280"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.7065814,
-                    37.9795618
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kayseri-Sivas yolunun 57-61.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kayseri Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-13T08:09:10.223576"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.5924608,
-                    36.8433068
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Antalya-Manavgat-Alanya yolunun 0-28.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Antalya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-13T08:09:10.326023"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    31.5167049,
-                    41.2907465
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Zonguldak-Devrek-Mengen yolunun 35-39.km.leri arasında (Bakacakkadı Mevkii) toprak işleri, sanat yapıları ve üstyapı yenileme çalışmaları nedeniyle Zonguldak istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Zonguldak Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-13T08:09:10.405866"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.7946996,
-                    37.1969584
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Diyarbakır-Siverek yolunun 33-36.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Diyarbakır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-13T08:09:10.513397"
+                "updated_at": "2026-08-13T09:33:12.573520"
             }
         }
     ]
