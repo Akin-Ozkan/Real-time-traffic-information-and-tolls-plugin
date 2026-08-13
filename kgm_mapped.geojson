@@ -6,23 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.3707221,
-                    37.7977068
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Seydişehir-Akseki-Manavgat yolunun 7-19 ve 28-31.km.leri arasında patlatmalı kazı çalışmaları nedeniyle 13.08.2026 tarihinde 10:00-17:00 saatleri arasında yol aralıklarla trafiğe kapatılacaktır.",
-                "extracted_keyword": "Seydişehir Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-13T12:29:03.693081"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     29.090283,
                     41.176208
                 ]
@@ -32,7 +15,7 @@
                 "description": "Anadolu Otoyolunun Kızılcahamam Kavşağı-Çamlıdere Kavşağı Kesimi 7-12.km.leri arasında üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Anadolu Otoyolunun Kızılcahamam Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-13T12:29:03.968116"
+                "updated_at": "2026-08-13T14:02:31.512104"
             }
         },
         {
@@ -49,7 +32,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T12:29:04.083758"
+                "updated_at": "2026-08-13T14:02:31.689209"
             }
         },
         {
@@ -66,7 +49,7 @@
                 "description": "Mengen-Yeniçağa yolunun 27-29.km.leri arasında şev düzenleme ve taş duvar yapım çalışmaları nedeniyle Mengen-Yeniçağa istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Mengen Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T12:29:04.161929"
+                "updated_at": "2026-08-13T14:02:31.835770"
             }
         },
         {
@@ -83,7 +66,7 @@
                 "description": "Aliağa-Ayvalık yolunun 0-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Aliağa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T12:29:04.259786"
+                "updated_at": "2026-08-13T14:02:31.984677"
             }
         },
         {
@@ -100,7 +83,7 @@
                 "description": "Kayseri-Sivas yolunun 57-61.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T12:29:04.363748"
+                "updated_at": "2026-08-13T14:02:32.132425"
             }
         },
         {
@@ -117,7 +100,58 @@
                 "description": "Antalya-Manavgat-Alanya yolunun 0-28.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-13T12:29:04.470104"
+                "updated_at": "2026-08-13T14:02:32.279513"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5167049,
+                    41.2907465
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Zonguldak-Devrek-Mengen yolunun 35-39.km.leri arasında (Bakacakkadı Mevkii) toprak işleri, sanat yapıları ve üstyapı yenileme çalışmaları nedeniyle Zonguldak istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Zonguldak Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-13T14:02:32.442553"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7946996,
+                    37.1969584
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Diyarbakır-Siverek yolunun 33-36.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Diyarbakır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-13T14:02:32.597969"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.0282859,
+                    41.2075235
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Artvin-Erzurum yolunun 0-37.km.leri arasında bulunan 20 adet tünel ve güzergahında drenaj sistemleri ile bordür dipleri temizlik çalışması nedeniyle 10.08.2026-21.08.2026 tarihleri arası, 08:00-17:30 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Artvin Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-13T14:02:32.792134"
             }
         }
     ]
