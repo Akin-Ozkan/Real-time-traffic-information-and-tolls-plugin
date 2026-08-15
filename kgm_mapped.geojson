@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolu Orhanlı Kavşağı bağlantı kollarında üstyapı onarım ve yenileme çalışmaları yapılacaktır. Yapılacak çalışmalar nedeniyle TEM Otoyolu Orhanlı Kavşağında ;Ankara ve İstanbul yönünde çıkışlar trafiğe tamamen kapatılarak;\ntrafik akışı alternatif güzergahlardan sağlanacaktır. Çalışmamalar kapsamında Ankara istikametine giden ve Orhanlı Gişeleri kullanmak isteyen sürücüler Orhanlı kavşağı öncesi Kurtköy gişelerinden çıkış yapabilecekleri gibi sonrasında Şekerpınar Gişelerinden D-100 D Yoluna bağlantı sağlayabilecekler. İstanbul istikametine giden Orhanlı gişeleri kullanmak isteyen sürücüler Orhanlı Kavşağı öncesi Şekerpınar gişelerinden çıkış yaparak D-100 Devlet yoluna bağlantı sağlayabilecekleri gibi sonrasında Kurtköy kavşağından çıkış yapabilecektir. Çalışmalar her gün akşam 22:00 ile sabah 06:00 saatleri arasında yapılmaktadır.",
                 "extracted_keyword": "TEM Otoyolu Orhanlı Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-15T15:21:49.651841"
+                "updated_at": "2026-08-15T15:43:20.228904"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir Çevre Otoyolu Örnekköy Köprüsü 0-1.km.leri arasında hasarlı derzlerin yenilenmesi çalışması yapılacağından sol ve orta şerit trafiğe kapatılacak olup trafik akışı sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre Otoyolu Örnekköy Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-08-15T15:21:49.852726"
+                "updated_at": "2026-08-15T15:43:20.295883"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Gebze-Orhangazi-İzmir (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) Otoyolu'nun O-5/08 Km:07 ile O-5/08 Km:09 kontrol kesim numaraları ve 73–75.km.leri arasında şev bakım ve onarım çalışması yapılması planlanmaktadır.\nSöz konusu çalışmalar kapsamında İstanbul istikametinde sağ şerit trafiğe kapatılacak olup trafik akışı sol ve orta şeritlerden sağlanmaktadır.",
                 "extracted_keyword": "Gebze Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-15T15:21:49.998936"
+                "updated_at": "2026-08-15T15:43:20.351483"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Anadolu Otoyolu Akıncı Gişelerinde kurulan Serbest Geçiş Sisteminin (SGS) faaliyete geçmesi nedeniyle, mevcut gişe adaları ve kanopilerin yıkım çalışmaları gerçekleştirilecektir. Çalışmalar süresince Akıncı Gişelerinden otoyola giriş ve çıkışlar kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Anadolu Otoyolu Akıncı Gişeleri",
                 "category": "road_work",
-                "updated_at": "2026-08-15T15:21:50.170357"
+                "updated_at": "2026-08-15T15:43:20.593139"
             }
         },
         {
@@ -83,24 +83,7 @@
                 "description": "Tokat-Sivas yolunun 29-31.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Tokat Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-15T15:21:50.325784"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    41.3289886,
-                    41.3639708
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Arhavi-Hopa-Kemalpaşa-Sarp yolunun 8-34.km.leri arasında bulunan 11 adet tünelde yapılacak olan elektrik, elektronik sistemleri bakım onarım çalışması nedeniyle 10.08.2026-21.08.2026 tarihleri arası, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Arhavi Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-15T15:21:50.462108"
+                "updated_at": "2026-08-15T15:43:20.830379"
             }
         },
         {
@@ -117,7 +100,7 @@
                 "description": "Denizli İl Sınırı-Çavdır-Söğüt Yolunun 18-24.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli İl Sınırı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-15T15:21:50.647659"
+                "updated_at": "2026-08-15T15:43:20.988850"
             }
         },
         {
@@ -134,7 +117,24 @@
                 "description": "Malatya - Kayseri yolunun 8-11.km.leri arasında üst yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Malatya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-15T15:21:50.829881"
+                "updated_at": "2026-08-15T15:43:21.086285"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.7811481,
+                    41.3905826
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Karabük-Eskipazar yolunun 0-4.km.leri arasında üstyapı çalışması yapılacağından yolun Ankara istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından çift yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Karabük Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-15T15:43:21.194520"
             }
         },
         {
@@ -151,7 +151,7 @@
                 "description": "Çamlıbel- Sivas İl.Snr. yolunun  53- 57.km.leri arasında üstyapı çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çamlıbel Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-15T15:21:51.085637"
+                "updated_at": "2026-08-15T15:43:21.284848"
             }
         }
     ]
