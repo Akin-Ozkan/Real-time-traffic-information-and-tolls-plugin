@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolu Edirne Batı Kavşağı-Gümüşova arasında üstyapı onarım ve yenileme çalışmaları yapılacaktır. Bu kavşaklar arasında, kesimler halinde çalışılacak olup, şerit daraltma yapılarak trafik diğer şeritlerden verilecektir. Çalışmalar 07.08.2026 Cuma günü Saat 21:00’da başlayacaktır. (Her gün akşam 21:00 ile sabah saat 06:00 saatleri arasında çalışma yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu Edirne Batı Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-16T22:09:42.650258"
+                "updated_at": "2026-08-16T22:36:45.804326"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın Denizli Otoyolunun 10-11.km.leri arasında Aydın İstikametinde yapılacak üstyapı çalışmaları nedeniyle sol ve orta şerit araç trafiğine kapatılacak ulaşım sağ şeritten kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Aydın Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T22:09:42.774905"
+                "updated_at": "2026-08-16T22:36:45.962272"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Beyşehir-Seydişehir-Antalya yolunun 60-62.km.leri arasında devam eden yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Beyşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T22:09:42.888992"
+                "updated_at": "2026-08-16T22:36:46.101329"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale yolunun 18-22.km.leri arası Kırıkkale-Ankara istikameti üstyapı onarım çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Ankara-Kırıkkale istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T22:09:43.005824"
+                "updated_at": "2026-08-16T22:36:46.250310"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Adana-Osmaniye yolunun 12-13.km.leri arasında Karaçay Köprüsü Yapım İşi kapsamında yapılacak çalışmalar nedeniyle trafik kontrollü olarak servis yolunda sağlanmaktadır..",
                 "extracted_keyword": "Karaçay Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-08-16T22:09:43.130625"
+                "updated_at": "2026-08-16T22:36:46.400035"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Kayseri-Nevşehir yolunun 59-62.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T22:09:43.290706"
+                "updated_at": "2026-08-16T22:36:46.497153"
             }
         },
         {
@@ -117,41 +117,7 @@
                 "description": "Samsun-Çarşamba-Terme yolunun 5-6.km.leri arasında  yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Samsun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T22:09:43.441752"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.5959432,
-                    38.369149
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Elazığ-Malatya yolunun 38-42.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Elazığ Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-16T22:09:43.591647"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.3831778,
-                    36.6368002
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Seydikemer-Söğüt yolunun 4-49 km.leri arasında sathi kaplama onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Seydikemer Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-16T22:09:43.704664"
+                "updated_at": "2026-08-16T22:36:46.639513"
             }
         }
     ]
