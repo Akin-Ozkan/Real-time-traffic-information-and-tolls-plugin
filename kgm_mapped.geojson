@@ -15,7 +15,7 @@
                 "description": "Aydın-Denizli Otoyolunun  3-4.km.leri arasında 13.08.2026 tarihinden itibaren Denizli istikametinde şev çalışması yapılacağından sağ şerit trafik akışına kapatılacak olup ulaşım orta ve sol şeritten kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T10:54:32.747011"
+                "updated_at": "2026-08-16T11:21:16.320962"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Anadolu Otoyolunun 0-7.km.leri arasında  Kandıra Kavşağı-Doğu İzmit Kavşağında, Alikahya mevkiinde Altgeçit ve yağmursuyu menfezlerinin yapılması çalışmaları Kocaeli Büyükşehir Belediyesi tarafından 12.08.2026 tarihinde çalışmalara başlanacak olup, bu çalışmalar esnasında TEM Otoyolu üzerindeki trafik Ankara ve İstanbul istikametinde çift yönde servis yollarından sağlanacaktır. Ayrıca aynı tarihte Ankara yönündeki trafiğin servis yoluna aktarılabilmesi için 22:00-06:00 saatleri arasında şerit kapatma yapılarak çalışmalar yürütülecektir.",
                 "extracted_keyword": "Anadolu Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T10:54:32.863750"
+                "updated_at": "2026-08-16T11:21:16.394535"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Afyonkarahisar İl Sn.-Konya  yolunun 7-10.km.leri arasında 15.08.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle bölünmüş yolun  Konya-Afyonkarahisar istikameti trafiğe kapatılarak ulaşım  Afyonkarahisar-Konya istikametinden çift yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Afyonkarahisar İl Sn. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T10:54:33.028662"
+                "updated_at": "2026-08-16T11:21:16.469157"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Vezirköprü-Havza yolunun 25-27.km.leri arasında 14.08.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Vezirköprü Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T10:54:33.146543"
+                "updated_at": "2026-08-16T11:21:16.575833"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Bursa-Yalova-1.Bölge Hududu yolunun Bursa-Yalova istikameti Km:1-3.km.leri arasında 14.08.2026 tarihinden itibaren  yol yapım çalışmaları nedeniyle  yol trafiğe kapatılarak ulaşım Yalova-Bursa istikametinden iki yönlü olarak verilmiştir.",
                 "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T10:54:33.301793"
+                "updated_at": "2026-08-16T11:21:16.683006"
             }
         },
         {
@@ -91,50 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.6442108,
-                    39.5556753
+                    38.803143,
+                    40.999804
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Çanakkale-İzmir yolunun 51-52.km.leri,  550-09 K.K. Nolu Çanakkale-İzmir yolunun 0-6.km.leri arasında 12.08.2026 tarihinden itibaren sol şeritte yapılacak BSK yenileme çalışmaları nedeniyle yolun sol şeridi trafiğe kapatılmış olup ulaşım yolun sağ şeridinden iki yönlü olarak sağlanmaktadır.. Sürücülerin işaret ve işaretçilere dikkat etmeleri  gerekmektedir.",
-                "extracted_keyword": "Çanakkale Yolu",
+                "description": "Giresun-Gümüşhane İl Sınırı-Şiran-Kelkit yolunun 36-47.km.leri arasında yapılmakta olan üst yapı onarım ve asfalt sathi kaplama yapım çalışması nedeniyle, 07.08.2026 tarihi, saat 12:00 den itibaren çalışmanın devamı müddetince trafik kısa sürelerle ulaşıma kapatılmak suretiyle, tek şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Giresun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T10:54:33.414124"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.7065814,
-                    37.9795618
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kayseri-Nevşehir yolunun 64-66.km.leri arasında 10.08.2026 tarihinden itibaren yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kayseri Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-16T10:54:33.584496"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.7811481,
-                    41.3905826
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Karabük-Eskipazar yolunun 0-4.km.leri arasında  10.08.2026 tarihinden itibaren üstyapı yenileme çalışması nedeniyle Ankara istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından çift yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Karabük Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-16T10:54:33.702103"
+                "updated_at": "2026-08-16T11:21:17.040485"
             }
         }
     ]
