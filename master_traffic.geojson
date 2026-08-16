@@ -6,13 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4419350276,
-                    39.8020640598
+                    30.4398898432,
+                    39.8018226431
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656964"
+                "updated_at": "2026-08-16T21:00:19.921428"
             }
         },
         {
@@ -20,13 +20,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4398898432,
-                    39.8018226431
+                    30.4419350276,
+                    39.8020640598
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656975"
+                "updated_at": "2026-08-16T21:00:19.921465"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656978"
+                "updated_at": "2026-08-16T21:00:19.921468"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656980"
+                "updated_at": "2026-08-16T21:00:19.921471"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656982"
+                "updated_at": "2026-08-16T21:00:19.921473"
             }
         },
         {
@@ -82,21 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656984"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5119433651,
-                    39.7850293199
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-08-16T20:42:06.656986"
+                "updated_at": "2026-08-16T21:00:19.921474"
             }
         },
         {
@@ -110,21 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656988"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5263387809,
-                    39.7668332474
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-08-16T20:42:06.656990"
+                "updated_at": "2026-08-16T21:00:19.921480"
             }
         },
         {
@@ -138,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656992"
+                "updated_at": "2026-08-16T21:00:19.921482"
             }
         },
         {
@@ -152,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656994"
+                "updated_at": "2026-08-16T21:00:19.921484"
             }
         },
         {
@@ -166,21 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656995"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5631883094,
-                    39.7542979302
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-08-16T20:42:06.656997"
+                "updated_at": "2026-08-16T21:00:19.921485"
             }
         },
         {
@@ -194,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.656998"
+                "updated_at": "2026-08-16T21:00:19.921487"
             }
         },
         {
@@ -208,7 +166,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.657004"
+                "updated_at": "2026-08-16T21:00:19.921489"
             }
         },
         {
@@ -222,7 +180,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.657006"
+                "updated_at": "2026-08-16T21:00:19.921491"
             }
         },
         {
@@ -236,7 +194,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-16T20:42:06.657007"
+                "updated_at": "2026-08-16T21:00:19.921492"
             }
         },
         {
@@ -253,7 +211,7 @@
                 "description": "TEM Otoyolu Edirne Batı Kavşağı-Gümüşova arasında üstyapı onarım ve yenileme çalışmaları yapılacaktır. Bu kavşaklar arasında, kesimler halinde çalışılacak olup, şerit daraltma yapılarak trafik diğer şeritlerden verilecektir. Çalışmalar 07.08.2026 Cuma günü Saat 21:00’da başlayacaktır. (Her gün akşam 21:00 ile sabah saat 06:00 saatleri arasında çalışma yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu Edirne Batı Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-16T20:42:08.272274"
+                "updated_at": "2026-08-16T21:00:22.076596"
             }
         },
         {
@@ -270,7 +228,7 @@
                 "description": "Aydın Denizli Otoyolunun 10-11.km.leri arasında Aydın İstikametinde yapılacak üstyapı çalışmaları nedeniyle sol ve orta şerit araç trafiğine kapatılacak ulaşım sağ şeritten kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Aydın Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T20:42:08.395251"
+                "updated_at": "2026-08-16T21:00:22.243367"
             }
         },
         {
@@ -287,7 +245,7 @@
                 "description": "Beyşehir-Seydişehir-Antalya yolunun 60-62.km.leri arasında devam eden yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Beyşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T20:42:08.544804"
+                "updated_at": "2026-08-16T21:00:22.405678"
             }
         },
         {
@@ -304,7 +262,7 @@
                 "description": "Ankara-Kırıkkale yolunun 18-22.km.leri arası Kırıkkale-Ankara istikameti üstyapı onarım çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Ankara-Kırıkkale istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T20:42:08.718369"
+                "updated_at": "2026-08-16T21:00:22.579134"
             }
         },
         {
@@ -321,7 +279,7 @@
                 "description": "Adana-Osmaniye yolunun 12-13.km.leri arasında Karaçay Köprüsü Yapım İşi kapsamında yapılacak çalışmalar nedeniyle trafik kontrollü olarak servis yolunda sağlanmaktadır..",
                 "extracted_keyword": "Karaçay Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-08-16T20:42:08.889478"
+                "updated_at": "2026-08-16T21:00:22.794327"
             }
         },
         {
@@ -338,7 +296,7 @@
                 "description": "Samsun-Çarşamba-Terme yolunun 5-6.km.leri arasında  yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Samsun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T20:42:09.166746"
+                "updated_at": "2026-08-16T21:00:23.146162"
             }
         },
         {
@@ -355,7 +313,7 @@
                 "description": "Elazığ-Malatya yolunun 38-42.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Elazığ Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T20:42:09.271514"
+                "updated_at": "2026-08-16T21:00:23.307146"
             }
         },
         {
@@ -372,24 +330,7 @@
                 "description": "Seydikemer-Söğüt yolunun 4-49 km.leri arasında sathi kaplama onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Seydikemer Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-16T20:42:09.386602"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.6442108,
-                    39.5556753
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Çanakkale-Çan yolunun 14-20.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Çanakkale Yolu",
-                "category": "road_work",
-                "updated_at": "2026-08-16T20:42:09.559973"
+                "updated_at": "2026-08-16T21:00:23.494533"
             }
         }
     ]
