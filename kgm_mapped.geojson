@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8127676,
-                    41.0638529
+                    30.485672,
+                    40.716326
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "TEM Otoyolu Edirne Batı Kavşağı-Gümüşova arasında üstyapı onarım ve yenileme çalışmaları yapılacaktır. Bu kavşaklar arasında, kesimler halinde çalışılacak olup, şerit daraltma yapılarak trafik diğer şeritlerden verilecektir. Çalışmalar 07.08.2026 Cuma günü Saat 21:00’da başlayacaktır. (Her gün akşam 21:00 ile sabah saat 06:00 saatleri arasında çalışma yapılacaktır.)",
-                "extracted_keyword": "TEM Otoyolu Edirne Batı Kavşağı",
+                "description": "Anadolu Otoyolu'nun 11-17.kmleri arasında   (Kocalar Tesis Mevkii) Ankara istikametinde yol üstyapısında meydana gelen bozulmalar nedeniyle, söz konusu kesimin Ankara istikametindeki yaklaşık 5000 metrelik kısım üstyapı onarım çalışması nedeniyle trafiğe kapatılacaktır.\nSöz konusu kesim 17.08.2026 — 28.08.2026 tarihleri arasında trafiğe kapatılacak olup   çalışmalar süresince trafik İstanbul istikametinden çift yönlü ve kontrollü olarak sağlanacaktır.\nÇalışmalar her hafta Pazartesi günleri saat 8:00’de başlayıp Cuma günleri saat 17:00’de tamamlanarak  yol trafiğe açılacaktır.",
+                "extracted_keyword": "Anadolu Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-17T15:03:10.035795"
+                "updated_at": "2026-08-17T15:35:19.835688"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.5763816,
-                    37.5112767
+                    28.9606737,
+                    41.0557348
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Beyşehir-Seydişehir-Antalya yolunun 60-62.km.leri arasında devam eden yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak servis yolundan sağlanmaktadır.",
-                "extracted_keyword": "Beyşehir Yolu",
+                "description": "TEM Otoyolu Gaziosmanpaşa Kavşağı – Kemerburgaz Kavşağı arasında bulunan Hasdal Viyadüğünde derz onarım çalışmaları yapılacaktır. Yapılacak çalışmalar süresince Edirne istikameti gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır.  (Çalışmalar her gün akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
+                "extracted_keyword": "TEM Otoyolu Gaziosmanpaşa Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-17T15:03:10.110259"
+                "updated_at": "2026-08-17T15:35:20.017516"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.1562225,
-                    39.6833047
+                    29.090283,
+                    41.176208
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Kırıkkale yolunun 18-22.km.leri arası Kırıkkale-Ankara istikameti üstyapı onarım çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Ankara-Kırıkkale istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Yolu",
+                "description": "Anadolu Otoyolunun Gölyaka Kavşağı - 1. Bölge Hududu arasında yer alan O-4/22 Km: 18+550 - Km: 15+600 arası İstanbul istikameti üstyapı onarım çalışması nedeniyle trafiğe kapatılacak olup, trafik diğer istikametten çift yönlü ve kontrollü olarak sağlanacaktır. (2 şerit İstanbul, 1 Şerit Ankara istikameti)",
+                "extracted_keyword": "Anadolu Otoyolunun Gölyaka Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-17T15:03:10.235880"
+                "updated_at": "2026-08-17T15:35:20.184020"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.288149,
-                    41.36864
+                    28.2934335,
+                    37.8311225
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Adana-Osmaniye yolunun 12-13.km.leri arasında Karaçay Köprüsü Yapım İşi kapsamında yapılacak çalışmalar nedeniyle trafik kontrollü olarak servis yolunda sağlanmaktadır..",
-                "extracted_keyword": "Karaçay Köprüsü",
+                "description": "Aydın Denizli Otoyolunun 10-11 km\"leri arasında Aydın İstikametinde yapılacak üstyapı çalışmaları nedeniyle sol ve orta şerit araç trafiğine kapatılacak trafik akışı sağ şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Aydın Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-17T15:03:10.386389"
+                "updated_at": "2026-08-17T15:35:20.364205"
             }
         },
         {
@@ -74,16 +74,84 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.7065814,
-                    37.9795618
+                    33.260122,
+                    41.82607
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kayseri-Nevşehir yolunun 59-62.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kayseri Yolu",
+                "description": "Kemer Ayr.-Burdur yolunun 0-1 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bir şeritten iki yönlü ve kontrollü şekilde verilmektedir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kemer Ayr. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-17T15:03:10.516830"
+                "updated_at": "2026-08-17T15:35:20.547283"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.7331122,
+                    37.6402039
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Göksun-Elbistan yolunun  Elbistan şehir geçişinde yolun 31-26.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Göksun Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-17T15:35:20.700264"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9126589,
+                    40.511067
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kırıkkale-Kırşehir yolunun 5-7.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kırıkkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-17T15:35:20.855990"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2742258,
+                    40.612268
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bursa-Yalova-1.Bölge Hududu yolunun Bursa-Yalova istikameti Km:1-3.km.leri arasında 14.08.2026 tarihinden itibaren  yol yapım çalışmaları nedeniyle  yol trafiğe kapatılarak ulaşım Yalova-Bursa istikametinden iki yönlü olarak verilmektedir.",
+                "extracted_keyword": "Bursa Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-17T15:35:21.149819"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.6620211,
+                    40.7044038
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "İkizdere-İspir yolunun 3-22. km. leri arasında yapılmakta olan yol yapım çalışması nedeniyle trafik kısa sürelerle ulaşıma kapatılmak suretiyle, tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "İkizdere Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-17T15:35:21.279505"
             }
         }
     ]
