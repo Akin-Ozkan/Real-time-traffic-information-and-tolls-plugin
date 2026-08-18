@@ -6,50 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.485672,
-                    40.716326
+                    32.0915052,
+                    40.747515
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Anadolu Otoyolu'nun 11-17.kmleri arasında   (Kocalar Tesis Mevkii) Ankara istikametinde yol üstyapısında meydana gelen bozulmalar nedeniyle, söz konusu kesimin Ankara istikametindeki yaklaşık 5000 metrelik kısım üstyapı onarım çalışması nedeniyle trafiğe kapatılacaktır.\nSöz konusu kesim 17.08.2026 — 28.08.2026 tarihleri arasında trafiğe kapatılacak olup   çalışmalar süresince trafik İstanbul istikametinden çift yönlü ve kontrollü olarak sağlanacaktır.\nÇalışmalar her hafta Pazartesi günleri saat 8:00’de başlayıp Cuma günleri saat 17:00’de tamamlanarak  yol trafiğe açılacaktır.",
-                "extracted_keyword": "Anadolu Otoyolu",
+                "description": "Anadolu Otoyolunun Dörtdivan Kavşağı-Yeniçağa Kavşağı Kesimi 2-5.km.leri arasında üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır. (1 şerit İstanbul, 2 şerit Ankara istikameti)",
+                "extracted_keyword": "Anadolu Otoyolunun Dörtdivan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-18T06:44:18.024196"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.9606737,
-                    41.0557348
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "TEM Otoyolu Gaziosmanpaşa Kavşağı – Kemerburgaz Kavşağı arasında bulunan Hasdal Viyadüğünde derz onarım çalışmaları yapılacaktır. Yapılacak çalışmalar süresince Edirne istikameti gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır.  (Çalışmalar her gün akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
-                "extracted_keyword": "TEM Otoyolu Gaziosmanpaşa Kavşağı",
-                "category": "road_work",
-                "updated_at": "2026-08-18T06:44:18.208098"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.090283,
-                    41.176208
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Anadolu Otoyolunun Gölyaka Kavşağı - 1. Bölge Hududu arasında yer alan O-4/22 Km: 18+550 - Km: 15+600 arası İstanbul istikameti üstyapı onarım çalışması nedeniyle trafiğe kapatılacak olup, trafik diğer istikametten çift yönlü ve kontrollü olarak sağlanacaktır. (2 şerit İstanbul, 1 Şerit Ankara istikameti)",
-                "extracted_keyword": "Anadolu Otoyolunun Gölyaka Kavşağı",
-                "category": "road_work",
-                "updated_at": "2026-08-18T06:44:18.338211"
+                "updated_at": "2026-08-18T07:24:54.652168"
             }
         },
         {
@@ -63,10 +29,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aydın Denizli Otoyolunun 10-11 km\"leri arasında Aydın İstikametinde yapılacak üstyapı çalışmaları nedeniyle sol ve orta şerit araç trafiğine kapatılacak trafik akışı sağ şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Aydın Denizli Otoyolu",
+                "description": "Aydın-Denizli Otoyolunun 3-8.km.leri arasında üstyapı onarım çalışması nedeniyle Aydın istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-18T06:44:18.454459"
+                "updated_at": "2026-08-18T07:24:54.723069"
             }
         },
         {
@@ -74,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.260122,
-                    41.82607
+                    30.221548,
+                    40.733561
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kemer Ayr.-Burdur yolunun 0-1 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bir şeritten iki yönlü ve kontrollü şekilde verilmektedir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kemer Ayr. Yolu",
+                "description": "Sakarya-Hendek yolunun 3-5.km.leri arasında yol yapım, bakım ve onarım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanacaktır. (Çalışma başlangıç tarihi 19.08.2026)",
+                "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-18T06:44:18.572815"
+                "updated_at": "2026-08-18T07:24:54.850103"
             }
         },
         {
@@ -91,16 +57,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.7331122,
-                    37.6402039
+                    34.7065814,
+                    37.9795618
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Göksun-Elbistan yolunun  Elbistan şehir geçişinde yolun 31-26.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Göksun Yolu",
+                "description": "Kayseri-Nevşehir yolunun 64-66.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-18T06:44:18.722867"
+                "updated_at": "2026-08-18T07:24:54.949660"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.7208371,
+                    41.8420747
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "İnebolu-Abana-Çatalzeytin yolunun 25-43.km.leri arasında asfalt sathi kaplama çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "İnebolu Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-18T07:24:55.098507"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7946996,
+                    37.1969584
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Diyarbakır-Mardin yolunun 13-18.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Diyarbakır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-18T07:24:55.202147"
             }
         }
     ]
