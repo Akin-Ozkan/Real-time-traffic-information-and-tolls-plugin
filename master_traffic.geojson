@@ -6,13 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4241439352,
-                    39.8278896559
+                    30.4260845134,
+                    39.8250277413
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.456968"
+                "updated_at": "2026-08-21T20:22:00.877874"
             }
         },
         {
@@ -20,13 +20,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4260845134,
-                    39.8250277413
+                    30.4241439352,
+                    39.8278896559
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.456980"
+                "updated_at": "2026-08-21T20:22:00.877892"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4362742255,
+                    39.8001650295
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-08-21T20:22:00.877895"
             }
         },
         {
@@ -40,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.456982"
+                "updated_at": "2026-08-21T20:22:00.877897"
             }
         },
         {
@@ -54,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.456984"
+                "updated_at": "2026-08-21T20:22:00.877899"
             }
         },
         {
@@ -68,7 +82,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.456985"
+                "updated_at": "2026-08-21T20:22:00.877901"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4723861465,
+                    39.7972561724
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-08-21T20:22:00.877902"
             }
         },
         {
@@ -82,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.456987"
+                "updated_at": "2026-08-21T20:22:00.877904"
             }
         },
         {
@@ -96,35 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.456988"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5134856353,
-                    39.7803099721
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-08-21T19:52:51.456989"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5176041672,
-                    39.7765857057
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-08-21T19:52:51.456991"
+                "updated_at": "2026-08-21T20:22:00.877905"
             }
         },
         {
@@ -138,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.456992"
+                "updated_at": "2026-08-21T20:22:00.877907"
             }
         },
         {
@@ -152,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.456998"
+                "updated_at": "2026-08-21T20:22:00.877908"
             }
         },
         {
@@ -160,13 +160,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5326003978,
-                    39.7373329658
+                    30.5333608041,
+                    39.7359046832
                 ]
             },
             "properties": {
                 "category_code": 6,
-                "updated_at": "2026-08-21T19:52:51.456999"
+                "updated_at": "2026-08-21T20:22:00.877914"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5620175252,
+                    39.7273444227
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-08-21T20:22:00.877915"
             }
         },
         {
@@ -180,7 +194,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.457000"
+                "updated_at": "2026-08-21T20:22:00.877917"
             }
         },
         {
@@ -194,7 +208,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.457001"
+                "updated_at": "2026-08-21T20:22:00.877918"
             }
         },
         {
@@ -208,21 +222,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-08-21T19:52:51.457003"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5851247559,
-                    39.7399159041
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-08-21T19:52:51.457004"
+                "updated_at": "2026-08-21T20:22:00.877919"
             }
         },
         {
@@ -236,7 +236,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.457005"
+                "updated_at": "2026-08-21T20:22:00.877921"
             }
         },
         {
@@ -250,7 +250,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.457006"
+                "updated_at": "2026-08-21T20:22:00.877923"
             }
         },
         {
@@ -264,7 +264,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-08-21T19:52:51.457007"
+                "updated_at": "2026-08-21T20:22:00.877924"
             }
         },
         {
@@ -278,7 +278,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.457009"
+                "updated_at": "2026-08-21T20:22:00.877926"
             }
         },
         {
@@ -292,7 +292,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-08-21T19:52:51.457010"
+                "updated_at": "2026-08-21T20:22:00.877929"
             }
         },
         {
@@ -309,7 +309,7 @@
                 "description": "TEM Otoyolu Orhanlı Kavşağı bağlantı kollarında üstyapı onarım ve yenileme çalışmaları yapılacaktır.Yapılacak çalışmalar nedeniye TEM Otoyolu Orhanlı Kavşağında ;Ankara ve İstanbul yönünde çıkışlar trafiğe tamamen kapatılarak;\ntrafik akışı alternatif güzergahlardan sağlanacaktır.Çalışmamalar kapsamında Ankara istikametine giden ve Orhanlı Gişeleri kullanmak isteyen sürücüler Orhanlı kavşağı öncesi Kurtköy gişelerinden çıkış yapabilecekleri gibi sonrasında Şekerpınar Gişelerinden D-100 D Yoluna bağlantı sağlayabilecekler. İstanbul istikametine giden Orhanlı gişeleri kullanmak isteyen sürücüler Orhanlı kavşağı öncesi Şekerpınar gişelerinden çıkış yaparak D-100 Devlet yoluna bağlantı sağlayabilecekleri gibi sonrasında Kurtköy kavşağından çıkış yapabilecektir. Çalışmalara 10.08.2026 Pazartesi günü saat 22:00'dan itibaren başlanmış olup, her gün akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılmaktadır.",
                 "extracted_keyword": "TEM Otoyolu Orhanlı Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-21T19:52:52.778170"
+                "updated_at": "2026-08-21T20:22:02.605730"
             }
         },
         {
@@ -326,7 +326,7 @@
                 "description": "İzmir Çevre Otoyolu Karşıyaka Yamanlar  Viyadüğü Menemen İstikameti 3-4.km.leri arasında hasarlı Genleşme Derzlerinin Yenilenmesi ve onarılması için 22.08.2026-23.08.2026 tarihleri arasında sol ve orta şerdi trafiğe kapatılacak olup trafik akışı sağ ve emniyet şeritten sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T19:52:52.843086"
+                "updated_at": "2026-08-21T20:22:02.820303"
             }
         },
         {
@@ -343,7 +343,7 @@
                 "description": "Ankara Çevre Otoyolunun Eskişehir Kavşağı - Dodurga Kavşağı Arasında yer alan O20/06  Km: 3+000 - O20/06 Km:2+600 Arası Konya istikameti(Dış Çember) altgeçit yenileme çalışması nedeniyle trafiğe kapatılacak olup, trafik diğer istikametten çift yönlü ve kontrollü olarak sağlanmaktadır. (2 şerit Eskişehir, 2 Şerit Dodurga istikameti)",
                 "extracted_keyword": "Ankara Çevre Otoyolunun Eskişehir Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-21T19:52:52.974246"
+                "updated_at": "2026-08-21T20:22:03.043150"
             }
         },
         {
@@ -360,7 +360,7 @@
                 "description": "Ankara-Niğde Otoyolu, üst yapı çalışması nedeniyle Kırşehir Bağlantı Yolu Kırşehir İstikameti Sağ Şerit Kapatılarak Trafik Kontrollü Olarak Diğer Şeritten Verilmektedir.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T19:52:53.044359"
+                "updated_at": "2026-08-21T20:22:03.214547"
             }
         },
         {
@@ -377,7 +377,7 @@
                 "description": "Aksaray-Nevşehir yolunun 29.31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak ve ayrıca servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T19:52:53.142780"
+                "updated_at": "2026-08-21T20:22:03.397199"
             }
         },
         {
@@ -394,7 +394,7 @@
                 "description": "Adana-Osmaniye yolunun 12-13.km.leri arasında Karaçay Köprüsü Yapım İşi kapsamında yapılacak çalışmalar nedeniyle trafik kontrollü olarak servis yolunda sağlanmaktadır..",
                 "extracted_keyword": "Karaçay Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-08-21T19:52:53.262767"
+                "updated_at": "2026-08-21T20:22:03.561966"
             }
         },
         {
@@ -411,7 +411,7 @@
                 "description": "Sinop-Samsun yolunun 49-53.km.leri arasında üstyapı yenileme çalışmaları nedeniyle bölünmüş yolun Sinop istikameti trafiğe kapatılacak olup, ulaşım Samsun istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Sinop Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T19:52:53.353952"
+                "updated_at": "2026-08-21T20:22:03.764678"
             }
         },
         {
@@ -428,7 +428,41 @@
                 "description": "Giresun-Gümüşhane İl Sınırı-Şiran-Kelkit yolunun 36-47.km.leri arasında yapılmakta olan üst yapı onarım ve asfalt sathi kaplama yapım çalışması nedeniyle, 07.08.2026 tarihi, saat 12:00 den itibaren çalışmanın devamı müddetince trafik kısa sürelerle ulaşıma kapatılmak suretiyle, tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Giresun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T19:52:53.433510"
+                "updated_at": "2026-08-21T20:22:03.974237"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3608149,
+                    38.045745
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Uluborlu-Senirkent-Yalvaç yolunun 38-61.km.leri arasında asfalt sathi kaplama onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Uluborlu Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-21T20:22:04.159896"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.635075,
+                    40.046287
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "İnegöl-Bozüyük-(Bilecik-Eskişehir İl Sn.)  Devlet yolunun Ankara-Bursa istikameti 31-34.km.leri arasında yol yapım çalışmaları nedeniyle yol trafiğe kapatılarak; trafik akışı Bursa-Ankara istikametinden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "İnegöl Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-21T20:22:04.359224"
             }
         }
     ]
