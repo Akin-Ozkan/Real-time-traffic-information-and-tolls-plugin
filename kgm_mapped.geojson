@@ -15,7 +15,7 @@
                 "description": "İzmir Çevre Otoyolu Osmangazi Köprüsü  Viyadüğü Menemen İstikameti 0-1.km.leri arasında hasarlı Genleşme Derzlerinin Yenilenmesi ve onarılması nedeniyle 21.08.2026-22.08.2026 tarihlerinde sol ve orta şerit trafiğe kapatılacak olup trafik akışı sağ ve emniyet şeritten sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre Otoyolu Osmangazi Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-08-21T03:56:42.904190"
+                "updated_at": "2026-08-21T04:47:26.660206"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TEM Otoyolunun 0-10.km.leri arasında12.08.2026 tarihinden itibaren  Doğu İzmit Kavşağı- Dilovası Kavşağı arası, İstanbul istikameti üstyapı onarım çalışmaları yapılacaktır. TEM Otoyolunda İstanbul istikametine giden trafik, TEM Doğu İzmit Kavşağı ve Kuzey Marmara Otoyolu Doğu İzmit Kavşağından alternatif güzergahları kullanabilecektir. Sürücülerin yol üzerindeki trafik işaret ve işaretçilerine titizlikle uymaları gerekmektedir.  (Çalışmalar  7/24 gün/saat esasına göre yürütülecektir.)\n.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T03:56:42.992215"
+                "updated_at": "2026-08-21T04:47:26.807467"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Bursa-Yalova yolunun Bursa-Yalova istikameti  36-40.km.leri arasında 19.08.2026 tarihinden itibaren  üstyapı onarım çalışmaları nedeniyle  yol trafiğe kapatılarak, ulaşım Yalova-Bursa istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T03:56:43.071866"
+                "updated_at": "2026-08-21T04:47:26.974879"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale yolunun Kırıkkale-Ankara istikameti 16-19.km.leri arası 18.08.2026-24.08.2026 tarihlerinde üstyapı (BSK) onarım çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Ankara-Kırıkkale istikametinden iki yönlü (gidiş - geliş) olarak sağlanacaktır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T03:56:43.177903"
+                "updated_at": "2026-08-21T04:47:27.142871"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Çankırı-Ankara yolunun 4-5.km.leri arasında 17.08.2026 tarihinden itibaren üstyapı onarım çalışmaları nedeniyle bölünmüş yolun Çankırı istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çankırı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T03:56:43.283978"
+                "updated_at": "2026-08-21T04:47:27.291065"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Afyonkarahisar İl Sn.-Konya  yolunun 7-10.km.leri arasında15.08.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle bölünmüş yolun  Konya-Afyonkarahisar istikameti trafiğe kapatılarak ulaşım  Afyonkarahisar-Konya istikametinden çift yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Afyonkarahisar İl Sn. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T03:56:43.416420"
+                "updated_at": "2026-08-21T04:47:27.472095"
             }
         },
         {
@@ -117,7 +117,24 @@
                 "description": "Vezirköprü-Havza yolunun 25-27.km.leri arasında 14.08.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Vezirköprü Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-21T03:56:43.516214"
+                "updated_at": "2026-08-21T04:47:27.611470"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7238906,
+                    39.4491249
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kangal-Sincan Ayr.-Divriği yolunun  0-14.km.leri arasında 14.08.2026 tarihinden itibaren  asfalt sathi kaplama çalışmaları yapılmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
+                "extracted_keyword": "Kangal Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-21T04:47:27.753829"
             }
         }
     ]
