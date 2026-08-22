@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolu Gaziosmanpaşa Kavşağı – Kemerburgaz Kavşağı arasında bulunan Hasdal Viyadüğünde derz onarım çalışmaları yapılacaktır. Yapılacak çalışmalar süresince Ankara istikameti gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır.  (Çalışmalar her gün akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu Gaziosmanpaşa Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-22T22:37:39.352421"
+                "updated_at": "2026-08-22T22:57:49.541284"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-22T22:37:39.636734"
+                "updated_at": "2026-08-22T22:57:49.851601"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Toprakkale-İskenderun yolunun 34-38.km.leri arasında 21.05.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle ulaşım  kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Toprakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-22T22:37:39.756316"
+                "updated_at": "2026-08-22T22:57:49.954953"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Ankara-Kırıkkale yolunun Kırıkkale-Ankara istikametinde 4 -5. km.ler arası trafiğe kapatılarak ulaşım Ankara-Kırıkkale istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-22T22:37:39.882219"
+                "updated_at": "2026-08-22T22:57:50.059836"
             }
         },
         {
@@ -74,16 +74,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.6442108,
-                    39.5556753
+                    42.421013,
+                    38.722091
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Çanakkale- Çan Devlet yolunun 18-25 km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır.",
-                "extracted_keyword": "Çanakkale Yolu",
+                "description": "Yeniköprü-Yüksekova yolunun 51-55.km.leri arasında yol yapım çalışmaları nedeniyle  ulaşım kontrollü olarak servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Yeniköprü Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-22T22:37:40.482836"
+                "updated_at": "2026-08-22T22:57:50.150009"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0294263,
+                    37.6385967
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kumluca-Kemer-Antalya yolunun 87-88.km.leri arasında 17.03.2026 tarihinden itibaren  yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
+                "extracted_keyword": "Kumluca Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-22T22:57:50.253624"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.2179055,
+                    38.2474225
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Afyonkarahisar-İhsaniye yolunun 30+500 km.sinde Erenler ile Çayırbağı arasındaki kesimde hızlı tren üstyapı yapım çalışmaları nedeniyle Eskişehir yönü trafiğe kapalı olup ulaşım Afyonkarahisar yönünde iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Afyonkarahisar Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-22T22:57:50.326398"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.5959432,
+                    38.369149
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Elazığ-Diyarbakır yolunun 46-48.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Elazığ Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-22T22:57:50.424998"
             }
         }
     ]
