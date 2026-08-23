@@ -15,7 +15,7 @@
                 "description": "Anadolu Otoyolunun Dörtdivan Kavşağı-Yeniçağa Kavşağı Kesimi 2-5.km.leri arasında üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır. (1 şerit İstanbul, 2 şerit Ankara istikameti)",
                 "extracted_keyword": "Anadolu Otoyolunun Dörtdivan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-23T06:34:45.342970"
+                "updated_at": "2026-08-23T07:18:53.321359"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın-Denizli Otoyolunun 3-8.km.leri arasında üstyapı onarım çalışması nedeniyle Aydın istikameti  trafiğe kapatılarak ulaşım Denizli istikametinden iki yönü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-23T06:34:45.468571"
+                "updated_at": "2026-08-23T07:18:53.485932"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.2232354,
-                    37.0631966
+                    34.7065814,
+                    37.9795618
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Toprakkale-İskenderun yolunun 34-38.km.leri arasında 21.05.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle ulaşım  kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Toprakkale Yolu",
+                "description": "Kayseri-Niğde yolunun 31-36.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-23T06:34:45.598639"
+                "updated_at": "2026-08-23T07:18:53.669892"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.227336,
-                    40.554305
+                    28.288149,
+                    41.36864
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Ankara-Kırıkkale yolunun Kırıkkale-Ankara istikametinde 4 -5. km.ler arası trafiğe kapatılarak ulaşım Ankara-Kırıkkale istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Delice Otoyolu",
+                "description": "Adana-Osmaniye yolunun 12-13.km.leri arasında Karaçay Köprüsü yapım çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Karaçay Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-08-23T06:34:45.746558"
+                "updated_at": "2026-08-23T07:18:53.881970"
             }
         },
         {
@@ -74,16 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.5959432,
-                    38.369149
+                    29.8499206,
+                    37.0549329
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Elazığ-Diyarbakır yolunun 46-48.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Elazığ Yolu",
+                "description": "Çavdır-Söğüt-Korkuteli yolunun 5-12.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Çavdır Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-23T06:34:46.208042"
+                "updated_at": "2026-08-23T07:18:54.094477"
             }
         },
         {
@@ -91,16 +91,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.6442108,
-                    39.5556753
+                    30.0106784,
+                    40.0892569
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Çanakkale- Çan Devlet yolunun 18-25 km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır.",
-                "extracted_keyword": "Çanakkale Yolu",
+                "description": "Bozüyük-Bilecik-Mekece yolunun 2-4.km.leri arasında üstyapı onarım çalışmaları nedeniyle Mekece-Bilecik istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Bozüyük Yolu",
                 "category": "road_work",
-                "updated_at": "2026-08-23T06:34:46.322795"
+                "updated_at": "2026-08-23T07:18:54.282419"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5802264,
+                    38.7311593
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Malatya-Kayseri yolunun 8-11.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Malatya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-23T07:18:54.501712"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9425952,
+                    40.0726195
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çankırı-Ankara yolunun 4-5.km.leri arasında üstyapı onarım çalışmaları nedeniyle Çankırı istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çankırı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-23T07:18:54.704836"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2476561,
+                    41.0535657
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Hopa-Borçka-Artvin yolunun 47-64.km.leri arasında bulunan 10 adet tünel ve yaklaşımlarında elektrik-elektronik sistemleri bakım onarım çalışması nedeniyle 24.08.2026-28.08.2026 tarihleri arası, 08:00-17:30 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Hopa Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-23T07:18:54.895999"
             }
         }
     ]
