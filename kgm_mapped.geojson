@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.0915052,
-                    40.747515
+                    29.2635224,
+                    40.971091
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Anadolu Otoyolunun Dörtdivan Kavşağı-Yeniçağa Kavşağı Kesimi 2-5.km.leri arasında üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır. (1 şerit İstanbul, 2 şerit Ankara istikameti)",
-                "extracted_keyword": "Anadolu Otoyolunun Dörtdivan Kavşağı",
+                "description": "O-2 Anadolu Otoyolu Kavşağı    Ümraniye İstikameti P13-P14 ve Kozyatağı  istikameti P14-P15 Viyadük ayak kirişlerinin montajı yapılacaktır. Çalışmalar esnasında, O-2 Otoyolu;  Kozyatağı-Ümraniye hattında viyadük ayağının denk geldiği kesim  trafiğe kapatılarak, 23.08.2026 Pazar günü Ümraniye istikametinde  30.08.2026  Pazar günü ise Kozyatağı istikametinde trafik akışı diğer platformdan gidiş-geliş olarak sağlanacaktır. (Çalışmalar  00:00-06:00 saatleri arasında yapılacaktır)",
+                "extracted_keyword": "Anadolu Otoyolu Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-24T17:07:15.024998"
+                "updated_at": "2026-08-24T17:45:41.559698"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.2934335,
-                    37.8311225
+                    32.91501,
+                    39.5197037
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aydın-Denizli Otoyolunun 3-8.km.leri arasında üstyapı onarım çalışması nedeniyle Aydın istikameti  trafiğe kapatılarak ulaşım Denizli istikametinden iki yönü olarak sağlanmaktadır.",
-                "extracted_keyword": "Denizli Otoyolu",
+                "description": "Ankara-Niğde Otoyolunun 1-2.km.leri arasında 21.08.2026-26.08.2026 tarihlerinde  üst yapı onarım çalışması nedeniyle Kırşehir bağlantı yolu Kırşehir İstikameti sağ şerit kapatılarak ulaşım kontrollü olarak diğer şeritten sağlanacaktır.",
+                "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-24T17:07:15.140486"
+                "updated_at": "2026-08-24T17:45:41.643027"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.7065814,
-                    37.9795618
+                    27.6373804,
+                    39.4549975
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kayseri-Niğde yolunun 31-36.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kayseri Yolu",
+                "description": "Kınalı-Tekirdağ-Çanakkale-Savaştepe Otoyolu Projesi Malkara-Çanakkale (1915 Çanakkale Köprüsü Dahil) Kesimi Otoyolu'nun bünyesinde yer alan 1915 Çanakkale Köprüsünde bakım onarım çalışmaları yapılabilmesi amacıyla O-6/17-001 ile O-6/19-003 Kontrol Kesim Numaraları (Proje Km:179+300-Km:188+100) arasında çalışma yapılması planlanmaktadır. Söz konusu iş kapsamında, bahse konu kesimde onaylı projelerine uygun olarak trafik işaretlemesi yapılacaktır. Çalışmaların 21.08.2026 tarihinde başlanması ve 12.09.2026 tarihinde tamamlanması planlanmaktadır.",
+                "extracted_keyword": "Savaştepe Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-24T17:07:15.275773"
+                "updated_at": "2026-08-24T17:45:41.730347"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.288149,
-                    41.36864
+                    30.8213542,
+                    39.6283001
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Adana-Osmaniye yolunun 12-13.km.leri arasında Karaçay Köprüsü yapım çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Karaçay Köprüsü",
+                "description": "Ankara Çevre Otoyolunun Eskişehir Kavşağı-Dodurga Kavşağı 2-3.km.leri arasında 17.08.2026-30.09.2026 tarihlerinde Konya istikameti (Dış Çember) altgeçit yenileme çalışması nedeniyle trafiğe kapatılacak olup ulaşım diğer istikametten çift yönlü ve kontrollü olarak sağlanacaktır. (2 şerit Eskişehir, 2 Şerit Dodurga istikameti)",
+                "extracted_keyword": "Ankara Çevre Otoyolunun Eskişehir Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-08-24T17:07:15.405916"
+                "updated_at": "2026-08-24T17:45:41.846038"
             }
         },
         {
@@ -74,16 +74,84 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.8499206,
-                    37.0549329
+                    31.227336,
+                    40.554305
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Çavdır-Söğüt-Korkuteli yolunun 5-12.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Çavdır Yolu",
+                "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Kırıkkale-Konya yolunun 5-6.km.leri arasında 18.08.2026-18.11.2026 tarihlerinde  her iki istikamette sol şeritler ile dönel kavşak trafiğe kapatılarak ulaşım diğer şeritlerden kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-08-24T17:07:15.544760"
+                "updated_at": "2026-08-24T17:45:41.956559"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0106784,
+                    40.0892569
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bozüyük-Bilecik-Mekece yolunun Mekece-Bilecik istikameti 2-4.km.leri arasında  21.08.2026 tarihinden itibaren üstyapı onarım çalışmaları nedeniyle yol trafiğe kapatılarak ulaşım Bilecik-Mekece istikametinden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Bozüyük Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-24T17:45:42.102994"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.976942,
+                    41.78594
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Altköy-Refahiye-Erzincan yolunun  8-9.km.leri arasında 17.08.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine  dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Altköy Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-24T17:45:42.253919"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.7162518,
+                    40.3866265
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kars-Kağızman yolunun 8-12.km.leri arasında Kırmızı Dere Viyadüğünde 23.08.2026 tarihinden itibaren  Bakım Onarım Çalışmaları nedeniyle yol trafiğe kapatılarak ulaşım servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Kars Yolu",
+                "category": "road_work",
+                "updated_at": "2026-08-24T17:45:42.388977"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.842893,
+                    38.943389
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Giresun-Gümüşhane İl Sınırı-Kürtün-Torul yolunun 45. km. sinde bulunan Budak Tünelinde yapılacak olan görüntü sistemleri bakım onarım çalışması nedeniyle 24.08.2026-28.08.2026 tarihleri arası, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Budak Tüneli",
+                "category": "road_work",
+                "updated_at": "2026-08-24T17:45:42.492782"
             }
         }
     ]
