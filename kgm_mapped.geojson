@@ -15,7 +15,7 @@
                 "description": "O-2 TEM Otoyolu Çamlık Kavşağı – Kavacık Kavşağı (Kontrol Kesim No: O-2/11) arasında bulunan Molla Gürani Viyadüğünde derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Edirne istikameti gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanmaktadır.  (Her akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu Çamlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-04T19:28:50.742829"
+                "updated_at": "2026-09-04T21:44:41.097571"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Gebze-Orhangazi-İzmir Otoyolu'nun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) O5/21 km:07 ile O5/21 km:10 kontrol kesim numaraları arasında (Proje km: 307+200 – 309+600) bakım ve onarım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında, İzmir istikametindeki sağ şerit trafiğe kapatılacaktır. Çalışmalara 03.09.2026 tarihinde başlanmış olmakla beraber  çalışmaların 03.10.2026 tarihinde tamamlanması planlanmaktadır.",
                 "extracted_keyword": "İzmir Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-04T19:28:50.900697"
+                "updated_at": "2026-09-04T21:44:41.189500"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Mersin-Çeşmeli Otoyolu Kuyuluk Kavşağında yürütülen  yapım çalışmaları nedeniyle Kuyuluk-Mersin ve Kuyluk-Erdemli istikametine bağlantı sağlayan kavşaklar ulaşıma kapatılmış olup, yapılan üst yapı çalışmaları nedeniyle trafik kontrollü olarak verilmektedir.",
                 "extracted_keyword": "Çeşmeli Otoyolu Kuyuluk Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-04T19:28:51.077947"
+                "updated_at": "2026-09-04T21:44:41.290545"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Niğde Otoyolundaki üst yapı çalışması nedeniyle Kırşehir Bağlantı Yolu Ankara-Niğde İstikameti Sağ Şerit Kapatılarak Trafik Kontrollü Olarak Diğer Şeritten Verilmektedir.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-04T19:28:51.197964"
+                "updated_at": "2026-09-04T21:44:41.396595"
             }
         },
         {
@@ -83,41 +83,7 @@
                 "description": "Kızılcahamam - Kahramankazan - Ankara yolunun 17-20.km.leri arasındaki yol yapım çalışmaları nedeniyle bu kesimde Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım Kızılcahamam-Kahramankazan-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-04T19:28:51.339567"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.4864332,
-                    41.6430747
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Sinop-Samsun yolunun 49-53.km.leri arasında üstyapı yenileme çalışmaları nedeniyle bölünmüş yolun Sinop istikameti trafiğe kapatılacak olup, ulaşım Samsun istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Sinop Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-04T19:28:51.486380"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.803143,
-                    40.999804
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Giresun-Gümüşhane İl Sınırı-Şiran-Kelkit yolunun 46-53.km.leri arasındaki üst yapı onarım ve asfalt sathi kaplama yapım çalışması nedeniyle çalışmanın devamı müddetince trafik kısa sürelerle ulaşıma kapatılmak suretiyle, tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Giresun Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-04T19:28:51.649584"
+                "updated_at": "2026-09-04T21:44:41.484446"
             }
         }
     ]
