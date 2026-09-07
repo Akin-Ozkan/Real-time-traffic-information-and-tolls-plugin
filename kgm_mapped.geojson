@@ -15,7 +15,7 @@
                 "description": "O-2 TEM Otoyolu Çamlık Kavşağı – Kavacık Kavşağı (Kontrol Kesim No: O-2/11) arasında bulunan Molla Gürani Viyadüğünde derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Edirne istikameti gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanmaktadır.  (Her akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu Çamlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-07T17:48:04.445423"
+                "updated_at": "2026-09-07T20:49:17.882427"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Çeşme Otoyolunun 02.09.2026-30.09.2026 tarihleri arasında \"Betonarme Otoyol Aydınlatma Direklerinin Değiştirilmesi ve Aydınlatma Sisteminin Revizyonu Yapım İşi\" kapsamında İzmir çevre Otoyolunun O-30/4 2+000  6. Sanayi Kavşak Kolları ile O-30/02 0+000 Limontepe Kavşak Kollarında  arasında gece saat 22:00-05:00 arasında çalışma yapılacaktır. Çalışma esnasında kontrollü olarak yolun ortası ve sol şeridi trafiğe kapatılacaktır. Trafik akışı diğer şeritlerden sağlanmaktadır.",
                 "extracted_keyword": "Çeşme Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-07T17:48:04.543730"
+                "updated_at": "2026-09-07T20:49:18.029221"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ankara Çevre Otoyolunun O-20/7 2-4.km.leri arası (İç Daire) Eskişehir istikameti üstyapı onarımı nedeniyle trafiğe kapatılacaktır. \n    Bahse konu kesim 07.09.2026 – 18.09.2026 tarihleri arasında trafiğe kapatılacak olup çalışmalar süresince trafik Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-07T17:48:04.674816"
+                "updated_at": "2026-09-07T20:49:18.199876"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Niğde Otoyolu, üst yapı çalışması nedeniyle Kırşehir Bağlantı Yolu Ankara-Niğde İstikameti Sol Şerit Kapatılarak Trafik Kontrollü Olarak Diğer Şeritten Verilmektedir.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-07T17:48:04.745250"
+                "updated_at": "2026-09-07T20:49:18.332109"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Bursa- İnegöl--(Bursa-Bilecik) İl Sn. Devlet yolunun 38-41.km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolun Ankara-Bursa istikameti trafiğe kapatılarak, trafik akışı Bursa-Ankara istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-07T17:48:04.849393"
+                "updated_at": "2026-09-07T20:49:18.497098"
             }
         },
         {
@@ -91,16 +91,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.5802264,
-                    38.7311593
+                    35.4864332,
+                    41.6430747
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Malatya - Hava Alanı yolunun 0-18.km.leri arasında yol çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Malatya Yolu",
+                "description": "Sinop-Samsun yolunun 49-53.km.leri arasında üstyapı yenileme çalışmaları nedeniyle bölünmüş yolun Sinop istikameti trafiğe kapatılacak olup, ulaşım Samsun istikametinden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Sinop Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-07T17:48:05.047014"
+                "updated_at": "2026-09-07T20:49:18.646716"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.416094,
+                    39.7665563
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Denizli İl Sınırı-Çavdır-Söğüt yolunun 18-24.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Denizli İl Sınırı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-07T20:49:18.833684"
             }
         },
         {
@@ -117,7 +134,7 @@
                 "description": "Zonguldak-Devrek-Mengen yolunun 48-50.km.leri arasında üstyapı onarım çalışmaları nedeniyle yolun Ankara istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun Zonguldak istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Zonguldak Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-07T17:48:05.146225"
+                "updated_at": "2026-09-07T20:49:19.095697"
             }
         },
         {
@@ -134,7 +151,7 @@
                 "description": "Yozgat İl Sın.- Yıldızeli  yolunun 46-51.km.leri arasında  Üst yapı çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Yozgat İl Sın. Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-07T17:48:05.276999"
+                "updated_at": "2026-09-07T20:49:19.254007"
             }
         }
     ]
