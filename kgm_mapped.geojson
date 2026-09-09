@@ -15,7 +15,7 @@
                 "description": "O-2 Anadolu Otoyolu Güney Platform Ataşehir istikameti İstanbul Finans Merkezi ayrım kolunda alt geçit imalatları yapılacaktır. Çalışmalar 03.09.2026 Perşembe başlamış olup, çalışmalar esnasında trafik servis yolları üzerinden kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Anadolu Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-09T06:36:59.413381"
+                "updated_at": "2026-09-09T11:51:13.241424"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Gebze-Orhangazi-İzmir Otoyolu'nun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) O5/21 km:07 ile O5/21 km:10 kontrol kesim numaraları arasında (Proje km: 307+200 – 309+600) bakım ve onarım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında, İzmir istikametindeki sağ şerit trafiğe kapatılacaktır. Çalışmalara 03.09.2026 tarihinde başlanmış olmakla beraber çalışmaların 03.10.2026 tarihinde tamamlanması planlanmaktadır.",
                 "extracted_keyword": "İzmir Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-09T06:36:59.506572"
+                "updated_at": "2026-09-09T11:51:13.351433"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Aksaray-Ortaköy yolunun 43-44 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-09T06:36:59.600073"
+                "updated_at": "2026-09-09T11:51:13.486815"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale yolunun, Ankara-Kırıkkale istikameti 16-19.km.leri arası üstyapı (BSK) onarım çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Kırıkkale - Ankara istikametinden iki yönlü (gidiş - geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-09T06:36:59.701923"
+                "updated_at": "2026-09-09T11:51:13.629725"
             }
         },
         {
@@ -83,7 +83,24 @@
                 "description": "Sertavul-Mut-Beşçatal yolunun 40-42.km.leri arasında 26.08.2026 tarihinden itibaren Mut Çayı Köprüsü çalışmaları nedeniyle ulaşım diğer şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Mut Çayı Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-09-09T06:36:59.790895"
+                "updated_at": "2026-09-09T11:51:13.740002"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6770909,
+                    39.0564392
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Simav-Gediz yolunun 29-30 km.leri arasında menfez yenileme çalışmaları nedeniyle Gediz yönü kapatılmış olup, trafik akışı diğer şeritten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Simav Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-09T11:51:14.106488"
             }
         }
     ]
