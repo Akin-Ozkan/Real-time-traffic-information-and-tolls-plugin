@@ -15,7 +15,7 @@
                 "description": "Kınalı-Tekirdağ-Çanakkale-Savaştepe Otoyolu Projesi Malkara-Çanakkale (1915 Çanakkale Köprüsü Dahil) Kesimi Otoyolu'nun O-6/13 008 ile O-6/20 003 kesimleri arasında muhtelif mevkiilerde üst yapı bakım onarım çalışması yapılması planlanmaktadır. Çalışmalara 02.09.2026 tarihinde başlanmış olmakla beraber çalışmaların 30.10.2026 tarihinde tamamlanması planlanmaktadır.",
                 "extracted_keyword": "Savaştepe Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-10T23:10:22.448344"
+                "updated_at": "2026-09-11T01:06:33.472182"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Çeşme Otoyolunun 02.09.2026-30.09.2026 tarihleri arasında \"Betonarme Otoyol Aydınlatma Direklerinin Değiştirilmesi ve Aydınlatma Sisteminin Revizyonu Yapım İşi\" kapsamında İzmir çevre Otoyolunun O-30/4 2+000 6. Sanayi Kavşak Kolları ile O-30/02 0+000 Limontepe Kavşak Kollarında arasında gece saat 22:00-05:00 arasında çalışma yapılacaktır. Çalışma esnasında kontrollü olarak yolun ortası ve sol şeridi trafiğe kapatılacaktır.Trafik akışı diğer şeritlerden sağlanacaktır.",
                 "extracted_keyword": "Çeşme Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-10T23:10:22.544600"
+                "updated_at": "2026-09-11T01:06:33.627655"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Aksaray-Ortaköy yolunun 27-37.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-10T23:10:22.638098"
+                "updated_at": "2026-09-11T01:06:33.800388"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 1-20 km.leri arasındaki yol yapım çalışmaları nedeniyle bu kesimde Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım Kızılcahamam-Kahramankazan-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-10T23:10:22.722911"
+                "updated_at": "2026-09-11T01:06:33.941657"
             }
         },
         {
@@ -83,7 +83,41 @@
                 "description": "Çeşmeli-Erdemli-Taşucu Otoyolunda yapılacak çalışmalar nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Taşucu Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-10T23:10:22.846781"
+                "updated_at": "2026-09-11T01:06:34.118035"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7065814,
+                    37.9795618
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kayseri-Niğde yolunun 31-36.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kayseri Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-11T01:06:34.272455"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.4966233,
+                    41.1134714
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Vezirköprü-Havza yolunun 25-27.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Vezirköprü Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-11T01:06:34.438720"
             }
         },
         {
@@ -100,7 +134,7 @@
                 "description": "Kahramanmaraş-Malatya yolunun 31-36.km.leri arasında üst yapı onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Kahramanmaraş Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-10T23:10:23.068449"
+                "updated_at": "2026-09-11T01:06:34.617965"
             }
         },
         {
@@ -117,24 +151,7 @@
                 "description": "Seydikemer-Söğüt yolunun 4-49.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Seydikemer Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-10T23:10:23.154602"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.0216293,
-                    40.1353858
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Bozüyük-Bilecik-Mekece yolunun Mekece-Bilecik istikameti 2-4.km.leri arasında üstyapı onarım çalışmaları nedeniyle yol trafiğe kapatılarak ulaşım Bilecik-Mekece istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Bozüyük Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-10T23:10:23.240881"
+                "updated_at": "2026-09-11T01:06:34.776882"
             }
         }
     ]
