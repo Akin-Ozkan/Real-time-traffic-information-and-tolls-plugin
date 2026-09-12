@@ -15,7 +15,7 @@
                 "description": "Aydın-Denizli Otoyolunun 16-17.km.leri arasında üstyapı onarım çalışmaları nedeniyle her iki istikamette orta ve sol şeritler trafiğe kapatılarak ulaşım sağ şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-12T05:54:07.469098"
+                "updated_at": "2026-09-12T10:13:31.266312"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Kırıkkale yolunun 16-19.km.leri arasında üstyapı onarım çalışmaları nedeniyle Ankara-Kırıkkale istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-12T05:54:07.629295"
+                "updated_at": "2026-09-12T10:13:31.354598"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Kayseri-Kırşehir yolunun 0-5.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-12T05:54:07.782131"
+                "updated_at": "2026-09-12T10:13:31.442292"
             }
         },
         {
@@ -66,92 +66,7 @@
                 "description": "Bursa-Yalova yolunun 33-36.km.leri arasında üstyapı onarım çalışmaları nedeniyle Bursa-Yalova istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-12T05:54:07.951347"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    40.416094,
-                    39.7665563
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Denizli İl Sınırı-Çavdır-Söğüt yolunun 18-24.km.leri arasında sathi kaplama onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Denizli İl Sınırı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-12T05:54:08.115004"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.432084,
-                    38.553873
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Elbistan-Malatya yolunun  7-12.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Elbistan Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-12T05:54:08.278207"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.8002596,
-                    41.3162879
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ilgaz-Korgun-Çankırı yolunun 17-27.km.leri arasında asfalt sathi kaplama çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Ilgaz Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-12T05:54:08.423429"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.7946996,
-                    37.1969584
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Diyarbakır-Mardin yolunun 13-18.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Diyarbakır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-12T05:54:08.593719"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.238948,
-                    41.046813
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Beşikdüzü-Trabzon yolunun 55-57.km.leri arasında (Trabzon Şehir Geçişi, eski çimento fabrikası mevkii) yol yapım çalışması nedeniyle her iki yöndeki sahil yolu bağlantısı trafiğe kapatılmış olup, ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Beşikdüzü Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-12T05:54:08.730796"
+                "updated_at": "2026-09-12T10:13:31.533295"
             }
         }
     ]
