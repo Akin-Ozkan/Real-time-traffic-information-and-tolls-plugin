@@ -6,16 +6,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.2934335,
-                    37.8311225
+                    28.7087851,
+                    41.058756
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aydın-Denizli Otoyolunun 16-17.km.leri arasında üstyapı onarım çalışmaları nedeniyle her iki istikamette orta ve sol şeritler trafiğe kapatılarak ulaşım sağ şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Denizli Otoyolu",
+                "description": "O-4  TEM Otoyolu Kandıra Ücret Toplama İstasyonunda, gişe adaları ve kanopilerin yıkılması çalışmaları yapılacaktır.        13.09.2026 tarihinde (Cumartesi’yi Pazar’a bağlayan gece) 00:00 – 07:00 saatleri arasında Otoyol giriş ve çıkış platformları trafiğe kapatılacaktır. \n Otoyola giriş ve çıkışlar, servis yollarından kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-12T10:13:31.266312"
+                "updated_at": "2026-09-12T13:37:43.009572"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8131052,
+                    37.8450872
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Gebze-Orhangazi-İzmir Otoyolu'nun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) O5/21 km:07 ile O5/21 km:10 kontrol kesim numaraları arasında (Proje km: 307+200 – 309+600) bakım ve onarım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında, İzmir istikametindeki sağ şerit trafiğe kapatılacaktır. Çalışmalara 03.09.2026 tarihinde başlanmış olmakla beraber  çalışmaların 03.10.2026 tarihinde tamamlanması planlanmaktadır.",
+                "extracted_keyword": "İzmir Otoyolu",
+                "category": "road_work",
+                "updated_at": "2026-09-12T13:37:43.131254"
             }
         },
         {
@@ -32,7 +49,24 @@
                 "description": "Ankara-Kırıkkale yolunun 16-19.km.leri arasında üstyapı onarım çalışmaları nedeniyle Ankara-Kırıkkale istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-12T10:13:31.354598"
+                "updated_at": "2026-09-12T13:37:43.250111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1321477,
+                    41.0292272
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Mersin-Çeşmeli Otoyolu Kuyuluk Kavşağında yürütülen  yapım çalışmaları nedeniyle Kuyuluk-Mersin ve Kuyuluk-Erdemli istikametine bağlantı sağlayan kavşaklar ulaşıma kapatılmış olup, yapılan üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çeşmeli Otoyolu Kuyuluk Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-09-12T13:37:43.376032"
             }
         },
         {
@@ -49,7 +83,7 @@
                 "description": "Kayseri-Kırşehir yolunun 0-5.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-12T10:13:31.442292"
+                "updated_at": "2026-09-12T13:37:43.490824"
             }
         },
         {
@@ -66,7 +100,7 @@
                 "description": "Bursa-Yalova yolunun 33-36.km.leri arasında üstyapı onarım çalışmaları nedeniyle Bursa-Yalova istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-12T10:13:31.533295"
+                "updated_at": "2026-09-12T13:37:43.598269"
             }
         }
     ]
