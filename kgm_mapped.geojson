@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.7087851,
-                    41.058756
+                    28.2934335,
+                    37.8311225
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "O-4  TEM Otoyolu Kandıra Ücret Toplama İstasyonunda, gişe adaları ve kanopilerin yıkılması çalışmaları yapılacaktır.        13.09.2026 tarihinde (Cumartesi’yi Pazar’a bağlayan gece) 00:00 – 07:00 saatleri arasında Otoyol giriş ve çıkış platformları trafiğe kapatılacaktır. \n Otoyola giriş ve çıkışlar, servis yollarından kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "TEM Otoyolu",
+                "description": "Aydın-Denizli Otoyolunun 3-11 km'leri arasında 03.09.2026 tarihinden itibaren üst yapı çalışması nedeni ile Aydın istikameti araç trafiğine kapatılarak trafik akışı Denizli istikametinden iki yönlü olarak sağlanacaktır.",
+                "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-13T14:39:28.708112"
+                "updated_at": "2026-09-13T17:41:28.371497"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.8131052,
-                    37.8450872
+                    38.094498,
+                    39.895394
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gebze-Orhangazi-İzmir Otoyolu'nun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) O5/21 km:07 ile O5/21 km:10 kontrol kesim numaraları arasında (Proje km: 307+200 – 309+600) bakım ve onarım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında, İzmir istikametindeki sağ şerit trafiğe kapatılacaktır. Çalışmalara 03.09.2026 tarihinde başlanmış olmakla beraber  çalışmaların 03.10.2026 tarihinde tamamlanması planlanmaktadır.",
-                "extracted_keyword": "İzmir Otoyolu",
+                "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Ankara-Kırıkkale yolunun 28-29.km.leri arasında 29.07.2026 tarihinden itibaren kontrollü patlatma çalışmaları yapılacağından Ankara-Kırıkkale ve Kırıkkale-Ankara istikametleri saat \"09.00-12.00 arasında\" 15 dakika süre ile trafiğe kapatılacaktır.",
+                "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-13T14:39:28.916424"
+                "updated_at": "2026-09-13T17:41:28.517864"
             }
         },
         {
@@ -40,84 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.1321477,
-                    41.0292272
+                    29.5160515,
+                    40.792267
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Mersin-Çeşmeli Otoyolu Kuyuluk Kavşağında yürütülen  yapım çalışmaları nedeniyle Kuyuluk-Mersin ve Kuyuluk-Erdemli istikametine bağlantı sağlayan kavşaklar ulaşıma kapatılmış olup, yapılan üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Çeşmeli Otoyolu Kuyuluk Kavşağı",
+                "description": "TEM Anadolu Otoyolu Kavşağında viyadük ayak imalatları yapılacaktır. Çalışmalar esnasında, Kozyatağı-Ümraniye aksında sol şeritler trafiğe kapatılarak, trafik akışı diğer şeritlerinden sağlanacaktır. Çalışma alanında emniyet şeritleri trafiğe açık tutulacaktır.(Çalışmalar 24 saat esasına göre yürütülecektir.)",
+                "extracted_keyword": "TEM Anadolu Otoyolu Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-13T14:39:29.124230"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.1689832,
-                    41.0525177
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ankara Çevre Otoyolunun O-20/7 4-2-4.km.leri arası (İç Daire) Eskişehir istikameti üstyapı onarımı nedeniyle trafiğe kapatılacaktır. \n    Bahse konu kesim 07.09.2026 – 18.09.2026 tarihleri arasında trafiğe kapatılacak olup çalışmalar süresince trafik Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Çevre Otoyolu",
-                "category": "road_work",
-                "updated_at": "2026-09-13T14:39:29.328270"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.4864332,
-                    41.6430747
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Sinop-Samsun yolunun 49-53.km.leri arasında üstyapı yenileme çalışmaları nedeniyle bölünmüş yolun Sinop istikameti trafiğe kapatılacak olup, ulaşım Samsun istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Sinop Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-13T14:39:29.530883"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.9126589,
-                    40.511067
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kırıkkale-Yozgat yolunun 0-20.km.leri arasında bordür  çalışması olduğundan muhtelif yerlerde şerit daraltılması nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kırıkkale Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-13T14:39:29.733161"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.3044065,
-                    40.6016598
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Gümüşhane-Bayburt İl Sınırı-Bayburt yolunun 15-18.km.leri arasında yapılmakta olan yol yapım çalışması nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Gümüşhane Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-13T14:39:29.937126"
+                "updated_at": "2026-09-13T17:41:28.695441"
             }
         },
         {
@@ -131,10 +63,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Bursa- İnegöl--(Bursa-Bilecik) İl Sn. Devlet yolunun 52-56.km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolun Ankara-Bursa istikameti trafiğe kapatılarak, trafik akışı Bursa-Ankara istikametinden iki yönlü olarak sağlanmaktadır.",
+                "description": "Bursa- İnegöl--(Bursa-Bilecik) İl Sn. Devlet yolunun 38-41 km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolun Ankara-Bursa istikameti trafiğe kapatılarak, trafik akışı Bursa-Ankara istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-13T14:39:30.139312"
+                "updated_at": "2026-09-13T17:41:28.846340"
             }
         },
         {
@@ -142,16 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.7238906,
-                    39.4491249
+                    35.5802264,
+                    38.7311593
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kangal- Alacahan- Hekimhan yolunun  3- 8.km.leri arasında  yol yapım yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kangal Yolu",
+                "description": "Malatya - Hava Alanı yolunun 0-18.km.leri arasında yol çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır .Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Malatya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-13T14:39:30.316619"
+                "updated_at": "2026-09-13T17:41:28.998799"
             }
         },
         {
@@ -159,16 +91,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    41.9882902,
-                    41.1850505
+                    35.4864332,
+                    41.6430747
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ardahan-Şavşat yolunun 16-22.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Ardahan Yolu",
+                "description": "Sinop-Samsun yolunun 49-53 km.leri arasında üstyapı yenileme çalışmaları nedeniyle bölünmüş yolun Sinop istikameti trafiğe kapatılacak olup, ulaşım Samsun istikametinden iki yönlü olarak sağlanacaktır.",
+                "extracted_keyword": "Sinop Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-13T14:39:30.499817"
+                "updated_at": "2026-09-13T17:41:29.123875"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.260122,
+                    41.82607
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kemer Ayr.-Burdur yolunun 0-1 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bir şeritten iki yönlü ve kontrollü şekilde verilmektedir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kemer Ayr. Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-13T17:41:29.296365"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.4713437,
+                    38.9930549
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Aksaray-Ortaköy yolunun 27-37.km.leri arasında 16.06.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Aksaray Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-13T17:41:29.445950"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2157554,
+                    38.4433992
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Sertavul-Mut-Beşçatal yolunun 40-42.km.leri arasında 26.08.2026 tarihinden itibaren Mut Çayı Köprüsü çalışmaları nedeniyle ulaşım diğer şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Mut Çayı Köprüsü",
+                "category": "road_work",
+                "updated_at": "2026-09-13T17:41:29.603530"
             }
         }
     ]
