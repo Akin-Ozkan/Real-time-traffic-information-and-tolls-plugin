@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.0915052,
-                    40.747515
+                    28.9606737,
+                    41.0557348
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Anadolu Otoyolunun Dörtdivan Kavşağı-Yeniçağa Kavşağı Kesimi 2-5.km.leri arasında üstyapı onarım çalışması nedeniyle İstanbul istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü ve kontrollü olarak sağlanmaktadır. (2 şerit İstanbul, 2 şerit Ankara istikameti)",
-                "extracted_keyword": "Anadolu Otoyolunun Dörtdivan Kavşağı",
+                "description": "O-2 TEM Otoyolu Çamlık Kavşağı-Kavacık Kavşağı (Kontrol Kesim No: O-2/11) arasında bulunan Molla Gürani Viyadüğünde derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Edirne istikameti gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır. (Her akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
+                "extracted_keyword": "TEM Otoyolu Çamlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-15T17:01:46.811011"
+                "updated_at": "2026-09-15T20:11:32.178772"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.0915359,
-                    38.4888676
+                    28.2934335,
+                    37.8311225
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir Çevre Yolu Üniversite Kavşağında (Ankara Caddesinden Karşıyaka yönü bağlantı kolu) gürültü perdesi yapım çalışması nedeniyle 14.09.2026-23.09.2026 tarihleri arası, 22:00-06:00 saatleri aralığında bağlantı kolu trafiğe kapatılacaktır.",
-                "extracted_keyword": "İzmir Çevre Yolu Üniversite Kavşağı",
+                "description": "Aydın-Denizli Otoyolu 16-17.km.leri arasında Aydın ve Denizli istikametinde gerçekleştirilecek üstyapı onarım çalışmaları nedeniyle gerekli trafik güvenliği tedbirleri alınarak her iki istikamette orta ve sol şeritler araç trafiğine kapatılacak, ulaşım sağ şerit üzerinden kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-15T17:01:46.931119"
+                "updated_at": "2026-09-15T20:11:32.285169"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.0237497,
-                    40.7709271
+                    33.4713437,
+                    38.9930549
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gerede-Kızılcahamam yolunun 18-19.km.leri arasında yol yapım çalışmaları nedeniyle Gerede-Kızılcahamam istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Gerede Yolu",
+                "description": "Aksaray-Ortaköy yolunun 25-27.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır. Bu güzergahı kullanacak sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-15T17:01:47.013557"
+                "updated_at": "2026-09-15T20:11:32.400573"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.5833308,
-                    37.7930425
+                    32.5223954,
+                    37.9210181
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ulukışla-Pozantı yolunun 36-39.km.leri arasında yol genişletme çalışması nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Ulukışla Yolu",
+                "description": "Ankara-Kırıkkale yolunun, Ankara-Kırıkkale istikameti 16-19.km.leri arası üstyapı (BSK) onarım çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Kırıkkale - Ankara istikametinden iki yönlü (gidiş - geliş) olarak sağlanmaktadır.",
+                "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-15T17:01:47.088792"
+                "updated_at": "2026-09-15T20:11:32.510663"
             }
         },
         {
@@ -74,84 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.0365236,
-                    39.9174066
+                    33.891163,
+                    36.318642
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Söğüt-Korkuteli yolunun 19-34.km.leri arasında sathi kaplama çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Söğüt Yolu",
+                "description": "Çeşmeli-Erdemli-Taşucu Otoyolunda yapılacak çalışmalar nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Taşucu Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-15T17:01:47.218650"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.0216293,
-                    40.1353858
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Bozüyük-Bilecik-Mekece yolunun 2-4.km.leri arasında üstyapı onarım çalışmaları nedeniyle Mekece-Bilecik istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Bozüyük Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-15T17:01:47.304288"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.5959432,
-                    38.369149
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Elazığ-Malatya yolunun 38-42.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Elazığ Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-15T17:01:47.396462"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    42.421013,
-                    38.722091
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Yeniköprü-Yüksekova yolunun 51-55.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Yeniköprü Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-15T17:01:47.470038"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.4746217,
-                    40.6989226
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Trabzon-Maçka yolunun 23.km.sinde bulunan Yeni Maçka Tünelinin Trabzon-Maçka yönündeki tüpünde aydınlatma ve otomasyon yapım çalışması nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Yeni Maçka Tüneli",
-                "category": "road_work",
-                "updated_at": "2026-09-15T17:01:49.659786"
+                "updated_at": "2026-09-15T20:11:32.632965"
             }
         }
     ]
