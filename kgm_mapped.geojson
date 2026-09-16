@@ -15,7 +15,7 @@
                 "description": "İzmir-Aydın Otoyolunun  22-23.km.leri arasında 17.09.2026-29.09.2026 tarihlerinde DSİ Köprüsü İzmir istikameti sağ ve emniyet şeridi kapatılacak olup, trafik akışı sol ve orta şeritten sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-16T19:02:23.064222"
+                "updated_at": "2026-09-16T22:05:29.966330"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Niğde-Pozantı otoyolunun 0-1.km.leri arasında 10.09.2026-23.09.2026 tarihlerinde  Kemerhisar kavşağında üst yapı onarım çalışmaları nedeniyle  Ankara ve Adana yönlerindeki trafik aynı yönlerde diğer şeritlerden verilecektir. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
                 "extracted_keyword": "Niğde Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-16T19:02:23.202329"
+                "updated_at": "2026-09-16T22:05:30.056463"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Çatalca-Büyükçekmece yolunun 21-23.km.leri arasında 15.09.2026-25.09.2026 tarihlerinde üstyapı yenileme çalışmaları nedeniyle Büyükçekmece istikameti trafiğe kapatılacak ulaşım Çatalca istikametinden  iki yönlü geliş-gidiş olarak sağlanacaktır.",
                 "extracted_keyword": "Çatalca Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-16T19:02:23.348167"
+                "updated_at": "2026-09-16T22:05:30.143151"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Selçuk-Ortaklar-Aydın yolunun 0-31.km.leri arasında  patlatmalı yol yapım çalışmalar nedeniyle 17.09.2026 tarihinde 14:00-19:00 saatleri arasında yol trafiğe kapatılacak olup ulaşım  Selçuk-Kuşadası-Söke-Ortaklar güzergahından sağlanacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Selçuk Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-16T19:02:23.520223"
+                "updated_at": "2026-09-16T22:05:30.231712"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Beyşehir-Antalya yolunun 24-25.km.leri arasında yol yapım çalışmaları kapsamında patlatma yapılacağından 17.09.2026 tarihinde 12:00-15:00 saatleri arasında yol trafiğe kapatılacaktır.",
                 "extracted_keyword": "Beyşehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-16T19:02:23.680363"
+                "updated_at": "2026-09-16T22:05:30.317669"
             }
         },
         {
@@ -91,33 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.0365236,
-                    39.9174066
+                    37.0092607,
+                    39.5210209
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Söğüt-Kızılcadağ-Korkuteli yolunun 19-34.km.leri arasında 10.09.2026 tarihinden itibaren asfalt sathi kaplama çalışmaları nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
-                "extracted_keyword": "Söğüt Yolu",
+                "description": "Ulaş-Gürün Ayr.-Kangal  yolunun   10-19.km.leri arasında  14.09.2026 tarihinden itibaren asfalt sathi kaplama  çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Ulaş Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-16T19:02:24.041563"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    41.3629014,
-                    37.5502964
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Batman-Beşiri-Kurtalan-Siirt yolunun 19-24.km.leri arasında 12.09.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle Beşir-Kurtalan İstikametindeki bölünmüş yolun sol tarafı trafiğe kapatılmış olup ulaşım sağ yoldan gidiş-geliş iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Batman Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-16T19:02:24.193376"
+                "updated_at": "2026-09-16T22:05:30.410550"
             }
         }
     ]
