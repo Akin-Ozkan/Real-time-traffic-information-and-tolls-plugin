@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.161568,
-                    40.994495
+                    28.2934335,
+                    37.8311225
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "O-2 Anadolu Otoyolu Kavşağı Çamlıca Gişeleri - FSM yönü bağlantı yolunda,  viyadük kirişlerinin montajı yapılacaktır.\nÇalışmalar, 18.09.2026 - 21.09.2026 tarihleri arasında ve 00:00 - 06:00 saatlerinde yürütülecektir:\n18 Eylül, 19 Eylül ve 21 Eylül tarihlerinde; Çamlıca Gişeleri- FSM Köprüsü yönü bağlantı yolunda sadece şerit daraltması yapılacaktır.\n20.09.2026 Pazar günü (Cumartesi’yi Pazara bağlayan gece), O-2 Otoyolu Çamlıca Gişeleri - FSM Köprüsü yönü bağlantı yolu, trafiğe   kapatılacaktır. Sürücüler, İstanbul Finans Merkezi (İFM) önündeki kavşaktan dönüş yaparak, FSM Köprüsü istikametine gidebilecektir.",
-                "extracted_keyword": "Anadolu Otoyolu Kavşağı Çamlıca Gişeleri",
+                "description": "Aydın-Denizli Otoyolunun  3-4.km.leri arasında Denizli istikametinde şev çalışması yapılacağından sağ şerit trafik akışına kapatılacak olup ulaşım orta ve sol şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T13:39:10.058010"
+                "updated_at": "2026-09-18T17:13:30.065702"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.3067706,
-                    38.1922612
+                    28.7087851,
+                    41.058756
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir-Aydın Otoyolunun 15-21.km.leri arasında 16.09.2026-30.09.2026 tarihlerinde 08:00-17:00 saatleri arasında Aydın istikametinde orta refüj temizliği nedeniyle kontrollü olarak sol şerit trafiğe kapatılmış olup ulaşım sağ ve orta şeritten sağlanmaktadır.",
-                "extracted_keyword": "Aydın Otoyolu",
+                "description": "TEM Otoyolu Sultanbeyli Ücret Toplama İstasyonunda, gişe adaları ve kanopilerin yıkılması çalışmaları yapılacaktır. Yapılacak çalışmalar nedeni ile Sultanbeyli Gişelerinden Otoyola giriş ve çıkış platformlarında şerit daraltması ile trafik kontrollü şekilde sağlanacaktır. \nÇalışmalar, 22:00 itibarıyla başlayacak olup 24 saat esasına göre çalışılacaktır.",
+                "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T13:39:10.204922"
+                "updated_at": "2026-09-18T17:13:30.214182"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.4316234,
-                    36.704742
+                    32.5223954,
+                    37.9210181
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları Kapsamında, Mersin-Çeşmeli Otoyolu'nun O51-14/06+500 İLE O51-14/08+200 Kilometreleri arasında Çeşmeli-Mersin istikametinde yürütülecek üst yapı çalışmaları nedeniyle 17.09.2026 tarihinde saat 13:20 itibariyle bant aktarımı yapılarak trafik akışı Mersin-Çeşmeli istikametinde birer şerit halinde çift yönlü olarak sağlanmaktadır..",
-                "extracted_keyword": "Çeşmeli Otoyolu",
+                "description": "Ankara - Konya yolunun 11 - 13. km. arasındaki yüksek hızda hareket halinde araç tespit ve ağırlık ölçüm sistemi kurulum çalışmaları nedeniyle Konya-Ankara istikameti trafiğe kapatılarak ulaşım Ankara - Konya istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
+                "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T13:39:10.314341"
+                "updated_at": "2026-09-18T17:13:30.381984"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.91501,
-                    39.5197037
+                    32.3707221,
+                    37.7977068
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Niğde Otoyolu, üst yapı çalışması nedeniyle Kırşehir Bağlantı Yolu Kırşehir-Kayseri İstikameti Sağ Şerit Kapatılarak Trafik Kontrollü Olarak Diğer Şeritten Sağlanmaktadır.",
-                "extracted_keyword": "Niğde Otoyolu",
+                "description": "Seydişehir-Akseki yolunun 22 ile 24 km'leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
+                "extracted_keyword": "Seydişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T13:39:10.467219"
+                "updated_at": "2026-09-18T17:13:30.536551"
             }
         },
         {
@@ -74,33 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.3452414,
-                    40.5399997
+                    33.4713437,
+                    38.9930549
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Amasya-Turhal yolunun 0-3.km.leri arasında yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Amasya Yolu",
+                "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında   yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T13:39:10.603815"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    40.3777959,
-                    41.0211881
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "İyidere-Rize-Pazar yolunun 0-56. km. leri arasında yapılmakta olan yatay işaretleme (yol çizgisi) çalışması nedeniyle bölünmüş yolun her iki yönünde ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "İyidere Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-18T13:39:10.709679"
+                "updated_at": "2026-09-18T17:13:30.714968"
             }
         }
     ]
