@@ -15,7 +15,7 @@
                 "description": "Aydın-Denizli Otoyolunun  3-4.km.leri arasında Denizli istikametinde şev çalışması yapılacağından sağ şerit trafik akışına kapatılacak olup ulaşım orta ve sol şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T17:13:30.065702"
+                "updated_at": "2026-09-18T19:42:12.405081"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TEM Otoyolu Sultanbeyli Ücret Toplama İstasyonunda, gişe adaları ve kanopilerin yıkılması çalışmaları yapılacaktır. Yapılacak çalışmalar nedeni ile Sultanbeyli Gişelerinden Otoyola giriş ve çıkış platformlarında şerit daraltması ile trafik kontrollü şekilde sağlanacaktır. \nÇalışmalar, 22:00 itibarıyla başlayacak olup 24 saat esasına göre çalışılacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T17:13:30.214182"
+                "updated_at": "2026-09-18T19:42:12.559752"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ankara - Konya yolunun 11 - 13. km. arasındaki yüksek hızda hareket halinde araç tespit ve ağırlık ölçüm sistemi kurulum çalışmaları nedeniyle Konya-Ankara istikameti trafiğe kapatılarak ulaşım Ankara - Konya istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T17:13:30.381984"
+                "updated_at": "2026-09-18T19:42:12.681908"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Seydişehir-Akseki yolunun 22 ile 24 km'leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
                 "extracted_keyword": "Seydişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T17:13:30.536551"
+                "updated_at": "2026-09-18T19:42:12.865259"
             }
         },
         {
@@ -83,7 +83,92 @@
                 "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında   yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-18T17:13:30.714968"
+                "updated_at": "2026-09-18T19:42:13.029240"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7946996,
+                    37.1969584
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Diyarbakır-Silvan-Bingöl yol Ayr.- 70-73.km.leri arasında yol yapım çalışmaları nedeniyle  trafiğe kapatılmış olup trafik akışı sağ şeritten gidiş geliş olarak sağlanmaktadır.",
+                "extracted_keyword": "Diyarbakır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-18T19:42:13.181453"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5855647,
+                    38.0564006
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Belevi-Selçuk-Ortaklar yolunun 26-38.km.leri arası yol yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Belevi Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-18T19:42:13.321511"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2323758,
+                    39.9379848
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Balıkesir-Dursunbey yolunun 62-68 km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolun Balıkesir-Dursunbey istikameti trafiğe kapatılarak, trafik akışı Dursunbey-Balıkesir istikametinden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Balıkesir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-18T19:42:13.467588"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.207261,
+                    40.8411473
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Samsun-Çarşamba-Terme yolunu 5-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Samsun Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-18T19:42:13.615224"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.484591,
+                    39.574494
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "İliç- Kemaliye- Arapgir yolunun  24-25. km.'leri arasında tünel bağlantı yolları ve tünel ikincil işleri  çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "İliç Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-18T19:42:13.813443"
             }
         }
     ]
