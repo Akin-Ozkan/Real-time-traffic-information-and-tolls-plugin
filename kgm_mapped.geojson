@@ -15,7 +15,7 @@
                 "description": "O-2 TEM Otoyolu Çamlık Kavşağı – Kavacık Kavşağı (Kontrol Kesim No: O-2/11) arasında bulunan Molla Gürani Viyadüğünde derz onarım çalışmaları yapılacaktır.\nYapılacak çalışmalar süresince Güney yol platformunda (Ankara istikameti) gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır.\n Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır.\nÇalışmalar 21.09.2026 Pazartesi günü 22:00’da başlayacaktır. (Her akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu Çamlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-20T19:41:33.197304"
+                "updated_at": "2026-09-20T21:53:08.893393"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Aydın Otoyolunun 15-21.km.leri arasında 16.09.2026-30.09.2026 tarihlerinde 08:00-17:00 saatleri arasında Aydın istikametinde orta refüj temizliği nedeniyle kontrollü olarak sol şerit trafiğe kapatılmış olup, ulaşım sağ ve orta şeritten sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T19:41:33.370691"
+                "updated_at": "2026-09-20T21:53:09.081004"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ankara Çevre Otoyolunun O-20/6  Km: 10+750-11+100  ve O-20/7 Km: 0+000 - 2+000 Arası (İç Daire) Eskişehir istikameti üstyapı onarımı nedeniyle trafiğe kapatılacaktır.\nBahse konu kesim 18.09.2026 — 02.10.2026 tarihleri arasında trafiğe kapatılacak olup çalışmalar süresince trafik Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanmaktadır. Çalışmalar süresince İncek Kavşağı Eskişehir Yönü Ayrım Kolu trafiğe kapatılacaktır.",
                 "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T19:41:33.539674"
+                "updated_at": "2026-09-20T21:53:09.228818"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları  kapsamında devam eden üst yapı çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çeşmeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T19:41:33.669712"
+                "updated_at": "2026-09-20T21:53:09.393886"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Ankara-Niğde Otoyolu, üst yapı çalışması nedeniyle Kırşehir Bağlantı Yolu Kırşehir-Kayseri İstikameti Sağ Şerit Kapatılarak Trafik Kontrollü Olarak Diğer Şeritten Verilmektedir.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T19:41:33.802473"
+                "updated_at": "2026-09-20T21:53:09.564685"
             }
         },
         {
@@ -91,16 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.9144789,
-                    36.1844663
+                    39.7081739,
+                    40.97055
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ermenek-Mut yolunun 34.-35. km.leri arasında yol yapım çalışmaları kapsamında patlatma yapılacağından 21/09/2026 tarih ve 10:00-16:00 saatleri arasında yolun kapatılması nedeniyle ulaşım, Ermenek-Bucakkışla-Karaman güzergahından sağlanacaktır.",
-                "extracted_keyword": "Ermenek Yolu",
+                "description": "Trabzon-Gümüşhane İl Sınırı-Torul-Gümüşhane yolunun 46. km. sinde bulunan T 4 tünelinin, bölünmüş yolun her iki yönündeki tüplerinde yapılacak olan görüntü sistemleri bakım onarım çalışması nedeniyle 21.09.2026 günü, 08:00-17:00 saatleri arasında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Trabzon Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T19:41:34.048433"
+                "updated_at": "2026-09-20T21:53:09.757315"
             }
         },
         {
@@ -117,7 +117,24 @@
                 "description": "Balıkesir-Dursunbey Devlet Yolunun 62-68 km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolun Balıkesir-Dursunbey istikameti trafiğe kapatılarak, trafik akışı Dursunbey-Balıkesir istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T19:41:34.193600"
+                "updated_at": "2026-09-20T21:53:10.089422"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.8002596,
+                    41.3162879
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "ılgaz-Korgun-Çankırı Devlet Yolunun 17-27.km.leri arasında asfalt sathi kaplama çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "ılgaz Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-20T21:53:10.283498"
             }
         }
     ]
