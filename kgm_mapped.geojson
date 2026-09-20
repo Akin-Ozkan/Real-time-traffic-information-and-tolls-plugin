@@ -15,7 +15,7 @@
                 "description": "Aydın-Denizli Otoyolunun 7-15.km.leri arasında üstyapı ve bakım onarım çalışması nedeniyle Aydın istikameti trafiğe kapatılarak ulaşım Denizli istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-19T22:53:52.495694"
+                "updated_at": "2026-09-20T00:42:38.744113"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir Çevre Yolu Üniversite Kavşağında (Ankara Caddesinden Karşıyaka yönü bağlantı kolu) gürültü perdesi yapım çalışması nedeniyle 14.09.2026-23.09.2026 tarihleri arası, 22:00-06:00 saatleri aralığında bağlantı kolu trafiğe kapatılacaktır.",
                 "extracted_keyword": "İzmir Çevre Yolu Üniversite Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-19T22:53:52.623928"
+                "updated_at": "2026-09-20T00:42:38.956063"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında Turkuaz Köprülü Kavşak yapım çalışmaları nedeniyle Polatlı-Ankara istikametinde Turkuaz Mahallesi ayrım kolu ile Ankara-Polatlı istikametindeki ayrım kolları trafiğe kapatılarak Turkuaz, Yapracık ve Atayurt Mahallelerinin Ankara istikametine katılımı servis yolundan kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-19T22:53:52.733187"
+                "updated_at": "2026-09-20T00:42:39.135978"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Sakarya-Bilecik yolunun 21-22.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-19T22:53:52.836357"
+                "updated_at": "2026-09-20T00:42:39.336890"
             }
         },
         {
@@ -83,7 +83,41 @@
                 "description": "Kayseri-Niğde yolunun 31-36.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-19T22:53:52.939824"
+                "updated_at": "2026-09-20T00:42:39.539155"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0365236,
+                    39.9174066
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Söğüt-Kızılcadağ-Korkuteli yolunun 19-34.km.leri arasında sathi kaplama çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Söğüt Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-20T00:42:39.736332"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.5167049,
+                    41.2907465
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Zonguldak-Devrek-Mengen yolunun 48-50.km.leri arasında üstyapı onarım çalışmaları nedeniyle ulaşım Zonguldak istikametinden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Zonguldak Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-20T00:42:39.927588"
             }
         },
         {
@@ -100,7 +134,7 @@
                 "description": "İnegöl-Bozüyük yolunun 31-34.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım Bozüyük-İnegöl istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "İnegöl Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-19T22:53:53.179576"
+                "updated_at": "2026-09-20T00:42:40.102983"
             }
         },
         {
@@ -117,7 +151,7 @@
                 "description": "Van-Hakkari yolunun 12-13.km.leri arasındaki yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Van-Hakkari yolunun 12-13.km.leri",
                 "category": "road_work",
-                "updated_at": "2026-09-19T22:53:53.309499"
+                "updated_at": "2026-09-20T00:42:40.310809"
             }
         },
         {
@@ -134,7 +168,7 @@
                 "description": "İyidere-Rize-Pazar yolunun 0-56.km.leri arasında yatay işaretleme (yol çizgisi) çalışması nedeniyle her iki yönde ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "İyidere Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-19T22:53:53.439459"
+                "updated_at": "2026-09-20T00:42:40.484903"
             }
         }
     ]
