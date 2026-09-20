@@ -12,21 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113938"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.4356237898,
-                    39.813203273
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113955"
+                "updated_at": "2026-09-20T05:27:41.202587"
             }
         },
         {
@@ -40,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113958"
+                "updated_at": "2026-09-20T05:27:41.202605"
             }
         },
         {
@@ -48,13 +34,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4419350276,
-                    39.8020640598
+                    30.4356237898,
+                    39.813203273
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113959"
+                "updated_at": "2026-09-20T05:27:41.202608"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4385071645,
+                    39.7456169238
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-09-20T05:27:41.202610"
             }
         },
         {
@@ -68,7 +68,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113961"
+                "updated_at": "2026-09-20T05:27:41.202612"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4419350276,
+                    39.8020640598
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-09-20T05:27:41.202614"
             }
         },
         {
@@ -82,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113966"
+                "updated_at": "2026-09-20T05:27:41.202618"
             }
         },
         {
@@ -96,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113967"
+                "updated_at": "2026-09-20T05:27:41.202620"
             }
         },
         {
@@ -110,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113969"
+                "updated_at": "2026-09-20T05:27:41.202622"
             }
         },
         {
@@ -124,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113970"
+                "updated_at": "2026-09-20T05:27:41.202623"
             }
         },
         {
@@ -138,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113971"
+                "updated_at": "2026-09-20T05:27:41.202625"
             }
         },
         {
@@ -152,7 +166,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113973"
+                "updated_at": "2026-09-20T05:27:41.202626"
             }
         },
         {
@@ -166,35 +180,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113974"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6451217482,
-                    39.7353883182
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113975"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6496734569,
-                    39.7339721135
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-09-20T00:42:37.113976"
+                "updated_at": "2026-09-20T05:27:41.202628"
             }
         },
         {
@@ -211,7 +197,7 @@
                 "description": "Aydın-Denizli Otoyolunun 7-15.km.leri arasında üstyapı ve bakım onarım çalışması nedeniyle Aydın istikameti trafiğe kapatılarak ulaşım Denizli istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T00:42:38.744113"
+                "updated_at": "2026-09-20T05:27:43.108312"
             }
         },
         {
@@ -228,7 +214,7 @@
                 "description": "İzmir Çevre Yolu Üniversite Kavşağında (Ankara Caddesinden Karşıyaka yönü bağlantı kolu) gürültü perdesi yapım çalışması nedeniyle 14.09.2026-23.09.2026 tarihleri arası, 22:00-06:00 saatleri aralığında bağlantı kolu trafiğe kapatılacaktır.",
                 "extracted_keyword": "İzmir Çevre Yolu Üniversite Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-20T00:42:38.956063"
+                "updated_at": "2026-09-20T05:27:43.312243"
             }
         },
         {
@@ -245,7 +231,7 @@
                 "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında Turkuaz Köprülü Kavşak yapım çalışmaları nedeniyle Polatlı-Ankara istikametinde Turkuaz Mahallesi ayrım kolu ile Ankara-Polatlı istikametindeki ayrım kolları trafiğe kapatılarak Turkuaz, Yapracık ve Atayurt Mahallelerinin Ankara istikametine katılımı servis yolundan kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T00:42:39.135978"
+                "updated_at": "2026-09-20T05:27:43.449512"
             }
         },
         {
@@ -262,7 +248,7 @@
                 "description": "Sakarya-Bilecik yolunun 21-22.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T00:42:39.336890"
+                "updated_at": "2026-09-20T05:27:43.607532"
             }
         },
         {
@@ -279,41 +265,7 @@
                 "description": "Kayseri-Niğde yolunun 31-36.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T00:42:39.539155"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.0365236,
-                    39.9174066
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Söğüt-Kızılcadağ-Korkuteli yolunun 19-34.km.leri arasında sathi kaplama çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Söğüt Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-20T00:42:39.736332"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    31.5167049,
-                    41.2907465
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Zonguldak-Devrek-Mengen yolunun 48-50.km.leri arasında üstyapı onarım çalışmaları nedeniyle ulaşım Zonguldak istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Zonguldak Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-20T00:42:39.927588"
+                "updated_at": "2026-09-20T05:27:43.765277"
             }
         },
         {
@@ -330,7 +282,7 @@
                 "description": "İnegöl-Bozüyük yolunun 31-34.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım Bozüyük-İnegöl istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "İnegöl Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-20T00:42:40.102983"
+                "updated_at": "2026-09-20T05:27:44.142930"
             }
         },
         {
@@ -347,24 +299,7 @@
                 "description": "Van-Hakkari yolunun 12-13.km.leri arasındaki yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Van-Hakkari yolunun 12-13.km.leri",
                 "category": "road_work",
-                "updated_at": "2026-09-20T00:42:40.310809"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    40.3777959,
-                    41.0211881
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "İyidere-Rize-Pazar yolunun 0-56.km.leri arasında yatay işaretleme (yol çizgisi) çalışması nedeniyle her iki yönde ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "İyidere Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-20T00:42:40.484903"
+                "updated_at": "2026-09-20T05:27:44.306689"
             }
         }
     ]
