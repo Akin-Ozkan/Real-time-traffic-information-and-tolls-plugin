@@ -15,7 +15,7 @@
                 "description": "Mersin-Çeşmeli Otoyolu Kuyuluk kavşağı yapım çalışması kapsamında Mersin Kuyuluk istikametine Bağlantıyı sağlayan kavşak çıkış kolu 18.09.2026 tarihinde saat 20:15 itibariyle trafiğe kapatılmıştır.",
                 "extracted_keyword": "Çeşmeli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-21T23:12:24.150222"
+                "updated_at": "2026-09-22T01:37:33.424272"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara Çevre Otoyolunun 10-11.km.leri arasında 18.09.2026-02.10.2026 tarihlerinde Eskişehir istikameti üstyapı onarım çalışmaları nedeniyle trafiğe kapatılacak olup çalışmalar süresince ulaşım Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır. Çalışmalar süresince İncek Kavşağı Eskişehir Yönü Ayrım Kolu trafiğe kapatılacaktır.",
                 "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-21T23:12:24.260012"
+                "updated_at": "2026-09-22T01:37:33.536452"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "İzmir-Aydın Otoyolunun  22-23.km.leri arası 17.09.2026-29.09.2026 tarihlerinde DSİ Köprüsü İzmir istikameti sağ ve emniyet şeridi kapatılacak olup, ulaşım sol ve orta şeritten sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-21T23:12:24.357666"
+                "updated_at": "2026-09-22T01:37:33.644520"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Niğde Otoyolunun 0-1.km.leri arasında 14.09.2026-23.09.2026 tarihlerinde  üst yapı çalışması nedeniyle Kırşehir Bağlantı Yolu Kırşehir-Kayseri İstikameti Sağ Şerit Kapatılarak ulaşım Kontrollü Olarak Diğer Şeritten Verilecektir.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-21T23:12:24.440334"
+                "updated_at": "2026-09-22T01:37:33.725658"
             }
         },
         {
@@ -83,7 +83,24 @@
                 "description": "Ermenek-Mut yolunun 34-35.km.leri arasında yol yapım çalışmaları kapsamında patlatma yapılacağından 21.09.2026 tarih ve 10:00-16:00 saatleri arasında yolun kapatılması nedeniyle ulaşım, Ermenek-Bucakkışla-Karaman güzergahından sağlanacaktır.",
                 "extracted_keyword": "Ermenek Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-21T23:12:24.515552"
+                "updated_at": "2026-09-22T01:37:33.808271"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.941476,
+                    37.779022
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Iğdır-Tuzluca şehir merkezi yolunun 1-12.km.leri arasında  16.09.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir",
+                "extracted_keyword": "Iğdır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-22T01:37:34.051176"
             }
         }
     ]
