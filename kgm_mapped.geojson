@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.6373804,
-                    39.4549975
+                    28.9606737,
+                    41.0557348
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kınalı-Tekirdağ-Çanakkale-Savaştepe Otoyolu Projesi Malkara-Çanakkale (1915 Çanakkale Köprüsü Dahil) Kesimi Otoyolu'nun O-6/13 008 ile O-6/20 003 kesimleri arasında muhtelif mevkiilerde üst yapı bakım onarım çalışması yapılması planlanmaktadır. Çalışmalara 02.09.2026 tarihinde başlanmış olmakla beraber çalışmaların 30.10.2026 tarihinde tamamlanması planlanmaktadır.",
-                "extracted_keyword": "Savaştepe Otoyolu",
+                "description": "O-2 TEM Otoyolu Çamlık Kavşağı – Kavacık Kavşağı (Kontrol Kesim No: O-2/11) arasında bulunan Molla Gürani Viyadüğünde derz onarım çalışmaları yapılacaktır. Yapılacak çalışmalar süresince Güney yol platformunda (Ankara istikameti) gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır.Çalışmalar : (Her akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
+                "extracted_keyword": "TEM Otoyolu Çamlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-23T11:30:15.765690"
+                "updated_at": "2026-09-23T15:33:04.850003"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.2607065,
-                    38.2185124
+                    28.2934335,
+                    37.8311225
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir-Aydın Otoyolu DDY Köprüsü Söke istikameti 1-2.km.leri arası 17.09.2026 ile 29.09.2029 tarihleri arasında sağ ve emniyet kapatılacak olup, trafik akışı sol şeritten sağlanacaktır.",
-                "extracted_keyword": "Aydın Otoyolu DDY Köprüsü",
+                "description": "Aydın-Denizli Otoyolu O-31/15 kesimi  Aydın ve Denizli istikametinde gerçekleştirilecek üstyapı onarım çalışmaları nedeniyle 21.09.2026- 26.09.2026 tarihleri arasında gerekli trafik güvenliği tedbirleri alınarak her iki istikamette  sağ ve orta şeritler araç trafiğine kapatılacak, trafik akışı sol şerit üzerinden kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-23T11:30:15.930281"
+                "updated_at": "2026-09-23T15:33:04.982804"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.189714,
-                    37.8338177
+                    30.0294263,
+                    37.6385967
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aksaray-Ortaköy yolunun 43-44.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.Bu yolu kullanacak sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Aksaray Yolu",
+                "description": "Kumluca-Kemer-Antalya Yolunun 31 ile 37 km'leri arasında meydana gelen heyelan nedeniyle, bahsi geçen kesimde taşıt trafiği bölünmüş yolun bir tarafından iki yönlü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
+                "extracted_keyword": "Kumluca Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-23T11:30:16.102184"
+                "updated_at": "2026-09-23T15:33:05.161727"
             }
         },
         {
@@ -63,10 +63,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gerede-Kızılcahamam yolunun Gerede-Kızılcahamam istikametinin 18-19.km.leri arası yapım çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Kızılcahamam - Gerede istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
+                "description": "Gerede - Kızılcahamam - Ankara yolu Kızılcahamam - Gerede istikametinin 21 - 22. km. arası yol yapım çalışmaları nedeniyle trafiğe kapatılmış olup, ulaşım Gerede - Kızılcahamam istikametinden iki yönlü (gidiş - geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Gerede Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-23T11:30:16.255073"
+                "updated_at": "2026-09-23T15:33:05.308346"
             }
         },
         {
@@ -74,16 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.3122161,
-                    37.0037494
+                    31.5291923,
+                    39.4346868
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gaziantep-Nizip yolunda devam eden üstyapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Gaziantep Yolu",
+                "description": "Konya-Ankara Yolunun 36+235-41+300 km.leri arasında (Aselsan Kavşağı-Kayacık Mah. arası) ulaşım tek şeritten sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-23T11:30:16.405688"
+                "updated_at": "2026-09-23T15:33:05.467358"
             }
         },
         {
@@ -91,16 +91,84 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.5802264,
-                    38.7311593
+                    41.2101259,
+                    39.9475832
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Malatya-Kayseri yolunun 8-11.km.leri arasında üst yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Malatya Yolu",
+                "description": "Kayseri Kuzey Çevre yolunun 36-40.km.leri arasında yol  çalışması nedeniyle  şerit  daraltılması yapılmaktadır. Sürücüleri dikkatli ve tedbirli olması gerekmektedir.",
+                "extracted_keyword": "Kayseri Kuzey Çevre yolunun 36 Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-23T11:30:16.760134"
+                "updated_at": "2026-09-23T15:33:05.680298"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7078607,
+                    39.6402448
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Balıkesir Güneybatı Çevreyolunun  32-35 km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolda trafik aktarım çalışması yapılacağından trafik akışı kontrollü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
+                "extracted_keyword": "Balıkesir Güneybatı Çevreyolunun  32 Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-23T15:33:05.884849"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0471308,
+                    40.3688548
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tokat-Sivas yolunun 26-27 km.leri arasında heyelan nedeniyle bölünmüş yolun Tokat yönü trafiğe kapatılmış olup, ulaşım diğer banttan iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Tokat Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-23T15:33:06.120229"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.143372,
+                    36.460491
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çeşmeli-Kızkalesi Otoyolunda 06+500 ile 07+060 km çeşmeli mersin istikameti birer şerit halinde çift yönlü kontrollü sağlanmaktadır.",
+                "extracted_keyword": "Kızkalesi Otoyolu",
+                "category": "road_work",
+                "updated_at": "2026-09-23T15:33:06.277133"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.941476,
+                    37.779022
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Iğdır - Aralık - Dilucu yolunun 7 ile 12. km'leri arasında yol yapım çalışmaları nedeniyle sürücülerin  trafik işaret ve işaretçilerine uymaları gerekmektedir",
+                "extracted_keyword": "Iğdır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-23T15:33:06.414508"
             }
         }
     ]
