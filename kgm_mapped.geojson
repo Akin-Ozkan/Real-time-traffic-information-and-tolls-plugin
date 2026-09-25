@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.8388473,
-                    37.1966606
+                    28.9606737,
+                    41.0557348
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Niğde-Pozantı Otoyolunun 3-8.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım Niğde yönünden sağlanmaktadır.",
-                "extracted_keyword": "Pozantı Otoyolu",
+                "description": "O-2 TEM Otoyolu Çamlık Kavşağı-Kavacık Kavşağı (Kontrol Kesim No: O-2/11) arasında bulunan Molla Gürani Viyadüğünde derz onarım çalışmaları yapılacaktır. Yapılacak çalışmalar süresince Güney yol platformunda (Ankara istikameti) gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır. Çalışmalar 21.09.2026 Pazartesi günü 22:00’da başlayacaktır. (Her akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
+                "extracted_keyword": "TEM Otoyolu Çamlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-25T19:34:50.823027"
+                "updated_at": "2026-09-25T22:47:43.780433"
             }
         },
         {
@@ -29,10 +29,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aydın-Denizli Otoyolunun 16-18.km.leri arasında şev destekleme çalışması nedeniyle Denizli istikametinde sağ ve emniyet şeridi trafiğe kapatılarak ulaşım diğer şeritlerden sağlanmaktadır.",
+                "description": "Aydın-Denizli Otoyolu O-31/16 kesimi 0-1.km.leri arasında Aydın istikametinde gerçekleştirilecek üstyapı onarım çalışmaları nedeniyle 25.09.2026 tarihinden itibaren gerekli trafik güvenliği tedbirleri alınarak sağ ve orta şeritler araç trafiğine kapatılacak, trafik akışı sol şerit üzerinden kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-25T19:34:50.963528"
+                "updated_at": "2026-09-25T22:47:43.909798"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.904066,
-                    40.491984
+                    27.7686593,
+                    41.0142854
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Konya yolunun 34-37.km.leri arasında (Emirler) yol yapım çalışmaları nedeniyle Konya-Ankara istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Yolu",
+                "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları kapsamında devam eden üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çeşmeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-25T19:34:51.116437"
+                "updated_at": "2026-09-25T22:47:44.025335"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.635075,
-                    40.046287
+                    34.189714,
+                    37.8338177
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İnegöl-Bozüyük yolunun 31-34.km.leri arasında yol yapım çalışmaları nedeniyle Bursa-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-Bursa istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "İnegöl Yolu",
+                "description": "Aksaray-Ortaköy yolunun 25-26.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-25T19:34:51.262469"
+                "updated_at": "2026-09-25T22:47:44.191663"
             }
         },
         {
@@ -74,16 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.221548,
-                    40.733561
+                    32.3196065,
+                    40.6920191
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Sakarya-Bilecik yolunun 21-22.km.leri arasında üstyapı yenileme çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Sakarya Yolu",
+                "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 15-19.km.leri arasındaki yol yapım çalışmaları nedeniyle bu kesimde Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım Kızılcahamam-Kahramankazan-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
+                "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-25T19:34:51.408257"
+                "updated_at": "2026-09-25T22:47:44.323267"
             }
         },
         {
@@ -91,16 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.7751336,
-                    41.1027841
+                    34.9481733,
+                    39.9297819
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Fatsa-Ordu yolunun 25-26.km.leri arasında (Ordu Şehir Hastanesi Kavşağı) yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Ordu Şehir Hastanesi Kavşağı",
+                "description": "Alaca-Zile yolunun 26-32.km.leri arasında yol yapım çalışması olduğundan ulaşım servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Alaca Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-25T19:34:51.575588"
+                "updated_at": "2026-09-25T22:47:44.457730"
             }
         },
         {
@@ -108,16 +108,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.1403047,
-                    41.4568612
+                    34.9126589,
+                    40.511067
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Osmaniye-Nurdağı yolunun 50-51.km.leri arasındaki Kurudere Mevkiinde yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Osmaniye Yolu",
+                "description": "Kırıkkale-Çorum İl Sınırı-Çorum yolunun 34.km.sinde fiber optik kablo altyapısı tesisi çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kırıkkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-25T19:34:51.719084"
+                "updated_at": "2026-09-25T22:47:44.606337"
             }
         },
         {
@@ -125,16 +125,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.803143,
-                    40.999804
+                    35.5802264,
+                    38.7311593
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Giresun-Keşap Ayr.-Dereli yolunun 9-22.km.leri arasında bulunan Duroğlu, Iklıkçı, Çalca, Taşlıca ve Dereli Tünellerinde elektrik, elektronik sistemleri bakım onarım çalışması nedeniyle 24.09.2026-29.09.2026 tarihleri arası, 08:00-17:00 saatleri arasında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Giresun Yolu",
+                "description": "Malatya-Hava Alanı yolunun 0-18.km.leri arasında yol çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır .Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Malatya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-25T19:34:52.082936"
+                "updated_at": "2026-09-25T22:47:44.736638"
             }
         }
     ]
