@@ -15,7 +15,7 @@
                 "description": "O-2 TEM Otoyolu Çamlık Kavşağı-Kavacık Kavşağı (Kontrol Kesim No: O-2/11) arasında bulunan Molla Gürani Viyadüğünde derz onarım çalışmaları yapılacaktır. Yapılacak çalışmalar süresince Güney yol platformunda (Ankara istikameti) gece saatlerinde trafik, bant değişikliği yöntemiyle diğer platforma aktarılacaktır. Gündüz saatlerinde, derz üstüne monte edilecek rampalar üzerinden sağlanacaktır. Çalışmalar 21.09.2026 Pazartesi günü 22:00’da başlayacaktır. (Her akşam 22:00 ile sabah 06:00 saatleri arasında çalışma yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu Çamlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-26T00:58:02.016560"
+                "updated_at": "2026-09-26T06:03:13.746998"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın-Denizli Otoyolu O-31/16 kesimi 0-1.km.leri arasında Aydın istikametinde gerçekleştirilecek üstyapı onarım çalışmaları nedeniyle 25.09.2026 tarihinden itibaren gerekli trafik güvenliği tedbirleri alınarak sağ ve orta şeritler araç trafiğine kapatılacak, trafik akışı sol şerit üzerinden kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-26T00:58:02.103825"
+                "updated_at": "2026-09-26T06:03:13.827478"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları kapsamında devam eden üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çeşmeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-26T00:58:02.183926"
+                "updated_at": "2026-09-26T06:03:13.904751"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Aksaray-Ortaköy yolunun 25-26.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-26T00:58:02.292835"
+                "updated_at": "2026-09-26T06:03:14.027858"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 15-19.km.leri arasındaki yol yapım çalışmaları nedeniyle bu kesimde Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım Kızılcahamam-Kahramankazan-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-26T00:58:02.406950"
+                "updated_at": "2026-09-26T06:03:14.104141"
             }
         },
         {
@@ -100,7 +100,58 @@
                 "description": "Alaca-Zile yolunun 26-32.km.leri arasında yol yapım çalışması olduğundan ulaşım servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Alaca Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-26T00:58:02.520240"
+                "updated_at": "2026-09-26T06:03:14.184121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9126589,
+                    40.511067
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kırıkkale-Çorum İl Sınırı-Çorum yolunun 34.km.sinde fiber optik kablo altyapısı tesisi çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kırıkkale Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-26T06:03:14.262830"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5802264,
+                    38.7311593
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Malatya-Hava Alanı yolunun 0-18.km.leri arasında yol çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır .Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Malatya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-26T06:03:14.353439"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.0282859,
+                    41.2075235
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Artvin-Erzurum yolunun 41-55.km.leri arasında bulunan 12 adet tünel ve yaklaşımlarında yapılacak olan drenaj sistemleri ile bordür dipleri temizlik çalışması nedeniyle 22.09.2026-30.09.2026 tarihleri arası, 08:00-17:30 saatleri arasında ulaşım tek şeritten kontrollü sağlanacaktır.",
+                "extracted_keyword": "Artvin Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-26T06:03:14.434013"
             }
         }
     ]
