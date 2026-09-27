@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.161568,
-                    40.994495
+                    29.1689832,
+                    41.0525177
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "O-2 Anadolu Otoyolu Kavşağı Çamlıca Gişeleri - FSM yönü bağlantı yolunda, viyadük kirişlerinin montajı yapılacak olup, çalışmalar 00:00 - 06:00 saatlerinde yürütülecektir. 26.09.2026 Cumartesi günü (Cuma’yı Cumartesi’ye bağlayan gece), Çamlıca Gişeleri - FSM Köprüsü yönü bağlantı yolunda şerit daraltması yapılacaktır. 27.09.2026 Pazar günü (Cumartesi’yi Pazar’a bağlayan gece), O-2 Otoyolu Çamlıca Gişeleri - FSM Köprüsü yönü bağlantı yolu, trafiğe   kapatılacaktır. Sürücüler, İstanbul Finans Merkezi (İFM) önündeki kavşaktan dönüş yaparak, FSM Köprüsü istikametine gidebilecektir.",
-                "extracted_keyword": "Anadolu Otoyolu Kavşağı Çamlıca Gişeleri",
+                "description": "Ankara Çevre Otoyolunun O-20/6 Km: 10-11 ve O-20/7 Km: 0+000 - 0+400 Arası (İç Daire) Eskişehir istikameti üstyapı onarımı nedeniyle trafiğe kapatılacaktır.Bahse konu kesim 28.09.2026 — 04.10.2026 tarihleri arasında trafiğe kapatılacak olup çalışmalar süresince trafik Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T14:04:31.588904"
+                "updated_at": "2026-09-27T18:19:29.132269"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın-Denizli Otoyolunun 0-1.km.leri arasında Aydın  istikametinde gerçekleştirilecek üstyapı onarım çalışmaları nedeniyle 25.09.2026 tarihinden itibaren gerekli trafik güvenliği tedbirleri alınarak sağ ve orta şeritler araç trafiğine kapatılacak, ulaşım sol şerit üzerinden kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T14:04:31.663043"
+                "updated_at": "2026-09-27T18:19:29.226673"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.8128336,
-                    37.8449928
+                    29.1321477,
+                    41.0292272
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gebze-Orhangazi-İzmir Otoyolunun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil)  10-18.km.leri arasında  (Proje km: 241+727 – 249+827) 23.09.2026-28.09.2026 tarihlerinde  bakım ve onarım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında sırasıyla İzmir-İstanbul istikametlerinde bant aktarma yapılacak olup, ulaşım karşı İstanbul-İzmir istikametinden  iki yönlü olarak sağlanacaktır.",
-                "extracted_keyword": "İzmir Otoyolu",
+                "description": "O-3 Otoyolu Babaeski Kavşağı – Havsa Kavşağı (Kontrol Kesim No: O-3/06 ve O-3/04) arasında üstyapı yenileme çalışmaları yapılacaktır.\nYapılacak çalışmalar esnasında, Kuzey yol platformu (Edirne istikameti) kesimler halinde trafiğe kapatılacak olup; trafik diğer platformdan gidiş geliş olarak sağlanacaktır.\nÇalışmalar 28.09.2026 Pazartesi günü başlayacak olup, 24 saat esasına göre çalışılacaktır.",
+                "extracted_keyword": "Otoyolu Babaeski Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-27T14:04:31.756363"
+                "updated_at": "2026-09-27T18:19:29.344544"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.221548,
-                    40.733561
+                    37.0160262,
+                    39.6282359
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Sakarya-Bilecik-Bozüyük yolunun 36-37.km.leri arasında 25.09.2026 tarihinden itibaren  tünel bakım onarım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Sakarya Yolu",
+                "description": "Ulaş-Gürün Ayr.-Kangal  yolunun   10-19.km.leri arasında  14.09.2026 tarihinden itibaren asfalt sathi kaplama  çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Ulaş Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T14:04:31.877513"
+                "updated_at": "2026-09-27T18:19:29.442792"
             }
         },
         {
@@ -74,101 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.0407162,
-                    40.7740947
+                    31.5291923,
+                    39.4346868
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gerede-Çerkeş yolunun 2-5.km.leri arasında 25.09.2026 tarihinden itibaren  (Kemikli Rampası) yol yapım çalışmaları nedeniyle bölünmüş yolun Gerede istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından iki yönlü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
-                "extracted_keyword": "Gerede Yolu",
+                "description": "Kahramanmaraş -Göksun devlet yolunda Maraş Kuzey Çevre yolu-K1 FSK Kavşağı mevkideki üstyapı çalışmaları nedeniyle trafik kontrollü olarak verilmektedir.",
+                "extracted_keyword": "FSK Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-27T14:04:31.976457"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.2958524,
-                    40.0116668
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında 25.09.2026 tarihinden itibaren Turkuaz mahallesi karayolları eğitim tesisleri yolundaki eski köprü trafiğe kapatılmış olup, ulaşım yeni köprü üzerinden verilmektedir.",
-                "extracted_keyword": "Polatlı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-27T14:04:32.101565"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.7751336,
-                    41.1027841
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Gülyalı-Ordu yolunun 25-26.km.leri arasında 22.09.2026 tarihinden itibaren  (Ordu Şehir Hastanesi Kavşağı) yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Ordu Şehir Hastanesi Kavşağı",
-                "category": "road_work",
-                "updated_at": "2026-09-27T14:04:32.229076"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    41.2101259,
-                    39.9475832
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kayseri Kuzey Çevre yolunun 36-40.km.leri arasında   22.09.2026 tarihinden itibaren yol  çalışması nedeniyle  şerit  daraltılması yapılmaktadır.  Sürücüleri dikkatli ve tedbirli olması gerekmektedir.",
-                "extracted_keyword": "Kayseri Kuzey Çevre yolunun 36 Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-27T14:04:32.421556"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.6542702,
-                    39.5281659
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Yıldızeli-Sivas yolunun  0-5.km.leri arasında 25.09.2026 tarihinden itibaren   üstyapı onarım çalışmaları nedeniyle Yıldızeli-Sivas  istikameti taşıt trafiğine kapatılmıştır. Ulaşım diğer bantdan iki yönlü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Yıldızeli Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-27T14:04:32.522144"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.149416,
-                    36.545641
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Antakya-Topboğazı yolunun 3-4.km.leri arasında 22.09.2026 tarihinden itibaren \"Antakya-Samandağ yolu Çökek FSK yapım İşi\" kapsamında devam eden çalışmalar nedeniyle trafik kontrollü olarak verilmektedir.",
-                "extracted_keyword": "Antakya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-27T14:04:32.624580"
+                "updated_at": "2026-09-27T18:19:29.603077"
             }
         }
     ]
