@@ -6,13 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4356237898,
-                    39.813203273
+                    30.4298731336,
+                    39.8202239061
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756036"
+                "updated_at": "2026-09-27T08:15:10.021698"
             }
         },
         {
@@ -20,13 +20,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4298731336,
-                    39.8202239061
+                    30.4356237898,
+                    39.813203273
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756049"
+                "updated_at": "2026-09-27T08:15:10.021711"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756052"
+                "updated_at": "2026-09-27T08:15:10.021714"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756054"
+                "updated_at": "2026-09-27T08:15:10.021715"
             }
         },
         {
@@ -62,13 +62,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.464512522,
-                    39.7736875761
+                    30.4644025514,
+                    39.7736969817
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756056"
+                "updated_at": "2026-09-27T08:15:10.021717"
             }
         },
         {
@@ -82,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756058"
+                "updated_at": "2026-09-27T08:15:10.021718"
             }
         },
         {
@@ -96,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756064"
+                "updated_at": "2026-09-27T08:15:10.021723"
             }
         },
         {
@@ -110,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756066"
+                "updated_at": "2026-09-27T08:15:10.021725"
             }
         },
         {
@@ -124,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756068"
+                "updated_at": "2026-09-27T08:15:10.021726"
             }
         },
         {
@@ -138,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756070"
+                "updated_at": "2026-09-27T08:15:10.021727"
             }
         },
         {
@@ -152,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756072"
+                "updated_at": "2026-09-27T08:15:10.021729"
             }
         },
         {
@@ -166,7 +166,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756074"
+                "updated_at": "2026-09-27T08:15:10.021730"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5584582338,
+                    39.7343181263
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-09-27T08:15:10.021731"
             }
         },
         {
@@ -180,21 +194,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756076"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6496734569,
-                    39.7339721135
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-09-27T02:11:24.756078"
+                "updated_at": "2026-09-27T08:15:10.021732"
             }
         },
         {
@@ -211,7 +211,7 @@
                 "description": "O-2 Anadolu Otoyolu Kavşağı Çamlıca Gişeleri - FSM yönü bağlantı yolunda, viyadük kirişlerinin montajı yapılacak olup, çalışmalar 00:00 - 06:00 saatlerinde yürütülecektir. 26.09.2026 Cumartesi günü (Cuma’yı Cumartesi’ye bağlayan gece), Çamlıca Gişeleri - FSM Köprüsü yönü bağlantı yolunda şerit daraltması yapılacaktır. 27.09.2026 Pazar günü (Cumartesi’yi Pazar’a bağlayan gece), O-2 Otoyolu Çamlıca Gişeleri - FSM Köprüsü yönü bağlantı yolu, trafiğe   kapatılacaktır. Sürücüler, İstanbul Finans Merkezi (İFM) önündeki kavşaktan dönüş yaparak, FSM Köprüsü istikametine gidebilecektir.",
                 "extracted_keyword": "Anadolu Otoyolu Kavşağı Çamlıca Gişeleri",
                 "category": "road_work",
-                "updated_at": "2026-09-27T02:11:26.049539"
+                "updated_at": "2026-09-27T08:15:11.339305"
             }
         },
         {
@@ -228,7 +228,7 @@
                 "description": "Aydın-Denizli Otoyolunun 0-1.km.leri arasında Aydın  istikametinde gerçekleştirilecek üstyapı onarım çalışmaları nedeniyle 25.09.2026 tarihinden itibaren gerekli trafik güvenliği tedbirleri alınarak sağ ve orta şeritler araç trafiğine kapatılacak, ulaşım sol şerit üzerinden kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T02:11:26.145377"
+                "updated_at": "2026-09-27T08:15:11.413465"
             }
         },
         {
@@ -245,7 +245,7 @@
                 "description": "Gebze-Orhangazi-İzmir Otoyolunun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil)  10-18.km.leri arasında  (Proje km: 241+727 – 249+827) 23.09.2026-28.09.2026 tarihlerinde  bakım ve onarım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında sırasıyla İzmir-İstanbul istikametlerinde bant aktarma yapılacak olup, ulaşım karşı İstanbul-İzmir istikametinden  iki yönlü olarak sağlanacaktır.",
                 "extracted_keyword": "İzmir Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T02:11:26.236635"
+                "updated_at": "2026-09-27T08:15:11.491635"
             }
         },
         {
@@ -262,7 +262,7 @@
                 "description": "Sakarya-Bilecik-Bozüyük yolunun 36-37.km.leri arasında 25.09.2026 tarihinden itibaren  tünel bakım onarım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T02:11:26.337463"
+                "updated_at": "2026-09-27T08:15:11.577616"
             }
         },
         {
@@ -279,24 +279,7 @@
                 "description": "Gerede-Çerkeş yolunun 2-5.km.leri arasında 25.09.2026 tarihinden itibaren  (Kemikli Rampası) yol yapım çalışmaları nedeniyle bölünmüş yolun Gerede istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından iki yönlü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
                 "extracted_keyword": "Gerede Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T02:11:26.431936"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.2958524,
-                    40.0116668
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında 25.09.2026 tarihinden itibaren Turkuaz mahallesi karayolları eğitim tesisleri yolundaki eski köprü trafiğe kapatılmış olup, ulaşım yeni köprü üzerinden verilmektedir.",
-                "extracted_keyword": "Polatlı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-27T02:11:26.525111"
+                "updated_at": "2026-09-27T08:15:11.663213"
             }
         }
     ]
