@@ -6,13 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4356237898,
-                    39.813203273
+                    30.4298731336,
+                    39.8202239061
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446892"
+                "updated_at": "2026-09-27T21:28:51.460905"
             }
         },
         {
@@ -20,13 +20,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4298731336,
-                    39.8202239061
+                    30.4356237898,
+                    39.813203273
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446907"
+                "updated_at": "2026-09-27T21:28:51.460915"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446910"
+                "updated_at": "2026-09-27T21:28:51.460919"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446912"
+                "updated_at": "2026-09-27T21:28:51.460921"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446914"
+                "updated_at": "2026-09-27T21:28:51.460923"
             }
         },
         {
@@ -82,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446916"
+                "updated_at": "2026-09-27T21:28:51.460925"
             }
         },
         {
@@ -96,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446923"
+                "updated_at": "2026-09-27T21:28:51.460930"
             }
         },
         {
@@ -110,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446925"
+                "updated_at": "2026-09-27T21:28:51.460932"
             }
         },
         {
@@ -124,21 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446927"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5062342832,
-                    39.7894147181
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-09-27T18:19:27.446929"
+                "updated_at": "2026-09-27T21:28:51.460934"
             }
         },
         {
@@ -152,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446931"
+                "updated_at": "2026-09-27T21:28:51.460936"
             }
         },
         {
@@ -166,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446932"
+                "updated_at": "2026-09-27T21:28:51.460937"
             }
         },
         {
@@ -180,7 +166,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446934"
+                "updated_at": "2026-09-27T21:28:51.460939"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5946010003,
+                    39.7505481547
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-09-27T21:28:51.460941"
             }
         },
         {
@@ -194,7 +194,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-27T18:19:27.446936"
+                "updated_at": "2026-09-27T21:28:51.460942"
             }
         },
         {
@@ -211,7 +211,7 @@
                 "description": "Ankara Çevre Otoyolunun O-20/6 Km: 10-11 ve O-20/7 Km: 0+000 - 0+400 Arası (İç Daire) Eskişehir istikameti üstyapı onarımı nedeniyle trafiğe kapatılacaktır.Bahse konu kesim 28.09.2026 — 04.10.2026 tarihleri arasında trafiğe kapatılacak olup çalışmalar süresince trafik Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T18:19:29.132269"
+                "updated_at": "2026-09-27T21:28:53.140289"
             }
         },
         {
@@ -228,7 +228,7 @@
                 "description": "Aydın-Denizli Otoyolunun 0-1.km.leri arasında Aydın  istikametinde gerçekleştirilecek üstyapı onarım çalışmaları nedeniyle 25.09.2026 tarihinden itibaren gerekli trafik güvenliği tedbirleri alınarak sağ ve orta şeritler araç trafiğine kapatılacak, ulaşım sol şerit üzerinden kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T18:19:29.226673"
+                "updated_at": "2026-09-27T21:28:53.260857"
             }
         },
         {
@@ -245,7 +245,7 @@
                 "description": "O-3 Otoyolu Babaeski Kavşağı – Havsa Kavşağı (Kontrol Kesim No: O-3/06 ve O-3/04) arasında üstyapı yenileme çalışmaları yapılacaktır.\nYapılacak çalışmalar esnasında, Kuzey yol platformu (Edirne istikameti) kesimler halinde trafiğe kapatılacak olup; trafik diğer platformdan gidiş geliş olarak sağlanacaktır.\nÇalışmalar 28.09.2026 Pazartesi günü başlayacak olup, 24 saat esasına göre çalışılacaktır.",
                 "extracted_keyword": "Otoyolu Babaeski Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-27T18:19:29.344544"
+                "updated_at": "2026-09-27T21:28:53.416735"
             }
         },
         {
@@ -262,7 +262,7 @@
                 "description": "Ulaş-Gürün Ayr.-Kangal  yolunun   10-19.km.leri arasında  14.09.2026 tarihinden itibaren asfalt sathi kaplama  çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ulaş Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-27T18:19:29.442792"
+                "updated_at": "2026-09-27T21:28:53.551129"
             }
         },
         {
@@ -279,7 +279,41 @@
                 "description": "Kahramanmaraş -Göksun devlet yolunda Maraş Kuzey Çevre yolu-K1 FSK Kavşağı mevkideki üstyapı çalışmaları nedeniyle trafik kontrollü olarak verilmektedir.",
                 "extracted_keyword": "FSK Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-27T18:19:29.603077"
+                "updated_at": "2026-09-27T21:28:53.702345"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5802264,
+                    38.7311593
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Malatya - Kayseri yolunun 8-11.km.leri arasında üst yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Malatya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-27T21:28:54.136344"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9481733,
+                    39.9297819
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Alaca-Zile yolunun 26-32.km.leri arasında 22.09.2026 tarihinden itibaren  yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Alaca Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-27T21:28:54.272401"
             }
         }
     ]
