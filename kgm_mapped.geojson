@@ -15,7 +15,7 @@
                 "description": "Ankara Çevre Otoyolunun O-20/6 Km: 10-11 ve O-20/7 Km: 0+000 - 0+400 Arası (İç Daire) Eskişehir istikameti üstyapı onarımı nedeniyle trafiğe kapatılacaktır.Bahse konu kesim 28.09.2026 — 04.10.2026 tarihleri arasında trafiğe kapatılacak olup çalışmalar süresince trafik Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-28T04:28:25.938780"
+                "updated_at": "2026-09-28T11:10:39.728582"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın-Denizli Otoyolunun 0-1.km.leri arasında Aydın  istikametinde gerçekleştirilecek üstyapı onarım çalışmaları nedeniyle 25.09.2026 tarihinden itibaren gerekli trafik güvenliği tedbirleri alınarak sağ ve orta şeritler araç trafiğine kapatılacak, ulaşım sol şerit üzerinden kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-28T04:28:26.005349"
+                "updated_at": "2026-09-28T11:10:39.858594"
             }
         },
         {
@@ -49,24 +49,7 @@
                 "description": "O-3 Otoyolu Babaeski Kavşağı – Havsa Kavşağı (Kontrol Kesim No: O-3/06 ve O-3/04) arasında üstyapı yenileme çalışmaları yapılacaktır.\nYapılacak çalışmalar esnasında, Kuzey yol platformu (Edirne istikameti) kesimler halinde trafiğe kapatılacak olup; trafik diğer platformdan gidiş geliş olarak sağlanacaktır.\nÇalışmalar 28.09.2026 Pazartesi günü başlayacak olup, 24 saat esasına göre çalışılacaktır.",
                 "extracted_keyword": "Otoyolu Babaeski Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-28T04:28:26.122367"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.0160262,
-                    39.6282359
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ulaş-Gürün Ayr.-Kangal  yolunun   10-19.km.leri arasında  14.09.2026 tarihinden itibaren asfalt sathi kaplama  çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Ulaş Yolu",
-                "category": "road_work",
-                "updated_at": "2026-09-28T04:28:26.201282"
+                "updated_at": "2026-09-28T11:10:40.012912"
             }
         },
         {
@@ -83,7 +66,7 @@
                 "description": "Kahramanmaraş -Göksun devlet yolunda Maraş Kuzey Çevre yolu-K1 FSK Kavşağı mevkideki üstyapı çalışmaları nedeniyle trafik kontrollü olarak verilmektedir.",
                 "extracted_keyword": "FSK Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-28T04:28:26.298166"
+                "updated_at": "2026-09-28T11:10:40.166291"
             }
         },
         {
@@ -100,7 +83,7 @@
                 "description": "Sakarya-Bilecik-Bozüyük yolunun 36-37.km.leri arasında 25.09.2026 tarihinden itibaren  tünel bakım onarım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-28T04:28:26.393766"
+                "updated_at": "2026-09-28T11:10:40.324534"
             }
         },
         {
@@ -117,7 +100,41 @@
                 "description": "Konya-Ankara Yolunun 36-41 km.leri arasında (Aselsan Kavşağı-Kayacık Mah. arası) ulaşım tek şeritten kontrollü olarak  sağlanmaktadır.",
                 "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-28T04:28:26.485937"
+                "updated_at": "2026-09-28T11:10:40.475545"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0365236,
+                    39.9174066
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Söğüt-Kızılcadağ-Korkuteli yolunun 19 -34 km'leri arasında yapılacak olan sathi kaplama çalışmaları nedeniyle sürücülerin, trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
+                "extracted_keyword": "Söğüt Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-28T11:10:40.620837"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5802264,
+                    38.7311593
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Malatya - Kayseri yolunun 8-11.km.leri arasında üst yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Malatya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-09-28T11:10:40.768464"
             }
         }
     ]
