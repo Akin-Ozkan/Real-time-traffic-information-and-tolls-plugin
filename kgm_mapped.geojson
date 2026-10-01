@@ -15,7 +15,7 @@
                 "description": "O-4 TEM Otoyolu Adapazarı Ücret Toplama İstasyonunda, gişe adaları ve kanopilerin yıkılması çalışmaları yapılacaktır. 01.10.2026 tarihinde (Çarşambayı Perşembeye bağlayan gece) 00:00 – 06:00 saatleri arasında Otoyol giriş ve çıkış platformları trafiğe kapatılacaktır. Akabinde ise gişelerden Otoyola giriş ve çıkışlar, servis yollarından kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.106525"
+                "updated_at": "2026-10-01T00:01:04.908321"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Aydın Otoyolu DSİ-2 Köprüsü İzmir istikameti (O-31/03 22+088) 30.09.2026 11.10.2026 tarihleri arasında sol ve orta şerit kapatılacak olup, ulaşım sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.244373"
+                "updated_at": "2026-10-01T00:01:05.003738"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları kapsamında devam eden üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çeşmeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.372888"
+                "updated_at": "2026-10-01T00:01:05.084000"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Konya-Ankara Yolunun 36-41.km.leri arasında (Aselsan Kavşağı-Kayacık Mah. arası) ulaşım tek şeritten sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.522660"
+                "updated_at": "2026-10-01T00:01:05.185490"
             }
         },
         {
@@ -83,7 +83,41 @@
                 "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında 25.09.2026 tarihinden itibaren Turkuaz mahallesi karayolları eğitim tesisleri yolundaki eski köprü trafiğe kapatılmış olup, ulaşım yeni köprü üzerinden verilmektedir.",
                 "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.659057"
+                "updated_at": "2026-10-01T00:01:05.278727"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8015397,
+                    40.3799322
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Alaca-Zile yolunun 8-14.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Alaca Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-01T00:01:05.363334"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.1056835,
+                    41.0865727
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ünye-Fatsa yolunun 29-34 km.leri arasında devam eden kavşak düzenleme çalışmaları nedeniyle Fatsa istikametinde sol şerit trafiğe kapatılmış olup, ulaşım sağ şeritten sağlanmaktadır.",
+                "extracted_keyword": "Ünye Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-01T00:01:05.498867"
             }
         }
     ]

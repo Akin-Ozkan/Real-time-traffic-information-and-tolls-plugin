@@ -6,27 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4298731336,
-                    39.8202239061
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617245"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     30.4356237898,
                     39.813203273
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617261"
+                "updated_at": "2026-10-01T00:01:03.038051"
             }
         },
         {
@@ -34,13 +20,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4398898432,
-                    39.8018226431
+                    30.4298731336,
+                    39.8202239061
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617264"
+                "updated_at": "2026-10-01T00:01:03.038067"
             }
         },
         {
@@ -54,7 +40,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617265"
+                "updated_at": "2026-10-01T00:01:03.038071"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4398898432,
+                    39.8018226431
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-10-01T00:01:03.038073"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617267"
+                "updated_at": "2026-10-01T00:01:03.038075"
             }
         },
         {
@@ -82,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617268"
+                "updated_at": "2026-10-01T00:01:03.038077"
             }
         },
         {
@@ -90,13 +90,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5196600804,
-                    39.777596943
+                    30.516626502,
+                    39.7794261897
                 ]
             },
             "properties": {
-                "category_code": 9,
-                "updated_at": "2026-09-30T20:21:12.617273"
+                "category_code": 6,
+                "updated_at": "2026-10-01T00:01:03.038083"
             }
         },
         {
@@ -110,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617274"
+                "updated_at": "2026-10-01T00:01:03.038085"
             }
         },
         {
@@ -124,21 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617276"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5263387809,
-                    39.7668332474
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-09-30T20:21:12.617277"
+                "updated_at": "2026-10-01T00:01:03.038087"
             }
         },
         {
@@ -152,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617278"
+                "updated_at": "2026-10-01T00:01:03.038089"
             }
         },
         {
@@ -166,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617280"
+                "updated_at": "2026-10-01T00:01:03.038091"
             }
         },
         {
@@ -180,7 +166,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617281"
+                "updated_at": "2026-10-01T00:01:03.038093"
             }
         },
         {
@@ -194,7 +180,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-09-30T20:21:12.617282"
+                "updated_at": "2026-10-01T00:01:03.038095"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6300624857,
+                    39.7461681426
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-10-01T00:01:03.038097"
             }
         },
         {
@@ -211,7 +211,7 @@
                 "description": "O-4 TEM Otoyolu Adapazarı Ücret Toplama İstasyonunda, gişe adaları ve kanopilerin yıkılması çalışmaları yapılacaktır. 01.10.2026 tarihinde (Çarşambayı Perşembeye bağlayan gece) 00:00 – 06:00 saatleri arasında Otoyol giriş ve çıkış platformları trafiğe kapatılacaktır. Akabinde ise gişelerden Otoyola giriş ve çıkışlar, servis yollarından kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.106525"
+                "updated_at": "2026-10-01T00:01:04.908321"
             }
         },
         {
@@ -228,7 +228,7 @@
                 "description": "İzmir-Aydın Otoyolu DSİ-2 Köprüsü İzmir istikameti (O-31/03 22+088) 30.09.2026 11.10.2026 tarihleri arasında sol ve orta şerit kapatılacak olup, ulaşım sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.244373"
+                "updated_at": "2026-10-01T00:01:05.003738"
             }
         },
         {
@@ -245,7 +245,7 @@
                 "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları kapsamında devam eden üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çeşmeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.372888"
+                "updated_at": "2026-10-01T00:01:05.084000"
             }
         },
         {
@@ -262,7 +262,7 @@
                 "description": "Konya-Ankara Yolunun 36-41.km.leri arasında (Aselsan Kavşağı-Kayacık Mah. arası) ulaşım tek şeritten sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.522660"
+                "updated_at": "2026-10-01T00:01:05.185490"
             }
         },
         {
@@ -279,7 +279,41 @@
                 "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında 25.09.2026 tarihinden itibaren Turkuaz mahallesi karayolları eğitim tesisleri yolundaki eski köprü trafiğe kapatılmış olup, ulaşım yeni köprü üzerinden verilmektedir.",
                 "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-09-30T20:21:14.659057"
+                "updated_at": "2026-10-01T00:01:05.278727"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8015397,
+                    40.3799322
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Alaca-Zile yolunun 8-14.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Alaca Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-01T00:01:05.363334"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.1056835,
+                    41.0865727
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ünye-Fatsa yolunun 29-34 km.leri arasında devam eden kavşak düzenleme çalışmaları nedeniyle Fatsa istikametinde sol şerit trafiğe kapatılmış olup, ulaşım sağ şeritten sağlanmaktadır.",
+                "extracted_keyword": "Ünye Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-01T00:01:05.498867"
             }
         }
     ]
