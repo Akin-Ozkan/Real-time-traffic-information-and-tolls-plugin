@@ -15,7 +15,7 @@
                 "description": "Ankara-Niğde Otoyolunun 0-1.km.leri arasında 30.09.2026-05.10.2026 tarihlerinde üst yapı çalışması nedeniyle Kırşehir bağlantı yolu Ankara-Niğde İstikameti sol şerit kapatılarak ulaşım Kontrollü Olarak Diğer Şeritten sağlanacaktır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-02T01:36:44.517809"
+                "updated_at": "2026-10-02T07:31:01.938494"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Menemen-Aliağa-Çandarlı otoyolu Yenifoça bağlantı yolu Yenifoça istikameti 4-5.km.leri arasında 29.09.2026-01.10.2026 tarihlerinde  sağ şerit trafiğe kapatıp trafik akışı sol şeritten sağlanacak.  01.10.2026-02.10.2026 tarihlerinde Yenifoça bağlantı yolu gişe istikameti emniyet ile sağ şerit trafiğe kapatılacak olup trafik akışı sol şeritten sağlanak 02.10.2026-03.10.2026 tarihlerinde  Yenifoça bağlantı yolu gişe istikameti sol şerit trafiğe kapatılacak olup trafik akışı sağ şeritten sağlanacaktır.",
                 "extracted_keyword": "Menemen Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-02T01:36:44.680838"
+                "updated_at": "2026-10-02T07:31:02.108795"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "O-3 Otoyolu Babaeski Kavşağı-Havsa Kavşağı (Kontrol Kesim No: O-3/06 ve O-3/04) 0-1.km.leri  arasında 28.09.2026 tarihinden itibaren üstyapı yenileme çalışmaları yapılacaktır. Yapılacak çalışmalar esnasında, Kuzey yol platformu (Edirne istikameti) kesimler halinde trafiğe kapatılacak olup; ulaşım diğer platformdan gidiş geliş olarak sağlanmaktadır. (Çalışmalar 24 saat esasına göre yapılacaktır.)",
                 "extracted_keyword": "Otoyolu Babaeski Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-02T01:36:44.834184"
+                "updated_at": "2026-10-02T07:31:02.271435"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Edirne-İstanbul yolunun 45-57.km.leri arasında 14.09.2026 tarihinden itibaren üst yapı yenileme çalışmaları nedeniyle ulaşım tek şeritten sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Edirne Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-02T01:36:45.053700"
+                "updated_at": "2026-10-02T07:31:02.426205"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "İnegöl-Bozüyük-( Bilecik- Eskişehir) İl Sn. yolunun 0-5.km.leri arasında 30.09.2026 tarihinden itibaren  yol yapım çalışmaları nedeniyle bölünmüş yolun Ankara-Bursa istikameti trafiğe kapatılarak ulaşım Bursa-Ankara istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "İnegöl Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-02T01:36:45.214227"
+                "updated_at": "2026-10-02T07:31:02.593927"
             }
         },
         {
@@ -100,58 +100,7 @@
                 "description": "Ünye-Fatsa yolunun 29-34.km.leri arasında 29.09.2026 tarihinden itibaren devam eden kavşak düzenleme çalışmaları nedeniyle Fatsa istikametinde sol şerit trafiğe kapatılmış olup, ulaşım sağ şeritten sağlanmaktadır.",
                 "extracted_keyword": "Ünye Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-02T01:36:45.372449"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.6398824,
-                    41.7010235
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ağlı-Kastamonu yolunun 0-1.km.leri arasında  29.09.2026 tarihinden itibaren DSİ 23. Bölge Müdürlüğü tarafından yapılan sanat yapısı çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Ağlı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-02T01:36:45.493009"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    43.2945175,
-                    40.9536772
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Çıldır-Ardahan yolunun 55-56.km.leri arasında 22.09.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir",
-                "extracted_keyword": "Çıldır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-02T01:36:45.626430"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.4183595,
-                    39.6863382
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Yozgat İl Snr.-Yıldızeli  yolunun  45-51.km.leri arasında  25.09.2026 tarihinden itibaren üstyapı çalışmaları nedeniyle Yozgat-Sivas istikameti taşıt trafiğine kapatılmış olup ulaşım Sivas-Yozgat istikametinden  iki yönlü ve kopntrollü  olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Yozgat İl Snr. Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-02T01:36:45.799941"
+                "updated_at": "2026-10-02T07:31:02.753788"
             }
         }
     ]
