@@ -15,7 +15,7 @@
                 "description": "Tarsus-Adana-Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-03T19:32:31.083368"
+                "updated_at": "2026-10-03T22:25:27.042650"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir Çevre Otoyolunun 0-2.km.leri arasındaki 6. Sanayi Kavşak Kolları ile Fahrettin Altay Kavşak Kolları arasında yol yapım çalışmaları nedeniyle 01.10.2026-31.10.2026 tarihleri, 22:00-05:00 saatleri arasında orta ve sol şerit trafiğe kapatılacak olup, ulaşım sağ şeritten sağlanacaktır.",
                 "extracted_keyword": "İzmir Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-03T19:32:31.230430"
+                "updated_at": "2026-10-03T22:25:27.221801"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ankara-Konya yolunun 56-59.km.leri arasında (Karahamzalı Mevkii) yol yapım çalışmaları nedeniyle Ankara-Konya istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-03T19:32:31.446828"
+                "updated_at": "2026-10-03T22:25:27.410587"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Kayseri-Niğde yolunun 22-26.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-03T19:32:31.624121"
+                "updated_at": "2026-10-03T22:25:27.621445"
             }
         },
         {
@@ -83,7 +83,24 @@
                 "description": "Bozüyük-Bilecik-Mekece yolunun 2-7.km.leri arasında üstyapı onarım çalışmaları nedeniyle Mekece-Bilecik istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bozüyük Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-03T19:32:31.788563"
+                "updated_at": "2026-10-03T22:25:27.801007"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0237497,
+                    40.7709271
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Gerede-Çerkeş yolunun 2-5.km.leri arasında (Kemikli Rampası) yol yapım çalışmaları nedeniyle  Gerede istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Gerede Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-03T22:25:27.974483"
             }
         },
         {
@@ -100,7 +117,7 @@
                 "description": "Çorum-Amasya İl Sınırı-Merzifon yolunun muhtelif kesimlerinde fiber optik kablo altyapısı tesisi çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Çorum Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-03T19:32:32.096056"
+                "updated_at": "2026-10-03T22:25:28.157712"
             }
         },
         {
@@ -117,7 +134,7 @@
                 "description": "Ardahan-Şavşat yolunun 16-22.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Ardahan Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-03T19:32:32.264779"
+                "updated_at": "2026-10-03T22:25:28.342771"
             }
         },
         {
@@ -134,7 +151,7 @@
                 "description": "Diyarbakır-Siverek yolunun 21-23.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Diyarbakır Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-03T19:32:32.453834"
+                "updated_at": "2026-10-03T22:25:28.524647"
             }
         },
         {
@@ -151,7 +168,7 @@
                 "description": "Kurtköy-Şile yolunun 33-34.km.leri arasında kavşak yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Kurtköy Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-03T19:32:32.605509"
+                "updated_at": "2026-10-03T22:25:28.703310"
             }
         }
     ]
