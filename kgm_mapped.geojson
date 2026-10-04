@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    37.2193692,
-                    36.7212829
+                    30.485672,
+                    40.716326
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Tarsus-Adana-Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağı",
+                "description": "O-2 Anadolu Otoyolu Güney Platform Ataşehir istikameti İstanbul Finans Merkezi ayrım kolunda alt geçit imalatları yapılacaktır. Çalışmalar 03.09.2026 Perşembe başlamış olup, çalışmalar esnasında trafik servis yolları üzerinden kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Anadolu Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-04T17:47:50.215684"
+                "updated_at": "2026-10-04T20:30:03.817608"
             }
         },
         {
@@ -29,10 +29,10 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir Çevre Otoyolunun 0-2.km.leri arasındaki 6. Sanayi Kavşak Kolları ile Fahrettin Altay Kavşak Kolları arasında yol yapım çalışmaları nedeniyle 01.10.2026-31.10.2026 tarihleri, 22:00-05:00 saatleri arasında orta ve sol şerit trafiğe kapatılacak olup, ulaşım sağ şeritten sağlanacaktır.",
-                "extracted_keyword": "İzmir Çevre Otoyolu",
+                "description": "İzmir çevre Otoyolunun 01.10.2026-31.10.2026 tarihleri arasında \"Betonarme Otoyol Aydınlatma Direklerinin Değiştirilmesi ve Aydınlatma Sisteminin Revizyonu Yapım İşi\" kapsamında İzmir çevre Otoyolunun O-30/4 2+000 6. Sanayi Kavşak Kolları ile O-30/01 0+000 Fahrettin Altay Kavşak Kollarında arasında gece saat 22:00-05:00 arasında çalışma yapılacaktır. Çalışma esnasında kontrollü olarak yolun ortası ve sol şeridi trafiğe kapatılacaktır. Trafik akışı diğer şeritlerden sağlanacaktır.",
+                "extracted_keyword": "İzmir çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-04T17:47:50.295072"
+                "updated_at": "2026-10-04T20:30:03.889970"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.904066,
-                    40.491984
+                    40.8686251,
+                    38.9114619
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Konya yolunun 56-59.km.leri arasında (Karahamzalı Mevkii) yol yapım çalışmaları nedeniyle Ankara-Konya istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Yolu",
+                "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları kapsamında devam eden üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çeşmeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-04T17:47:50.402850"
+                "updated_at": "2026-10-04T20:30:03.972887"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.7065814,
-                    37.9795618
+                    33.4713437,
+                    38.9930549
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kayseri-Niğde yolunun 22-26.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kayseri Yolu",
+                "description": "Aksaray-Ortaköy yolunun 43-44.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.Bu yolu kullanacak sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-04T17:47:50.492428"
+                "updated_at": "2026-10-04T20:30:04.055385"
             }
         },
         {
@@ -74,16 +74,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.0106784,
-                    40.0892569
+                    32.3196065,
+                    40.6920191
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Bozüyük-Bilecik-Mekece yolunun 2-7.km.leri arasında üstyapı onarım çalışmaları nedeniyle Mekece-Bilecik istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Bozüyük Yolu",
+                "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 21-22.km.leri arasındaki yol yapım çalışmaları nedeniyle bu kesimde Kızılcahamam-Kahramankazan-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-Kahramankazan-Kızılcahamam istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
+                "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-04T17:47:50.575378"
+                "updated_at": "2026-10-04T20:30:04.126659"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8015397,
+                    40.3799322
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Alaca-Zile yolunun 26-32.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Alaca Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-04T20:30:04.200566"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9628932,
+                    40.5660351
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çorum-Merzifon yolunun 57.km.sinde fiber optik kablo altyapısı tesisi çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Çorum Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-04T20:30:04.295081"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5516071,
+                    38.7481263
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Malatya-Hava Alanı yolunun 0-18.km.leri arasında yol çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır .Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Malatya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-04T20:30:04.431216"
             }
         }
     ]
