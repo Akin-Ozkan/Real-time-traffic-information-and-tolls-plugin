@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-05T18:43:31.679843"
+                "updated_at": "2026-10-06T00:22:45.724424"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-05T18:43:31.679859"
+                "updated_at": "2026-10-06T00:22:45.724439"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-05T18:43:31.679863"
+                "updated_at": "2026-10-06T00:22:45.724442"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-05T18:43:31.679865"
+                "updated_at": "2026-10-06T00:22:45.724444"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-05T18:43:31.679867"
+                "updated_at": "2026-10-06T00:22:45.724446"
             }
         },
         {
@@ -82,7 +82,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-05T18:43:31.679869"
+                "updated_at": "2026-10-06T00:22:45.724448"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.516626502,
+                    39.7794261897
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-10-06T00:22:45.724450"
             }
         },
         {
@@ -96,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-05T18:43:31.679870"
+                "updated_at": "2026-10-06T00:22:45.724452"
             }
         },
         {
@@ -110,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-05T18:43:31.679872"
+                "updated_at": "2026-10-06T00:22:45.724454"
             }
         },
         {
@@ -124,7 +138,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-05T18:43:31.679875"
+                "updated_at": "2026-10-06T00:22:45.724459"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.635468478,
+                    39.7456491476
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-10-06T00:22:45.724461"
             }
         },
         {
@@ -141,7 +169,7 @@
                 "description": "O-3 Otoyolu Babaeski Kavşağı-Havsa Kavşağı (Kontrol Kesim No: O-3/06 ve O-3/04) 0-1.km.leri  arasında 28.09.2026 tarihinden itibaren üstyapı yenileme çalışmaları yapılmaktadır. Yapılacak çalışmalar esnasında, Kuzey yol platformu (Edirne istikameti) kesimler halinde trafiğe kapatılacak olup; ulaşım diğer platformdan gidiş geliş olarak sağlanmaktadır. Çalışmalar 24 saat esasına göre yapılacaktır.)",
                 "extracted_keyword": "Otoyolu Babaeski Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-05T18:43:33.057764"
+                "updated_at": "2026-10-06T00:22:47.502101"
             }
         },
         {
@@ -158,7 +186,7 @@
                 "description": "Tarsus-Adana-Gaziantep Otoyolunda Gaziantep Organize Sanayi Bölgesi Kavşağında yapılan çalışmalar nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gaziantep Otoyolunda Gaziantep Organize Sanayi Bölgesi Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-05T18:43:33.188402"
+                "updated_at": "2026-10-06T00:22:47.692271"
             }
         },
         {
@@ -166,8 +194,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.4985276,
-                    39.1139824
+                    34.4921855,
+                    38.3908717
                 ]
             },
             "properties": {
@@ -175,7 +203,7 @@
                 "description": "Ankara-Niğde Otoyolu üst yapı çalışması nedeniyle Kırşehir Bağlantı Yolu Ankara-Niğde İstikameti Sol Şerit Kapatılarak Trafik Kontrollü Olarak Diğer Şeritten Verilmektedir.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-05T18:43:33.289816"
+                "updated_at": "2026-10-06T00:22:47.866554"
             }
         },
         {
@@ -192,7 +220,7 @@
                 "description": "Bursa Çevre Otoyolunun  Ankara- İzmir istikameti 0-4.km.leri arasında bulunan Ali Haydar Akın Viyadüğü köprü genleşme derzi çalışmaları nedeniyle trafiğe kapatılmış olup, trafik akışı İzmir- Ankara istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-05T18:43:33.385052"
+                "updated_at": "2026-10-06T00:22:48.045278"
             }
         },
         {
@@ -209,7 +237,7 @@
                 "description": "Selçuk-Ortaklar-Aydın yolu 0-2.km.leri arasında 06.10.2026 günü patlatma yapılacağından dolayı 14:00-19:00 saatleri arasında yol trafiğe kapatılacaktır. Yolun kapalı olduğu süreçte alternatif güzergah olarak Selçuk-Kuşadası-Söke-Ortaklar güzergahını kullanabileceklerdir.",
                 "extracted_keyword": "Selçuk Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-05T18:43:33.491526"
+                "updated_at": "2026-10-06T00:22:48.233809"
             }
         },
         {
@@ -226,7 +254,75 @@
                 "description": "Trabzon-Rize İl Sınırı-Rize-Çayeli-Pazar yolunun 43-50. km. leri arasında bulunan Çayeli, Pazar 1 ve Pazar 2 Tünellerinin, bölünmüş yolun her iki yönündeki tüplerinde yapılacak olan elektrik, elektronik sistemleri bakım, onarım çalışması nedeniyle 06.10.2026-09.10.2026 tarihleri arası, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Trabzon Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-05T18:43:33.610612"
+                "updated_at": "2026-10-06T00:22:48.419816"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8146952,
+                    39.717624
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Konya-Afyonkarahisar yolunun 1-4.km.leri arasında (Ladik Geçişi) üstyapı onarım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Konya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-06T00:22:48.609363"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3707221,
+                    37.7977068
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Seydişehir-Akseki Yolunun 30-33.km.leri arasında yol yapım çalışması nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Seydişehir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-06T00:22:48.798451"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0407162,
+                    40.7740947
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Gerede-Çerkeş yolunun 2-5.km.leri arasında (Kemikli Rampası) yol yapım çalışmaları nedeniyle bölünmüş yolun Gerede istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Gerede Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-06T00:22:48.979647"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.8868234,
+                    40.1471858
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Yozgat İl Snr.-Yıldızeli  yolunun 45-51.km.leri üstyapı çalışmaları nedeniyle Yozgat-Sivas istikameti taşıt trafiğine kapatılmış olup ulaşım Sivas-Yozgat istikametinden  iki yönlü ve kontrollü  olarak sağlanmaktadır.",
+                "extracted_keyword": "Yozgat İl Snr. Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-06T00:22:49.176831"
             }
         }
     ]
