@@ -15,7 +15,7 @@
                 "description": "Kınalı-Tekirdağ-Çanakkale-Savaştepe Otoyolu Projesi Malkara-Çanakkale (1915 Çanakkale Köprüsü Dahil) Kesimi Otoyolu'nun O-6/13 008 ile O-6/20 003 kesimleri arasında muhtelif mevkiilerde üst yapı bakım onarım çalışması yapılması planlanmaktadır. Çalışmalara 02.09.2026 tarihinde başlanmış olmakla beraber çalışmaların 30.10.2026 tarihinde tamamlanması planlanmaktadır.",
                 "extracted_keyword": "Savaştepe Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-08T07:19:18.916760"
+                "updated_at": "2026-10-08T14:42:42.822547"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Aydın Otoyolunun 5.km.sindeki Aydın Güney Kavşak Köprüsünde genleşme derzlerinin yenilenmesi ve genleşme derz betonlarının onarım çalışmaları nedeniyle 09.10.2026-21.10.2026 tarihleri arasında İzmir istikametinde sağ ve emniyet şeridi trafiğe kapatılacak olup, ulaşım sol ve orta şeritten sağlanacaktır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-08T07:19:19.092107"
+                "updated_at": "2026-10-08T14:42:42.906431"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları kapsamında devam eden üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çeşmeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-08T07:19:19.256883"
+                "updated_at": "2026-10-08T14:42:42.975780"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Aksaray-Ortaköy ylunun 43-44.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır. Bu yolu kullanacak sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-08T07:19:19.435541"
+                "updated_at": "2026-10-08T14:42:43.069351"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında Turkuaz mahallesi karayolları eğitim tesisleri yolundaki eski köprü trafiğe kapatılmış olup, ulaşım yeni köprü üzerinden verilmektedir.",
                 "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-08T07:19:19.598008"
+                "updated_at": "2026-10-08T14:42:43.148976"
             }
         },
         {
@@ -100,7 +100,24 @@
                 "description": "Kayseri-Niğde yolunun 22-26.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-08T07:19:19.778219"
+                "updated_at": "2026-10-08T14:42:43.234594"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.04186,
+                    40.875439
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ünye-Fatsa yolunun 29-34.km.leri arasında devam eden kavşak düzenleme çalışmaları nedeniyle Fatsa istikametinde sol şerit trafiğe kapatılmış olup, ulaşım sağ şeritten sağlanmaktadır.",
+                "extracted_keyword": "Ünye Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-08T14:42:43.309140"
             }
         },
         {
@@ -117,24 +134,7 @@
                 "description": "Malatya-Elazığ yolunun 68-69.km.leri arasındaki Handere-2 Köprüsünde sanat yapıları çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Malatya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-08T07:19:20.099795"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.6398824,
-                    41.7010235
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ağlı-Kastamonu yolunun 0-1.km.leri arasında DSİ 23. Bölge Müdürlüğü tarafından yapılan sanat yapısı çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
-                "extracted_keyword": "Ağlı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-08T07:19:20.269188"
+                "updated_at": "2026-10-08T14:42:43.407847"
             }
         }
     ]
