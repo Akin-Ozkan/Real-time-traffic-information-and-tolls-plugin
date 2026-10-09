@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.791955"
+                "updated_at": "2026-10-09T23:11:28.166506"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.791999"
+                "updated_at": "2026-10-09T23:11:28.166520"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.792005"
+                "updated_at": "2026-10-09T23:11:28.166523"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.792008"
+                "updated_at": "2026-10-09T23:11:28.166524"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.792011"
+                "updated_at": "2026-10-09T23:11:28.166526"
             }
         },
         {
@@ -82,21 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.792014"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.5132750819,
-                    39.781661841
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-10-09T19:02:22.792023"
+                "updated_at": "2026-10-09T23:11:28.166527"
             }
         },
         {
@@ -110,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.792026"
+                "updated_at": "2026-10-09T23:11:28.166532"
             }
         },
         {
@@ -124,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.792029"
+                "updated_at": "2026-10-09T23:11:28.166533"
             }
         },
         {
@@ -138,7 +124,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.792032"
+                "updated_at": "2026-10-09T23:11:28.166535"
             }
         },
         {
@@ -152,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-09T19:02:22.792035"
+                "updated_at": "2026-10-09T23:11:28.166536"
             }
         },
         {
@@ -166,7 +152,7 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-10-09T19:02:22.792038"
+                "updated_at": "2026-10-09T23:11:28.166537"
             }
         },
         {
@@ -180,7 +166,21 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-10-09T19:02:22.792041"
+                "updated_at": "2026-10-09T23:11:28.166539"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.635468478,
+                    39.7456491476
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-10-09T23:11:28.166540"
             }
         },
         {
@@ -197,7 +197,7 @@
                 "description": "Kızılcahamam - Kahramankazan - Ankara yolunun 15 - 19.  km. arasındaki yol yapım çalışmaları nedeniyle bu kesimde Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım Kızılcahamam-Kahramankazan-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-09T19:02:26.651112"
+                "updated_at": "2026-10-09T23:11:29.849525"
             }
         },
         {
@@ -214,7 +214,7 @@
                 "description": "Menemen-Aliağa-Çandarlı Otoyolu Çanakkale istikameti Belen Viyadüğü 2-4.km.leri arasında  yapım ve onarım çalışmaları nedeniyle, sağ ve orta şerit trafiğe kapatılarak, trafik akışı sol şeritten sağlanacaktır. Çanakkale istikameti sol ve orta şerit kapatılacak olup, trafik akışı sağ ve emniyet şeridinden sağlanacaktır.",
                 "extracted_keyword": "Çandarlı Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-09T19:02:26.809801"
+                "updated_at": "2026-10-09T23:11:29.994343"
             }
         },
         {
@@ -231,7 +231,7 @@
                 "description": "O-3 Otoyolu Hadımköy Kavşağı – Çatalca Kavşağı arasında bulunan Karasu Viyadüğünde yaklaşım betonu ve derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Ankara istikameti şerit daraltması yapılarak trafik akışı kontrollü şekilde sağlanacaktır.(Çalışmalar 24 saat esasına göre yapılacaktır.)",
                 "extracted_keyword": "Otoyolu Hadımköy Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-09T19:02:26.986429"
+                "updated_at": "2026-10-09T23:11:30.123086"
             }
         },
         {
@@ -248,7 +248,7 @@
                 "description": "Bursa Çevre Otoyolunun  Ankara- İzmir istikameti 0-4 km. arasında bulunan Ali Haydar Akın Viyadüğü köprü genleşme derzi çalışmaları nedeniyle trafiğe kapatılmış olup, trafik akışı İzmir- Ankara istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-09T19:02:27.233908"
+                "updated_at": "2026-10-09T23:11:30.249448"
             }
         },
         {
@@ -265,7 +265,7 @@
                 "description": "Nurdağı-Gaziantep yolunun 39-48.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-09T19:02:27.366485"
+                "updated_at": "2026-10-09T23:11:30.380816"
             }
         },
         {
@@ -282,7 +282,7 @@
                 "description": "Diyarbakır-Siverek yolunun  25-27 km.leri arasında yol yapım çalışmaları nedeniyle trafiğe kapatılmış olup trafik akışı tek şeritten çift yönlü olarak sağlanmaktadır",
                 "extracted_keyword": "Diyarbakır Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-09T19:02:27.544093"
+                "updated_at": "2026-10-09T23:11:30.528336"
             }
         },
         {
@@ -299,58 +299,7 @@
                 "description": "Zara-İmranlı-Kızıldağ yolunun  20 -22 km. leri arasında Toprak işleri sanat yapıları ve üst yapı  çalışmaları yapılmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
                 "extracted_keyword": "Zara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-09T19:02:27.752224"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.5516071,
-                    38.7481263
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Malatya -Hava Alanı yolunun 16-17.km.leri arasında Kavşak Yol Yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Malatya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-09T19:02:27.912460"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.3707221,
-                    37.7977068
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Seydişehir-Akseki yolunun 30 - 33. km'leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
-                "extracted_keyword": "Seydişehir Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-09T19:02:28.086892"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    33.7811481,
-                    41.3905826
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Karabük-Eskipazar yolunun 0-4.km.leri arasında  10.08.2026 tarihinden itibaren üstyapı yenileme çalışması nedeniyle Ankara istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından çift yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Karabük Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-09T19:02:28.258713"
+                "updated_at": "2026-10-09T23:11:30.689615"
             }
         }
     ]
