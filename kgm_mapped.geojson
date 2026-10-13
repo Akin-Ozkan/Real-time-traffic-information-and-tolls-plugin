@@ -15,7 +15,7 @@
                 "description": "Menemen-Aliağa-Çandarlı Otoyolu Çanakkale istikameti Yenifoça bağlantı yolu katılım kolu şev çalışması nedeniyle 0-1.km.leri 07.10.2026 ile 31.10.2026 arasında trafik güvenlik tedbirleri alınarak, emniyet ile sağ şerit kapatılarak. trafik akışı sağlanacaktır.",
                 "extracted_keyword": "Çandarlı Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-13T00:07:53.853904"
+                "updated_at": "2026-10-13T06:46:27.537738"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları kapsamında devam eden üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çeşmeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-13T00:07:54.031915"
+                "updated_at": "2026-10-13T06:46:27.714315"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Konya-Ankara Yolunun 36-41.km.leri arasında (Aselsan Kavşağı-Kayacık Mah. arası) ulaşım tek şeritten sağlanmaktadır.",
                 "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-13T00:07:54.230432"
+                "updated_at": "2026-10-13T06:46:27.913770"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında 25.09.2026 tarihinden itibaren Turkuaz mahallesi karayolları eğitim tesisleri yolundaki eski köprü trafiğe kapatılmış olup, ulaşım yeni köprü üzerinden sağlanmaktadır.",
                 "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-13T00:07:54.422852"
+                "updated_at": "2026-10-13T06:46:28.094663"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Kayseri-Kuzey-Çevre yolunun 36-40.km.leri arasında yol çalışması nedeniyle şerit daraltılması yapılmaktadır. Sürücüleri dikkatli ve tedbirli olması gerekmektedir.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-13T00:07:54.618745"
+                "updated_at": "2026-10-13T06:46:28.267779"
             }
         },
         {
@@ -100,7 +100,24 @@
                 "description": "Mecitözü-Amasya yolunun 25-30.km.leri arasında yol yapım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Mecitözü Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-13T00:07:54.807021"
+                "updated_at": "2026-10-13T06:46:28.436842"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.0156992,
+                    39.7363245
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kahramanmaraş-Malatya yolunun 31-36.km.leri arasında üst yapı onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kahramanmaraş Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-13T06:46:28.625252"
             }
         },
         {
@@ -117,24 +134,7 @@
                 "description": "Antalya-Alanya Yolunun 62-64.km.leri arasında yol yapım çalışmaları nedeniyle; sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-13T00:07:55.139589"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.101272,
-                    39.8202717
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Balıkesir-Dursunbey Yolunun 62-68 km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolun Balıkesir-Dursunbey istikameti trafiğe kapatılarak, trafik akışı Dursunbey-Balıkesir istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Balıkesir Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-13T00:07:55.344852"
+                "updated_at": "2026-10-13T06:46:28.810032"
             }
         }
     ]
