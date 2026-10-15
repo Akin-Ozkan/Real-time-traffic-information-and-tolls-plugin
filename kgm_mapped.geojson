@@ -15,7 +15,7 @@
                 "description": "Ankara-Niğde Otoyolunun 0-1.km.leri arasında 13.10.2026-19.10.2026  tarihlerinde  üst yapı yenileme çalışması nedeniyle Ankara İstikameti sol şerit Kapatılarak ulaşım kontrollü olarak diğer şeritten sağlanacaktır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-14T21:34:37.953993"
+                "updated_at": "2026-10-15T00:05:11.619938"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TEM Otoyolu  İstanbul-Edirne yönünde, Gaziosmanpaşa Kavşağında düzenleme çalışmaları yapılmıştır. Otoyol çıkışı, eski kavşak ayrım noktasından, 450 m geriye alınmıştır. Gaziosmanpaşa ve Sultangazi ilçelerine erişim yeni yapılan ayrım kolundan sağlanacak olup; eski otoyol ayrım kolu kullanılmayacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-14T21:34:38.151306"
+                "updated_at": "2026-10-15T00:05:11.761123"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Samsun-Ordu yolunun 9-12.km.leri arasında 08.10.2026 tarihinden itibaren (Belediye Evleri Katlı Yol)  yapılacak köprü bakım onarım çalışmaları nedeniyle katlı yolun Samsun istikameti  trafiğe kapatılacak olup, ulaşım alt yoldan sağlanmaktadır.",
                 "extracted_keyword": "Samsun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-14T21:34:38.483543"
+                "updated_at": "2026-10-15T00:05:12.066326"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Zonguldak-Devrek-Mengen yolunun 50-53.km leri arasında  13.10.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle bölünmüş yolun Ankara istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun Zonguldak istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Zonguldak Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-14T21:34:38.640387"
+                "updated_at": "2026-10-15T00:05:12.227480"
             }
         },
         {
@@ -83,7 +83,24 @@
                 "description": "Balıkesir-Kepsut  yolunun 9-14.km.leri arasında  13.10.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-14T21:34:38.815701"
+                "updated_at": "2026-10-15T00:05:12.386579"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7831946,
+                    41.0102356
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tekirdağ-Muratlı yolunun 29-31.km.leri arasında 15.10.2026 tarihinden itibaren  Kavşak üstgeçit çalışmaları nedeniyle ulaşım servis yolundan sağlanacaktır",
+                "extracted_keyword": "Tekirdağ Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-15T00:05:12.528607"
             }
         },
         {
@@ -100,41 +117,7 @@
                 "description": "Gaziantep-Nizip-Birecik yolunun 15-16.km.leri arasında  08.10.2026 tarihinden itibaren Mezarlık Kavşağı-Otoyol Bağlantısı Kavşağı arasındaki yol yapım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Mezarlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-14T21:34:39.119672"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.0241594,
-                    41.0056521
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Elazığ-Malatya yolunun 0-5.km.leri  arasında  09.10.2026 tarihinden itibaren  sanat yapıları çalışmaları nedeniyle Velipalas (Şehit Burhan Gatfar) Aç-Kapa Tüneli içerisindeki ilgili kesiminde bulunan her iki yöndeki trafik akışı, çalışma süresince 23-55 K.K nolu servis yolundan sağlanacaktır .Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Kapa Tüneli",
-                "category": "road_work",
-                "updated_at": "2026-10-14T21:34:39.307024"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.0658226,
-                    41.0402895
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Tirebolu-Görele-Eynesil yolunun 20.km.sinde bulunan Çavuşlu Köprüsünde yapılacak olan derz onarım çalışması nedeniyle bölünmüş yolun Eynesil yönünde 13.10.2026 günü, saat 08:00 den itibaren çalışmanın devamı müddetince ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Çavuşlu Köprüsü",
-                "category": "road_work",
-                "updated_at": "2026-10-14T21:34:39.470525"
+                "updated_at": "2026-10-15T00:05:12.682145"
             }
         }
     ]
