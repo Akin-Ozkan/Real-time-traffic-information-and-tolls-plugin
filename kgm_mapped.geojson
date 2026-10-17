@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.3067706,
-                    38.1922612
+                    37.2193692,
+                    36.7212829
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir-Aydın Otoyolunun 4-5. km.leri arasında Kesişim-4 Köprüsünde genleşme derzlerinin yenilenmesi ve genleşme derz betonlarının onarım çalışmaları nedeniyle 16.10.2026-26.10.2026 tarihleri arasında Denizli istikameti sol ve orta şerit trafiğe kapatılarak ulaşım sağ ve emniyet şeridinden sağlanmaktadır.",
-                "extracted_keyword": "Aydın Otoyolu",
+                "description": "Tarsus-Adana-Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-17T05:07:57.243486"
+                "updated_at": "2026-10-17T09:20:04.071037"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.3196065,
-                    40.6920191
+                    29.834559,
+                    40.539021
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kızılcahamam - Kahramankazan - Ankara yolunun 21 - 22. km. arasındaki yol yapım çalışmaları nedeniyle bu kesimde Kızılcahamam-Kahramankazan-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-Kahramankazan-Kızılcahamam istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Kızılcahamam Yolu",
+                "description": "Menemen-Aliağa-Çandarlı Otoyolunun 2-4.km.leri arasındaki Asarlık Viyadüğünde bakım onarım çalışmaları nedeniyle İzmir istikametinde sol ve orta şerit trafiğe kapatılarak ulaşım sağ şeritten sağlanmaktadır.",
+                "extracted_keyword": "Çandarlı Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-17T05:07:57.377713"
+                "updated_at": "2026-10-17T09:20:04.159915"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.34631,
-                    37.638703
+                    29.0201852,
+                    41.1084473
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Niğde-Kayseri yolunun 36-38.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Niğde Yolu",
+                "description": "Konya-Ankara yolunun 36-41.km.leri arasında (Aselsan Kavşağı-Kayacık Mahallesi arası) yol yapım çalışmaları nedeniyle ulaşım tek şeritten sağlanmaktadır.",
+                "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-17T05:07:57.517012"
+                "updated_at": "2026-10-17T09:20:04.246515"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    35.5802264,
-                    38.7311593
+                    28.9670917,
+                    39.6112793
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Malatya-Kayseri yolunun 15-17.km.leri arasında üst yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Malatya Yolu",
+                "description": "Kütahya-Eskişehir yolunun 6-13.km.leri arasında üstyapı yenileme çalışmaları nedeniyle Eskişehir-Kütahya istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kütahya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-17T05:07:57.666190"
+                "updated_at": "2026-10-17T09:20:04.327517"
             }
         },
         {
@@ -74,50 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.604019,
-                    39.6005629
+                    26.6442108,
+                    39.5556753
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Yıldızeli-Sivas yolunun  0-5.km.leri arasında 25.09.2026 tarihinden itibaren   üstyapı onarım çalışmaları nedeniyle Yıldızeli-Sivas  istikameti taşıt trafiğine kapatılmıştır. Ulaşım diğer bantdan iki yönlü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Yıldızeli Yolu",
+                "description": "Çanakkale-Çan yolunun 26-27.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çanakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-17T05:07:57.795911"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.2476561,
-                    41.0535657
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Hopa-Borçka-Artvin yolunun 28-34.km.leri arasında 18.08.2026-07.12.2026 tarihlerinde  muhtelif kesimlerde sel hasarlarının giderilmesi ve trafik güvenliğinin sağlanması amacıyla yapılmakta olan imalatlar nedeniyle ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Hopa Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-17T05:07:58.143081"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.149416,
-                    36.545641
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Antakya-Reyhanlı Devlet yolununun  Asiİ-1 Körüsü onarım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Antakya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-17T05:07:58.279241"
+                "updated_at": "2026-10-17T09:20:04.402097"
             }
         }
     ]
