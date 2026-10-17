@@ -15,7 +15,7 @@
                 "description": "İzmir-Aydın Otoyolunun 4-5. km.leri arasında Kesişim-4 Köprüsünde genleşme derzlerinin yenilenmesi ve genleşme derz betonlarının onarım çalışmaları nedeniyle 16.10.2026-26.10.2026 tarihleri arasında Denizli istikameti sol ve orta şerit trafiğe kapatılarak ulaşım sağ ve emniyet şeridinden sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-16T22:46:42.541500"
+                "updated_at": "2026-10-17T00:49:25.800338"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Kızılcahamam - Kahramankazan - Ankara yolunun 21 - 22. km. arasındaki yol yapım çalışmaları nedeniyle bu kesimde Kızılcahamam-Kahramankazan-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-Kahramankazan-Kızılcahamam istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-16T22:46:42.629433"
+                "updated_at": "2026-10-17T00:49:25.947122"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Niğde-Kayseri yolunun 36-38.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Niğde Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-16T22:46:42.719658"
+                "updated_at": "2026-10-17T00:49:26.080595"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Malatya-Kayseri yolunun 15-17.km.leri arasında üst yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Malatya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-16T22:46:42.812314"
+                "updated_at": "2026-10-17T00:49:26.219682"
             }
         },
         {
@@ -83,7 +83,24 @@
                 "description": "Yıldızeli-Sivas yolunun  0-5.km.leri arasında 25.09.2026 tarihinden itibaren   üstyapı onarım çalışmaları nedeniyle Yıldızeli-Sivas  istikameti taşıt trafiğine kapatılmıştır. Ulaşım diğer bantdan iki yönlü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Yıldızeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-16T22:46:42.900981"
+                "updated_at": "2026-10-17T00:49:26.355085"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0365236,
+                    39.9174066
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Söğüt-Fethiye Yolunun 20-21 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Söğüt Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-17T00:49:26.494529"
             }
         },
         {
@@ -100,58 +117,7 @@
                 "description": "Sakarya-Bilecik yolunun 20-22.km.leri arasında üstyapı yenileme çalışması nedeniyle Bilecik istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-16T22:46:43.094455"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.2476561,
-                    41.0535657
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Hopa-Borçka-Artvin yolunun 28-34.km.leri arasında 18.08.2026-07.12.2026 tarihlerinde  muhtelif kesimlerde sel hasarlarının giderilmesi ve trafik güvenliğinin sağlanması amacıyla yapılmakta olan imalatlar nedeniyle ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Hopa Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-16T22:46:43.185570"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.149416,
-                    36.545641
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Antakya-Reyhanlı Devlet yolununun  Asiİ-1 Körüsü onarım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Antakya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-16T22:46:43.307335"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.0216293,
-                    40.1353858
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Bozüyük-Bilecik-Mekece yolunun 2-7.km.leri arasında üstyapı onarım çalışmaları nedeniyle Mekece-Bilecik istikameti trafiğe kapatılarak ulaşım Bilecik-Mekece istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Bozüyük Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-16T22:46:43.395509"
+                "updated_at": "2026-10-17T00:49:26.633158"
             }
         }
     ]
