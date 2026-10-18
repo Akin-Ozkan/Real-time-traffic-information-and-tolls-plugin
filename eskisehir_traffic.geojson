@@ -6,13 +6,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.4346635589,
-                    39.8106055059
+                    30.435100759,
+                    39.8108295074
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624391"
+                "updated_at": "2026-10-18T09:52:51.430577"
             }
         },
         {
@@ -20,13 +20,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.435100759,
-                    39.8108295074
+                    30.4346635589,
+                    39.8106055059
                 ]
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624404"
+                "updated_at": "2026-10-18T09:52:51.430595"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624407"
+                "updated_at": "2026-10-18T09:52:51.430597"
             }
         },
         {
@@ -54,21 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624410"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.4525096366,
-                    39.8161415861
-                ]
-            },
-            "properties": {
-                "category_code": 6,
-                "updated_at": "2026-10-18T05:35:22.624412"
+                "updated_at": "2026-10-18T09:52:51.430598"
             }
         },
         {
@@ -82,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624414"
+                "updated_at": "2026-10-18T09:52:51.430599"
             }
         },
         {
@@ -96,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624416"
+                "updated_at": "2026-10-18T09:52:51.430601"
             }
         },
         {
@@ -110,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624422"
+                "updated_at": "2026-10-18T09:52:51.430601"
             }
         },
         {
@@ -124,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624424"
+                "updated_at": "2026-10-18T09:52:51.430605"
             }
         },
         {
@@ -138,7 +124,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624426"
+                "updated_at": "2026-10-18T09:52:51.430606"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5404311071,
+                    39.740257891
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-10-18T09:52:51.430608"
             }
         },
         {
@@ -152,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624428"
+                "updated_at": "2026-10-18T09:52:51.430609"
             }
         },
         {
@@ -166,7 +166,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-18T05:35:22.624429"
+                "updated_at": "2026-10-18T09:52:51.430609"
             }
         }
     ]
