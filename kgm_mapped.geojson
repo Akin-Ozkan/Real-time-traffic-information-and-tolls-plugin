@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.6355183,
-                    41.0867773
+                    27.6373804,
+                    39.4549975
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "O-3 Otoyolunun 1-4.km.leri arasında Hadımköy Kavşağı-Çatalca Kavşağında  bulunan Karasu Viyadüğünde yaklaşım betonu ve derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Ankara istikameti şerit daraltması yapılarak trafik akışı kontrollü şekilde sağlanacaktır.(Çalışmalar 24 saat esasına göre yapılacaktır.)",
-                "extracted_keyword": "Hadımköy Kavşağı",
+                "description": "Kınalı-Tekirdağ-Çanakkale-Savaştepe Otoyolu Projesi Malkara-Çanakkale (1915 Çanakkale Köprüsü Dahil) Kesimi Otoyolu'nun O-6/13 008 ile O-6/20 003 kesimleri arasında muhtelif mevkiilerde üst yapı bakım onarım çalışması yapılması planlanmaktadır. Çalışmalara 02.09.2026 tarihinde başlanmış olmakla beraber çalışmaların 30.10.2026 tarihinde tamamlanması planlanmaktadır.",
+                "extracted_keyword": "Savaştepe Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-19T14:34:44.621909"
+                "updated_at": "2026-10-19T20:10:35.811081"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.7831946,
-                    41.0102356
+                    27.3067706,
+                    38.1922612
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Tekirdağ-Muratlı yolunun 29-31.km.leri arasında 15.10.2026 tarihinden itibaren  Kavşak üstgeçit çalışmaları nedeniyle ulaşım servis yolundan sağlanacaktır",
-                "extracted_keyword": "Tekirdağ Yolu",
+                "description": "İzmir-Aydın Otoyolunun 4-5. km.leri arasında Kesişim-4 Köprüsünde genleşme derzlerinin yenilenmesi ve genleşme derz betonlarının onarım çalışmaları nedeniyle 16.10.2026-26.10.2026 tarihleri arasında Denizli istikameti sol ve orta şerit trafiğe kapatılarak ulaşım sağ ve emniyet şeridinden sağlanmaktadır.",
+                "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-19T14:34:44.761624"
+                "updated_at": "2026-10-19T20:10:35.907528"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.3196065,
-                    40.6920191
+                    40.8686251,
+                    38.9114619
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 15-18.km.leri arasında15.10.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım Kızılcahamam-Kahramankazan-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Kızılcahamam Yolu",
+                "description": "Çeşmeli-Kızkalesi Otoyol Yapım Çalışmaları kapsamında devam eden üst yapı çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çeşmeli Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-19T14:34:44.907963"
+                "updated_at": "2026-10-19T20:10:35.997753"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.1321477,
-                    41.0292272
+                    34.189714,
+                    37.8338177
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir Havaalanı- Ayr-Otoyol Kavşağı Torbalı-Belevi yolunun 8-10.km.leri arasında 13.10.2026 tarihinden itibaren yol yapım çalışması nedeniyle Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Otoyol Kavşağı",
+                "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-19T14:34:45.074586"
+                "updated_at": "2026-10-19T20:10:36.074473"
             }
         },
         {
@@ -74,50 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.5167049,
-                    41.2907465
+                    32.2958524,
+                    40.0116668
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Zonguldak-Devrek-Mengen yolunun 50-53.km.leri arasında  13.10.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle bölünmüş yolun Ankara istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun Zonguldak istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Zonguldak Yolu",
+                "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında Turkuaz mahallesi karayolları eğitim tesisleri yolundaki eski köprü trafiğe kapatılmış olup, ulaşım yeni köprü üzerinden verilmektedir.",
+                "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-19T14:34:45.217139"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    36.149416,
-                    36.545641
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Antakya-Reyhanlı  yolunun 1-3.km.leri arasındaki  ASİ-1 KÖPRÜSÜ bakım onarım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Antakya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-19T14:34:45.364124"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.2323758,
-                    39.9379848
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Balıkesir-Dursunbey  yolunun 67-68.km.leri arasında 15.10.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle bölünmüş yolun Balıkesir-Dursunbey istikameti trafiğe kapatılarak, ulaşım Dursunbey-Balıkesir istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Balıkesir Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-19T14:34:45.503819"
+                "updated_at": "2026-10-19T20:10:36.219857"
             }
         },
         {
@@ -131,10 +97,44 @@
             },
             "properties": {
                 "source": "KGM",
-                "description": "Alaca-Zile yolunun 3-9.km.leri arasında 13.10.2026 tarihinden itibaren yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "description": "Alaca-Zile yolunun 26-32.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım servis yolundan sağlanmaktadır.",
                 "extracted_keyword": "Alaca Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-19T14:34:45.651755"
+                "updated_at": "2026-10-19T20:10:36.300444"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.0237497,
+                    40.7709271
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Gerede-Çerkeş yolunun 2-5.km.leri arasında 25.09.2026 tarihinden itibaren  (Kemikli Rampası) yol yapım çalışmaları nedeniyle bölünmüş yolun Gerede istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından iki yönlü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
+                "extracted_keyword": "Gerede Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-19T20:10:36.380420"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5802264,
+                    38.7311593
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Malatya-Elazığ yolunun 68-69.km.leri arasındaki Handere-2 Köprüsünde sanat yapıları çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Malatya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-19T20:10:36.478683"
             }
         }
     ]
