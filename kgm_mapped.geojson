@@ -15,7 +15,7 @@
                 "description": "O-3 Otoyolu Hadımköy Kavşağı – Çatalca Kavşağı arasında bulunan Karasu Viyadüğünde yaklaşım betonu ve derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Ankara istikameti şerit daraltması yapılarak trafik akışı kontrollü şekilde sağlanacaktır.(Çalışmalar 24 saat esasına göre yapılacaktır.)",
                 "extracted_keyword": "Otoyolu Hadımköy Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-20T21:19:55.960417"
+                "updated_at": "2026-10-20T23:59:19.656869"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 15-18.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım Kızılcahamam-Kahramankazan-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-20T21:19:56.037278"
+                "updated_at": "2026-10-20T23:59:19.748083"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "İzmir-Aydın Otoyolunun 5.km.sindeki Aydın Güney Kavşak Köprüsünde genleşme derzlerinin yenilenmesi ve genleşme derz betonlarının onarım çalışmaları nedeniyle 21.10.2026-30.10.2026 tarihleri arasında İzmir istikametinde sol ve orta şerit kapatılacak olup trafik akışı sağ ve emniyet şeridinden sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-20T21:19:56.158220"
+                "updated_at": "2026-10-20T23:59:19.851422"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Niğde Otoyolu, üst yapı çalışması nedeniyle Ankara İstikameti Sağ Şerit Kapatılarak trafik kontrollü olarak diğer şeritten sağlanmaktadır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-20T21:19:56.232142"
+                "updated_at": "2026-10-20T23:59:19.940633"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-20T21:19:56.333590"
+                "updated_at": "2026-10-20T23:59:20.049771"
             }
         },
         {
@@ -100,7 +100,58 @@
                 "description": "Burdur-Çeltikçi yolunun 43-46.km.leri arasında 08.07.2026 tarihinden itibaren menfez yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Burdur Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-20T21:19:56.440959"
+                "updated_at": "2026-10-20T23:59:20.135466"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.9882902,
+                    41.1850505
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ardahan - Şavşat yolunun 0 - 35 km'leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
+                "extracted_keyword": "Ardahan Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-20T23:59:20.230100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.7208371,
+                    41.8420747
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "İnebolu-Abana-Çatalzeytin yolunun12-14. Km. leri arasında yapılan yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "İnebolu Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-20T23:59:20.310414"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.189714,
+                    37.8338177
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Aksaray-Nevşehir yolunun 29.31.km.leri arasında devam eden yol yapım çalışmaları nedeniyle bölünmüş yolun Aksaray-Nevşehir yönü araç trafiğine kapatılmış olup ulaşım Nevşehir-Aksaray yönünde iki yönlü olarak ve ayrıca servis yolundan sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-20T23:59:20.398998"
             }
         }
     ]
