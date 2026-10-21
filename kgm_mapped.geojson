@@ -15,7 +15,7 @@
                 "description": "Aydın-Denizli Otoyolunun Nazilli Kavşağı-Kuyucak Kavşağı Kesimi 4-8.km.leri arasında üstyapı yenileme çalışması nedeniyle Aydın istikameti trafiğe kapatılarak ulaşım Denizli istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolunun Nazilli Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-21T09:33:54.782070"
+                "updated_at": "2026-10-21T14:38:59.181605"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Niğde Otoyolunun Nevşehir-Aksaray İl Sınırı-Alayhan Kavşağı Kesimi 12-14.km.leri arasında üstyapı yenileme çalışması nedeniyle Ankara İstikametinde sağ şerit trafiğe kapatılarak ulaşım diğer şeritten sağlanmaktadır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-21T09:33:54.930218"
+                "updated_at": "2026-10-21T14:38:59.345744"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Çanakkale-Ezine-Ayvacık yolunun 18-24.km.leri arasında yol yapım çalışmaları nedeniyle Çanakkale-Ezine istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çanakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-21T09:33:55.080309"
+                "updated_at": "2026-10-21T14:38:59.518397"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Gaziantep-Nizip-Birecik yolunun 11-12.km.leri arasında (Mezarlık Kavşağı-Otoyol Bağlantısı Kavşağı) yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Mezarlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-21T09:33:55.241184"
+                "updated_at": "2026-10-21T14:38:59.676352"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Ankara-Konya yolunun 34-37.km.leri arasında (Emirler) yol yapım çalışmaları nedeniyle Konya-Ankara istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-21T09:33:55.428037"
+                "updated_at": "2026-10-21T14:38:59.862016"
             }
         },
         {
@@ -91,33 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.3189615,
-                    40.7367379
+                    40.416094,
+                    39.7665563
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Sakarya-Bilecik yolunun 20-22.km.leri arasında üstyapı yenileme çalışması nedeniyle Bilecik istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Sakarya Yolu",
+                "description": "Tokat İl Sınırı-Yıldızeli yolunun 12-16.km.leri arasında üstyapı yenileme çalışması nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Tokat İl Sınırı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-21T09:33:55.595882"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.8499206,
-                    37.0549329
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Çavdır-Söğüt-Korkuteli yolunun 3-7.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Çavdır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-21T09:33:55.756353"
+                "updated_at": "2026-10-21T14:39:00.320821"
             }
         },
         {
@@ -134,24 +117,7 @@
                 "description": "Diyarbakır-Siverek yolunun 21-23.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Diyarbakır Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-21T09:33:56.049735"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    41.3289886,
-                    41.3639708
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Arhavi-Hopa-Kemalpaşa-Sarp yolunun 33-34.km.leri arasında bulunan Üçkardeşler 1, Üçkardeşler 2, Sarp 1, Sarp 2 ve Sarp 3 Tünellerinde elektrik, elektronik sistemleri bakım onarım çalışması nedeniyle 21.10.2026-23.10.2026 tarihleri arası, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Arhavi Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-21T09:33:56.182011"
+                "updated_at": "2026-10-21T14:39:00.510081"
             }
         }
     ]
