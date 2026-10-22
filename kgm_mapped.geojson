@@ -15,7 +15,7 @@
                 "description": "Aydın-Denizli Otoyolunun Nazilli Kavşağı-Kuyucak Kavşağı Kesimi 4-8.km.leri arasında üstyapı yenileme çalışması nedeniyle Aydın istikameti trafiğe kapatılarak ulaşım Denizli istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolunun Nazilli Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-22T05:26:39.829641"
+                "updated_at": "2026-10-22T10:31:19.331061"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Niğde Otoyolunun Nevşehir-Aksaray İl Sınırı-Alayhan Kavşağı Kesimi 12-14.km.leri arasında üstyapı yenileme çalışması nedeniyle Ankara İstikametinde sağ şerit trafiğe kapatılarak ulaşım diğer şeritten sağlanmaktadır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-22T05:26:39.899371"
+                "updated_at": "2026-10-22T10:31:19.432757"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Çanakkale-Ezine-Ayvacık yolunun 18-24.km.leri arasında yol yapım çalışmaları nedeniyle Çanakkale-Ezine istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çanakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-22T05:26:39.999836"
+                "updated_at": "2026-10-22T10:31:19.521958"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Gaziantep-Nizip-Birecik yolunun 11-12.km.leri arasında (Mezarlık Kavşağı-Otoyol Bağlantısı Kavşağı) yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Mezarlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-22T05:26:40.099201"
+                "updated_at": "2026-10-22T10:31:19.608904"
             }
         },
         {
@@ -83,58 +83,7 @@
                 "description": "Ankara-Konya yolunun 34-37.km.leri arasında (Emirler) yol yapım çalışmaları nedeniyle Konya-Ankara istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-22T05:26:40.183227"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.7557914,
-                    40.9845561
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Samsun-Ordu yolunun 9-12.km.leri arasında (Belediye Evleri Katlı Yol) köprü bakım onarım çalışmaları nedeniyle katlı yolun Samsun istikameti trafiğe kapatılarak ulaşım alt yoldan sağlanmaktadır.",
-                "extracted_keyword": "Samsun Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-22T05:26:40.272187"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.8499206,
-                    37.0549329
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Çavdır-Söğüt-Korkuteli yolunun 3-7.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Çavdır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-22T05:26:40.348071"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    40.416094,
-                    39.7665563
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Tokat İl Sınırı-Yıldızeli yolunun 12-16.km.leri arasında üstyapı yenileme çalışması nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Tokat İl Sınırı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-22T05:26:40.438303"
+                "updated_at": "2026-10-22T10:31:19.692703"
             }
         }
     ]
