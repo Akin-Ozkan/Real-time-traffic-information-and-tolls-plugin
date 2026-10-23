@@ -15,7 +15,7 @@
                 "description": "Tarsus-Adana-Gaziantep Otoyolunda Gaziantep Organize Sanayi Bölgesi Kavşağında yapılan çalışmalar nedeniyle trafik kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gaziantep Otoyolunda Gaziantep Organize Sanayi Bölgesi Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-23T00:58:53.931086"
+                "updated_at": "2026-10-23T05:56:21.610845"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Konya-Ankara yolunun 36-41.km.leri arasında (Aselsan Kavşağı-Kayacık Mah. arası) ulaşım tek şeritten sağlanmaktadır.",
                 "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-23T00:58:54.012946"
+                "updated_at": "2026-10-23T05:56:21.824361"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 21-22.km.leri arasındaki yol yapım çalışmaları nedeniyle bu kesimde Kızılcahamam-Kahramankazan-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-Kahramankazan-Kızılcahamam istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T00:58:54.072624"
+                "updated_at": "2026-10-23T05:56:21.994806"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Niğde-Kayseri yolunun 36-38.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Niğde Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T00:58:54.140455"
+                "updated_at": "2026-10-23T05:56:22.176463"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Gerede-Çerkeş yolunun 2-5.km.leri arasında 25.09.2026 tarihinden itibaren  (Kemikli Rampası) yol yapım çalışmaları nedeniyle bölünmüş yolun Gerede istikameti trafiğe kapatılmıştır. Ulaşım bölünmüş yolun diğer tarafından iki yönlü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
                 "extracted_keyword": "Gerede Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T00:58:54.207351"
+                "updated_at": "2026-10-23T05:56:22.351510"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Denizli İl Sınırı-Çavdır-Söğüt Yolunun 18-24 km.leri arasında sathi kaplama onarım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Denizli İl Sınırı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T00:58:54.295159"
+                "updated_at": "2026-10-23T05:56:22.549696"
             }
         },
         {
@@ -117,7 +117,24 @@
                 "description": "Çanakkale-Çan yolunun 18-25 km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Çanakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T00:58:54.380783"
+                "updated_at": "2026-10-23T05:56:22.729564"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7238906,
+                    39.4491249
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kangal-Alacahan-Hekimhan yolunun 1-8.km.leri arasında yol yapım yapım çalışmaları yapılmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
+                "extracted_keyword": "Kangal Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-23T05:56:22.904047"
             }
         }
     ]
