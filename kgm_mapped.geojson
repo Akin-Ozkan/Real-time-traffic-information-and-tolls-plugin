@@ -15,7 +15,7 @@
                 "description": "Bursa Çevre Otoyolunun 0-3.km.leri  arasında 22.10.2026 tarihinden itibaren köprü genleşme derzi çalışmaları nedeniyle bölünmüş yolun İzmir-Ankara istikameti trafiğe kapatılacak olup, ulaşım Ankara- İzmir istikametinden çift yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T22:37:47.818833"
+                "updated_at": "2026-10-24T01:06:44.486651"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Niğde Otoyolunun 12-14.km.leri arasında  20.10.2026-26.10.2026 tarihlerinde üst yapı yenileme çalışması nedeniyle Ankara İstikameti sağ şerit Kapatılarak ulaşım  kontrollü olarak diğer şeritten sağlanmaktadır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T22:37:47.909438"
+                "updated_at": "2026-10-24T01:06:44.558754"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "TEM Otoyolunun 0-6.km.leri arasında 19.10.2026 tarihinden itibaren  Hendek Kavşağı-Gümüşova kavşağı arasında üstyapı yenileme çalışmaları yapılacaktır. Yapılacak çalışmalar esnasında, TEM Otoyolu kesimler halinde trafiğe kapatılarak, ulaşım  diğer platformdan iki yönlü olarak gidiş geliş şeklinde verilecektir. (Çalışmalar 24 saat esasına göre yapılacaktır.)",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T22:37:47.981414"
+                "updated_at": "2026-10-24T01:06:44.641864"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Kırıkkale-Kırşehir yolunun 10-11.km.leri arasında 22.10.2026-22.01.2027 tarihlerinde  Kırşehir istikametinde yolun banket kısmı trafiğe kapatılarak ulaşım diğer şeritlerden kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T22:37:48.099090"
+                "updated_at": "2026-10-24T01:06:44.721735"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "İnebolu-Abana-Çatalzeytin yolunun 38-41.km.leri arasında 19.10.2026 tarihinden itibaren  yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır. Yolu kullanacak sürücülerin dikkatli seyretmeleri, trafik işaret ve işaretçilerine dikkat etmeleri  gerekmektedir.",
                 "extracted_keyword": "İnebolu Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T22:37:48.174048"
+                "updated_at": "2026-10-24T01:06:44.799241"
             }
         },
         {
@@ -91,50 +91,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.149416,
-                    36.545641
+                    38.093832,
+                    40.888924
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Antakya-Reyhanlı  yolunun 1-3.km.leri arasında 16.10.2026 tarihinden itibaren ASİ-1 köprüsü bakım onarım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Antakya Yolu",
+                "description": "Piraziz-Giresun-Tirebolu yolunun 19-45.km.leri arasında bulunan Küçükgüre, Boğacık, Aksu ve Düzköy Köprülerinde 20.10.2026 tarihinden itibaren  derz onarım çalışması nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Piraziz Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-23T22:37:48.247023"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.2584732,
-                    39.6217705
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Dursunbey-Harmancık yolunun 5-6.km.leri arasında 20.10.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri  gerekmektedir.",
-                "extracted_keyword": "Dursunbey Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-23T22:37:48.326887"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.3283182,
-                    40.9308027
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Çamlıbel-Sivas İl Snr. yolunun  56-59.km.leri arasında 19.10.2026 tarihinden itibaren üst yapı yenileme  çalışmaları yapılmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri  gerekmektedir.",
-                "extracted_keyword": "Çamlıbel Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-23T22:37:48.402040"
+                "updated_at": "2026-10-24T01:06:45.077209"
             }
         }
     ]
