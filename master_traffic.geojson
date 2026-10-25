@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-25T02:00:55.310497"
+                "updated_at": "2026-10-25T07:31:46.253110"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-25T02:00:55.310507"
+                "updated_at": "2026-10-25T07:31:46.253126"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-25T02:00:55.310509"
+                "updated_at": "2026-10-25T07:31:46.253128"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-25T02:00:55.310510"
+                "updated_at": "2026-10-25T07:31:46.253129"
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-25T02:00:55.310511"
+                "updated_at": "2026-10-25T07:31:46.253131"
             }
         },
         {
@@ -82,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-25T02:00:55.310512"
+                "updated_at": "2026-10-25T07:31:46.253132"
             }
         },
         {
@@ -96,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-25T02:00:55.310513"
+                "updated_at": "2026-10-25T07:31:46.253135"
             }
         },
         {
@@ -110,7 +110,21 @@
             },
             "properties": {
                 "category_code": 9,
-                "updated_at": "2026-10-25T02:00:55.310514"
+                "updated_at": "2026-10-25T07:31:46.253136"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5551121781,
+                    39.7363539454
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-10-25T07:31:46.253137"
             }
         },
         {
@@ -124,7 +138,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-25T02:00:55.310515"
+                "updated_at": "2026-10-25T07:31:46.253139"
             }
         },
         {
@@ -138,7 +152,35 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-10-25T02:00:55.310518"
+                "updated_at": "2026-10-25T07:31:46.253140"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6451217482,
+                    39.7353883182
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-10-25T07:31:46.253141"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6535505901,
+                    39.7398166464
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-10-25T07:31:46.253142"
             }
         },
         {
@@ -155,7 +197,7 @@
                 "description": "TEM Otoyolunun 0-3.km.leri arasında Anadolu Otoyolu Kavşağı- İzmit Doğu Kavşağı mevkii kesimde 10.07.2026-31.12.2026 tarihlerinde  eski beton direklerin yenilenmesi çalışmaları yapılacaktır.  Bu çalışmalar İş programı doğrultusunda, Otoyoldaki trafik yoğunluğunun en az olduğu zamanlarda yapılacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-25T02:00:56.778483"
+                "updated_at": "2026-10-25T07:31:47.755513"
             }
         },
         {
@@ -172,7 +214,7 @@
                 "description": "İzmir-Aydın Otoyolunun 5.km.sindeki Aydın Güney Kavşak Köprüsünde genleşme derzlerinin yenilenmesi ve genleşme derz betonlarının onarım çalışmaları nedeniyle 21.10.2026-30.10.2026 tarihleri arasında İzmir istikametinde sol ve orta şerit kapatılacak olup trafik akışı sağ ve emniyet şeridinden sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-25T02:00:56.943175"
+                "updated_at": "2026-10-25T07:31:47.899173"
             }
         },
         {
@@ -189,7 +231,7 @@
                 "description": "Ankara - Konya yolunun  28-31.km. arasında (Çimşit Kavşağı) arası yol yapım çalışmaları nedeniyle Ankara-Konya  istikameti trafiğe kapatılarak ulaşım Konya - Ankara istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Çimşit Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-25T02:00:57.119840"
+                "updated_at": "2026-10-25T07:31:48.060320"
             }
         },
         {
@@ -206,7 +248,7 @@
                 "description": "Gölbaşı - Kahramanmaraş il snr. yolunun 20-25.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gölbaşı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-25T02:00:57.306926"
+                "updated_at": "2026-10-25T07:31:48.204406"
             }
         },
         {
@@ -223,7 +265,7 @@
                 "description": "Çanakkale- Çan Devlet yolunun 26-27 km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Çanakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-25T02:00:57.477495"
+                "updated_at": "2026-10-25T07:31:48.358459"
             }
         },
         {
@@ -240,7 +282,7 @@
                 "description": "Konya-Ankara Yolunun 36-41. km.leri arasında (Aselsan Kavşağı-Kayacık Mah. arası) ulaşım tek şeritten sağlanmaktadır.",
                 "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-25T02:00:57.661840"
+                "updated_at": "2026-10-25T07:31:48.586580"
             }
         },
         {
@@ -257,7 +299,24 @@
                 "description": "Niğde-Kayseri yolunun 36-38.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Niğde Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-25T02:00:57.840604"
+                "updated_at": "2026-10-25T07:31:48.730485"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.0471308,
+                    40.3688548
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tokat-Niksar yolunun 24-34.km.leri arasında bölünmüş yol yapım çalışmaları nedeniyle, ulaşım bölünmüş Niksar istikametinde iki yönlü olarak sağlanacaktır.",
+                "extracted_keyword": "Tokat Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-25T07:31:48.903372"
             }
         },
         {
@@ -274,7 +333,7 @@
                 "description": "Göksun-Elbistan yolunun yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Göksun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-25T02:00:58.291541"
+                "updated_at": "2026-10-25T07:31:49.165299"
             }
         }
     ]
