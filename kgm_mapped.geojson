@@ -15,7 +15,7 @@
                 "description": "TEM Otoyolunun 0-3.km.leri arasında Anadolu Otoyolu Kavşağı- İzmit Doğu Kavşağı mevkii kesimde 10.07.2026-31.12.2026 tarihlerinde  eski beton direklerin yenilenmesi çalışmaları yapılacaktır.  Bu çalışmalar İş programı doğrultusunda, Otoyoldaki trafik yoğunluğunun en az olduğu zamanlarda yapılacaktır.",
                 "extracted_keyword": "TEM Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-24T23:49:22.758019"
+                "updated_at": "2026-10-25T02:00:56.778483"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Aydın Otoyolunun 5.km.sindeki Aydın Güney Kavşak Köprüsünde genleşme derzlerinin yenilenmesi ve genleşme derz betonlarının onarım çalışmaları nedeniyle 21.10.2026-30.10.2026 tarihleri arasında İzmir istikametinde sol ve orta şerit kapatılacak olup trafik akışı sağ ve emniyet şeridinden sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-24T23:49:22.839799"
+                "updated_at": "2026-10-25T02:00:56.943175"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ankara - Konya yolunun  28-31.km. arasında (Çimşit Kavşağı) arası yol yapım çalışmaları nedeniyle Ankara-Konya  istikameti trafiğe kapatılarak ulaşım Konya - Ankara istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Çimşit Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-24T23:49:22.931061"
+                "updated_at": "2026-10-25T02:00:57.119840"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Gölbaşı - Kahramanmaraş il snr. yolunun 20-25.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gölbaşı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-24T23:49:23.013382"
+                "updated_at": "2026-10-25T02:00:57.306926"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Çanakkale- Çan Devlet yolunun 26-27 km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır.",
                 "extracted_keyword": "Çanakkale Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-24T23:49:23.118767"
+                "updated_at": "2026-10-25T02:00:57.477495"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Konya-Ankara Yolunun 36-41. km.leri arasında (Aselsan Kavşağı-Kayacık Mah. arası) ulaşım tek şeritten sağlanmaktadır.",
                 "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-24T23:49:23.211955"
+                "updated_at": "2026-10-25T02:00:57.661840"
             }
         },
         {
@@ -117,7 +117,7 @@
                 "description": "Niğde-Kayseri yolunun 36-38.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Niğde Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-24T23:49:23.296300"
+                "updated_at": "2026-10-25T02:00:57.840604"
             }
         },
         {
@@ -125,33 +125,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    36.0471308,
-                    40.3688548
+                    36.7331122,
+                    37.6402039
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Tokat-Niksar yolunun 24-34.km.leri arasında bölünmüş yol yapım çalışmaları nedeniyle, ulaşım bölünmüş Niksar istikametinde iki yönlü olarak sağlanacaktır.",
-                "extracted_keyword": "Tokat Yolu",
+                "description": "Göksun-Elbistan yolunun yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Göksun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-24T23:49:23.380393"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    31.908498,
-                    36.571266
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Antalya-Isparta yolunun 34-36.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Antalya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-24T23:49:23.474365"
+                "updated_at": "2026-10-25T02:00:58.291541"
             }
         }
     ]
