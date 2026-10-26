@@ -15,7 +15,7 @@
                 "description": "Bursa Çevre Otoyolunun Bursa Kavşağı-Yıldırım Kavşağı Kesimi 0-3.km.leri arasında köprü genleşme derzi çalışmaları nedeniyle İzmir-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-İzmir istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Çevre Otoyolunun Bursa Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-26T04:44:23.650159"
+                "updated_at": "2026-10-26T10:33:56.773063"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın-Denizli Otoyolunun Nazilli Kavşağı-Kuyucak Kavşağı Kesimi 4-12.km.leri arasında üstyapı yenileme çalışması nedeniyle Aydın istikameti trafiğe kapatılarak ulaşım Denizli istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Denizli Otoyolunun Nazilli Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-26T04:44:23.749262"
+                "updated_at": "2026-10-26T10:33:56.937689"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Gaziantep-Nizip-Birecik yolunun 11-12.km.leri arasındaki Mezarlık Kavşağı-Otoyol Bağlantısı Kavşağı Kesiminde yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Mezarlık Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-26T04:44:23.852385"
+                "updated_at": "2026-10-26T10:33:57.091468"
             }
         },
         {
@@ -66,7 +66,24 @@
                 "description": "Seydişehir-Akseki yolunun 30-33.km.leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Seydişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-26T04:44:23.952286"
+                "updated_at": "2026-10-26T10:33:57.274507"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7065814,
+                    37.9795618
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kayseri-Niğde yolunun 22-26.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Kayseri Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-26T10:33:57.448738"
             }
         },
         {
@@ -83,24 +100,7 @@
                 "description": "Zonguldak-Devrek-Mengen yolunun 50-53.km.leri arasında üstyapı yenileme çalışmaları nedeniyle Ankara istikameti trafiğe kapatılarak ulaşım Zonguldak istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Zonguldak Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-26T04:44:24.091793"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.5802264,
-                    38.7311593
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Malatya-Elazığ yolunun 69-70.km.leri arasında bulunan Handere-3 Köprüsünde sanat yapıları yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Malatya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-26T04:44:24.242919"
+                "updated_at": "2026-10-26T10:33:57.618176"
             }
         },
         {
@@ -117,7 +117,7 @@
                 "description": "Trabzon-Rize İl Sınırı-Rize-Pazar yolunun 48-50.km.leri arasında bulunan Pazar 1 ve Pazar 2 Tünellerinin Pazar-Rize yönündeki tüplerinde elektrik, elektronik sistemleri bakım, onarım çalışması nedeniyle 26.10.2026-28.10.2026 tarihleri arası, 08:00-17:00 saatleri aralığında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Trabzon Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-26T04:44:24.320965"
+                "updated_at": "2026-10-26T10:33:58.166730"
             }
         }
     ]
