@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.7087851,
-                    41.058756
+                    27.8131052,
+                    37.8450872
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "TEM Otoyolunun 1-2.km.leri arasında 26.10.2026 tarihinden itibaren  Akşemsettin Viyadüğünde K8-G9 akslarında güçlendirme çalışmaları yapılacaktır. Çalışmalar nedeni ile KMO Otoyolu Cebeci Tüneli Hasdal yönünde sağ şeritte görevli şirket Avrupa Otoyolu Yatırım ve İşletme A.Ş. tarafından kapatma yapılacaktır. (Çalışmalar 7 gün 24 saat esasına göre yürütülecektir.)",
-                "extracted_keyword": "TEM Otoyolu",
+                "description": "Gebze-Orhangazi-İzmir Otoyolu'nun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) O-5/01 Km:00 ile O-5/02 Km:06 kontrol kesim numaraları (Proje Km:0+000 – 11+000) arasında yer alan Osmangazi Köprüsü'nde, 29.10.2026 tarihinde düzenlenmesi planlanan “29 Ekim Osman Gazi Cumhuriyet Koşusu” etkinliği kapsamında, otoyolun İzmir istikametinde bant aktarması yapılarak trafik akışının karşı yönden iki yönlü olarak sağlanacaktır. Bu kapsamda, söz konusu trafik düzenlemesine ilişkin çalışmalara 29.10.2026 tarihinde saat 04:00 itibarıyla başlanması ve çalışmaların aynı gün saat 18:00 itibarıyla tamamlanması öngörülmektedir.",
+                "extracted_keyword": "İzmir Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-27T16:33:58.972601"
+                "updated_at": "2026-10-27T20:56:39.209534"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.6355183,
-                    41.0867773
+                    28.2934335,
+                    37.8311225
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "O-3 Otoyolunun 1-4.km.leri arasında  18.10.2026 tarihinden itibaren Hadımköy Kavşağı-Çatalca Kavşağı kesiminde bulunan Karasu Viyadüğünde yaklaşım betonu ve derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Ankara istikameti şerit daraltması yapılarak trafik akışı kontrollü şekilde sağlanacaktır.(Çalışmalar 24 saat esasına göre yapılacaktır.)",
-                "extracted_keyword": "Hadımköy Kavşağı",
+                "description": "Aydın-Denizli Otoyolu o-31/18 Km:8+032 ile Km:11+394 arasında üst yapı onarım çalışmaları nedeniyle, 02.11.2026 tarihinden itibaren Aydın-Denizli istikameti araç trafiğine kapatılacak olup trafik akışı Aydın istikametinde iki yönlü olarak sağlanacaktır.",
+                "extracted_keyword": "Denizli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-27T16:33:59.067540"
+                "updated_at": "2026-10-27T20:56:39.456037"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.891361,
-                    39.430328
+                    34.189714,
+                    37.8338177
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Konya yolunun  28-31.km.leri arasında 23.10.2026 tarihinden itibaren (Çimşit Kavşağı) yol yapım çalışmaları nedeniyle Ankara-Konya  istikameti trafiğe kapatılarak ulaşım Konya-Ankara istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Çimşit Kavşağı",
+                "description": "Aksaray-Nevşehir yolunun 0-31.km.leri arasında yol yapım çalışmaları nedeniyle 13-16.km.leri arasında ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Aksaray Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-27T16:33:59.169573"
+                "updated_at": "2026-10-27T20:56:39.555284"
             }
         },
         {
@@ -57,50 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.7032999,
-                    37.9660455
+                    32.3203181,
+                    39.7188536
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Niğde-Kayseri yolunun 36-38.km.leri arasında 14.10.2026 tarihinden itibaren yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Niğde Yolu",
+                "description": "Polatlı-Ankara yolunun 44-45.km.leri arasında Turkuaz mahallesi karayolları eğitim tesisleri yolundaki eski köprü trafiğe kapatılmış olup, ulaşım yeni köprü üzerinden verilmektedir.",
+                "extracted_keyword": "Polatlı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-27T16:33:59.282809"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.0930004,
-                    41.1763513
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Gaziantep-Nizip-Birecik yolunun 10-11.km.leri arasında 17.10.2026 tarihinden itibaren  Mezarlık Kavşağı-Otoyol Bağlantısı Kavşağı kesiminde yol yapım çalışmaları nedeniyle trafik kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Mezarlık Kavşağı",
-                "category": "road_work",
-                "updated_at": "2026-10-27T16:33:59.381866"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    26.6442108,
-                    39.5556753
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Çanakkale-Ezine-Ayvacık yolunun 18-24.km.leri arasında 21.10.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle bölünmüş yolun Çanakkale-Ezine istikameti trafiğe kapatılmış olup, ulaşım Ezine-Çanakkale istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Çanakkale Yolu",
-                "category": "road_work",
-                "updated_at": "2026-10-27T16:33:59.476845"
+                "updated_at": "2026-10-27T20:56:39.647306"
             }
         }
     ]
