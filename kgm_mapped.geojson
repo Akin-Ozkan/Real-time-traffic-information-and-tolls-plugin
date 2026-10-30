@@ -15,7 +15,7 @@
                 "description": "Bursa Çevre Otoyolunun Bursa Kavşağı-Yıldırım Kavşağı Kesimi 0-3.km.leri arasında köprü genleşme derzi çalışmaları nedeniyle İzmir-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-İzmir istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Çevre Otoyolunun Bursa Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-30T05:43:08.477496"
+                "updated_at": "2026-10-30T11:41:04.111767"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Ankara-Konya yolunun 56-59.km.leri arasında (Karahamzalı) yol yapım çalışmaları nedeniyle Konya-Ankara istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-30T05:43:08.563340"
+                "updated_at": "2026-10-30T11:41:04.294050"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Nurdağı-Gaziantep yolunun 47-48.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-30T05:43:08.636904"
+                "updated_at": "2026-10-30T11:41:04.464036"
             }
         },
         {
@@ -66,7 +66,75 @@
                 "description": "Çankırı–Ankara yolunun 4-12.km.leri arasında (Acısu Varyantı) dolgu iyileştirme ve üstyapı yenileme çalışmaları nedeniyle 30.10.2026 tarihinde saat 09:00 itibariyle yol trafiğe kapatılacak olup, ulaşım Süleymanlı Köyü bağlantısından eski Çankırı-Ankara yolundan sağlanacaktır.",
                 "extracted_keyword": "Çankırı–Ankara yolunun 4 Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-30T05:43:08.745314"
+                "updated_at": "2026-10-30T11:41:04.664203"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2323758,
+                    39.9379848
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Balıkesir-Karacabey yolunun 5-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Balıkesir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-30T11:41:04.850691"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8499206,
+                    37.0549329
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çavdır-Söğüt-Korkuteli yolunun 3-7.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Çavdır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-30T11:41:05.021254"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.9874902,
+                    39.2810211
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kangal-Alacahan-Hekimhan yolunun 1-8.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kangal Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-30T11:41:05.186241"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7946996,
+                    37.1969584
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Diyarbakır-Siverek yolunun 42-46.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Diyarbakır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-30T11:41:05.393691"
             }
         },
         {
@@ -83,7 +151,7 @@
                 "description": "Trabzon-Rize yolunun 28.km.sinde bulunan Araklı Viyadüğü Giriş Köprüsünün Trabzon yönünde  genleşme derzi onarım çalışması nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Araklı Viyadüğü Giriş Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-10-30T05:43:09.045148"
+                "updated_at": "2026-10-30T11:41:05.555635"
             }
         }
     ]
