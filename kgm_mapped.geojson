@@ -15,7 +15,7 @@
                 "description": "O-3 Otoyolunun 1-4.km.leri arasında  18.10.2026 tarihinden itibaren Hadımköy Kavşağı-Çatalca Kavşağı kesiminde bulunan Karasu Viyadüğünde yaklaşım betonu ve derz onarım çalışmaları yapılacaktır. Çalışmalar süresince Ankara istikameti şerit daraltması yapılarak trafik akışı kontrollü şekilde sağlanacaktır.(Çalışmalar 24 saat esasına göre yapılacaktır.)",
                 "extracted_keyword": "Hadımköy Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-31T17:53:16.877355"
+                "updated_at": "2026-10-31T20:59:30.578538"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "İzmir-Aydın Otoyolunun 17-18.km.leri arasında bulunan Kızılcaköy Köprüsü İzmir istikameti 29.10.2026-08.11.2026 tarihlerinde  derz yenileme ve onarım çalışmaları nedeniyle  sağ ve emniyet şeridi trafiğe kapatılacak olup ulaşım sol ve orta şeritten sağlanmaktadır.",
                 "extracted_keyword": "Aydın Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-10-31T17:53:16.966585"
+                "updated_at": "2026-10-31T20:59:30.775179"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ankara-Niğde Otoyolu Hacılar Kavşağı Ankara İstikametinde üst yapı onarım çalışmaları nedeniyle sol 2 şerit trafiğe kapatılarak trafik diğer şeritlerden kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Niğde Otoyolu Hacılar Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-31T17:53:17.080439"
+                "updated_at": "2026-10-31T20:59:30.968247"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Bursa Çevre Otoyolunun Bursa Kavşağı-Yıldırım Kavşağı Kesimi 0-3.km.leri arasında 22.10.2026-13.11.206  tarihlerinde köprü genleşme derzi çalışmaları nedeniyle İzmir-Ankara istikameti trafiğe kapatılarak ulaşım Ankara-İzmir istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bursa Çevre Otoyolunun Bursa Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-10-31T17:53:17.186311"
+                "updated_at": "2026-10-31T20:59:31.149768"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Nurdağı-Gaziantep yolunun 27-31.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Nurdağı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-31T17:53:17.301518"
+                "updated_at": "2026-10-31T20:59:31.335708"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Samsun-Ordu yolunun 9-12.km.leri arasında (Belediye Evleri Katlı Yol)  yapılacak köprü bakım onarım çalışmaları nedeniyle katlı yolun Samsun istikameti  trafiğe kapatılacak olup, ulaşım alt yoldan sağlanmaktadır.",
                 "extracted_keyword": "Samsun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-10-31T17:53:17.394918"
+                "updated_at": "2026-10-31T20:59:31.517630"
             }
         },
         {
@@ -117,7 +117,58 @@
                 "description": "Trabzon-Rize yolunun 28. km. sinde bulunan Araklı Viyadüğü giriş Köprüsünün, bölünmüş yolun Trabzon yönündeki yapısında yapılacak olan genleşme derzi onarım çalışması nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Araklı Viyadüğü giriş Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-10-31T17:53:17.482078"
+                "updated_at": "2026-10-31T20:59:31.697345"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.5802264,
+                    38.7311593
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Malatya-Elazığ yolunun 69-70.km.leri arasında 19.10.2026 tarihinden itibaren Handere-3 Köprüsünde sanat yapıları çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Malatya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-31T20:59:32.702212"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9425952,
+                    40.0726195
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Çankırı – Ankara yolunun 4-12.km.leri arasındaki (Acısu Varyantı) dolgu iyileştirme ve üstyapı yenileme çalışmaları nedeniyle 30.10.2026 saat 09:00 itibariyle yol trafiğe kapatılmıştır. Ulaşım Süleymanlı Köyü bağlantısından eski Çankırı-Ankara yolundan sağlanmaktadır.",
+                "extracted_keyword": "Çankırı – Ankara yolunun 4 Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-31T20:59:32.929704"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8146952,
+                    39.717624
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Konya-Afyonkarahisar yolunun 1-4.km.leri arasında (Ladik Geçişi) üstyapı onarım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Konya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-10-31T20:59:33.125192"
             }
         }
     ]
