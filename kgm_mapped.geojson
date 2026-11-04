@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.686454,
-                    37.9569571
+                    27.8131052,
+                    37.8450872
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara-Niğde Otoyolunun Hacılar Kavşağı Mevkiinde üstyapı onarım çalışmaları nedeniyle Ankara istikametinde sağdan 2 şerit trafiğe kapatılarak ulaşım diğer şeritlerden kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Niğde Otoyolunun Hacılar Kavşağı",
+                "description": "Aydın-İzmir Otoyolunun 20-21.kmleri arasında  04-11-2026-15-11-2026 tarihlerinde  yol yapım çalışması nedeniyle sağ ve emniyet şeridi trafiğe kapatılacak olup ulaşım sol ve orta şeritten sağlanacaktır Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "İzmir Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-04T08:01:35.329982"
+                "updated_at": "2026-11-04T16:12:23.133878"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.3067706,
-                    38.1922612
+                    27.6373804,
+                    39.4549975
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "İzmir-Aydın Otoyolunun 17-18.km.leri arasında bulunan Kızılcaköy Köprüsünde derz yenileme ve onarım çalışmaları nedeniyle İzmir istikametinde sağ ve emniyet şeridi trafiğe kapatılarak ulaşım diğer şeritlerden sağlanmaktadır. (29.10.2026-08.11.2026)",
-                "extracted_keyword": "Aydın Otoyolu",
+                "description": "Kınalı-Tekirdağ-Çanakkale-Savaştepe Otoyolu Projesi Malkara-Çanakkale (1915 Çanakkale Köprüsü dahil) Kesimi Otoyolunun 8-13.km.leri (Proje Km: 116+250-192+050) arasında 01.11.2026-30.11.2026 tarihlerinde  muhtelif kesimlerde bakım-onarım çalışmaları kapsamında çalışma progmına göre trafik işaretlemesi Çanakkale-Tekirdağ istikametlerinde bant aktarma yapılacak olup, trafik akışı karşı yönden iki yönlü olarak sağlanacaktır.",
+                "extracted_keyword": "Savaştepe Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-04T08:01:35.421380"
+                "updated_at": "2026-11-04T16:12:23.227327"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.8146952,
-                    39.717624
+                    30.221548,
+                    40.733561
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Konya-Afyonkarahisar yolunun 1-4.km.leri arasında (Ladik Geçişi) üstyapı onarım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Konya Yolu",
+                "description": "Sakarya-Bilecik yolunun 18-21.km.leri arasında 04.11.2026 tarihi itibariyle üst yapı yenileme çalışmaları nedeniyle Bilecik-Sakarya istikameti trafiğe kapatılarak ulaşım Sakarya-Bilecik istikametinden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-04T08:01:35.523427"
+                "updated_at": "2026-11-04T16:12:23.374350"
             }
         },
         {
@@ -57,33 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.6442108,
-                    39.5556753
+                    28.1562225,
+                    39.6833047
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Çanakkale-Ezine-Ayvacık yolunun 18-24.km.leri arasında yol yapım çalışmaları nedeniyle Çanakkale-Ezine istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Çanakkale Yolu",
+                "description": "Ankara-Konya yolunun  34-37.km.leri  (Emirler) arasında   31.10.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle Ankara-Konya istikameti trafiğe kapatılarak ulaşım Konya-Ankara istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
+                "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-04T08:01:35.609902"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    29.0930004,
-                    41.1763513
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Gaziantep-Nizip-Birecik yolunun 11-12.km.leri arasındaki Mezarlık Kavşağı-Otoyol Bağlantısı Kavşağı kesiminde yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Mezarlık Kavşağı",
-                "category": "road_work",
-                "updated_at": "2026-11-04T08:01:35.700107"
+                "updated_at": "2026-11-04T16:12:23.491195"
             }
         }
     ]
