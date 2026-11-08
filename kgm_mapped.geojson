@@ -15,7 +15,7 @@
                 "description": "Ankara - Kırıkkale yolunun DDY Köprüsünün yaklaşım dolgularının iyileştirme çalışmalar nedeniyle 29-31 km.leri  arasında Ankara - Kırıkkale istikameti trafiğe kapatılarak, ulaşım Kırıkkale - Ankara istikametinden iki yönlü (gidiş-Geliş) olarak olarak sağlanmaktadır.",
                 "extracted_keyword": "Kırıkkale yolunun DDY Köprüsü",
                 "category": "road_work",
-                "updated_at": "2026-11-07T22:57:40.616280"
+                "updated_at": "2026-11-08T02:17:41.619128"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Mersin-Çeşmeli Otoyolunun 0-1.km.leri arasında  üstyapı onarım çalışmaları nedeniyle trafik kontrollü olarak verilmektedir.",
                 "extracted_keyword": "Çeşmeli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-07T22:57:40.778094"
+                "updated_at": "2026-11-08T02:17:41.727937"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Kayseri-Pınarbaşı yolunun 24-29.km.leri arasında Hendek çalışması yapılacağından şerit daraltması yapılacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmesi gerekmektedir.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-07T22:57:40.942950"
+                "updated_at": "2026-11-08T02:17:41.852149"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Seydişehir-Akseki yolunun 30 -33. km'leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
                 "extracted_keyword": "Seydişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-07T22:57:41.085626"
+                "updated_at": "2026-11-08T02:17:41.973161"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Denizli Çardak  yolunun 48-53 km\"leri arasında üstyapı yapım çalışmaları nedeniyle ulaşım bölünmüş yolun sağ tarından iki yönlü olarak sağlanacaktır.",
                 "extracted_keyword": "Denizli Çardak  yolunun 48 Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-07T22:57:41.255699"
+                "updated_at": "2026-11-08T02:17:42.149632"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Gümüşhane-Bayburt İl Sınırı-Bayburt yolunun 33-35. km. leri arasında  yol yapım çalışması nedeniyle bölünmüş yolun Bayburt yönü trafiğe kapatılmış olup ulaşım diğer istikametten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gümüşhane Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-07T22:57:41.410892"
+                "updated_at": "2026-11-08T02:17:42.273959"
             }
         },
         {
@@ -117,7 +117,7 @@
                 "description": "Konya-Ankara yolunun 35-38.km.leri arasında  yol yapım çalışmaları nedeniyle ulaşım tek şeritten sağlanmaktadır.",
                 "extracted_keyword": "Konya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-07T22:57:41.582971"
+                "updated_at": "2026-11-08T02:17:42.391329"
             }
         },
         {
@@ -134,7 +134,24 @@
                 "description": "Balıkesir-Kepsut  yolunun 3-8 km.leri arasında yol yapım çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-07T22:57:41.772972"
+                "updated_at": "2026-11-08T02:17:42.503100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.207261,
+                    40.8411473
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Samsun-Ankara yolunun 22-25 km'leri arasında (Havza tüneli) bakım çalışmaları nedeni ile ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Samsun Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-08T02:17:42.627955"
             }
         }
     ]
