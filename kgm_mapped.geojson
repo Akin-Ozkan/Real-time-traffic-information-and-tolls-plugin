@@ -6,40 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.1689832,
-                    41.0525177
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ankara Çevre Otoyolunun 8-11.km.leri arası (İç Daire) İncek Kavşağı-Dodurga Kavşağı Arası Eskişehir istikameti üstyapı onarımı nedeniyle 09.11.2026-20.11.2026 tarihlerinde trafiğe kapatılacak olup çalışmalar süresince ulaşım Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır.",
-                "extracted_keyword": "Ankara Çevre Otoyolu",
-                "category": "road_work",
-                "updated_at": "2026-11-10T04:38:41.840958"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.8131052,
-                    37.8450872
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Gebze-Orhangazi-İzmir Otoyolunun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) 31-40.km.leri arasında 09.11.2026-15.11.2026 tarihlerinde bakım ve onarım çalışmaları nedeniyle  İstanbul istikametinde bant aktarma yapılacak olup, ulaşım karşı yönden iki yönlü olarak sağlanacaktır.",
-                "extracted_keyword": "İzmir Otoyolu",
-                "category": "road_work",
-                "updated_at": "2026-11-10T04:38:41.974836"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     30.485672,
                     40.716326
                 ]
@@ -49,7 +15,7 @@
                 "description": "Anadolu Otoyolunun 0-3.km.leri arası Dörtdivan Kavşağı-Yeniçağa Kavşağı mevkiinde 09.11.2026-13.11.2026 tarihlerinde İstanbul istikameti üstyapı onarım çalışması nedeniyle trafiğe kapatılacak olup, ulaşım diğer istikametten çift yönlü ve kontrollü olarak sağlanacaktır. (2 şerit İstanbul, 2 Şerit Ankara istikameti)",
                 "extracted_keyword": "Anadolu Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-10T04:38:42.107886"
+                "updated_at": "2026-11-10T12:59:48.318074"
             }
         },
         {
@@ -57,8 +23,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    26.934523,
-                    38.933273
+                    41.55996,
+                    37.346344
                 ]
             },
             "properties": {
@@ -66,7 +32,7 @@
                 "description": "Menemen-Aliağa-Çandarlı Otoyolunun 0-3.km.leri arası Çanakkale istikameti (O33/03-003 ile O33/A1-1-000 KKN arasında) 06-11.2026-31.12.2026 tarihlerinde emniyet şeridi ile sağ şeritler trafiğe kapatılacak olup ulaşım orta sol şeritten sağlanacaktır.",
                 "extracted_keyword": "Çandarlı Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-10T04:38:42.252750"
+                "updated_at": "2026-11-10T12:59:48.461885"
             }
         },
         {
@@ -83,7 +49,7 @@
                 "description": "Konya-Karapınar yolunun 10-11.km.leri arası Karapınar Giriş Kavşağında  01.11.206 tarihinden itibaren sağ platformda ayrılım ve katılım şeritlerinin yapımı nedeniyle, sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Karapınar Giriş Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-10T04:38:42.382737"
+                "updated_at": "2026-11-10T12:59:48.590175"
             }
         },
         {
@@ -100,7 +66,7 @@
                 "description": "Karabük-Araç yolunun 2-4.km.leri arasında 30.10.206 tarihinden itibaren (Sanayi Kavşağı) kavşak düzenleme ve sinyalizasyon çalışmaları nedeniyle sürücülerin alternatif kavşakları kullanması, dikkatli seyretmeleri, trafik işaretlerine ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Sanayi Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-10T04:38:42.510348"
+                "updated_at": "2026-11-10T12:59:48.723808"
             }
         },
         {
@@ -117,7 +83,24 @@
                 "description": "Balıkesir-Kepsut yolunun 3-8.km.leri arasında 06.11.206 tarihinden itibaren yol yapım çalışmaları nedeniyle trafik akışı kontrollü olarak sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-10T04:38:42.643685"
+                "updated_at": "2026-11-10T12:59:48.878389"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.4746217,
+                    40.6989226
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Trabzon-Maçka-Gümüşhane yolunun 26-29.km.leri arasında bulunan Yeni Maçka Tünelinin, bölünmüş yolun Gümüşhane yönündeki tüpünde yapılacak olan aydınlatma ve otomasyon çalışması nedeniyle 09.11.2026 günü saat 07:00 den itibaren çalışmanın devamı müddetince tünel trafiğe kapatılacak olup ulaşım eski Maçka yolundan, servis yolu şeklinde kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Yeni Maçka Tüneli",
+                "category": "road_work",
+                "updated_at": "2026-11-10T12:59:49.069135"
             }
         }
     ]
