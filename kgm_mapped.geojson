@@ -6,57 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.496592,
-                    40.397845
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Ankara - Konya yolunun  39+300 - 41+300 km. (Gölbek) arası yol yapım çalışmaları nedeniyle Ankara - Konya istikameti trafiğe kapatılarak ulaşım Konya - Ankara istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-11T15:26:23.056109"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    32.3707221,
-                    37.7977068
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Seydişehir-Akseki Yolunun 30 ile 33km'leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
-                "extracted_keyword": "Seydişehir Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-11T15:26:23.206376"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.221548,
-                    40.733561
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Sakarya-Bilecik yolunun 18-21.km.leri arasında 04.11.2026 tarihi itibariyle üst yapı yenileme çalışmaları nedeniyle Bilecik-Sakarya istikameti trafiğe kapatılarak ulaşım Sakarya-Bilecik istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Sakarya Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-11T15:26:23.348955"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     27.8128336,
                     37.8449928
                 ]
@@ -66,24 +15,7 @@
                 "description": "Gebze-Orhangazi-İzmir Otoyolu'nun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) O-5/23 km:08 ile O-5/23 km:15 kontrol kesim numaraları arasında (Proje km: 348+450 – 356+050) bakım ve onarım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında  İzmir/İstanbul istikametlerinde çalışma programına göre bant aktarma yapılacak olup, trafik akışı karşı yönden iki yönlü olarak sağlanacaktır. Çalışmalara 10.11.2026 tarihinde başlanmış olmakla beraber çalışmaların 15.11.2026 tarihinde tamamlanması planlanmaktadır.",
                 "extracted_keyword": "İzmir Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-11T15:26:23.717215"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.2323758,
-                    39.9379848
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Balıkesir-Akhisar  Devlet yolunun 42+800-45+500 km leri arsında (Akhisar ilçesinin Balıkesir çıkışı) acil müdahele alanında 12.11.2026 tarihinde 12.00-17.00 saatleri arasında hava araçlarının iniş kalkış uygulamaları yapılacağından 18-47 km leri arasında araç trafiğine kapatılacak olup, ulaşım alternetif güzergah olan Gelenbe-Kırkağaç-Akhisar istikametinden verilecektir.",
-                "extracted_keyword": "Balıkesir Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-11T15:26:23.898566"
+                "updated_at": "2026-11-11T22:11:07.095800"
             }
         },
         {
@@ -100,7 +32,58 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-11T15:26:24.045434"
+                "updated_at": "2026-11-11T22:11:07.194139"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3707221,
+                    37.7977068
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Seydişehir-Akseki yolunun 30 -33.km'leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
+                "extracted_keyword": "Seydişehir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-11T22:11:07.289158"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2323758,
+                    39.9379848
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Balıkesir-Akhisar  Devlet yolunun 42-46. km leri arasında (Akhisar ilçesinin Balıkesir çıkışı) acil müdahale alanında 12.11.2026 tarihinde 12.00-17.00 saatleri arasında hava araçlarının iniş kalkış uygulamaları yapılacağından 18-47 km. leri arasında araç trafiğine kapatılacak olup, ulaşım alternatif güzergah olan Gelenbe-Kırkağaç-Akhisar istikametinden verilecektir.",
+                "extracted_keyword": "Balıkesir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-11T22:11:07.380330"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.496592,
+                    40.397845
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ankara - Konya yolunun  39-41. km. leri  arası yol yapım çalışmaları nedeniyle Ankara - Konya istikameti trafiğe kapatılarak ulaşım Konya - Ankara istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
+                "extracted_keyword": "Ankara Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-11T22:11:07.458245"
             }
         }
     ]
