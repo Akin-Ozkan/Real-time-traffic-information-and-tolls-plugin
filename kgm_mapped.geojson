@@ -15,7 +15,7 @@
                 "description": "Tarsus-Adana-Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-12T10:56:57.064741"
+                "updated_at": "2026-11-12T18:46:57.412503"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 15-18.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-12T10:56:57.254550"
+                "updated_at": "2026-11-12T18:46:57.482544"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Büyükçekmece-Çatalca yolunun 17-19.km.leri arasında bakım onarım çalışmaları nedeniyle ulaşım Çatalca istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Büyükçekmece Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-12T10:56:57.443137"
+                "updated_at": "2026-11-12T18:46:57.549416"
             }
         },
         {
@@ -66,41 +66,7 @@
                 "description": "Kayseri-Pınarbaşı yolunun 44-48.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-12T10:56:57.621822"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    28.7751336,
-                    41.1027841
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Fatsa-Ordu yolunun 25-26.km.leri arasında (Ordu Şehir Hastanesi Kavşağı) yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Ordu Şehir Hastanesi Kavşağı",
-                "category": "road_work",
-                "updated_at": "2026-11-12T10:56:57.872012"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.567556,
-                    37.160374
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Maden-Kop yolunun 13-14.km.leri arasında yol yapım çalışması nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Maden Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-12T10:56:58.352391"
+                "updated_at": "2026-11-12T18:46:57.626806"
             }
         }
     ]
