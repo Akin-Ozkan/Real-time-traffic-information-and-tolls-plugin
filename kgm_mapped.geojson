@@ -15,7 +15,7 @@
                 "description": "Tarsus-Adana-Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-12T18:46:57.412503"
+                "updated_at": "2026-11-12T23:54:13.376487"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 15-18.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-12T18:46:57.482544"
+                "updated_at": "2026-11-12T23:54:13.492070"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Büyükçekmece-Çatalca yolunun 17-19.km.leri arasında bakım onarım çalışmaları nedeniyle ulaşım Çatalca istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Büyükçekmece Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-12T18:46:57.549416"
+                "updated_at": "2026-11-12T23:54:13.619041"
             }
         },
         {
@@ -66,7 +66,24 @@
                 "description": "Kayseri-Pınarbaşı yolunun 44-48.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-12T18:46:57.626806"
+                "updated_at": "2026-11-12T23:54:13.749169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4973278,
+                    37.8849824
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Elazığ-Malatya yolunun 23-24.km.leri arasındaki DDY Üst Geçit Köprüsünde bakım onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "DDY Üst Geçit Köprüsü",
+                "category": "road_work",
+                "updated_at": "2026-11-12T23:54:14.071760"
             }
         }
     ]
