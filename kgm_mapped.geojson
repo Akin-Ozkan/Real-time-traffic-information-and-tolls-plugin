@@ -15,7 +15,7 @@
                 "description": "Gebze-Orhangazi-İzmir Otoyolu'nun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) O-5/23 km:08 ile O-5/23 km:15 kontrol kesim numaraları arasında (Proje km: 348+450 – 356+050) bakım ve onarım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında  İzmir/İstanbul istikametlerinde çalışma programına göre bant aktarma yapılacak olup, trafik akışı karşı yönden iki yönlü olarak sağlanacaktır. Çalışmalara 10.11.2026 tarihinde başlanmış olmakla beraber çalışmaların 15.11.2026 tarihinde tamamlanması planlanmaktadır.",
                 "extracted_keyword": "İzmir Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-11T22:11:07.095800"
+                "updated_at": "2026-11-12T03:03:27.999605"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-11T22:11:07.194139"
+                "updated_at": "2026-11-12T03:03:28.181342"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Seydişehir-Akseki yolunun 30 -33.km'leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
                 "extracted_keyword": "Seydişehir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-11T22:11:07.289158"
+                "updated_at": "2026-11-12T03:03:28.361054"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Balıkesir-Akhisar  Devlet yolunun 42-46. km leri arasında (Akhisar ilçesinin Balıkesir çıkışı) acil müdahale alanında 12.11.2026 tarihinde 12.00-17.00 saatleri arasında hava araçlarının iniş kalkış uygulamaları yapılacağından 18-47 km. leri arasında araç trafiğine kapatılacak olup, ulaşım alternatif güzergah olan Gelenbe-Kırkağaç-Akhisar istikametinden verilecektir.",
                 "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-11T22:11:07.380330"
+                "updated_at": "2026-11-12T03:03:28.552879"
             }
         },
         {
@@ -83,7 +83,92 @@
                 "description": "Ankara - Konya yolunun  39-41. km. leri  arası yol yapım çalışmaları nedeniyle Ankara - Konya istikameti trafiğe kapatılarak ulaşım Konya - Ankara istikametinden iki yönlü (Gidiş-Geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Ankara Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-11T22:11:07.458245"
+                "updated_at": "2026-11-12T03:03:28.723111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.7109353,
+                    39.9448379
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Karabük-Araç yolunun 2-4.km.leri arasında (Sanayi Kavşağı) kavşak düzenleme ve sinyalizasyon çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Sanayi Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-11-12T03:03:28.907093"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.7946996,
+                    37.1969584
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Diyarbakır-Silvan yolunun 50-52.km.leri arasında yol yapım çalışmaları nedeniyle 08.09.2026 tarihinde trafiğe kapatılmış olup trafik akışı sol şeritten gidiş geliş olarak sağlanmaktadır.",
+                "extracted_keyword": "Diyarbakır Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-12T03:03:29.075921"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.9882902,
+                    41.1850505
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Ardahan - Şavşat yolunun 0 - 35 km'leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
+                "extracted_keyword": "Ardahan Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-12T03:03:29.245556"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.221548,
+                    40.733561
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Sakarya-Bilecik yolunun 18-21.km.leri arasında üst yapı yenileme çalışmaları nedeniyle Bilecik-Sakarya istikameti trafiğe kapatılarak ulaşım Sakarya-Bilecik istikametinden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Sakarya Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-12T03:03:29.439548"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5978131,
+                    38.5315612
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Bingöl-Solhan yolunun 6-9.km.leri arasında üst yapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Bingöl Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-12T03:03:29.613185"
             }
         }
     ]
