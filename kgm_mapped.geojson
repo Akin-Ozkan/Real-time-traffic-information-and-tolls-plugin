@@ -15,7 +15,7 @@
                 "description": "Ankara Çevre Otoyolunun 8-11.km.leri arası (İç Daire) İncek Kavşağı-Dodurga Kavşağı Arası Eskişehir istikameti üstyapı onarımı nedeniyle 09.11.2026-20.11.2026 tarihlerinde trafiğe kapatılacak olup çalışmalar süresince ulaşım Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-15T21:46:10.225929"
+                "updated_at": "2026-11-16T01:26:20.821128"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "TAG Otoyolunun 6-7.km.leri arasındaki Karaisalı Kavşağı Mevkiinde üstyapı yenileme çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "TAG Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-15T21:46:10.329170"
+                "updated_at": "2026-11-16T01:26:20.903200"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Göksun-Kahramanmaraş devlet yolunda Kahramanmaraş Kuzey Çevre Yolunun 12-13.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım diğer şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Göksun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-15T21:46:10.409966"
+                "updated_at": "2026-11-16T01:26:20.989196"
             }
         },
         {
@@ -66,7 +66,75 @@
                 "description": "Kelkit- Erzincan İl.Sın.  yolunun   67- 69.Km.ler arasında 13.11.2026 tarihinden itibaren SANSA 1-2-3 köprülerinin bakım onarım çalışmaları nedeniyle Erzurum  istikameti  kapatılmıştır, trafik akışı Erzincan istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kelkit Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-15T21:46:10.510170"
+                "updated_at": "2026-11-16T01:26:21.074817"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2323758,
+                    39.9379848
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Balıkesir- İzmir  yolunun 18-19.km.arasında 04.11.2026 tarihinden itibaren köprü genleşme derzi bakım onarım çalışmaları nedeniyle bölünmüş yolun İzmir- Balıkesir istikameti trafiğe kapatılarak, ulaşım Balıkesir-İzmir istikametinden iki yönlü sağlanmaktadır.",
+                "extracted_keyword": "Balıkesir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-16T01:26:21.170158"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.3940636,
+                    38.4730331
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Van-Hakkari yolunun 71-79 .km.leri arasında tünel ve yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Van-Hakkari yolunun 71-79",
+                "category": "road_work",
+                "updated_at": "2026-11-16T01:26:21.263100"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3707221,
+                    37.7977068
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Seydişehir-Akseki yolunun 30 - 33.km'leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretlemelerine dikkat etmesi gerekmektedir.",
+                "extracted_keyword": "Seydişehir Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-16T01:26:21.346807"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0915243,
+                    42.0000941
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Sinop-Boyabat yolunun 51-53 km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Sinop Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-16T01:26:21.431358"
             }
         }
     ]
