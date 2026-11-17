@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.3196065,
-                    40.6920191
+                    33.4985276,
+                    39.1139824
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 17-19.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kızılcahamam Yolu",
+                "description": "Ankara-Niğde Otoyolunun 0-1.km.leri arasında 13.11.2026-20.11.2026 tarihlerinde  İncek yolu üst yapı çalışması nedeniyle Ankara İstikameti sol şerit Kapatılarak ulaşım kontrollü olarak diğer şeritten sağlanacaktır.",
+                "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-17T10:48:34.495421"
+                "updated_at": "2026-11-17T19:26:51.252321"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.8978127,
-                    40.4420026
+                    34.8168699,
+                    37.200189
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Çankırı-Ankara yolunun 4-12.km.leri arasında (Acısu Varyantı) dolgu iyileştirme ve üstyapı yenileme çalışmaları nedeniyle yol trafiğe kapatılarak ulaşım Süleymanlı Köyü bağlantısından eski Çankırı-Ankara yolundan sağlanmaktadır.",
-                "extracted_keyword": "Çankırı Yolu",
+                "description": "Mersin-Çeşmeli Otolunun 0-1.km.leri arasında  03.11.206 tarihi itibariyle üstyapı onarım çalışmaları nedeniyle trafik kontrollü olarak verilmektedir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Mersin Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-17T10:48:34.585582"
+                "updated_at": "2026-11-17T19:26:51.373268"
             }
         },
         {
@@ -40,16 +40,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.7068657,
-                    37.9797563
+                    29.1689832,
+                    41.0525177
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Kayseri-Nevşehir yolunun 61-66.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kayseri Yolu",
+                "description": "Ankara Çevre Otoyolunun 8-11.km.leri arası (İç Daire) İncek Kavşağı-Dodurga Kavşağı Arası Eskişehir istikameti üstyapı onarımı nedeniyle 09.11.2026-20.11.2026 tarihlerinde trafiğe kapatılacak olup çalışmalar süresince ulaşım Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-17T10:48:34.659001"
+                "updated_at": "2026-11-17T19:26:51.501814"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1528893,
+                    41.1000016
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kınalı-Malkara yolunun 53-55.km.leri arasında  16.11.2026 tarihinden itibaren  alt geçit ayak imalatı çalışmaları yürütülecektir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir",
+                "extracted_keyword": "Kınalı Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-17T19:26:51.604046"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.121213,
+                    40.51894
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Konya-Karapınar yolunun 10-11.km.leri arası Karapınar Giriş Kavşağında  01.11.206 tarihinden itibaren sağ platformda ayrılım ve katılım şeritlerinin yapımı nedeniyle, sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Karapınar Giriş Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-11-17T19:26:51.699613"
             }
         }
     ]
