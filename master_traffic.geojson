@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.160976"
+                "updated_at": "2026-11-17T02:12:56.960642"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.160990"
+                "updated_at": "2026-11-17T02:12:56.960660"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.160993"
+                "updated_at": "2026-11-17T02:12:56.960664"
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.160995"
+                "updated_at": "2026-11-17T02:12:56.960666"
             }
         },
         {
@@ -68,21 +68,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.160996"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.4564202974,
-                    39.7749200756
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.160998"
+                "updated_at": "2026-11-17T02:12:56.960668"
             }
         },
         {
@@ -96,7 +82,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.160999"
+                "updated_at": "2026-11-17T02:12:56.960670"
             }
         },
         {
@@ -110,7 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.161003"
+                "updated_at": "2026-11-17T02:12:56.960672"
             }
         },
         {
@@ -124,7 +110,35 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.161005"
+                "updated_at": "2026-11-17T02:12:56.960673"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5088252971,
+                    39.7867110653
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-11-17T02:12:56.960675"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5196600804,
+                    39.777596943
+                ]
+            },
+            "properties": {
+                "category_code": 9,
+                "updated_at": "2026-11-17T02:12:56.960677"
             }
         },
         {
@@ -138,7 +152,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.161006"
+                "updated_at": "2026-11-17T02:12:56.960679"
             }
         },
         {
@@ -152,7 +166,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.161008"
+                "updated_at": "2026-11-17T02:12:56.960681"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5693882356,
+                    39.7451449074
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-11-17T02:12:56.960682"
             }
         },
         {
@@ -166,7 +194,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-16T18:50:44.161009"
+                "updated_at": "2026-11-17T02:12:56.960684"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.6451217482,
+                    39.7353883182
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-11-17T02:12:56.960691"
             }
         },
         {
@@ -183,7 +225,7 @@
                 "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 17-19.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-16T18:50:45.853114"
+                "updated_at": "2026-11-17T02:13:19.136968"
             }
         },
         {
@@ -191,8 +233,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    32.9425952,
-                    40.0726195
+                    33.8978127,
+                    40.4420026
                 ]
             },
             "properties": {
@@ -200,7 +242,7 @@
                 "description": "Çankırı-Ankara yolunun 4-12.km.leri arasında (Acısu Varyantı) dolgu iyileştirme ve üstyapı yenileme çalışmaları nedeniyle yol trafiğe kapatılarak ulaşım Süleymanlı Köyü bağlantısından eski Çankırı-Ankara yolundan sağlanmaktadır.",
                 "extracted_keyword": "Çankırı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-16T18:50:45.928453"
+                "updated_at": "2026-11-17T02:13:19.268525"
             }
         },
         {
@@ -217,7 +259,7 @@
                 "description": "Kayseri-Nevşehir yolunun 61-66.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-16T18:50:46.013451"
+                "updated_at": "2026-11-17T02:13:19.408274"
             }
         },
         {
@@ -234,7 +276,7 @@
                 "description": "Trabzon-Maçka yolunun 4.km.sinde bulunan Şehit Eren Bülbül Tünelinin her iki yönündeki tüplerinde  elektrik, elektronik sistemleri bakım onarım çalışması nedeniyle 17-18.11.2026 tarihlerinde 08:00-17:00 saatleri arasında ulaşım tek şeritten kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Şehit Eren Bülbül Tüneli",
                 "category": "road_work",
-                "updated_at": "2026-11-16T18:50:46.121631"
+                "updated_at": "2026-11-17T02:13:19.567804"
             }
         },
         {
@@ -251,41 +293,7 @@
                 "description": "Konya-Afyonkarahisar yolunun 1-4.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Konya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-16T18:50:46.214453"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.414667,
-                    40.7049819
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Fatsa-Ordu-Piraziz yolunun 46-48.km.leri arasında Ordu yönündeki yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Fatsa Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-16T18:50:46.295323"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    38.7946996,
-                    37.1969584
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Diyarbakır-Siverek yolunun 42-46.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
-                "extracted_keyword": "Diyarbakır Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-16T18:50:46.378649"
+                "updated_at": "2026-11-17T02:13:19.709448"
             }
         }
     ]
