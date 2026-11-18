@@ -12,7 +12,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609197"
+                "updated_at": "2026-11-18T01:49:21.828484"
             }
         },
         {
@@ -26,7 +26,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609220"
+                "updated_at": "2026-11-18T01:49:21.828503"
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609222"
+                "updated_at": "2026-11-18T01:49:21.828506"
             }
         },
         {
@@ -54,21 +54,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609224"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.4419350276,
-                    39.8020640598
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609225"
+                "updated_at": "2026-11-18T01:49:21.828507"
             }
         },
         {
@@ -82,7 +68,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609226"
+                "updated_at": "2026-11-18T01:49:21.828509"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4419350276,
+                    39.8020640598
+                ]
+            },
+            "properties": {
+                "category_code": 8,
+                "updated_at": "2026-11-18T01:49:21.828511"
             }
         },
         {
@@ -96,21 +96,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609227"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.4831726501,
-                    39.7901711062
-                ]
-            },
-            "properties": {
-                "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609228"
+                "updated_at": "2026-11-18T01:49:21.828512"
             }
         },
         {
@@ -124,7 +110,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609230"
+                "updated_at": "2026-11-18T01:49:21.828514"
             }
         },
         {
@@ -132,13 +118,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    30.5012185524,
-                    39.7842434393
+                    30.4831726501,
+                    39.7901711062
                 ]
             },
             "properties": {
-                "category_code": 6,
-                "updated_at": "2026-11-17T19:26:49.609231"
+                "category_code": 8,
+                "updated_at": "2026-11-18T01:49:21.828515"
             }
         },
         {
@@ -152,7 +138,21 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609232"
+                "updated_at": "2026-11-18T01:49:21.828517"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5429403136,
+                    39.7662766531
+                ]
+            },
+            "properties": {
+                "category_code": 6,
+                "updated_at": "2026-11-18T01:49:21.828518"
             }
         },
         {
@@ -166,7 +166,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609233"
+                "updated_at": "2026-11-18T01:49:21.828520"
             }
         },
         {
@@ -180,7 +180,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609234"
+                "updated_at": "2026-11-18T01:49:21.828521"
             }
         },
         {
@@ -194,7 +194,7 @@
             },
             "properties": {
                 "category_code": 8,
-                "updated_at": "2026-11-17T19:26:49.609235"
+                "updated_at": "2026-11-18T01:49:21.828522"
             }
         },
         {
@@ -211,7 +211,7 @@
                 "description": "Ankara-Niğde Otoyolunun 0-1.km.leri arasında 13.11.2026-20.11.2026 tarihlerinde  İncek yolu üst yapı çalışması nedeniyle Ankara İstikameti sol şerit Kapatılarak ulaşım kontrollü olarak diğer şeritten sağlanacaktır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-17T19:26:51.252321"
+                "updated_at": "2026-11-18T01:49:23.141224"
             }
         },
         {
@@ -228,7 +228,7 @@
                 "description": "Mersin-Çeşmeli Otolunun 0-1.km.leri arasında  03.11.206 tarihi itibariyle üstyapı onarım çalışmaları nedeniyle trafik kontrollü olarak verilmektedir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Mersin Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-17T19:26:51.373268"
+                "updated_at": "2026-11-18T01:49:23.220165"
             }
         },
         {
@@ -245,7 +245,7 @@
                 "description": "Ankara Çevre Otoyolunun 8-11.km.leri arası (İç Daire) İncek Kavşağı-Dodurga Kavşağı Arası Eskişehir istikameti üstyapı onarımı nedeniyle 09.11.2026-20.11.2026 tarihlerinde trafiğe kapatılacak olup çalışmalar süresince ulaşım Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-17T19:26:51.501814"
+                "updated_at": "2026-11-18T01:49:23.307951"
             }
         },
         {
@@ -262,7 +262,7 @@
                 "description": "Kınalı-Malkara yolunun 53-55.km.leri arasında  16.11.2026 tarihinden itibaren  alt geçit ayak imalatı çalışmaları yürütülecektir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir",
                 "extracted_keyword": "Kınalı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-17T19:26:51.604046"
+                "updated_at": "2026-11-18T01:49:23.422760"
             }
         },
         {
@@ -279,7 +279,7 @@
                 "description": "Konya-Karapınar yolunun 10-11.km.leri arası Karapınar Giriş Kavşağında  01.11.206 tarihinden itibaren sağ platformda ayrılım ve katılım şeritlerinin yapımı nedeniyle, sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Karapınar Giriş Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-17T19:26:51.699613"
+                "updated_at": "2026-11-18T01:49:23.486408"
             }
         }
     ]
