@@ -15,7 +15,7 @@
                 "description": "Ankara-Niğde Otoyolunun 0-1.km.leri arasında 13.11.2026-20.11.2026 tarihlerinde  İncek yolu üst yapı çalışması nedeniyle Ankara İstikameti sol şerit Kapatılarak ulaşım kontrollü olarak diğer şeritten sağlanacaktır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-18T01:49:23.141224"
+                "updated_at": "2026-11-18T09:21:32.373241"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Mersin-Çeşmeli Otolunun 0-1.km.leri arasında  03.11.206 tarihi itibariyle üstyapı onarım çalışmaları nedeniyle trafik kontrollü olarak verilmektedir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Mersin Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-18T01:49:23.220165"
+                "updated_at": "2026-11-18T09:21:32.460112"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ankara Çevre Otoyolunun 8-11.km.leri arası (İç Daire) İncek Kavşağı-Dodurga Kavşağı Arası Eskişehir istikameti üstyapı onarımı nedeniyle 09.11.2026-20.11.2026 tarihlerinde trafiğe kapatılacak olup çalışmalar süresince ulaşım Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-18T01:49:23.307951"
+                "updated_at": "2026-11-18T09:21:32.568882"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Kınalı-Malkara yolunun 53-55.km.leri arasında  16.11.2026 tarihinden itibaren  alt geçit ayak imalatı çalışmaları yürütülecektir. Sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir",
                 "extracted_keyword": "Kınalı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-18T01:49:23.422760"
+                "updated_at": "2026-11-18T09:21:32.678244"
             }
         },
         {
@@ -83,7 +83,24 @@
                 "description": "Konya-Karapınar yolunun 10-11.km.leri arası Karapınar Giriş Kavşağında  01.11.206 tarihinden itibaren sağ platformda ayrılım ve katılım şeritlerinin yapımı nedeniyle, sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Karapınar Giriş Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-18T01:49:23.486408"
+                "updated_at": "2026-11-18T09:21:32.772785"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2476561,
+                    41.0535657
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Hopa-Borçka yolunun 5.km.sinde bulunan Cankurtaran Tünellerinin bölünüş yolun Hopa-Borçka yönündeki tüplerinde yapılacak olan elektromekanik sistemleri montaj çalışması nedeniyle 17.11.2026 tarihinden itibaren çalışmanın devamı müddetince 07:00-18:00 saatleri aralığında tüneller trafiğe kapatılacak olup ulaşım Cankurtaran geçidinden servis yolu şeklinde sağlanacaktır.",
+                "extracted_keyword": "Hopa Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-18T09:21:33.032106"
             }
         }
     ]
