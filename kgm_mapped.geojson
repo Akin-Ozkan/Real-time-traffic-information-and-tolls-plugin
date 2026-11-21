@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.8131052,
-                    37.8450872
+                    34.4316234,
+                    36.704742
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gebze-Orhangazi-İzmir Otoyolu'nun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) O-5/23 km:15 ile O-5/23 km:23 kontrol kesim numaraları arasında (Proje km: 356+200 – 364+300) bakım ve onarım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında, İzmir/İstanbul istikametlerinde çalışma programına göre bant aktarma yapılacak olup, trafik akışı karşı yönden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "İzmir Otoyolu",
+                "description": "Mersin-Çeşmeli Otoyolunun 0-1.km.leri arasında üstyapı onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Çeşmeli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-21T09:50:00.230604"
+                "updated_at": "2026-11-21T17:00:09.059600"
             }
         },
         {
@@ -23,16 +23,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    29.1689832,
-                    41.0525177
+                    29.1525463,
+                    40.9251012
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Ankara Çevre Otoyolunun O-20/06 k.k 5-9.km.leri arası arası (İç Daire) İncek Kavşağı-Dodurga Kavşağı Arası Eskişehir istikameti üstyapı onarımı nedeniyle 20.11.2026-02.12.2026 tarihlerinde trafiğe kapatılacak olup çalışmalar süresince ulaşım Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Ankara Çevre Otoyolu",
+                "description": "Konya-Ankara yolunun 36-42.km.leri arasında (Aselsan Kavşağı-Kayacık Mahallesi) yol yapım çalışmaları nedeniyle ulaşım tek şeritten sağlanmaktadır.",
+                "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-21T09:50:00.443772"
+                "updated_at": "2026-11-21T17:00:09.181617"
             }
         },
         {
@@ -40,16 +40,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    27.8131052,
-                    37.8450872
+                    27.2323758,
+                    39.9379848
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gebze-Orhangazi-İzmir Otoyolu'nun (İzmit Körfez Geçişi ve Bağlantı Yolları Dâhil) İstanbul istikametinde, O-5/08 Km:02 ile O-5/08 Km:05 kontrol kesim numaraları arasında (Proje Km:68+450 – 71+710) üstyapı onarım ve bakım çalışması yapılması planlanmaktadır. Söz konusu çalışmalar kapsamında, İstanbul istikametinde önce sol-orta-sağ şeritler kapatılarak trafik genişleme şeridinden OHT-68 içerisine verilecek, ardından sağ  şerit kapatılarak trafik akışı sol-orta şeritlerden sağlanmaktadır.",
-                "extracted_keyword": "İzmir Otoyolu",
+                "description": "Balıkesir-Karacabey yolunun 5-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-21T09:50:00.614002"
+                "updated_at": "2026-11-21T17:00:09.266766"
             }
         },
         {
@@ -57,16 +57,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    38.2559651,
-                    37.1121167
+                    33.207261,
+                    40.8411473
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Gaziantep-Şanlıurfa Otoyolu (O52) 9. Bölge Sınırı (O52/22) Şanlıurfa Suruç Kesimi\n(O52/23) Muhtelif Kesimlerde Otoyol Üst Yapı Genel Onarım\nYapım İşi\" kapsamında (O-52) 24.Kesim Km: 6+000-10+000 arası (Güney Taşıma Şanlıurfa\nYönü) yapılacak üst yapı onarım çalışmaları nedeniyle 17.11.2026 tarihinden itibaren 2 (iki)\nşerit trafiğe kapatılmış olup, trafik akışı sol şeritten aynı istikametten kontrollü olarak\nsağlanmaktadır.",
-                "extracted_keyword": "Şanlıurfa Otoyolu",
+                "description": "Samsun-Ordu yolunun 9.km.sinde bulunan Belediye Evleri Viyadüğü üzerinde genleşme derzi onarım çalışmaları nedeniyle 22:00-06:00 saatleri arasında ulaşım alt tali yoldan kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Samsun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-21T09:50:00.816622"
+                "updated_at": "2026-11-21T17:00:09.496901"
             }
         },
         {
@@ -74,101 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.8056851,
-                    41.1385071
+                    34.5858704,
+                    37.9218802
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Türkiye-Bulgaristan Devlet sınırı-Edirne Çevre Otoyolu Ayrım yolunun 20-39.km.leri arasında üstyapı yenileme çalışmaları yürütülmektedir. Ulaşım tek şeritten kontrollü olarak sağlanmaktır.",
-                "extracted_keyword": "Edirne Çevre Otoyolu",
+                "description": "Niğde-Kayseri yolunun 36-38.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
+                "extracted_keyword": "Niğde Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-21T09:50:00.968628"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    37.414667,
-                    40.7049819
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Fatsa-Ordu-Piraziz yolunun 46-48 km.leri arasında Ordu yönündeki yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Fatsa Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-21T09:50:01.134302"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.7068657,
-                    37.9797563
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Kayseri-Pınarbaşı yolunun 44-48.km.leri arasında yol yapım çalışması olduğundan ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Kayseri Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-21T09:50:01.338085"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.4973278,
-                    37.8849824
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Elazığ - Malatya yolunun 23-24.km.leri arasında DDY Üst Geçit  Köprüsü'ndeki bakım onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "DDY Üst Geçit  Köprüsü",
-                "category": "road_work",
-                "updated_at": "2026-11-21T09:50:01.529487"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    30.6521362,
-                    40.7757862
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Düzce-Zonguldak İl Sn.-Zonguldak yolunun 67-68.km.leri arasında 16.11.2026 tarihinde meydana gelen taş düşmesi sebebiyle bölünmüş yolun Zonguldak istikameti trafiğe kapatılmıştır. Ulaşım, Ereğli istikametinden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Düzce Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-21T09:50:01.731679"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.22031,
-                    41.047783
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Beşikdüzü-Trabzon yolunun 55-57. km. leri arasında (Değirmendere, Sanayi Bölgesi mevki) yapılmakta olan yol yapım çalışması nedeniyle bölünmüş yolun her iki yönünde ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Beşikdüzü Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-21T09:50:01.886383"
+                "updated_at": "2026-11-21T17:00:09.587247"
             }
         }
     ]
