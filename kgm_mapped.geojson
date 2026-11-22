@@ -15,7 +15,7 @@
                 "description": "Mersin-Çeşmeli Otoyolunun 0-1.km.leri arasında üstyapı onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Çeşmeli Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T02:13:44.886184"
+                "updated_at": "2026-11-22T09:53:45.676271"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Konya-Ankara yolunun 36-42.km.leri arasında (Aselsan Kavşağı-Kayacık Mahallesi) yol yapım çalışmaları nedeniyle ulaşım tek şeritten sağlanmaktadır.",
                 "extracted_keyword": "Aselsan Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-22T02:13:44.968161"
+                "updated_at": "2026-11-22T09:53:45.749965"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Balıkesir-Karacabey yolunun 5-6.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T02:13:45.036382"
+                "updated_at": "2026-11-22T09:53:45.817899"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Samsun-Ordu yolunun 9.km.sinde bulunan Belediye Evleri Viyadüğü üzerinde genleşme derzi onarım çalışmaları nedeniyle 22:00-06:00 saatleri arasında ulaşım alt tali yoldan kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Samsun Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T02:13:45.108897"
+                "updated_at": "2026-11-22T09:53:45.882582"
             }
         },
         {
@@ -74,50 +74,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    34.5858704,
-                    37.9218802
+                    41.7021026,
+                    39.9831419
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Niğde-Kayseri yolunun 36-38.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Niğde Yolu",
+                "description": "Ağrı-Doğubayazıt yolunun 29-34.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Ağrı Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T02:13:45.200060"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    40.416094,
-                    39.7665563
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Zonguldak İl Sınırı-Mengen-Yeniçağa yolunun 0-2.km.leri arasında şev düzenlemesi yapım çalışmaları nedeniyle Yeniçağa-Mengen istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
-                "extracted_keyword": "Zonguldak İl Sınırı Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-22T02:13:45.284821"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    34.567556,
-                    37.160374
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Maden-Kop yolunun 13-14.km.leri arasında yol yapım çalışması nedeniyle ulaşım tek şeritten kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "Maden Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-22T02:13:45.358505"
+                "updated_at": "2026-11-22T09:53:46.118462"
             }
         }
     ]
