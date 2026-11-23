@@ -15,7 +15,7 @@
                 "description": "Ankara Çevre Otoyolunun 5-9.km.leri arası (İç Daire) İncek Kavşağı-Dodurga Kavşağı Arası Eskişehir istikameti üstyapı onarımı nedeniyle 20.11.2026-02.12.2026 tarihlerinde trafiğe kapatılacak olup çalışmalar süresince ulaşım Samsun (Dış Daire) istikametinden çift yönlü (2 gidiş 2 geliş) ve kontrollü olarak sağlanacaktır",
                 "extracted_keyword": "Ankara Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T22:48:30.928951"
+                "updated_at": "2026-11-23T03:16:45.735289"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Aydın-Denizli otoyolunun 8-11.km.leri arasında 04.11.2026 tarihinden itibaren yürütülecek olan üst yapı çalışması için Denizli istikametinden Aydın istikametine bant aktarımı uygulanmıştır. Bölgede uygulanan bant aktarımında Denizli istikametinden Aydın istikametine geçiş esnasında trafik akışı 1 gidiş Aydın istikameti 2 geliş Denizli istikameti olacak şekilde sağlanmaktadır.",
                 "extracted_keyword": "Aydın Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T22:48:31.019510"
+                "updated_at": "2026-11-23T03:16:45.869019"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Büyükçekmece-Çatalca yolunun 17-18 km.leri arasında 17.11.2026 tarihinden itibaren üstyapı yenileme çalışmaları nedeniyle ulaşım tek yönden gidiş-geliş olarak sağlanmaktadır",
                 "extracted_keyword": "Büyükçekmece Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T22:48:31.102850"
+                "updated_at": "2026-11-23T03:16:46.006211"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 17-19.km.leri  arasında 13.11.2026 tarihinden itibarenyol yapım çalışmaları nedeniyle bu kesimde Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım Kızılcahamam-Kahramankazan-Ankara istikametinden iki yönlü (gidiş-geliş) olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T22:48:31.165947"
+                "updated_at": "2026-11-23T03:16:46.126092"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Düzce-Zonguldak İl Sn.-Zonguldak yolunun 67-68.km.leri arasında 16.11.2026 tarihinde meydana gelen taş düşmesi sebebiyle bölünmüş yolun Zonguldak istikameti trafiğe kapatılmıştır. Ulaşım, Ereğli istikametinden iki yönlü olarak sağlanacaktır.",
                 "extracted_keyword": "Düzce Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T22:48:31.249308"
+                "updated_at": "2026-11-23T03:16:46.255449"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Samsun-Ordu yolunun 31-32.km.leri arasında 10.11.2026 tarihinden itibaren Stadyum-Liman Kavşağında Samsun istikametinde yan yol trafiğe kapatılmış olup, ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Liman Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-22T22:48:31.320329"
+                "updated_at": "2026-11-23T03:16:46.386679"
             }
         },
         {
@@ -117,7 +117,24 @@
                 "description": "Yedisu-Erzincan İl Sınr. yolunun  2-5.km.leri arasında 18.11.2026 tarihinden itibaren Karasu 2  köprüsünün bakım onarım çalışmaları nedeniyle Erzincan  istikameti  kapatılmış olup ulaşım Erzurum  istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Yedisu Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-22T22:48:31.424885"
+                "updated_at": "2026-11-23T03:16:46.529334"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.541161,
+                    39.129055
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Malatya-Elazığ yolunun 62-63.km.leri arasında bulunan Tohma Köprüsünde 12.11.2026 tarihin  itibariyle sanat yapıları çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Tohma Köprüsü",
+                "category": "road_work",
+                "updated_at": "2026-11-23T03:16:46.656550"
             }
         }
     ]
