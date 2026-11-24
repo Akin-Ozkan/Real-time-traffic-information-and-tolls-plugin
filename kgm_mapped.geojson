@@ -15,7 +15,7 @@
                 "description": "Gaziantep-Şanlıurfa Otoyolu (O52) 9. Bölge Sınırı (O52/22) Şanlıurfa Suruç Kesimi\n(O52/23) Muhtelif Kesimlerde Otoyol Üst Yapı Genel Onarım\nYapım İşi\" kapsamında (O-52) 24.Kesim 6-10.km.leri arası (Güney Taşıma Şanlıurfa\nYönü) yapılacak üst yapı onarım çalışmaları nedeniyle 17.11.2026 tarihinden itibaren 2 (iki)\nşerit trafiğe kapatılmış olup, trafik akışı sol şeritten aynı istikamette kontrollü olarak\nsağlanmaktadır.",
                 "extracted_keyword": "Şanlıurfa Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T01:00:57.133758"
+                "updated_at": "2026-11-24T10:50:23.967559"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Sakarya-Bilecik yolunun 18-21.km.leri arasında üst yapı yenileme çalışmaları nedeniyle Bilecik-Sakarya istikameti trafiğe kapatılarak ulaşım Sakarya-Bilecik istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Sakarya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T01:00:57.212199"
+                "updated_at": "2026-11-24T10:50:24.064394"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Konya-Afyonkarahisar yolunun 1-4.km.leri arasında yol yapım çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden çift yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Konya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T01:00:57.320931"
+                "updated_at": "2026-11-24T10:50:24.161103"
             }
         },
         {
@@ -66,7 +66,41 @@
                 "description": "Niğde-Kayseri yolunun 36-38.km.leri arasında yol yapım çalışması nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Niğde Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T01:00:57.405928"
+                "updated_at": "2026-11-24T10:50:24.248379"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.207261,
+                    40.8411473
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Samsun-Ordu yolunun 9.km.sinde  22.11.2026 tarihinden itibaren  Belediye Evleri Viyadüğü üzerinde genleşme derzi onarım çalışmaları nedeniyle 22:00-06:00 saatleri aralığında trafik alt tali yoldan kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Samsun Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-24T10:50:24.341794"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.4746217,
+                    40.6989226
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Trabzon-Maçka-Gümüşhane yolunun 26-29.km.leri arasında bulunan Yeni Maçka Tünelinin, bölünmüş yolun Trabzon yönündeki tüpünde yapılacak olan aydınlatma ve otomasyon sistemleri imalat çalışması nedeniyle 23.11.2026 günü saat 08:00 den itibaren çalışmanın devamı müddetince tünel trafiğe kapatılacak olup ulaşım eski Maçka yolundan, servis yolu şeklinde kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Yeni Maçka Tüneli",
+                "category": "road_work",
+                "updated_at": "2026-11-24T10:50:24.436142"
             }
         }
     ]
