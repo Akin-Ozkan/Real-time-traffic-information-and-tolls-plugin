@@ -15,7 +15,7 @@
                 "description": "Kınalı-Tekirdağ-Çanakkale-Savaştepe Otoyolu Projesi Malkara-Çanakkale (1915 Çanakkale Köprüsü dahil) Kesimi Otoyolu'nun O-6/13 Km:008 ile O-6/20 Km:003 (Proje Km: 116+250-192+050) arasında muhtelif kesimlerde bakım-onarım çalışmaları kapsamında çalışma progmına göre trafik işaretlemesi Çanakkale - Tekirdağ istikametlerinde bant aktarma yapılacak olup, trafik akışı karşı yönden iki yönlü olarak sağlanacaktır. Çalışmalara 01.11.2026 tarihinde başlanmış olmakla beraber çalışmaların 30.11.2026 tarihinde tamamlanması planlanmaktadır.",
                 "extracted_keyword": "Savaştepe Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T20:56:02.582146"
+                "updated_at": "2026-11-25T04:01:37.938198"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Menemen-Aliağa-Çandarlı Otoyolunun 0-3.km.leri arası Çanakkale istikameti (O33/03-003 ile O33/A1-1-000 KKN arasında) 06-11.2026-31.12.2026 tarihlerinde emniyet şeridi ile sağ şeritler trafiğe kapatılacak olup ulaşım orta sol şeritten sağlanacaktır.",
                 "extracted_keyword": "Çandarlı Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T20:56:02.786594"
+                "updated_at": "2026-11-25T04:01:38.042356"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ermenek-Mut yolunda devam eden yol yapım çalışmaları kapsamında 37. ve 38. km.leri arasında patlatma yapılacağından 25/11/2026 tarih ve 09:00-16:00 saatleri arasında yol trafiğe kapatılacaktır. Bu yolu kullanacak sürücülerin Ermenek-Bucakkışla-Karaman-Mut güzergahını kullanmaları gerekmektedir.",
                 "extracted_keyword": "Ermenek Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T20:56:02.950947"
+                "updated_at": "2026-11-25T04:01:38.106090"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Ankara-Kırıkkale-Delice Otoyolu yapım çalışmaları nedeniyle Kırıkkale-Kırşehir yolunun 10-11.km.leri arasında 22.10.2026-22.01.2027 tarihlerinde Kırşehir istikametinde yolun banket kısmı trafiğe kapatılarak ulaşım diğer şeritlerden kontrollü olarak sağlanacaktır.",
                 "extracted_keyword": "Delice Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T20:56:03.137629"
+                "updated_at": "2026-11-25T04:01:38.215369"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Çeşmeli-Erdemli-Taşucu Otoyolunda yapılacak çalışmalar nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Taşucu Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T20:56:03.320729"
+                "updated_at": "2026-11-25T04:01:38.300715"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Kayseri-Pınarbaşı yolunun 24-29.km.leri arasında Hendek çalışması yapılacağından dolayı şerit daraltması yapılacaktır. Sürücülerin trafik işaret ve işaretçilerine dikkat etmesi gerekmektedir",
                 "extracted_keyword": "Kayseri Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T20:56:03.504653"
+                "updated_at": "2026-11-25T04:01:38.383741"
             }
         },
         {
@@ -117,41 +117,7 @@
                 "description": "Fatsa-Ordu-Piraziz yolunun 46-48 km.leri arasında Ordu yönündeki yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Fatsa Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-24T20:56:03.665951"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.4973278,
-                    37.8849824
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Elazığ - Malatya yolunun 23-24.km.leri arasında DDY Üst Geçit Köprüsü'ndeki bakım onarım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
-                "extracted_keyword": "DDY Üst Geçit Köprüsü",
-                "category": "road_work",
-                "updated_at": "2026-11-24T20:56:03.834073"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    27.2323758,
-                    39.9379848
-                ]
-            },
-            "properties": {
-                "source": "KGM",
-                "description": "Balıkesir-Karacabey yolunun 5-6.km.leri arasında 26.10.2026 tarihinden itibaren yol yapım çalışmaları nedeniyle trafik akışı kontrollü sağlanmaktadır. Sürücülerin trafik işaret ve işaretçilerine uymaları gerekmektedir.",
-                "extracted_keyword": "Balıkesir Yolu",
-                "category": "road_work",
-                "updated_at": "2026-11-24T20:56:04.148513"
+                "updated_at": "2026-11-25T04:01:38.459927"
             }
         }
     ]
