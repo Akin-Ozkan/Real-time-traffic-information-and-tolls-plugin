@@ -6,16 +6,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    28.2934335,
-                    37.8311225
+                    27.0915359,
+                    38.4888676
                 ]
             },
             "properties": {
                 "source": "KGM",
-                "description": "Aydın -Denizli Otoyolunun 8-11.km.leri arasında üst yapı çalışmaları nedeniyle Denizli istikametinden Aydın istikametine bant aktarımı uygulanmıştır. Denizli istikametinden Aydın istikametine geçiş esnasında trafik akışı 1 gidiş Aydın istikameti 2 geliş Denizli istikameti olacak şekilde sağlanmaktadır.",
-                "extracted_keyword": "Denizli Otoyolu",
+                "description": "İzmir Çevre yolu Bornova Viyadüğü, İzmir Çevre yolu Üniversite kavşağı (Ankara caddesinden Karşıyaka yönü bağlantı kolunda) gürültü perdesi yapım çalışmaları nedeniyle 26.11.2026 tarihi 00:00 ile 07:00 saatleri arasında bağlantı kolu trafiğe kapatılarak sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "İzmir Çevre yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-25T14:11:43.903379"
+                "updated_at": "2026-11-25T23:07:17.851321"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Niğde-Pozantı Otoyolun Pozantı bağlantısın 2-3.km.leri arasında  köprü genleşme derzi onarım çalışması nedeniyle ulaşım diğer şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Pozantı Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-25T14:11:43.967901"
+                "updated_at": "2026-11-25T23:07:18.026837"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Ankara-Niğde Otoyolu, Pozantı Kavşağı İncek İstikametinde üst yapı çalışması nedeniyle İncek İstikameti Orta üç Şerit ve İstanbul Eskişehir İstikameti Sağ tek Şerit Trafiğe  Kapalı olup Trafik Kontrollü Olarak Diğer Şeritlerden sağlanmaktadır.",
                 "extracted_keyword": "Niğde Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-25T14:11:44.026671"
+                "updated_at": "2026-11-25T23:07:18.142831"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Türkiye-Bulgaristan Devlet sınırı-Edirne Çevre Otoyolu Ayrım yolunun 20-39 km.leri arasında üstyapı yenileme çalışmaları nedeniyle  ulaşım tek şeritten sağlanmaktadır.",
                 "extracted_keyword": "Edirne Çevre Otoyolu",
                 "category": "road_work",
-                "updated_at": "2026-11-25T14:11:44.078250"
+                "updated_at": "2026-11-25T23:07:18.284860"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Antalya-Isparta yolunun 34-36.km.leri arasında yol yapım çalışmaları nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Antalya Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-25T14:11:44.145607"
+                "updated_at": "2026-11-25T23:07:18.465198"
             }
         },
         {
@@ -100,7 +100,7 @@
                 "description": "Balıkesir-Dursunbey  yolunun 67-68.km.leri arasında yol yapım çalışmaları nedeniyle bölünmüş yolun Balıkesir-Dursunbey istikameti trafiğe kapatılarak, ulaşım Dursunbey-Balıkesir istikametinden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Balıkesir Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-25T14:11:44.219046"
+                "updated_at": "2026-11-25T23:07:18.616831"
             }
         },
         {
@@ -117,7 +117,24 @@
                 "description": "Altköy-Refahiye-Erzincan  yolunun  8-9.km.km.leriarasında  toprak işleri sanat yapıları ve üstyapı  çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Altköy Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-25T14:11:44.313798"
+                "updated_at": "2026-11-25T23:07:18.814248"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.7331122,
+                    37.6402039
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Göksun-Elbistan yolunun  Elbistan şehir geçişinde yolun 31-26.kmleri arasında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
+                "extracted_keyword": "Göksun Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-25T23:07:19.252984"
             }
         }
     ]
