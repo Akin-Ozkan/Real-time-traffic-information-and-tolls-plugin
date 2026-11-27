@@ -15,7 +15,7 @@
                 "description": "Gaziantep-Şanlıurfa Otoyolunun Birecik Kavşağı-Suruç Kavşağı Kesimi 6-10.km.leri arasında üstyapı onarım çalışmaları nedeniyle Şanlıurfa istikametinde 2 şerit trafiğe kapatılarak ulaşım sol şeritten kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Şanlıurfa Otoyolunun Birecik Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-27T05:25:34.958573"
+                "updated_at": "2026-11-27T15:28:39.530100"
             }
         },
         {
@@ -32,7 +32,7 @@
                 "description": "Tarsus-Adana-Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağında yol yapım çalışmaları nedeniyle ulaşım kontrollü olarak sağlanmaktadır.",
                 "extracted_keyword": "Gaziantep Otoyolunun Gaziantep Organize Sanayi Bölgesi Kavşağı",
                 "category": "road_work",
-                "updated_at": "2026-11-27T05:25:35.082704"
+                "updated_at": "2026-11-27T15:28:39.770800"
             }
         },
         {
@@ -49,7 +49,7 @@
                 "description": "Kızılcahamam-Kahramankazan-Ankara yolunun 17-19.km.leri arasında yol yapım çalışmaları nedeniyle Ankara-Kahramankazan-Kızılcahamam istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Kızılcahamam Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-27T05:25:35.188110"
+                "updated_at": "2026-11-27T15:28:39.845071"
             }
         },
         {
@@ -66,7 +66,7 @@
                 "description": "Dalaman-Fethiye yolunun 36-37.km.leri arasında yol yapım çalışması nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
                 "extracted_keyword": "Dalaman Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-27T05:25:35.281990"
+                "updated_at": "2026-11-27T15:28:39.914424"
             }
         },
         {
@@ -83,7 +83,7 @@
                 "description": "Büyükçekmece-Çatalca yolunun 17-18.km.leri arasında üstyapı yenileme çalışmaları nedeniyle ulaşım bölünmüş yolun bir bölümünden iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Büyükçekmece Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-27T05:25:35.395155"
+                "updated_at": "2026-11-27T15:28:40.001241"
             }
         },
         {
@@ -100,7 +100,75 @@
                 "description": "Bozüyük-Bilecik-Mekece yolunun 2-7.km.leri arasında üstyapı onarım çalışmaları nedeniyle Mekece-Bilecik istikameti trafiğe kapatılarak ulaşım diğer istikametten iki yönlü olarak sağlanmaktadır.",
                 "extracted_keyword": "Bozüyük Yolu",
                 "category": "road_work",
-                "updated_at": "2026-11-27T05:25:35.485030"
+                "updated_at": "2026-11-27T15:28:40.059605"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.121213,
+                    40.51894
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Konya-Karapınar yolunun 10-11.km.leri arasındaki Karapınar Giriş Kavşağında sağ platformun ayrılım ve katılım şeritlerinin yapımı nedeniyle sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Karapınar Giriş Kavşağı",
+                "category": "road_work",
+                "updated_at": "2026-11-27T15:28:40.152739"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.36183,
+                    40.81799
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Tosya-İskilip yolunun 18-22.km.leri arasında ÇOMU Köprüsü yapım çalışmaları nedeniyle yol trafiğe kapatılmış olup, ulaşım köy grup yollarından sağlanmaktadır.",
+                "extracted_keyword": "ÇOMU Köprüsü",
+                "category": "road_work",
+                "updated_at": "2026-11-27T15:28:40.245355"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7238906,
+                    39.4491249
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Kangal-Alacahan-Hekimhan yolunun 1-8.km.leri arasında yol yapım yapım çalışmaları nedeniyle  sürücülerin trafik işaret ve işaretçilerine dikkat etmeleri gerekmektedir.",
+                "extracted_keyword": "Kangal Yolu",
+                "category": "road_work",
+                "updated_at": "2026-11-27T15:28:40.329680"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.6203048,
+                    37.7589109
+                ]
+            },
+            "properties": {
+                "source": "KGM",
+                "description": "Trabzon-Rize yolunun 8.km.sinde bulunan Kaşüstü Tünelinin Rize yönündeki tüpünde drenaj sistemleri temizlik ve bakım çalışması nedeniyle 27-28.11.2026 tarihlerinde 00:00-07:00 saatleri arasında ulaşım 2 şeritten kontrollü olarak sağlanacaktır.",
+                "extracted_keyword": "Kaşüstü Tüneli",
+                "category": "road_work",
+                "updated_at": "2026-11-27T15:28:40.419501"
             }
         }
     ]
